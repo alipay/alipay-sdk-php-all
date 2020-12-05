@@ -1,0 +1,10 @@
+使用示例详见：https://opendocs.alipay.com/open/54/103419#PHP%20SDK%20%E9%9B%86%E6%88%90%E7%A4%BA%E4%BE%8B
+
+使用过程中有任何问题，请加入钉钉群咨询：23311489
+
+更新时间:2020-11-20
+
+备注：
+使用证书模式本地必须开始SSL
+如果出现SSL certificate: unable to get local issuer certificate错误信息
+解决办法：到http://curl.haxx.se/ca/cacert.pem下载pem文件，并将文件拷贝到D:\phpStudy\PHPTutorial\cacert.pem 在php.ini 增加curl.cainfo = "D:\phpStudy\PHPTutorial\cacert.pem"
