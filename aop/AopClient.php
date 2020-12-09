@@ -62,7 +62,7 @@ class AopClient
 
     private $targetServiceUrl = "";
 
-    protected $alipaySdkVersion = "alipay-easysdk-php";
+    protected $alipaySdkVersion = "alipay-sdk-php-20200415";
 
     public function generateSign($params, $signType = "RSA")
     {
@@ -77,14 +77,11 @@ class AopClient
     public function getSignContent($params)
     {
         ksort($params);
-        unset($params['sign']);
-        unset($params['sign_type']);
 
         $stringToBeSigned = "";
         $i = 0;
         foreach ($params as $k => $v) {
-            if ("@" != substr($v, 0, 1)) {
-
+            if (false === $this->checkEmpty($v) && "@" != substr($v, 0, 1)) {
                 // 转换成目标字符集
                 $v = $this->characet($v, $this->postCharset);
 
@@ -682,16 +679,41 @@ class AopClient
     public function rsaCheckV1($params, $rsaPublicKeyFilePath, $signType = 'RSA')
     {
         $sign = $params['sign'];
-        $params['sign_type'] = null;
-        $params['sign'] = null;
-        return $this->verify($this->getSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
+
+        unset($params['sign']);
+        unset($params['sign_type']);
+        return $this->verify($this->getCheckSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
     }
 
     public function rsaCheckV2($params, $rsaPublicKeyFilePath, $signType = 'RSA')
     {
         $sign = $params['sign'];
-        $params['sign'] = null;
-        return $this->verify($this->getSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
+
+        unset($params['sign']);
+        unset($params['sign_type']);
+        return $this->verify($this->getCheckSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
+    }
+
+    function getCheckSignContent($params)
+    {
+        ksort($params);
+
+        $stringToBeSigned = "";
+        $i = 0;
+        foreach ($params as $k => $v) {
+            // 转换成目标字符集
+            $v = $this->characet($v, $this->postCharset);
+
+            if ($i == 0) {
+                $stringToBeSigned .= "$k" . "=" . "$v";
+            } else {
+                $stringToBeSigned .= "&" . "$k" . "=" . "$v";
+            }
+            $i++;
+        }
+
+        unset ($k, $v);
+        return $stringToBeSigned;
     }
 
     function verify($data, $sign, $rsaPublicKeyFilePath, $signType = 'RSA')
