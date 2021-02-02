@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.accountlist.get request
  *
  * @author auto create
- * @since 1.0, 2020-04-02 16:28:22
+ * @since 1.0, 2021-02-01 21:11:40
  */
 class AlipayMobilePublicAccountlistGetRequest
 {

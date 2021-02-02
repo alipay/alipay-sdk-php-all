@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.sign.flow.cancel request
  *
  * @author auto create
- * @since 1.0, 2019-12-26 21:36:25
+ * @since 1.0, 2021-01-28 11:08:11
  */
 class AlipayEcoSignFlowCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.data.campaign.create request
  *
  * @author auto create
- * @since 1.0, 2020-04-13 14:06:53
+ * @since 1.0, 2021-01-07 16:35:15
  */
 class AlipayCommerceDataCampaignCreateRequest
 {

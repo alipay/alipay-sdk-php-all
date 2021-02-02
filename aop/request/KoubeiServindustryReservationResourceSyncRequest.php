@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.reservation.resource.sync request
  *
  * @author auto create
- * @since 1.0, 2019-09-19 10:44:29
+ * @since 1.0, 2020-12-16 20:59:36
  */
 class KoubeiServindustryReservationResourceSyncRequest
 {

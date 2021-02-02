@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.auth.operation.cancel request
  *
  * @author auto create
- * @since 1.0, 2019-12-30 12:57:03
+ * @since 1.0, 2020-12-28 17:58:42
  */
 class AlipayFundAuthOperationCancelRequest
 {

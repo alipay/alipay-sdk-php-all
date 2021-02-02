@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.title.list.get request
  *
  * @author auto create
- * @since 1.0, 2020-11-18 16:35:37
+ * @since 1.0, 2021-01-05 16:24:24
  */
 class AlipayEbppInvoiceTitleListGetRequest
 {

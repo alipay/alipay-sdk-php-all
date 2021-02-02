@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sts.token.get request
  *
  * @author auto create
- * @since 1.0, 2020-05-26 17:41:11
+ * @since 1.0, 2020-12-14 14:26:55
  */
 class AlipayOpenStsTokenGetRequest
 {

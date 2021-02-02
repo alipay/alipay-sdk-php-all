@@ -3,7 +3,7 @@
  * ALIPAY API: ssdata.dataservice.metainfo.sync request
  *
  * @author auto create
- * @since 1.0, 2019-04-09 15:45:45
+ * @since 1.0, 2020-12-31 13:50:44
  */
 class SsdataDataserviceMetainfoSyncRequest
 {

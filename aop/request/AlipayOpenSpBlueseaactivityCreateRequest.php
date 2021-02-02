@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.blueseaactivity.create request
  *
  * @author auto create
- * @since 1.0, 2020-11-30 18:00:15
+ * @since 1.0, 2021-02-02 11:17:33
  */
 class AlipayOpenSpBlueseaactivityCreateRequest
 {

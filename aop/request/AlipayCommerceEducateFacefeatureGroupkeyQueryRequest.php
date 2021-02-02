@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.facefeature.groupkey.query request
  *
  * @author auto create
- * @since 1.0, 2020-11-02 17:11:22
+ * @since 1.0, 2021-01-25 16:49:22
  */
 class AlipayCommerceEducateFacefeatureGroupkeyQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.sycn request
  *
  * @author auto create
- * @since 1.0, 2020-09-11 14:47:26
+ * @since 1.0, 2021-01-04 11:27:33
  */
 class AlipayEbppInvoiceSycnRequest
 {

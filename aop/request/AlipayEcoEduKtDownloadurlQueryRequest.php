@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.edu.kt.downloadurl.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-17 14:43:45
+ * @since 1.0, 2020-12-22 16:37:45
  */
 class AlipayEcoEduKtDownloadurlQueryRequest
 {

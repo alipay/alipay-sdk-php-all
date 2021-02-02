@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.menu.modify request
  *
  * @author auto create
- * @since 1.0, 2020-09-24 17:02:55
+ * @since 1.0, 2021-02-02 11:09:13
  */
 class AlipayOpenPublicMenuModifyRequest
 {

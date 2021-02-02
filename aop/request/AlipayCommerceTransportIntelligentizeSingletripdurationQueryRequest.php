@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.intelligentize.singletripduration.query request
  *
  * @author auto create
- * @since 1.0, 2020-09-04 19:46:18
+ * @since 1.0, 2021-01-07 19:52:31
  */
 class AlipayCommerceTransportIntelligentizeSingletripdurationQueryRequest
 {

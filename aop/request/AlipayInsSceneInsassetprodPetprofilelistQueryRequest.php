@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.insassetprod.petprofilelist.query request
  *
  * @author auto create
- * @since 1.0, 2020-09-21 20:10:11
+ * @since 1.0, 2020-12-29 11:22:30
  */
 class AlipayInsSceneInsassetprodPetprofilelistQueryRequest
 {

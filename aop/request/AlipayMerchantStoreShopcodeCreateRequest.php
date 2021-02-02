@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.store.shopcode.create request
  *
  * @author auto create
- * @since 1.0, 2020-11-13 21:45:13
+ * @since 1.0, 2020-12-20 22:50:15
  */
 class AlipayMerchantStoreShopcodeCreateRequest
 {

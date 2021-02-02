@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.open.mini.version.list.query request
  *
  * @author auto create
- * @since 1.0, 2020-03-18 15:45:11
+ * @since 1.0, 2021-02-02 11:09:09
  */
 class AlipayOpenMiniVersionListQueryRequest
 {
+	/** 
+	 * 小程序版本列表查询
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayOpenMiniVersionListQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.open.mini.version.list.query";

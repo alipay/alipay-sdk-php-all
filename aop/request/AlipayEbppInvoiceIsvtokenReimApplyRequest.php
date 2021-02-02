@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.isvtoken.reim.apply request
  *
  * @author auto create
- * @since 1.0, 2020-08-18 14:59:08
+ * @since 1.0, 2021-02-02 10:26:25
  */
 class AlipayEbppInvoiceIsvtokenReimApplyRequest
 {

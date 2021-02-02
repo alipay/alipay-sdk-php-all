@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lottery.presentlist.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2020-12-14 15:46:59
  */
 class AlipayCommerceLotteryPresentlistQueryRequest
 {

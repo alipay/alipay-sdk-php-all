@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.audit.apply request
  *
  * @author auto create
- * @since 1.0, 2020-11-25 11:50:14
+ * @since 1.0, 2021-01-06 17:59:14
  */
 class AlipayOpenMiniVersionAuditApplyRequest
 {
@@ -25,7 +25,7 @@ class AlipayOpenMiniVersionAuditApplyRequest
 	private $appEnglishName;
 	
 	/** 
-	 * 小程序logo图标，图片格式只支持 png、jpeg、jpg，建议上传像素为180*180 px，logo图片最大 256KB，图片高度与宽度必须一致。
+	 * 小程序logo图标，图片格式仅支持 jpeg,png,jpg,PNG,JPG ,JPEG格式，不支持 bmp,gif,BMP,GIF格式。建议上传像素为180*180 px，logo图片最大 256KB，图片高度与宽度必须一致。
 如果不填默认采用当前小程序 logo 图标。
 	 **/
 	private $appLogo;
@@ -55,7 +55,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	private $bundleId;
 	
 	/** 
-	 * 第五张营业执照照片，不能超过 4MB，图片格式只支持 jpg、png，最大宽度 2160 px，最大高度 3840 px。
+	 * 第五张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg,PNG,JPG 格式。
 部分小程序类目需要提交，参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
 如果不填默认采用当前小程序第五张营业执照照片。
 	 **/
@@ -63,12 +63,12 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 小程序第五张应用截图，模板实例化的小程序可不传应用截图。
-截图大小不能超过 4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持jpg，png，小程序截图数量最小为2，最大为5。
+截图大小不能超过 4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg,PNG,JPG 格式。小程序截图数量最小为2，最大为5。
 	 **/
 	private $fifthScreenShot;
 	
 	/** 
-	 * 第一张营业执照照片，不能超过 4MB，图片格式只支持 jpg、png，最大宽度 2160 px，最大高度 3840 px。
+	 * 第一张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg,PNG,JPG 格式。
 部分小程序类目需要提交，参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
 如果不填默认采用当前小程序第一张营业执照照片。
 	 **/
@@ -76,18 +76,18 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 小程序第一张应用截图，模板实例化的小程序可不传应用截图。
-截图大小不能超过 4MB，最大宽度 2160px，最大高度 3840px。图片格式仅支持jpg，png，小程序截图数量最小为2，最大为5。 
+截图大小不能超过 4MB，最大宽度 2160px，最大高度 3840px。图片格式仅支持 png,jpg,PNG,JPG 格式。小程序截图数量最小为2，最大为5。 
 	 **/
 	private $firstScreenShot;
 	
 	/** 
-	 * 第一张特殊资质图片，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持jpg、png、jepg 格式。
+	 * 第一张特殊资质图片，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg,PNG,JPG 格式。
 部分小程序类目需要提交，参照https://opendocs.alipay.com/mini/operation/material 中是否需要提供特殊资质，如果不填默认采用当前小程序第一张特殊资质。
 	 **/
 	private $firstSpecialLicensePic;
 	
 	/** 
-	 * 第四张营业执照照片，不能超过 4MB，图片格式只支持 jpg、png，最大宽度 2160 px，最大高度 3840 px。
+	 * 第四张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg,PNG,JPG 格式。
 部分小程序类目需要提交，参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
 如果不填默认采用当前小程序第四张营业执照照片。
 	 **/
@@ -95,7 +95,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 小程序第四张应用截图，模板实例化的小程序可不传应用截图。
-截图大小不能超过 4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持jpg，png，小程序截图数量最小为2，最大为5。
+截图大小不能超过 4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg,PNG,JPG 格式。小程序截图数量最小为2，最大为5。
 	 **/
 	private $fourthScreenShot;
 	
@@ -132,7 +132,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	private $miniCategoryIds;
 	
 	/** 
-	 * 门头照图片，不能超过 4MB，图片格式只支持 jpg、png，最大宽度 2160 px，最大高度 3840 px。
+	 * 门头照图片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg,PNG,JPG 格式。
 部分小程序类目需要提交，参照https://opendocs.alipay.com/mini/operation/material 要求上传门头照。
 如果不填默认采用当前小程序门头照图片。
 	 **/
@@ -147,7 +147,7 @@ LOCATION-指定区域
 	private $regionType;
 	
 	/** 
-	 * 第二张营业执照照片，不能超过 4MB，图片格式只支持 jpg、png，最大宽度 2160 px，最大高度 3840 px。
+	 * 第二张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg,PNG,JPG 格式。
 部分小程序类目需要提交，参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
 如果不填默认采用当前小程序第二张营业执照照片。
 	 **/
@@ -155,12 +155,12 @@ LOCATION-指定区域
 	
 	/** 
 	 * 小程序第二张应用截图，模板实例化的小程序可不传应用截图。
-截图大小不能超过 4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持jpg，png，小程序截图数量最小为2，最大为5。
+截图大小不能超过 4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg,PNG,JPG 格式。小程序截图数量最小为2，最大为5。
 	 **/
 	private $secondScreenShot;
 	
 	/** 
-	 * 第二张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px，图片格式仅支持jpg、png、jepg 格式。
+	 * 第二张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px，图片格式仅支持 png,jpg,PNG,JPG 格式。
 部分小程序类目需要提交，参照https://opendocs.alipay.com/mini/operation/material 中是否需要提供特殊资质，如果不填默认采用当前小程序第二张特殊资质图片。
 	 **/
 	private $secondSpecialLicensePic;
@@ -196,7 +196,7 @@ LOCATION-指定区域
 	private $testPassword;
 	
 	/** 
-	 * 第三张营业执照照片，不能超过 4MB，图片格式只支持 jpg、png，最大宽度 2160 px，最大高度 3840 px。
+	 * 第三张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg,PNG,JPG 格式。
 部分小程序类目需要提交，参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
 如果不填默认采用当前小程序第三张营业执照照片。
 	 **/
@@ -204,12 +204,12 @@ LOCATION-指定区域
 	
 	/** 
 	 * 小程序第三张应用截图，模板实例化的小程序可不传应用截图。
-截图大小不能超过 4MB，最大宽度 2160px，最大高度 3840px。图片格式仅支持jpg，png，小程序截图数量最小为2，最大为5。
+截图大小不能超过 4MB，最大宽度 2160px，最大高度 3840px。图片格式仅支持 png,jpg,PNG,JPG 格式。小程序截图数量最小为2，最大为5。
 	 **/
 	private $thirdScreenShot;
 	
 	/** 
-	 * 第三张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px，图片格式只支持jpg、png、jepg格式。
+	 * 第三张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px，图片格式仅支持 png,jpg,PNG,JPG 格式。
 部分小程序类目需要提交，参照https://opendocs.alipay.com/mini/operation/material 中是否需要提供特殊资质，如果不填默认采用当前小程序第三张特殊资质。
 	 **/
 	private $thirdSpecialLicensePic;

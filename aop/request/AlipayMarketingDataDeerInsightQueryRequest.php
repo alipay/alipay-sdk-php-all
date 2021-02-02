@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.data.deer.insight.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-22 14:30:20
+ * @since 1.0, 2021-01-06 16:28:10
  */
 class AlipayMarketingDataDeerInsightQueryRequest
 {

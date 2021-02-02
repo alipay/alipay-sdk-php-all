@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.principaldmp.sync request
  *
  * @author auto create
- * @since 1.0, 2020-11-23 12:43:35
+ * @since 1.0, 2020-12-14 14:27:16
  */
 class AlipayDataDataserviceAdPrincipaldmpSyncRequest
 {

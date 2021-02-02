@@ -3,17 +3,19 @@
  * ALIPAY API: alipay.merchant.item.file.upload request
  *
  * @author auto create
- * @since 1.0, 2020-08-10 13:41:16
+ * @since 1.0, 2021-01-15 11:30:13
  */
 class AlipayMerchantItemFileUploadRequest
 {
 	/** 
-	 * 文件二进制字节流，最大为4M
+	 * 文件二进制字节流，最大为4M。
+小程序订单中心场景中，商品图片宽度必须大于 750 px，宽高比建议 4:3 - 1:1 之间，且该场景下仅支持 png、jpg 格式，不支持其他格式图片。
 	 **/
 	private $fileContent;
 	
 	/** 
-	 * 业务场景描述，比如订单信息同步场景对应SYNC_ORDER
+	 * 业务场景描述。
+小程序订单中心场景固定为 SYNC_ORDER。
 	 **/
 	private $scene;
 

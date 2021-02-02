@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.stress.heartbeat.upload request
  *
  * @author auto create
- * @since 1.0, 2020-11-19 21:50:12
+ * @since 1.0, 2021-01-11 21:47:31
  */
 class AlipayEbppStressHeartbeatUploadRequest
 {

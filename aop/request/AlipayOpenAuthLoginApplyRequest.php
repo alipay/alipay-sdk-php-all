@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.auth.login.apply request
  *
  * @author auto create
- * @since 1.0, 2020-05-26 17:41:49
+ * @since 1.0, 2020-12-14 14:27:41
  */
 class AlipayOpenAuthLoginApplyRequest
 {
