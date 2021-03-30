@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.mobile.public.accountlist.get request
+ * ALIPAY API: zhima.credit.pe.zmgo.sign.apply request
  *
  * @author auto create
- * @since 1.0, 2021-02-01 21:11:40
+ * @since 1.0, 2021-02-24 16:57:32
  */
-class AlipayMobilePublicAccountlistGetRequest
+class ZhimaCreditPeZmgoSignApplyRequest
 {
 	/** 
-	 * 分页查询传入分页参数 pagesize最大设置为200
+	 * 芝麻GO页面签约接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayMobilePublicAccountlistGetRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.mobile.public.accountlist.get";
+		return "zhima.credit.pe.zmgo.sign.apply";
 	}
 
 	public function setNotifyUrl($notifyUrl)

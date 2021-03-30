@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.ifaatam.messagenotify.send request
  *
  * @author auto create
- * @since 1.0, 2020-12-01 10:57:30
+ * @since 1.0, 2021-03-18 19:22:33
  */
 class AlipaySecurityProdIfaatamMessagenotifySendRequest
 {

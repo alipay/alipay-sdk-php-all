@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.instantdelivery.logistics.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-09-26 20:20:13
+ * @since 1.0, 2021-03-22 20:19:15
  */
 class AlipayOpenInstantdeliveryLogisticsBatchqueryRequest
 {

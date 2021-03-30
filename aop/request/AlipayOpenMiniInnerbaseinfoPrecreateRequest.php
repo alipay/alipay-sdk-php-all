@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerbaseinfo.precreate request
  *
  * @author auto create
- * @since 1.0, 2020-10-23 11:28:46
+ * @since 1.0, 2021-03-04 16:55:57
  */
 class AlipayOpenMiniInnerbaseinfoPrecreateRequest
 {

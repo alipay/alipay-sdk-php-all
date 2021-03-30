@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.bind.modify request
  *
  * @author auto create
- * @since 1.0, 2020-08-14 16:37:51
+ * @since 1.0, 2021-03-10 10:30:42
  */
 class AlipayCommerceTransportEtcBindModifyRequest
 {

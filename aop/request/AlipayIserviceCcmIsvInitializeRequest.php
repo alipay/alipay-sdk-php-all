@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.isv.initialize request
  *
  * @author auto create
- * @since 1.0, 2020-11-24 17:17:29
+ * @since 1.0, 2021-02-05 11:46:21
  */
 class AlipayIserviceCcmIsvInitializeRequest
 {

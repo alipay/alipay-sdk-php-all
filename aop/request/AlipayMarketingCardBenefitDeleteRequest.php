@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.card.benefit.delete request
  *
  * @author auto create
- * @since 1.0, 2020-05-15 15:49:55
+ * @since 1.0, 2021-03-23 10:06:59
  */
 class AlipayMarketingCardBenefitDeleteRequest
 {

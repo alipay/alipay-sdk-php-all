@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.card.update request
  *
  * @author auto create
- * @since 1.0, 2021-01-04 11:20:16
+ * @since 1.0, 2021-03-26 14:52:08
  */
 class AlipayMarketingCardUpdateRequest
 {

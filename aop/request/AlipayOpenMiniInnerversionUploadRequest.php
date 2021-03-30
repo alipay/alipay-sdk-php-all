@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerversion.upload request
  *
  * @author auto create
- * @since 1.0, 2020-12-30 17:05:43
+ * @since 1.0, 2021-02-23 16:52:30
  */
 class AlipayOpenMiniInnerversionUploadRequest
 {

@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.open.public.lifeaccount.create request
+ * ALIPAY API: alipay.commerce.educate.info.participant.certify request
  *
  * @author auto create
- * @since 1.0, 2019-12-23 11:46:14
+ * @since 1.0, 2021-03-11 21:30:17
  */
-class AlipayOpenPublicLifeaccountCreateRequest
+class AlipayCommerceEducateInfoParticipantCertifyRequest
 {
 	/** 
-	 * ka外部平台一键入驻生活号
+	 * 参赛者信息校验接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOpenPublicLifeaccountCreateRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.open.public.lifeaccount.create";
+		return "alipay.commerce.educate.info.participant.certify";
 	}
 
 	public function setNotifyUrl($notifyUrl)

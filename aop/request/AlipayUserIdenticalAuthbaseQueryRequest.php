@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.identical.authbase.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-22 11:00:11
+ * @since 1.0, 2021-03-17 15:23:09
  */
 class AlipayUserIdenticalAuthbaseQueryRequest
 {

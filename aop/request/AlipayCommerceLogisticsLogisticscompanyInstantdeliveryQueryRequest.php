@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.logisticscompany.instantdelivery.query request
  *
  * @author auto create
- * @since 1.0, 2020-09-27 22:01:17
+ * @since 1.0, 2021-02-07 11:49:04
  */
 class AlipayCommerceLogisticsLogisticscompanyInstantdeliveryQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.bill.netting.refund request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2021-02-23 12:06:21
  */
 class AlipayEbppIndustryBillNettingRefundRequest
 {

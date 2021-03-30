@@ -59,7 +59,7 @@ class AopCertClient
 
     public $encryptType = "AES";
 
-    protected $alipaySdkVersion = "alipay-sdk-php-2020-04-15";
+    protected $alipaySdkVersion = "alipay-sdk-PHP-4.11.14.ALL";
 
     private $fileCharset = "UTF-8";
 
@@ -163,9 +163,9 @@ class AopCertClient
      */
     public function rsaCheckV1($params, $rsaPublicKeyFilePath,$signType='RSA') {
         $sign = $params['sign'];
-        unset($params['sign']);
-        unset($params['sign_type']);
-        return $this->verify($this->getCheckSignContent($params), $sign, $rsaPublicKeyFilePath,$signType);
+        $params['sign_type'] = null;
+        $params['sign'] = null;
+        return $this->verify($this->getSignContent($params), $sign, $rsaPublicKeyFilePath,$signType);
     }
 
     /**
@@ -180,32 +180,8 @@ class AopCertClient
      */
     public function rsaCheckV2($params, $rsaPublicKeyFilePath, $signType='RSA') {
         $sign = $params['sign'];
-        unset($params['sign']);
-        unset($params['sign_type']);
-        return $this->verify($this->getCheckSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
-    }
-
-
-    function getCheckSignContent($params)
-    {
-        ksort($params);
-
-        $stringToBeSigned = "";
-        $i = 0;
-        foreach ($params as $k => $v) {
-            // 转换成目标字符集
-            $v = $this->characet($v, $this->postCharset);
-
-            if ($i == 0) {
-                $stringToBeSigned .= "$k" . "=" . "$v";
-            } else {
-                $stringToBeSigned .= "&" . "$k" . "=" . "$v";
-            }
-            $i++;
-        }
-
-        unset ($k, $v);
-        return $stringToBeSigned;
+        $params['sign'] = null;
+        return $this->verify($this->getSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
     }
 
 
@@ -707,11 +683,13 @@ class AopCertClient
 
     public function getSignContent($params) {
         ksort($params);
+        unset($params['sign']);
+        unset($params['sign_type']);
 
         $stringToBeSigned = "";
         $i = 0;
         foreach ($params as $k => $v) {
-            if (false === $this->checkEmpty($v) && "@" != substr($v, 0, 1)) {
+            if ("@" != substr($v, 0, 1)) {
 
                 // 转换成目标字符集
                 $v = $this->characet($v, $this->postCharset);

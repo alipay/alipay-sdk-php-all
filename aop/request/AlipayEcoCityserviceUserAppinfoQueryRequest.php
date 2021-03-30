@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cityservice.user.appinfo.query request
  *
  * @author auto create
- * @since 1.0, 2020-05-22 13:36:05
+ * @since 1.0, 2021-02-22 16:26:20
  */
 class AlipayEcoCityserviceUserAppinfoQueryRequest
 {

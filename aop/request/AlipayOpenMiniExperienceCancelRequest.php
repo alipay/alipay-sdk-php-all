@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.experience.cancel request
  *
  * @author auto create
- * @since 1.0, 2019-11-13 16:53:13
+ * @since 1.0, 2021-03-22 11:21:42
  */
 class AlipayOpenMiniExperienceCancelRequest
 {

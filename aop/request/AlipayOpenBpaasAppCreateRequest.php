@@ -1,12 +1,16 @@
 <?php
 /**
- * ALIPAY API: alipay.social.base.mcomment.student.query request
+ * ALIPAY API: alipay.open.bpaas.app.create request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2021-03-22 10:00:19
  */
-class AlipaySocialBaseMcommentStudentQueryRequest
+class AlipayOpenBpaasAppCreateRequest
 {
+	/** 
+	 * 创建支付宝IOT应用
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,9 +22,20 @@ class AlipaySocialBaseMcommentStudentQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
-		return "alipay.social.base.mcomment.student.query";
+		return "alipay.open.bpaas.app.create";
 	}
 
 	public function setNotifyUrl($notifyUrl)

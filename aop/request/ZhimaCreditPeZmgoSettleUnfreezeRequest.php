@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: antfortune.equity.service.card.sync request
+ * ALIPAY API: zhima.credit.pe.zmgo.settle.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2020-09-01 09:59:00
+ * @since 1.0, 2021-02-25 11:31:22
  */
-class AntfortuneEquityServiceCardSyncRequest
+class ZhimaCreditPeZmgoSettleUnfreezeRequest
 {
 	/** 
-	 * 精选服务海景房卡片服务内容同步
+	 * 芝麻Go解冻接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AntfortuneEquityServiceCardSyncRequest
 
 	public function getApiMethodName()
 	{
-		return "antfortune.equity.service.card.sync";
+		return "zhima.credit.pe.zmgo.settle.unfreeze";
 	}
 
 	public function setNotifyUrl($notifyUrl)

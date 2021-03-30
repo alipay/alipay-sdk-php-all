@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.order.rent.complete request
  *
  * @author auto create
- * @since 1.0, 2020-04-20 16:15:40
+ * @since 1.0, 2021-03-26 15:15:18
  */
 class ZhimaMerchantOrderRentCompleteRequest
 {

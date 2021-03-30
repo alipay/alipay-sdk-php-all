@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.relation.friends.query request
  *
  * @author auto create
- * @since 1.0, 2020-10-30 14:48:31
+ * @since 1.0, 2021-03-17 15:22:52
  */
 class AlipaySocialBaseRelationFriendsQueryRequest
 {

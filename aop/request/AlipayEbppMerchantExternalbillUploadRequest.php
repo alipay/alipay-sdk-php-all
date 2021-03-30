@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.merchant.externalbill.upload request
  *
  * @author auto create
- * @since 1.0, 2021-01-26 14:17:10
+ * @since 1.0, 2021-02-26 13:51:26
  */
 class AlipayEbppMerchantExternalbillUploadRequest
 {

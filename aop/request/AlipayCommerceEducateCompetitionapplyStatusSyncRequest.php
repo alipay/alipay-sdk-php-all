@@ -1,29 +1,16 @@
 <?php
 /**
- * ALIPAY API: alipay.pass.file.add request
+ * ALIPAY API: alipay.commerce.educate.competitionapply.status.sync request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2021-03-11 21:27:32
  */
-class AlipayPassFileAddRequest
+class AlipayCommerceEducateCompetitionapplyStatusSyncRequest
 {
 	/** 
-	 * 支付宝pass文件二进制Base64加密字符串
+	 * 赛事报名状态同步接口
 	 **/
-	private $fileContent;
-	
-	/** 
-	 * 支付宝用户识别信息：
-当 recognition_type=1时， recognition_info={“partner_id”:”2088102114633762”,“out_trade_no”:”1234567”}；
-当recognition_type=2时， recognition_info={“user_id”:”2088102114633761“}
-当recognition_type=3时，recognition_info={“mobile”:”136XXXXXXXX“}
-	 **/
-	private $recognitionInfo;
-	
-	/** 
-	 * Alipass添加对象识别类型【1--订单信息；2--支付宝userId;3--支付宝绑定手机号】
-	 **/
-	private $recognitionType;
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -35,42 +22,20 @@ class AlipayPassFileAddRequest
     private $needEncrypt=false;
 
 	
-	public function setFileContent($fileContent)
+	public function setBizContent($bizContent)
 	{
-		$this->fileContent = $fileContent;
-		$this->apiParas["file_content"] = $fileContent;
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
 	}
 
-	public function getFileContent()
+	public function getBizContent()
 	{
-		return $this->fileContent;
-	}
-
-	public function setRecognitionInfo($recognitionInfo)
-	{
-		$this->recognitionInfo = $recognitionInfo;
-		$this->apiParas["recognition_info"] = $recognitionInfo;
-	}
-
-	public function getRecognitionInfo()
-	{
-		return $this->recognitionInfo;
-	}
-
-	public function setRecognitionType($recognitionType)
-	{
-		$this->recognitionType = $recognitionType;
-		$this->apiParas["recognition_type"] = $recognitionType;
-	}
-
-	public function getRecognitionType()
-	{
-		return $this->recognitionType;
+		return $this->bizContent;
 	}
 
 	public function getApiMethodName()
 	{
-		return "alipay.pass.file.add";
+		return "alipay.commerce.educate.competitionapply.status.sync";
 	}
 
 	public function setNotifyUrl($notifyUrl)

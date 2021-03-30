@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.user.charity.forest.send request
+ * ALIPAY API: alipay.open.bpaas.app.publish request
  *
  * @author auto create
- * @since 1.0, 2020-09-14 10:57:26
+ * @since 1.0, 2021-03-22 10:00:19
  */
-class AlipayUserCharityForestSendRequest
+class AlipayOpenBpaasAppPublishRequest
 {
 	/** 
-	 * 森林能量发放接口
+	 * bpaas应用上架
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayUserCharityForestSendRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.user.charity.forest.send";
+		return "alipay.open.bpaas.app.publish";
 	}
 
 	public function setNotifyUrl($notifyUrl)

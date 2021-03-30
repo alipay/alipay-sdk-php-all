@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.card.activateurl.apply request
  *
  * @author auto create
- * @since 1.0, 2020-12-30 18:14:39
+ * @since 1.0, 2021-03-23 13:40:17
  */
 class AlipayMarketingCardActivateurlApplyRequest
 {

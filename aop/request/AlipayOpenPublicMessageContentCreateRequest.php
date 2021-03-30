@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.message.content.create request
  *
  * @author auto create
- * @since 1.0, 2021-01-11 22:20:15
+ * @since 1.0, 2021-03-26 15:05:18
  */
 class AlipayOpenPublicMessageContentCreateRequest
 {

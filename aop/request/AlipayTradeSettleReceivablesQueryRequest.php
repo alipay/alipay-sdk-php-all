@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.settle.receivables.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-20 15:39:11
+ * @since 1.0, 2021-03-04 17:28:22
  */
 class AlipayTradeSettleReceivablesQueryRequest
 {

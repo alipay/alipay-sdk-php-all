@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: koubei.merchant.kbcloud.subuserinfo.query request
+ * ALIPAY API: alipay.ebpp.billkey.upgrade.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2021-03-22 09:50:19
  */
-class KoubeiMerchantKbcloudSubuserinfoQueryRequest
+class AlipayEbppBillkeyUpgradeQueryRequest
 {
 	/** 
-	 * 查询口碑子账户信息列表
+	 * 户号升级结果查询
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class KoubeiMerchantKbcloudSubuserinfoQueryRequest
 
 	public function getApiMethodName()
 	{
-		return "koubei.merchant.kbcloud.subuserinfo.query";
+		return "alipay.ebpp.billkey.upgrade.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

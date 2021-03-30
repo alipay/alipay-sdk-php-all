@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.mobile.std.public.express.user.query request
+ * ALIPAY API: huanxu.trade.accountservice.card.certify request
  *
  * @author auto create
- * @since 1.0, 2021-01-26 11:46:13
+ * @since 1.0, 2021-03-12 10:26:20
  */
-class AlipayMobileStdPublicExpressUserQueryRequest
+class HuanxuTradeAccountserviceCardCertifyRequest
 {
 	/** 
-	 * 查询请求，用户id
+	 * 银行卡认证接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayMobileStdPublicExpressUserQueryRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.mobile.std.public.express.user.query";
+		return "huanxu.trade.accountservice.card.certify";
 	}
 
 	public function setNotifyUrl($notifyUrl)

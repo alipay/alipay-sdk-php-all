@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.gis.query request
  *
  * @author auto create
- * @since 1.0, 2020-08-25 11:05:59
+ * @since 1.0, 2021-03-17 15:19:10
  */
 class AlipayOpenPublicGisQueryRequest
 {
