@@ -62,7 +62,7 @@ class AopClient
 
     private $targetServiceUrl = "";
 
-    protected $alipaySdkVersion = "alipay-sdk-PHP-4.11.14.ALL";
+    protected $alipaySdkVersion = "alipay-easysdk-php";
 
     public function generateSign($params, $signType = "RSA")
     {
