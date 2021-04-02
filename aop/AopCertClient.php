@@ -59,7 +59,7 @@ class AopCertClient
 
     public $encryptType = "AES";
 
-    protected $alipaySdkVersion = "alipay-easysdk-php";
+    protected $alipaySdkVersion = "alipay-sdk-PHP-4.11.14.ALL";
 
     private $fileCharset = "UTF-8";
 
@@ -684,7 +684,6 @@ class AopCertClient
     public function getSignContent($params) {
         ksort($params);
         unset($params['sign']);
-        unset($params['sign_type']);
 
         $stringToBeSigned = "";
         $i = 0;
