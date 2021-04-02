@@ -509,14 +509,28 @@ class AopCertClient
         $sysParams["sign_type"] = $this->signType;
         $sysParams["method"] = $request->getApiMethodName();
         $sysParams["timestamp"] = date("Y-m-d H:i:s");
-        $sysParams["auth_token"] = $authToken;
+
+        if (!$this->checkEmpty( $authToken)) {
+            $sysParams["auth_token"] = $authToken;
+        }
         $sysParams["alipay_sdk"] = $this->alipaySdkVersion;
-        $sysParams["terminal_type"] = $request->getTerminalType();
-        $sysParams["terminal_info"] = $request->getTerminalInfo();
-        $sysParams["prod_code"] = $request->getProdCode();
-        $sysParams["notify_url"] = $request->getNotifyUrl();
+        if (!$this->checkEmpty( $request->getTerminalType())) {
+            $sysParams["terminal_type"] = $request->getTerminalType();
+        }
+        if (!$this->checkEmpty( $request->getTerminalInfo())) {
+            $sysParams["terminal_info"] = $request->getTerminalInfo();
+        }
+        if (!$this->checkEmpty( $request->getProdCode())) {
+            $sysParams["prod_code"] = $request->getProdCode();
+        }
+        if (!$this->checkEmpty( $request->getNotifyUrl())) {
+            $sysParams["notify_url"] = $request->getNotifyUrl();
+        }
         $sysParams["charset"] = $this->postCharset;
-        $sysParams["app_auth_token"] = $appInfoAuthtoken;
+        if (!$this->checkEmpty($targetAppId)) {
+            $sysParams["app_auth_token"] = $appInfoAuthtoken;
+        }
+
         $sysParams["app_cert_sn"] = $this->appCertSN;
         $sysParams["alipay_root_cert_sn"] = $this->alipayRootCertSN;
         $sysParams["target_app_id"] = $targetAppId;
@@ -549,7 +563,9 @@ class AopCertClient
         //系统参数放入GET请求串
         $requestUrl = $this->gatewayUrl . "?";
         foreach ($sysParams as $sysParamKey => $sysParamValue) {
-            $requestUrl .= "$sysParamKey=" . urlencode($this->characet($sysParamValue, $this->postCharset)) . "&";
+            if($sysParamValue != null){
+                $requestUrl .= "$sysParamKey=" . urlencode($this->characet($sysParamValue, $this->postCharset)) . "&"
+            }
         }
         $requestUrl = substr($requestUrl, 0, -1);
 
