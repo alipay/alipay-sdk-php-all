@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.waybill.instantdelivery.settle request
  *
  * @author auto create
- * @since 1.0, 2021-02-07 11:46:47
+ * @since 1.0, 2021-03-31 13:50:46
  */
 class AlipayCommerceLogisticsWaybillInstantdeliverySettleRequest
 {

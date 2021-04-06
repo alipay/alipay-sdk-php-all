@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.entity.location.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-09 19:10:15
+ * @since 1.0, 2021-04-06 11:38:17
  */
 class ZhimaMerchantEntityLocationQueryRequest
 {

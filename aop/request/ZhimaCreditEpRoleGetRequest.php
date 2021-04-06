@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.role.get request
  *
  * @author auto create
- * @since 1.0, 2020-07-10 10:31:00
+ * @since 1.0, 2021-03-30 15:11:48
  */
 class ZhimaCreditEpRoleGetRequest
 {

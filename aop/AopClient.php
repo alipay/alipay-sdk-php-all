@@ -349,13 +349,22 @@ class AopClient
         $sysParams["method"] = $request->getApiMethodName();
         $sysParams["timestamp"] = date("Y-m-d H:i:s");
         $sysParams["alipay_sdk"] = $this->alipaySdkVersion;
-        $sysParams["terminal_type"] = $request->getTerminalType();
-        $sysParams["terminal_info"] = $request->getTerminalInfo();
-        $sysParams["prod_code"] = $request->getProdCode();
-        $sysParams["notify_url"] = $request->getNotifyUrl();
-        $sysParams["return_url"] = $request->getReturnUrl();
+        if (!$this->checkEmpty( $request->getTerminalType())) {
+            $sysParams["terminal_type"] = $request->getTerminalType();
+        }
+        if (!$this->checkEmpty( $request->getTerminalInfo())) {
+            $sysParams["terminal_info"] = $request->getTerminalInfo();
+        }
+        if (!$this->checkEmpty( $request->getProdCode())) {
+            $sysParams["prod_code"] = $request->getProdCode();
+        }
+        if (!$this->checkEmpty( $request->getNotifyUrl())) {
+            $sysParams["notify_url"] = $request->getNotifyUrl();
+        }
         $sysParams["charset"] = $this->postCharset;
-        $sysParams["app_auth_token"] = $appAuthToken;
+        if (!$this->checkEmpty($appAuthToken)) {
+            $sysParams["app_auth_token"] = $appAuthToken;
+        }
 
         //获取业务参数
         $apiParams = $request->getApiParas();
@@ -497,7 +506,7 @@ class AopClient
             $sysParams["notify_url"] = $request->getNotifyUrl();
         }
         $sysParams["charset"] = $this->postCharset;
-        if (!$this->checkEmpty($targetAppId)) {
+        if (!$this->checkEmpty($appInfoAuthtoken)) {
             $sysParams["app_auth_token"] = $appInfoAuthtoken;
         }
         if (!$this->checkEmpty($targetAppId)) {

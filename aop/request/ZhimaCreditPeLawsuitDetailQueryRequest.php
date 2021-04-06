@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.lawsuit.detail.query request
  *
  * @author auto create
- * @since 1.0, 2020-11-18 15:25:49
+ * @since 1.0, 2021-03-30 15:10:06
  */
 class ZhimaCreditPeLawsuitDetailQueryRequest
 {

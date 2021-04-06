@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.product.code.modify request
  *
  * @author auto create
- * @since 1.0, 2020-07-17 16:36:27
+ * @since 1.0, 2021-03-30 15:10:42
  */
 class ZhimaCreditEpProductCodeModifyRequest
 {
