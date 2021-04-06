@@ -1020,7 +1020,9 @@ class AopCertClient
                     //系统参数放入GET请求串
                     $requestUrl = $this->gatewayUrl . "?";
                     foreach ($sysParams as $sysParamKey => $sysParamValue) {
-                        $requestUrl .= "$sysParamKey=" . urlencode($this->characet($sysParamValue, $this->postCharset)) . "&";
+                        if($sysParamValue != null){
+                            $requestUrl .= "$sysParamKey=" . urlencode($this->characet($sysParamValue, $this->postCharset)) . "&";
+                        }
                     }
                     $requestUrl = substr($requestUrl, 0, -1);
                     //发起HTTP请求
