@@ -78,7 +78,6 @@ class AopClient
     {
         ksort($params);
         unset($params['sign']);
-//        unset($params['sign_type']);
 
         $stringToBeSigned = "";
         $i = 0;
