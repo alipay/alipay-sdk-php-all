@@ -59,7 +59,7 @@ class AopCertClient
 
     public $encryptType = "AES";
 
-    protected $alipaySdkVersion = "alipay-sdk-PHP-4.11.14.ALL";
+    protected $alipaySdkVersion = "alipay-sdk-php-2020-04-15";
 
     private $fileCharset = "UTF-8";
 
@@ -163,9 +163,9 @@ class AopCertClient
      */
     public function rsaCheckV1($params, $rsaPublicKeyFilePath,$signType='RSA') {
         $sign = $params['sign'];
-        $params['sign_type'] = null;
-        $params['sign'] = null;
-        return $this->verify($this->getSignContent($params), $sign, $rsaPublicKeyFilePath,$signType);
+        unset($params['sign']);
+        unset($params['sign_type']);
+        return $this->verify($this->getCheckSignContent($params), $sign, $rsaPublicKeyFilePath,$signType);
     }
 
     /**
@@ -180,8 +180,32 @@ class AopCertClient
      */
     public function rsaCheckV2($params, $rsaPublicKeyFilePath, $signType='RSA') {
         $sign = $params['sign'];
-        $params['sign'] = null;
-        return $this->verify($this->getSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
+        unset($params['sign']);
+        unset($params['sign_type']);
+        return $this->verify($this->getCheckSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
+    }
+
+
+    function getCheckSignContent($params)
+    {
+        ksort($params);
+
+        $stringToBeSigned = "";
+        $i = 0;
+        foreach ($params as $k => $v) {
+            // 转换成目标字符集
+            $v = $this->characet($v, $this->postCharset);
+
+            if ($i == 0) {
+                $stringToBeSigned .= "$k" . "=" . "$v";
+            } else {
+                $stringToBeSigned .= "&" . "$k" . "=" . "$v";
+            }
+            $i++;
+        }
+
+        unset ($k, $v);
+        return $stringToBeSigned;
     }
 
 
@@ -386,25 +410,15 @@ class AopCertClient
         $sysParams["method"] = $request->getApiMethodName();
         $sysParams["timestamp"] = date("Y-m-d H:i:s");
         $sysParams["alipay_sdk"] = $this->alipaySdkVersion;
-        if (!$this->checkEmpty( $request->getTerminalType())) {
-            $sysParams["terminal_type"] = $request->getTerminalType();
-        }
-        if (!$this->checkEmpty( $request->getTerminalInfo())) {
-            $sysParams["terminal_info"] = $request->getTerminalInfo();
-        }
-        if (!$this->checkEmpty( $request->getProdCode())) {
-            $sysParams["prod_code"] = $request->getProdCode();
-        }
-        if (!$this->checkEmpty( $request->getNotifyUrl())) {
-            $sysParams["notify_url"] = $request->getNotifyUrl();
-        }
+        $sysParams["terminal_type"] = $request->getTerminalType();
+        $sysParams["terminal_info"] = $request->getTerminalInfo();
+        $sysParams["prod_code"] = $request->getProdCode();
+        $sysParams["notify_url"] = $request->getNotifyUrl();
+        $sysParams["return_url"] = $request->getReturnUrl();
         $sysParams["charset"] = $this->postCharset;
-        if (!$this->checkEmpty($appAuthToken)) {
-            $sysParams["app_auth_token"] = $appAuthToken;
-        }
+        $sysParams["app_auth_token"] = $appAuthToken;
         $sysParams["app_cert_sn"] = $this->appCertSN;
         $sysParams["alipay_root_cert_sn"] = $this->alipayRootCertSN;
-
 
         //获取业务参数
         $apiParams = $request->getApiParas();
@@ -519,28 +533,14 @@ class AopCertClient
         $sysParams["sign_type"] = $this->signType;
         $sysParams["method"] = $request->getApiMethodName();
         $sysParams["timestamp"] = date("Y-m-d H:i:s");
-
-        if (!$this->checkEmpty( $authToken)) {
-            $sysParams["auth_token"] = $authToken;
-        }
+        $sysParams["auth_token"] = $authToken;
         $sysParams["alipay_sdk"] = $this->alipaySdkVersion;
-        if (!$this->checkEmpty( $request->getTerminalType())) {
-            $sysParams["terminal_type"] = $request->getTerminalType();
-        }
-        if (!$this->checkEmpty( $request->getTerminalInfo())) {
-            $sysParams["terminal_info"] = $request->getTerminalInfo();
-        }
-        if (!$this->checkEmpty( $request->getProdCode())) {
-            $sysParams["prod_code"] = $request->getProdCode();
-        }
-        if (!$this->checkEmpty( $request->getNotifyUrl())) {
-            $sysParams["notify_url"] = $request->getNotifyUrl();
-        }
+        $sysParams["terminal_type"] = $request->getTerminalType();
+        $sysParams["terminal_info"] = $request->getTerminalInfo();
+        $sysParams["prod_code"] = $request->getProdCode();
+        $sysParams["notify_url"] = $request->getNotifyUrl();
         $sysParams["charset"] = $this->postCharset;
-        if (!$this->checkEmpty($appInfoAuthtoken)) {
-            $sysParams["app_auth_token"] = $appInfoAuthtoken;
-        }
-
+        $sysParams["app_auth_token"] = $appInfoAuthtoken;
         $sysParams["app_cert_sn"] = $this->appCertSN;
         $sysParams["alipay_root_cert_sn"] = $this->alipayRootCertSN;
         $sysParams["target_app_id"] = $targetAppId;
@@ -573,9 +573,7 @@ class AopCertClient
         //系统参数放入GET请求串
         $requestUrl = $this->gatewayUrl . "?";
         foreach ($sysParams as $sysParamKey => $sysParamValue) {
-            if($sysParamValue != null){
-                $requestUrl .= "$sysParamKey=" . urlencode($this->characet($sysParamValue, $this->postCharset)) . "&";
-            }
+            $requestUrl .= "$sysParamKey=" . urlencode($this->characet($sysParamValue, $this->postCharset)) . "&";
         }
         $requestUrl = substr($requestUrl, 0, -1);
 
@@ -709,12 +707,11 @@ class AopCertClient
 
     public function getSignContent($params) {
         ksort($params);
-        unset($params['sign']);
 
         $stringToBeSigned = "";
         $i = 0;
         foreach ($params as $k => $v) {
-            if ("@" != substr($v, 0, 1)) {
+            if (false === $this->checkEmpty($v) && "@" != substr($v, 0, 1)) {
 
                 // 转换成目标字符集
                 $v = $this->characet($v, $this->postCharset);
@@ -1012,17 +1009,11 @@ class AopCertClient
                     $sysParams["method"] = "alipay.open.app.alipaycert.download";
                     $sysParams["timestamp"] = date("Y-m-d H:i:s");
                     $sysParams["alipay_sdk"] = $this->alipaySdkVersion;
-                    if (!$this->checkEmpty( $request->getTerminalInfo())) {
-                        $sysParams["terminal_info"] = $request->getTerminalInfo();
-                    }
-                    if (!$this->checkEmpty( $request->getProdCode())) {
-                        $sysParams["prod_code"] = $request->getProdCode();
-                    }
-                    if (!$this->checkEmpty( $request->getNotifyUrl())) {
-                        $sysParams["notify_url"] = $request->getNotifyUrl();
-                    }
+                    $sysParams["terminal_type"] = $request->getTerminalType();
+                    $sysParams["terminal_info"] = $request->getTerminalInfo();
+                    $sysParams["prod_code"] = $request->getProdCode();
+                    $sysParams["notify_url"] = $request->getNotifyUrl();
                     $sysParams["charset"] = $this->postCharset;
-
                     $sysParams["app_cert_sn"] = $this->appCertSN;
                     $sysParams["alipay_root_cert_sn"] = $this->alipayRootCertSN;
                     //获取业务参数
@@ -1036,9 +1027,7 @@ class AopCertClient
                     //系统参数放入GET请求串
                     $requestUrl = $this->gatewayUrl . "?";
                     foreach ($sysParams as $sysParamKey => $sysParamValue) {
-                        if($sysParamValue != null){
-                            $requestUrl .= "$sysParamKey=" . urlencode($this->characet($sysParamValue, $this->postCharset)) . "&";
-                        }
+                        $requestUrl .= "$sysParamKey=" . urlencode($this->characet($sysParamValue, $this->postCharset)) . "&";
                     }
                     $requestUrl = substr($requestUrl, 0, -1);
                     //发起HTTP请求
