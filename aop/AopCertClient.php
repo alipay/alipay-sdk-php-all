@@ -1012,11 +1012,17 @@ class AopCertClient
                     $sysParams["method"] = "alipay.open.app.alipaycert.download";
                     $sysParams["timestamp"] = date("Y-m-d H:i:s");
                     $sysParams["alipay_sdk"] = $this->alipaySdkVersion;
-                    $sysParams["terminal_type"] = $request->getTerminalType();
-                    $sysParams["terminal_info"] = $request->getTerminalInfo();
-                    $sysParams["prod_code"] = $request->getProdCode();
-                    $sysParams["notify_url"] = $request->getNotifyUrl();
+                    if (!$this->checkEmpty( $request->getTerminalInfo())) {
+                        $sysParams["terminal_info"] = $request->getTerminalInfo();
+                    }
+                    if (!$this->checkEmpty( $request->getProdCode())) {
+                        $sysParams["prod_code"] = $request->getProdCode();
+                    }
+                    if (!$this->checkEmpty( $request->getNotifyUrl())) {
+                        $sysParams["notify_url"] = $request->getNotifyUrl();
+                    }
                     $sysParams["charset"] = $this->postCharset;
+
                     $sysParams["app_cert_sn"] = $this->appCertSN;
                     $sysParams["alipay_root_cert_sn"] = $this->alipayRootCertSN;
                     //获取业务参数
