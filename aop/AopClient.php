@@ -66,6 +66,8 @@ class AopClient
 
     public function generateSign($params, $signType = "RSA")
     {
+        $params = array_filter($params);
+        $params['sign_type'] = $signType;
         return $this->sign($this->getSignContent($params), $signType);
     }
 
@@ -349,16 +351,16 @@ class AopClient
         $sysParams["method"] = $request->getApiMethodName();
         $sysParams["timestamp"] = date("Y-m-d H:i:s");
         $sysParams["alipay_sdk"] = $this->alipaySdkVersion;
-        if (!$this->checkEmpty( $request->getTerminalType())) {
+        if (!$this->checkEmpty($request->getTerminalType())) {
             $sysParams["terminal_type"] = $request->getTerminalType();
         }
-        if (!$this->checkEmpty( $request->getTerminalInfo())) {
+        if (!$this->checkEmpty($request->getTerminalInfo())) {
             $sysParams["terminal_info"] = $request->getTerminalInfo();
         }
-        if (!$this->checkEmpty( $request->getProdCode())) {
+        if (!$this->checkEmpty($request->getProdCode())) {
             $sysParams["prod_code"] = $request->getProdCode();
         }
-        if (!$this->checkEmpty( $request->getNotifyUrl())) {
+        if (!$this->checkEmpty($request->getNotifyUrl())) {
             $sysParams["notify_url"] = $request->getNotifyUrl();
         }
         $sysParams["charset"] = $this->postCharset;
@@ -489,20 +491,20 @@ class AopClient
         $sysParams["sign_type"] = $this->signType;
         $sysParams["method"] = $request->getApiMethodName();
         $sysParams["timestamp"] = date("Y-m-d H:i:s");
-        if (!$this->checkEmpty( $authToken)) {
+        if (!$this->checkEmpty($authToken)) {
             $sysParams["auth_token"] = $authToken;
         }
         $sysParams["alipay_sdk"] = $this->alipaySdkVersion;
-        if (!$this->checkEmpty( $request->getTerminalType())) {
+        if (!$this->checkEmpty($request->getTerminalType())) {
             $sysParams["terminal_type"] = $request->getTerminalType();
         }
-        if (!$this->checkEmpty( $request->getTerminalInfo())) {
+        if (!$this->checkEmpty($request->getTerminalInfo())) {
             $sysParams["terminal_info"] = $request->getTerminalInfo();
         }
-        if (!$this->checkEmpty( $request->getProdCode())) {
+        if (!$this->checkEmpty($request->getProdCode())) {
             $sysParams["prod_code"] = $request->getProdCode();
         }
-        if (!$this->checkEmpty( $request->getNotifyUrl())) {
+        if (!$this->checkEmpty($request->getNotifyUrl())) {
             $sysParams["notify_url"] = $request->getNotifyUrl();
         }
         $sysParams["charset"] = $this->postCharset;
@@ -553,7 +555,7 @@ class AopClient
         //系统参数放入GET请求串
         $requestUrl = $this->gatewayUrl . "?";
         foreach ($sysParams as $sysParamKey => $sysParamValue) {
-            if($sysParamValue != null){
+            if ($sysParamValue != null) {
                 $requestUrl .= "$sysParamKey=" . urlencode($this->characet($sysParamValue, $this->postCharset)) . "&";
             }
         }
@@ -579,8 +581,7 @@ class AopClient
 
         $signData = null;
 
-        if ("json" == $this->format) {
-
+        if ("json" == strtolower($this->format)) {
             $respObject = json_decode($r);
             if (null !== $respObject) {
                 $respWellFormed = true;
@@ -600,6 +601,7 @@ class AopClient
 
         //返回的HTTP文本不是标准JSON或者XML，记下错误日志
         if (false === $respWellFormed) {
+            var_dump(333);
             $this->logCommunicationError($sysParams["method"], $requestUrl, "HTTP_RESPONSE_NOT_WELL_FORMED", $resp);
             return false;
         }
