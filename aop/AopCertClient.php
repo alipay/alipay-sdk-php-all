@@ -181,7 +181,6 @@ class AopCertClient
     public function rsaCheckV2($params, $rsaPublicKeyFilePath, $signType='RSA') {
         $sign = $params['sign'];
         unset($params['sign']);
-        unset($params['sign_type']);
         return $this->verify($this->getCheckSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
     }
 

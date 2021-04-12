@@ -708,15 +708,15 @@ class AopClient
     public function rsaCheckV1($params, $rsaPublicKeyFilePath, $signType = 'RSA')
     {
         $sign = $params['sign'];
-        $params['sign_type'] = null;
-        $params['sign'] = null;
+        unset($params['sign']);
+        unset($params['sign_type']);
         return $this->verify($this->getSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
     }
 
     public function rsaCheckV2($params, $rsaPublicKeyFilePath, $signType = 'RSA')
     {
         $sign = $params['sign'];
-        $params['sign'] = null;
+        unset($params['sign']);
         return $this->verify($this->getSignContent($params), $sign, $rsaPublicKeyFilePath, $signType);
     }
 
