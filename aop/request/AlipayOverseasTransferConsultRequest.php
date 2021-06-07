@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.transfer.consult request
  *
  * @author auto create
- * @since 1.0, 2021-04-01 16:50:43
+ * @since 1.0, 2021-04-25 17:05:27
  */
 class AlipayOverseasTransferConsultRequest
 {

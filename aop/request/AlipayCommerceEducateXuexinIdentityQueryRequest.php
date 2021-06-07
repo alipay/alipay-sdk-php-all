@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.commerce.educate.xuexin.identity.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-05 13:55:15
+ * @since 1.0, 2021-04-12 15:12:37
  */
 class AlipayCommerceEducateXuexinIdentityQueryRequest
 {
+	/** 
+	 * 支付宝标准用户学信网在校信息授权查询
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayCommerceEducateXuexinIdentityQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.commerce.educate.xuexin.identity.query";

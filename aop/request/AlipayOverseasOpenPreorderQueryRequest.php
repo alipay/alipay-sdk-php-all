@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.open.preorder.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-04 10:50:18
+ * @since 1.0, 2021-04-30 16:45:50
  */
 class AlipayOverseasOpenPreorderQueryRequest
 {

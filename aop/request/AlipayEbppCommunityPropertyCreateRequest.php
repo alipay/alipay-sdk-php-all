@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.property.create request
  *
  * @author auto create
- * @since 1.0, 2021-02-18 19:10:17
+ * @since 1.0, 2021-06-01 19:35:20
  */
 class AlipayEbppCommunityPropertyCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.facetoface.sign request
  *
  * @author auto create
- * @since 1.0, 2020-12-07 11:15:49
+ * @since 1.0, 2021-05-28 15:22:37
  */
 class AlipayOpenAgentFacetofaceSignRequest
 {
@@ -16,6 +16,11 @@ class AlipayOpenAgentFacetofaceSignRequest
 	 * 营业执照授权函图片，个体工商户如果使用总公司或其他公司的营业执照认证需上传该授权函图片，最小5KB，最大5M（暂不限制图片宽高），图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $businessLicenseAuthPic;
+	
+	/** 
+	 * 营业执照法人手机号码
+	 **/
+	private $businessLicenseMobile;
 	
 	/** 
 	 * 营业执照号码
@@ -48,6 +53,16 @@ class AlipayOpenAgentFacetofaceSignRequest
 当签约且授权标识 sign_and_auth=true 时，该费率信息必填。
 	 **/
 	private $rate;
+	
+	/** 
+	 * 店铺地址
+	 **/
+	private $shopAddress;
+	
+	/** 
+	 * 店铺名称
+	 **/
+	private $shopName;
 	
 	/** 
 	 * 店铺内景图片，最小5KB，最大5M（暂不限制图片宽高），图片格式必须为：png、bmp、gif、jpg、jpeg
@@ -100,6 +115,17 @@ class AlipayOpenAgentFacetofaceSignRequest
 	public function getBusinessLicenseAuthPic()
 	{
 		return $this->businessLicenseAuthPic;
+	}
+
+	public function setBusinessLicenseMobile($businessLicenseMobile)
+	{
+		$this->businessLicenseMobile = $businessLicenseMobile;
+		$this->apiParas["business_license_mobile"] = $businessLicenseMobile;
+	}
+
+	public function getBusinessLicenseMobile()
+	{
+		return $this->businessLicenseMobile;
 	}
 
 	public function setBusinessLicenseNo($businessLicenseNo)
@@ -166,6 +192,28 @@ class AlipayOpenAgentFacetofaceSignRequest
 	public function getRate()
 	{
 		return $this->rate;
+	}
+
+	public function setShopAddress($shopAddress)
+	{
+		$this->shopAddress = $shopAddress;
+		$this->apiParas["shop_address"] = $shopAddress;
+	}
+
+	public function getShopAddress()
+	{
+		return $this->shopAddress;
+	}
+
+	public function setShopName($shopName)
+	{
+		$this->shopName = $shopName;
+		$this->apiParas["shop_name"] = $shopName;
+	}
+
+	public function getShopName()
+	{
+		return $this->shopName;
 	}
 
 	public function setShopScenePic($shopScenePic)

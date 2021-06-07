@@ -3,10 +3,15 @@
  * ALIPAY API: alipay.open.agent.mobilepay.sign request
  *
  * @author auto create
- * @since 1.0, 2021-03-22 11:13:37
+ * @since 1.0, 2021-05-28 15:30:21
  */
 class AlipayOpenAgentMobilepaySignRequest
 {
+	/** 
+	 * APP授权函图片，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $appAuthPic;
+	
 	/** 
 	 * APP demo，格式为.apk；或者应用说明文档, 格式为.doc .docx .pdf格式
 	 **/
@@ -51,6 +56,11 @@ class AlipayOpenAgentMobilepaySignRequest
 	 * 营业执照授权函图片，个体工商户如果使用总公司或其他公司的营业执照认证需上传该授权函图片，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $businessLicenseAuthPic;
+	
+	/** 
+	 * 营业执照法人手机号码
+	 **/
+	private $businessLicenseMobile;
 	
 	/** 
 	 * 营业执照号码。
@@ -114,6 +124,17 @@ class AlipayOpenAgentMobilepaySignRequest
     private $needEncrypt=false;
 
 	
+	public function setAppAuthPic($appAuthPic)
+	{
+		$this->appAuthPic = $appAuthPic;
+		$this->apiParas["app_auth_pic"] = $appAuthPic;
+	}
+
+	public function getAppAuthPic()
+	{
+		return $this->appAuthPic;
+	}
+
 	public function setAppDemo($appDemo)
 	{
 		$this->appDemo = $appDemo;
@@ -211,6 +232,17 @@ class AlipayOpenAgentMobilepaySignRequest
 	public function getBusinessLicenseAuthPic()
 	{
 		return $this->businessLicenseAuthPic;
+	}
+
+	public function setBusinessLicenseMobile($businessLicenseMobile)
+	{
+		$this->businessLicenseMobile = $businessLicenseMobile;
+		$this->apiParas["business_license_mobile"] = $businessLicenseMobile;
+	}
+
+	public function getBusinessLicenseMobile()
+	{
+		return $this->businessLicenseMobile;
 	}
 
 	public function setBusinessLicenseNo($businessLicenseNo)

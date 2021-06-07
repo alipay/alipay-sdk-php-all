@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cplife.pay.result.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 19:08:42
+ * @since 1.0, 2021-04-09 14:42:26
  */
 class AlipayEcoCplifePayResultQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.iot.booth.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-08 13:35:39
+ * @since 1.0, 2021-04-07 11:15:43
  */
 class AlipayMarketingIotBoothQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cplife.roominfo.upload request
  *
  * @author auto create
- * @since 1.0, 2020-02-19 17:05:05
+ * @since 1.0, 2021-04-09 14:43:16
  */
 class AlipayEcoCplifeRoominfoUploadRequest
 {

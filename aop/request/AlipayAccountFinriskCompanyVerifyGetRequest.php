@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.finrisk.company.verify.get request
  *
  * @author auto create
- * @since 1.0, 2019-01-22 15:10:01
+ * @since 1.0, 2021-04-12 12:03:47
  */
 class AlipayAccountFinriskCompanyVerifyGetRequest
 {

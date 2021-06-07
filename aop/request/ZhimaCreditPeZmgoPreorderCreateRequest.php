@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.zmgo.preorder.create request
  *
  * @author auto create
- * @since 1.0, 2021-03-04 14:26:22
+ * @since 1.0, 2021-05-26 11:50:20
  */
 class ZhimaCreditPeZmgoPreorderCreateRequest
 {

@@ -827,13 +827,13 @@ class AopClient
 
         ($res) or die('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
         $blocks = $this->splitCN($data, 0, 30, $charset);
-        $chrtext  = null;
-        $encodes  = array();
+        $chrtext  = null;
+        $encodes  = array();
         foreach ($blocks as $n => $block) {
-            if (!openssl_public_encrypt($block, $chrtext , $res)) {
+            if (!openssl_public_encrypt($block, $chrtext , $res)) {
                 echo "<br/>" . openssl_error_string() . "<br/>";
             }
-            $encodes[] = $chrtext ;
+            $encodes[] = $chrtext ;
         }
         $chrtext = implode(",", $encodes);
 
@@ -873,7 +873,7 @@ class AopClient
 
     function splitCN($cont, $n = 0, $subnum, $charset)
     {
-        //$len = strlen($cont) / 3;
+        //$len = strlen($cont) / 3;
         $arrr = array();
         for ($i = $n; $i < strlen($cont); $i += $subnum) {
             $res = $this->subCNchar($cont, $i, $subnum, $charset);

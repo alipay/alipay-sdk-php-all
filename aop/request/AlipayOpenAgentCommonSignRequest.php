@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.common.sign request
  *
  * @author auto create
- * @since 1.0, 2021-04-02 15:40:19
+ * @since 1.0, 2021-05-28 10:34:37
  */
 class AlipayOpenAgentCommonSignRequest
 {
@@ -28,7 +28,7 @@ class AlipayOpenAgentCommonSignRequest
 	private $batchNo;
 	
 	/** 
-	 * 营业执照授权函图片，个体工商户如果使用总公司或其他公司的营业执照认证需上传该授权函图片，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 * 营业执照授权函图片，个体工商户如果使用总公司或其他公司的营业执照认证需上传该授权函图片，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $businessLicenseAuthPic;
 	
@@ -38,7 +38,7 @@ class AlipayOpenAgentCommonSignRequest
 	private $businessLicenseNo;
 	
 	/** 
-	 * 营业执照图片。被代创建商户运营主体为个人账户必填，企业账户无需填写，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 * 营业执照图片。被代创建商户运营主体为个人账户必填，企业账户无需填写。图片最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg。
 	 **/
 	private $businessLicensePic;
 	
@@ -63,33 +63,33 @@ class AlipayOpenAgentCommonSignRequest
 	private $productCode;
 	
 	/** 
-	 * 店铺内景图片，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 * 店铺内景图片，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg。
 	 **/
 	private $shopScenePic;
 	
 	/** 
-	 * 店铺门头照图片，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 * 店铺门头照图片，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg。
 	 **/
 	private $shopSignBoardPic;
 	
 	/** 
 	 * 企业特殊资质图片，可参考
-<a href="https://doc.open.alipay.com/doc2/detail.htm?spm=a219a.7629140.0.0.59bgD2&treeId=222&articleId=105364&docType=1#s1">商家经营类目</a> 中的“需要的特殊资质证书”，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+<a href="https://doc.open.alipay.com/doc2/detail.htm?spm=a219a.7629140.0.0.59bgD2&treeId=222&articleId=105364&docType=1#s1">商家经营类目</a> 中的“需要的特殊资质证书”。文件最小为 5KB，最大为5M，图片格式必须为：png、bmp、gif、jpg、jpeg。
 	 **/
 	private $specialLicensePic;
 	
 	/** 
-	 * 网站首页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 * 网站首页截图，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $webHomeScreenshot;
 	
 	/** 
-	 * 网站商品页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 * 网站商品页截图，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $webItemScreenshot;
 	
 	/** 
-	 * 网站支付页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 * 网站支付页截图，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $webPayScreenshot;
 	

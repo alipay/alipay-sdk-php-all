@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.offlinepay.virtualcard.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-03-19 18:02:36
+ * @since 1.0, 2021-04-22 16:04:13
  */
 class AlipayCommerceTransportOfflinepayVirtualcardBatchqueryRequest
 {

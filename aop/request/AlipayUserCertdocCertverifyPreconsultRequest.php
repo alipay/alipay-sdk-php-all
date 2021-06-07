@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certdoc.certverify.preconsult request
  *
  * @author auto create
- * @since 1.0, 2021-03-22 18:10:58
+ * @since 1.0, 2021-06-02 15:20:15
  */
 class AlipayUserCertdocCertverifyPreconsultRequest
 {

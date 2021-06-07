@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.offlinepayment.sign request
  *
  * @author auto create
- * @since 1.0, 2021-03-08 14:03:27
+ * @since 1.0, 2021-05-28 15:40:23
  */
 class AlipayOpenAgentOfflinepaymentSignRequest
 {
@@ -11,6 +11,11 @@ class AlipayOpenAgentOfflinepaymentSignRequest
 	 * 代商户操作事务编号，通过alipay.open.agent.create接口进行创建。
 	 **/
 	private $batchNo;
+	
+	/** 
+	 * 营业执照法人手机号码
+	 **/
+	private $businessLicenseMobile;
 	
 	/** 
 	 * 营业执照号码。若填写，请与以下营业执照图片、期限、一起提供。
@@ -28,6 +33,11 @@ class AlipayOpenAgentOfflinepaymentSignRequest
 	private $dateLimitation;
 	
 	/** 
+	 * 送货地址
+	 **/
+	private $deliveryAddress;
+	
+	/** 
 	 * 营业期限是否长期有效
 	 **/
 	private $longTerm;
@@ -42,6 +52,21 @@ class AlipayOpenAgentOfflinepaymentSignRequest
 	 * 服务费率（%），0.38~3之间，精确到0.01
 	 **/
 	private $rate;
+	
+	/** 
+	 * 店铺地址
+	 **/
+	private $shopAddress;
+	
+	/** 
+	 * 店铺名称
+	 **/
+	private $shopName;
+	
+	/** 
+	 * 店铺内景照片，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $shopScenePic;
 	
 	/** 
 	 * 店铺门头照图片，需要包括招牌信息。最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
@@ -73,6 +98,17 @@ class AlipayOpenAgentOfflinepaymentSignRequest
 	public function getBatchNo()
 	{
 		return $this->batchNo;
+	}
+
+	public function setBusinessLicenseMobile($businessLicenseMobile)
+	{
+		$this->businessLicenseMobile = $businessLicenseMobile;
+		$this->apiParas["business_license_mobile"] = $businessLicenseMobile;
+	}
+
+	public function getBusinessLicenseMobile()
+	{
+		return $this->businessLicenseMobile;
 	}
 
 	public function setBusinessLicenseNo($businessLicenseNo)
@@ -108,6 +144,17 @@ class AlipayOpenAgentOfflinepaymentSignRequest
 		return $this->dateLimitation;
 	}
 
+	public function setDeliveryAddress($deliveryAddress)
+	{
+		$this->deliveryAddress = $deliveryAddress;
+		$this->apiParas["delivery_address"] = $deliveryAddress;
+	}
+
+	public function getDeliveryAddress()
+	{
+		return $this->deliveryAddress;
+	}
+
 	public function setLongTerm($longTerm)
 	{
 		$this->longTerm = $longTerm;
@@ -139,6 +186,39 @@ class AlipayOpenAgentOfflinepaymentSignRequest
 	public function getRate()
 	{
 		return $this->rate;
+	}
+
+	public function setShopAddress($shopAddress)
+	{
+		$this->shopAddress = $shopAddress;
+		$this->apiParas["shop_address"] = $shopAddress;
+	}
+
+	public function getShopAddress()
+	{
+		return $this->shopAddress;
+	}
+
+	public function setShopName($shopName)
+	{
+		$this->shopName = $shopName;
+		$this->apiParas["shop_name"] = $shopName;
+	}
+
+	public function getShopName()
+	{
+		return $this->shopName;
+	}
+
+	public function setShopScenePic($shopScenePic)
+	{
+		$this->shopScenePic = $shopScenePic;
+		$this->apiParas["shop_scene_pic"] = $shopScenePic;
+	}
+
+	public function getShopScenePic()
+	{
+		return $this->shopScenePic;
 	}
 
 	public function setShopSignBoardPic($shopSignBoardPic)
