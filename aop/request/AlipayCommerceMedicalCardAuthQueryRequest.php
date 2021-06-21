@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: zhima.open.qerq.qerq.query request
+ * ALIPAY API: alipay.commerce.medical.card.auth.query request
  *
  * @author auto create
- * @since 1.0, 2019-09-26 16:55:33
+ * @since 1.0, 2021-06-21 16:25:49
  */
-class ZhimaOpenQerqQerqQueryRequest
+class AlipayCommerceMedicalCardAuthQueryRequest
 {
 	/** 
-	 * qerqerqer
+	 * 查询用户的电子社保卡或医保电子凭证基础信息
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class ZhimaOpenQerqQerqQueryRequest
 
 	public function getApiMethodName()
 	{
-		return "zhima.open.qerq.qerq.query";
+		return "alipay.commerce.medical.card.auth.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.ebpp.industry.gov.healthcode.verify request
+ * ALIPAY API: alipay.fund.jointaccount.trade.pay request
  *
  * @author auto create
- * @since 1.0, 2021-02-18 11:27:33
+ * @since 1.0, 2021-06-15 14:35:23
  */
-class AlipayEbppIndustryGovHealthcodeVerifyRequest
+class AlipayFundJointaccountTradePayRequest
 {
 	/** 
-	 * 健康码验码接口
+	 * 企业跳转到支付宝端内小程序进行线下支付
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayEbppIndustryGovHealthcodeVerifyRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.ebpp.industry.gov.healthcode.verify";
+		return "alipay.fund.jointaccount.trade.pay";
 	}
 
 	public function setNotifyUrl($notifyUrl)

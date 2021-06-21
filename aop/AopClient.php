@@ -363,6 +363,9 @@ class AopClient
         if (!$this->checkEmpty($request->getNotifyUrl())) {
             $sysParams["notify_url"] = $request->getNotifyUrl();
         }
+        if (!$this->checkEmpty($request->getReturnUrl())) {
+            $sysParams["return_url"] = $request->getReturnUrl();
+        }
         $sysParams["charset"] = $this->postCharset;
         if (!$this->checkEmpty($appAuthToken)) {
             $sysParams["app_auth_token"] = $appAuthToken;

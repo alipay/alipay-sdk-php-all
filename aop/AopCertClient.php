@@ -106,7 +106,7 @@ class AopCertClient
         for ($i = 0; $i < count($array) - 1; $i++) {
             $ssl[$i] = openssl_x509_parse($array[$i] . "-----END CERTIFICATE-----");
             if(strpos($ssl[$i]['serialNumber'],'0x') === 0){
-                $ssl[$i]['serialNumber'] = $this->hex2dec($ssl[$i]['serialNumber']);
+                $ssl[$i]['serialNumber'] = $this->hex2dec($ssl[$i]['serialNumberHex']);
             }
             if ($ssl[$i]['signatureTypeLN'] == "sha1WithRSAEncryption" || $ssl[$i]['signatureTypeLN'] == "sha256WithRSAEncryption") {
                 if ($SN == null) {
@@ -132,7 +132,7 @@ class AopCertClient
         for ($i = 1; $i <= $len; $i++) {
             $dec = bcadd($dec, bcmul(strval(hexdec($hex[$i - 1])), bcpow('16', strval($len - $i))));
         }
-        return round($dec,0);
+        return $dec;
     }
 
     /**

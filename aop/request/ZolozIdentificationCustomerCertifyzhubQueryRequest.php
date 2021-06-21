@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.identification.customer.certifyzhub.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-18 21:53:04
+ * @since 1.0, 2021-06-16 19:20:24
  */
 class ZolozIdentificationCustomerCertifyzhubQueryRequest
 {
