@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.face.match request
  *
  * @author auto create
- * @since 1.0, 2021-05-11 17:10:15
+ * @since 1.0, 2021-07-13 15:44:06
  */
 class AlipayCommerceLogisticsFaceMatchRequest
 {

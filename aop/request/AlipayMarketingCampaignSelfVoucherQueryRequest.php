@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.self.voucher.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-02 16:07:37
+ * @since 1.0, 2021-07-13 14:20:41
  */
 class AlipayMarketingCampaignSelfVoucherQueryRequest
 {

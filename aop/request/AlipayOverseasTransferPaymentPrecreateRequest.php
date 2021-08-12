@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.transfer.payment.precreate request
  *
  * @author auto create
- * @since 1.0, 2020-08-19 20:26:16
+ * @since 1.0, 2021-08-09 15:04:04
  */
 class AlipayOverseasTransferPaymentPrecreateRequest
 {

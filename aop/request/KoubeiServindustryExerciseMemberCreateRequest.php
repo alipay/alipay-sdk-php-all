@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.exercise.member.create request
  *
  * @author auto create
- * @since 1.0, 2019-08-01 10:37:15
+ * @since 1.0, 2021-07-14 10:13:57
  */
 class KoubeiServindustryExerciseMemberCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.databiz.core.user.level.get request
  *
  * @author auto create
- * @since 1.0, 2019-08-14 15:25:03
+ * @since 1.0, 2021-07-14 10:12:40
  */
 class AlipayDatabizCoreUserLevelGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.account.bill.query request
  *
  * @author auto create
- * @since 1.0, 2020-08-31 17:59:20
+ * @since 1.0, 2021-07-14 10:09:55
  */
 class AlipayFundAccountBillQueryRequest
 {

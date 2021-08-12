@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.equity.instpoint.prizeexchange.use request
  *
  * @author auto create
- * @since 1.0, 2019-05-01 11:19:48
+ * @since 1.0, 2021-07-14 10:13:56
  */
 class AntfortuneEquityInstpointPrizeexchangeUseRequest
 {

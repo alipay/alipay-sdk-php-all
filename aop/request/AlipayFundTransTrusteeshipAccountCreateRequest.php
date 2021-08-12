@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.trusteeship.account.create request
  *
  * @author auto create
- * @since 1.0, 2020-08-27 11:50:34
+ * @since 1.0, 2021-07-14 10:09:06
  */
 class AlipayFundTransTrusteeshipAccountCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ecapiprod.drawndn.drawndnlist.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2021-07-14 10:12:31
  */
 class AlipayEcapiprodDrawndnDrawndnlistQueryRequest
 {

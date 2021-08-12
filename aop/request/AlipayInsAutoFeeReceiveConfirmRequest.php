@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.fee.receive.confirm request
  *
  * @author auto create
- * @since 1.0, 2019-08-07 15:06:52
+ * @since 1.0, 2021-08-10 17:31:27
  */
 class AlipayInsAutoFeeReceiveConfirmRequest
 {

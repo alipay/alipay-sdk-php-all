@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.certify.verify.idcard request
  *
  * @author auto create
- * @since 1.0, 2021-03-03 19:31:07
+ * @since 1.0, 2021-07-13 10:41:58
  */
 class AlipayCertifyVerifyIdcardRequest
 {

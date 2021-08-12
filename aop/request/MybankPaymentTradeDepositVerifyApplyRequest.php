@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.deposit.verify.apply request
  *
  * @author auto create
- * @since 1.0, 2021-02-25 16:26:23
+ * @since 1.0, 2021-07-14 10:10:20
  */
 class MybankPaymentTradeDepositVerifyApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.veh.multiterminal.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-06-03 11:05:22
+ * @since 1.0, 2021-07-14 10:13:50
  */
 class AlipayEcoMycarVehMultiterminalBatchqueryRequest
 {

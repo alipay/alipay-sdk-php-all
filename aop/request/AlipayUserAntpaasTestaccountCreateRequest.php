@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antpaas.testaccount.create request
  *
  * @author auto create
- * @since 1.0, 2021-03-19 15:25:42
+ * @since 1.0, 2021-07-14 10:09:18
  */
 class AlipayUserAntpaasTestaccountCreateRequest
 {

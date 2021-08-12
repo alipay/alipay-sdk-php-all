@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.transfer.institutionpayment.query request
  *
  * @author auto create
- * @since 1.0, 2020-07-30 17:33:54
+ * @since 1.0, 2021-08-09 15:07:51
  */
 class AlipayOverseasTransferInstitutionpaymentQueryRequest
 {

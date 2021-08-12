@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.bill.dingstaffbizorder.query request
  *
  * @author auto create
- * @since 1.0, 2020-09-29 12:22:26
+ * @since 1.0, 2021-07-14 10:12:39
  */
 class AlipayDataDataserviceBillDingstaffbizorderQueryRequest
 {

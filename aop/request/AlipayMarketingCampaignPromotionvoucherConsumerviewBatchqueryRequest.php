@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.promotionvoucher.consumerview.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 11:44:18
+ * @since 1.0, 2021-07-19 15:25:05
  */
 class AlipayMarketingCampaignPromotionvoucherConsumerviewBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.order.print.sync request
  *
  * @author auto create
- * @since 1.0, 2019-06-20 21:53:00
+ * @since 1.0, 2021-07-13 10:41:48
  */
 class AlipayCommerceIotOrderPrintSyncRequest
 {

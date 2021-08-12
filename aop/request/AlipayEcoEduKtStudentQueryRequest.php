@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.edu.kt.student.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-10 10:18:21
+ * @since 1.0, 2021-07-14 10:13:21
  */
 class AlipayEcoEduKtStudentQueryRequest
 {

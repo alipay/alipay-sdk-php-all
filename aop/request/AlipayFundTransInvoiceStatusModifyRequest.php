@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.invoice.status.modify request
  *
  * @author auto create
- * @since 1.0, 2020-12-16 11:58:16
+ * @since 1.0, 2021-07-14 10:09:56
  */
 class AlipayFundTransInvoiceStatusModifyRequest
 {

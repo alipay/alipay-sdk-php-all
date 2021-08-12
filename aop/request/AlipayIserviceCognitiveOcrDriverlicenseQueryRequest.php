@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cognitive.ocr.driverlicense.query request
  *
  * @author auto create
- * @since 1.0, 2019-04-26 12:38:15
+ * @since 1.0, 2021-07-14 10:13:13
  */
 class AlipayIserviceCognitiveOcrDriverlicenseQueryRequest
 {

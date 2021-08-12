@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.vehicleowner.settlement.apply request
  *
  * @author auto create
- * @since 1.0, 2020-05-06 15:22:25
+ * @since 1.0, 2021-08-10 20:31:16
  */
 class AlipayCommerceTransportVehicleownerSettlementApplyRequest
 {

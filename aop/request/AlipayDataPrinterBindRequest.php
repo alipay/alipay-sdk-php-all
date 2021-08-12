@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.printer.bind request
  *
  * @author auto create
- * @since 1.0, 2019-10-18 11:07:36
+ * @since 1.0, 2021-07-14 10:12:40
  */
 class AlipayDataPrinterBindRequest
 {

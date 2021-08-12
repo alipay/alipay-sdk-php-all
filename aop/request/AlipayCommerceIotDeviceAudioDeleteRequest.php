@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.audio.delete request
  *
  * @author auto create
- * @since 1.0, 2019-08-22 22:59:26
+ * @since 1.0, 2021-07-13 15:44:05
  */
 class AlipayCommerceIotDeviceAudioDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.socialinfo.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-30 11:30:00
+ * @since 1.0, 2021-07-14 10:13:25
  */
 class AlipayUserSocialinfoQueryRequest
 {

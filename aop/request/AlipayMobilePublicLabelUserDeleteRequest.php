@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.label.user.delete request
  *
  * @author auto create
- * @since 1.0, 2020-04-07 16:54:40
+ * @since 1.0, 2021-06-23 10:52:09
  */
 class AlipayMobilePublicLabelUserDeleteRequest
 {

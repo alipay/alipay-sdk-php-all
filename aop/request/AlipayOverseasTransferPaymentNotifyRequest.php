@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.transfer.payment.notify request
  *
  * @author auto create
- * @since 1.0, 2020-07-30 16:25:23
+ * @since 1.0, 2021-08-09 15:05:16
  */
 class AlipayOverseasTransferPaymentNotifyRequest
 {

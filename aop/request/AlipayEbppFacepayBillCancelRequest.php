@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.facepay.bill.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-04-07 20:40:56
+ * @since 1.0, 2021-07-14 10:13:19
  */
 class AlipayEbppFacepayBillCancelRequest
 {

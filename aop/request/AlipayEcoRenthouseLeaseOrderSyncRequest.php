@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.renthouse.lease.order.sync request
  *
  * @author auto create
- * @since 1.0, 2019-08-02 19:42:22
+ * @since 1.0, 2021-07-14 10:13:50
  */
 class AlipayEcoRenthouseLeaseOrderSyncRequest
 {

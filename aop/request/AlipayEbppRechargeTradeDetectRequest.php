@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.recharge.trade.detect request
  *
  * @author auto create
- * @since 1.0, 2019-09-27 16:47:36
+ * @since 1.0, 2021-07-14 10:12:31
  */
 class AlipayEbppRechargeTradeDetectRequest
 {

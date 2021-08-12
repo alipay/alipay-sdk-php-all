@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.kids.relation.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-04 18:02:29
+ * @since 1.0, 2021-07-14 10:10:05
  */
 class AlipayCommerceKidsRelationQueryRequest
 {

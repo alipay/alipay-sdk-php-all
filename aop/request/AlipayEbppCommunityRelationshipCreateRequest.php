@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.relationship.create request
  *
  * @author auto create
- * @since 1.0, 2021-06-01 19:35:20
+ * @since 1.0, 2021-07-29 14:47:36
  */
 class AlipayEbppCommunityRelationshipCreateRequest
 {

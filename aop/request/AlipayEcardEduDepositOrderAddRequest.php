@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ecard.edu.deposit.order.add request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2021-07-31 20:40:46
  */
 class AlipayEcardEduDepositOrderAddRequest
 {

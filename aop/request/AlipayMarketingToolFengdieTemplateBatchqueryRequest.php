@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.tool.fengdie.template.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-06-09 22:20:45
+ * @since 1.0, 2021-06-25 21:55:02
  */
 class AlipayMarketingToolFengdieTemplateBatchqueryRequest
 {

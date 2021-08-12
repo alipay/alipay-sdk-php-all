@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.kms.pubkey.query request
  *
  * @author auto create
- * @since 1.0, 2020-05-20 15:48:43
+ * @since 1.0, 2021-07-14 10:09:14
  */
 class AlipayEbppIndustryKmsPubkeyQueryRequest
 {

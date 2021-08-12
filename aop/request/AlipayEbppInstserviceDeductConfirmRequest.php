@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.instservice.deduct.confirm request
  *
  * @author auto create
- * @since 1.0, 2020-06-30 15:28:53
+ * @since 1.0, 2021-07-14 10:09:14
  */
 class AlipayEbppInstserviceDeductConfirmRequest
 {

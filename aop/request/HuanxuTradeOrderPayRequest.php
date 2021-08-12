@@ -3,7 +3,7 @@
  * ALIPAY API: huanxu.trade.order.pay request
  *
  * @author auto create
- * @since 1.0, 2021-03-24 14:45:44
+ * @since 1.0, 2021-07-13 15:44:01
  */
 class HuanxuTradeOrderPayRequest
 {

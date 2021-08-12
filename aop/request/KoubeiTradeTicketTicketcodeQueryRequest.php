@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.ticket.ticketcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-22 18:07:31
+ * @since 1.0, 2021-07-07 14:35:49
  */
 class KoubeiTradeTicketTicketcodeQueryRequest
 {

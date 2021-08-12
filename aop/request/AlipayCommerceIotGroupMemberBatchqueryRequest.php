@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.group.member.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-08-19 20:11:11
+ * @since 1.0, 2021-07-14 10:10:05
  */
 class AlipayCommerceIotGroupMemberBatchqueryRequest
 {

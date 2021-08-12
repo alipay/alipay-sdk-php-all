@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.externalbillsync.upload request
  *
  * @author auto create
- * @since 1.0, 2021-05-24 10:33:00
+ * @since 1.0, 2021-08-09 10:17:57
  */
 class AlipayEbppCommunityExternalbillsyncUploadRequest
 {

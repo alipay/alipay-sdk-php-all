@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.order.aggregate.query request
  *
  * @author auto create
- * @since 1.0, 2020-01-03 14:49:39
+ * @since 1.0, 2021-07-14 10:09:11
  */
 class KoubeiTradeOrderAggregateQueryRequest
 {

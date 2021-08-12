@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.user.click.create request
  *
  * @author auto create
- * @since 1.0, 2020-05-26 20:27:10
+ * @since 1.0, 2021-07-13 10:41:48
  */
 class AlipayCommerceEducateUserClickCreateRequest
 {

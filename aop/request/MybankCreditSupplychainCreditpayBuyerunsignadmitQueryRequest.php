@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.creditpay.buyerunsignadmit.query request
  *
  * @author auto create
- * @since 1.0, 2020-03-04 11:22:33
+ * @since 1.0, 2021-07-14 10:09:13
  */
 class MybankCreditSupplychainCreditpayBuyerunsignadmitQueryRequest
 {

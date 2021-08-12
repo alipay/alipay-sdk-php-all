@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.receipt.send request
  *
  * @author auto create
- * @since 1.0, 2021-06-21 13:31:26
+ * @since 1.0, 2021-08-04 17:06:27
  */
 class AlipayCommerceReceiptSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.exercise.plancourse.sync request
  *
  * @author auto create
- * @since 1.0, 2020-06-18 11:55:37
+ * @since 1.0, 2021-07-14 10:12:36
  */
 class KoubeiServindustryExercisePlancourseSyncRequest
 {

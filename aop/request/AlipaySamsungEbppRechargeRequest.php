@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.samsung.ebpp.recharge request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2021-07-14 10:12:42
  */
 class AlipaySamsungEbppRechargeRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.auth.sign request
  *
  * @author auto create
- * @since 1.0, 2020-07-13 10:02:56
+ * @since 1.0, 2021-07-14 10:09:14
  */
 class AlipayEbppInvoiceAuthSignRequest
 {

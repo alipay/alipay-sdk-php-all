@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certify.identify.verify request
  *
  * @author auto create
- * @since 1.0, 2020-09-07 19:11:15
+ * @since 1.0, 2021-07-14 10:10:09
  */
 class AlipayUserCertifyIdentifyVerifyRequest
 {

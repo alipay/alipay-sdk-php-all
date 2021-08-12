@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.underwrite.policy.query request
  *
  * @author auto create
- * @since 1.0, 2019-08-26 16:46:10
+ * @since 1.0, 2021-07-14 10:09:09
  */
 class AlipayInsUnderwritePolicyQueryRequest
 {

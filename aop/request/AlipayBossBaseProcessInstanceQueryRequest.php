@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.process.instance.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-11 19:33:31
+ * @since 1.0, 2021-07-13 10:41:46
  */
 class AlipayBossBaseProcessInstanceQueryRequest
 {

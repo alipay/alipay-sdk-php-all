@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.insurance.unified.apply request
  *
  * @author auto create
- * @since 1.0, 2021-05-27 20:40:22
+ * @since 1.0, 2021-07-14 10:10:01
  */
 class AnttechBlockchainDefinInsuranceUnifiedApplyRequest
 {

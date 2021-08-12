@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.campus.card.upload request
  *
  * @author auto create
- * @since 1.0, 2021-01-11 11:30:49
+ * @since 1.0, 2021-07-14 10:10:13
  */
 class AlipayCommerceEducateCampusCardUploadRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.operator.search.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-05-06 14:56:03
+ * @since 1.0, 2021-07-13 15:44:03
  */
 class KoubeiMerchantOperatorSearchBatchqueryRequest
 {

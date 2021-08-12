@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.exercise.member.delete request
  *
  * @author auto create
- * @since 1.0, 2019-08-01 10:37:42
+ * @since 1.0, 2021-07-14 10:12:35
  */
 class KoubeiServindustryExerciseMemberDeleteRequest
 {

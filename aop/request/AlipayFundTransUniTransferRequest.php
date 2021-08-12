@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.uni.transfer request
  *
  * @author auto create
- * @since 1.0, 2021-06-04 11:43:20
+ * @since 1.0, 2021-08-11 18:24:48
  */
 class AlipayFundTransUniTransferRequest
 {

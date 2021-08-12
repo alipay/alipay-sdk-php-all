@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.promotionactivity.customer.receive request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 11:44:42
+ * @since 1.0, 2021-07-19 15:24:59
  */
 class AlipayMarketingCampaignPromotionactivityCustomerReceiveRequest
 {

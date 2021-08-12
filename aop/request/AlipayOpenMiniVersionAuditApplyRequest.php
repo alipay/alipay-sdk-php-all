@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.audit.apply request
  *
  * @author auto create
- * @since 1.0, 2021-01-06 17:59:14
+ * @since 1.0, 2021-07-27 11:45:22
  */
 class AlipayOpenMiniVersionAuditApplyRequest
 {
@@ -167,11 +167,13 @@ LOCATION-指定区域
 	
 	/** 
 	 * 小程序客服邮箱，如果不填默认采用当前小程序的应用客服邮箱，小程序客服电话和邮箱至少输入一个。
+注意：2021年7月1日后，该字段将逐步灰度为可选字段，请按可选开发。 
 	 **/
 	private $serviceEmail;
 	
 	/** 
 	 * 小程序客服电话，长度限制5~30个字符，仅支持包含数字和-。如果不填默认采用当前小程序的应用客服电话，小程序客服电话和邮箱至少输入一个。
+注意：2021年7月1日后，该字段将逐步灰度为必填字段，请按必填开发。
 	 **/
 	private $servicePhone;
 	

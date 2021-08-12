@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfacceptance.bill.accept request
  *
  * @author auto create
- * @since 1.0, 2020-12-25 17:32:17
+ * @since 1.0, 2021-07-06 16:35:45
  */
 class AlipayBossFncGfacceptanceBillAcceptRequest
 {

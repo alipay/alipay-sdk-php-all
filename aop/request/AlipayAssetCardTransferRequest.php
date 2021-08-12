@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.asset.card.transfer request
  *
  * @author auto create
- * @since 1.0, 2019-04-28 14:48:45
+ * @since 1.0, 2021-07-14 10:10:11
  */
 class AlipayAssetCardTransferRequest
 {

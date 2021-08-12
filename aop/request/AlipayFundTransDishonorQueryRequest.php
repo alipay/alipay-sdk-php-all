@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.dishonor.query request
  *
  * @author auto create
- * @since 1.0, 2020-08-27 11:48:45
+ * @since 1.0, 2021-07-14 10:09:56
  */
 class AlipayFundTransDishonorQueryRequest
 {

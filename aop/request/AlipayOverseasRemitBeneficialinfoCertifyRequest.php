@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.remit.beneficialinfo.certify request
  *
  * @author auto create
- * @since 1.0, 2020-05-27 20:10:11
+ * @since 1.0, 2021-07-14 10:09:51
  */
 class AlipayOverseasRemitBeneficialinfoCertifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.common.notify.send request
  *
  * @author auto create
- * @since 1.0, 2019-11-08 17:42:02
+ * @since 1.0, 2021-07-14 10:09:13
  */
 class AlipayEbppCommonNotifySendRequest
 {

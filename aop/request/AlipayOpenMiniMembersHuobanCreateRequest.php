@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.members.huoban.create request
  *
  * @author auto create
- * @since 1.0, 2021-06-01 14:09:02
+ * @since 1.0, 2021-07-14 10:09:50
  */
 class AlipayOpenMiniMembersHuobanCreateRequest
 {

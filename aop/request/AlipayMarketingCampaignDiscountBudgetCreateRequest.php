@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.discount.budget.create request
  *
  * @author auto create
- * @since 1.0, 2019-04-01 15:25:01
+ * @since 1.0, 2021-07-14 10:10:14
  */
 class AlipayMarketingCampaignDiscountBudgetCreateRequest
 {

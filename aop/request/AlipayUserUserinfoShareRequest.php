@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.userinfo.share request
  *
  * @author auto create
- * @since 1.0, 2021-02-24 18:36:13
+ * @since 1.0, 2021-07-14 10:10:09
  */
 class AlipayUserUserinfoShareRequest
 {

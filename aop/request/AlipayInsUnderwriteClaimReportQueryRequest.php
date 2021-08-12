@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.underwrite.claim.report.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-27 16:16:56
+ * @since 1.0, 2021-07-14 10:09:08
  */
 class AlipayInsUnderwriteClaimReportQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.common.bill.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-10 10:30:41
+ * @since 1.0, 2021-07-14 10:09:13
  */
 class AlipayEbppCommonBillQueryRequest
 {

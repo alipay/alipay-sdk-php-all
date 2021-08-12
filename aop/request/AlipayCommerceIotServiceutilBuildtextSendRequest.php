@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.serviceutil.buildtext.send request
  *
  * @author auto create
- * @since 1.0, 2021-04-09 15:07:33
+ * @since 1.0, 2021-07-14 10:12:38
  */
 class AlipayCommerceIotServiceutilBuildtextSendRequest
 {

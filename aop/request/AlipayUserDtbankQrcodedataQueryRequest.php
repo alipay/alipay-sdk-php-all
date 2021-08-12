@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.dtbank.qrcodedata.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-03 14:10:18
+ * @since 1.0, 2021-07-07 19:16:45
  */
 class AlipayUserDtbankQrcodedataQueryRequest
 {

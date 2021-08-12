@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.mobile.screen.refund request
  *
  * @author auto create
- * @since 1.0, 2021-06-18 16:20:46
+ * @since 1.0, 2021-07-14 10:13:53
  */
 class AlipayInsSceneMobileScreenRefundRequest
 {
