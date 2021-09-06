@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.terminal.vending.create request
  *
  * @author auto create
- * @since 1.0, 2021-08-05 14:10:23
+ * @since 1.0, 2021-08-20 17:16:30
  */
 class AlipayCommerceTerminalVendingCreateRequest
 {

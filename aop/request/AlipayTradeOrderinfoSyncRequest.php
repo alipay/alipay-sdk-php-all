@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.orderinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2020-12-28 17:58:50
+ * @since 1.0, 2021-09-01 21:07:42
  */
 class AlipayTradeOrderinfoSyncRequest
 {

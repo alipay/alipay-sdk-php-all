@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.data.poi.sync request
  *
  * @author auto create
- * @since 1.0, 2021-05-26 19:09:53
+ * @since 1.0, 2021-08-12 18:49:45
  */
 class AlipayOpenMiniDataPoiSyncRequest
 {

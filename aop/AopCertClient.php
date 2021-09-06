@@ -78,6 +78,29 @@ class AopCertClient
     private $needEncrypt = false;
 
     private $targetServiceUrl = "";
+    // 添加构造函数
+    function __construct() {
+        //根据参数个数和参数类型 来做相应的判断
+        if(func_num_args()==1 && func_get_arg(0) instanceof AlipayConfig){
+            $config = func_get_arg(0);
+            $this->appId = $config->getAppId();
+            $this->format = $config->getFormat();
+            $this->gatewayUrl = $config->getServerUrl();
+            $this->signType = $config->getSignType();
+            $this->postCharset = $config->getCharset();
+            $this->rsaPrivateKey = $config->getPrivateKey();
+            // 优先从Content字段获取内容, content 未设置内容则从文件路径中读取内容
+            $alipayPublicContent = !$this->checkEmpty($config->getAlipayPublicCertContent())?$config->getAlipayPublicCertContent():file_get_contents($config->getAlipayPublicCertPath());
+            $this->alipayrsaPublicKey = $this->getPublicKeyFromContent($alipayPublicContent);
+           
+            $appCertContent = !$this->checkEmpty($config->getAppCertContent())?$config->getAppCertContent():file_get_contents($config->getAppCertPath());
+            $this->appCertSN = $this->getCertSNFromContent($appCertContent);
+
+            $rootCertContent = !$this->checkEmpty($config->getRootCertContent())?$config->getRootCertContent():file_get_contents($config->getRootCertPath());
+            $this->alipayRootCertSN = $this->getRootCertSNFromContent($rootCertContent);
+        }
+    }
+
 
     /**
      * 从证书中提取序列号
@@ -91,7 +114,16 @@ class AopCertClient
         $SN = md5(array2string(array_reverse($ssl['issuer'])) . $ssl['serialNumber']);
         return $SN;
     }
-
+    /**
+     * 从证书内容中提取序列号
+     * @param $certContent
+     * @return string
+     */
+    public function getCertSNFromContent($certContent){
+        $ssl = openssl_x509_parse($certContent);
+        $SN = md5(array2string(array_reverse($ssl['issuer'])) . $ssl['serialNumber']);
+        return $SN;
+    }
     /**
      * 提取根证书序列号
      * @param $cert  根证书
@@ -119,7 +151,31 @@ class AopCertClient
         }
         return $SN;
     }
+    /**
+     * 提取根证书序列号
+     * @param $certContent  根证书
+     * @return string|null
+     */
+    public function getRootCertSNFromContent($certContent){
+        $this->alipayRootCertContent = $certContent;
+        $array = explode("-----END CERTIFICATE-----", $certContent);
+        $SN = null;
+        for ($i = 0; $i < count($array) - 1; $i++) {
+            $ssl[$i] = openssl_x509_parse($array[$i] . "-----END CERTIFICATE-----");
+            if(strpos($ssl[$i]['serialNumber'],'0x') === 0){
+                $ssl[$i]['serialNumber'] = $this->hex2dec($ssl[$i]['serialNumberHex']);
+            }
+            if ($ssl[$i]['signatureTypeLN'] == "sha1WithRSAEncryption" || $ssl[$i]['signatureTypeLN'] == "sha256WithRSAEncryption") {
+                if ($SN == null) {
+                    $SN = md5(array2string(array_reverse($ssl[$i]['issuer'])) . $ssl[$i]['serialNumber']);
+                } else {
 
+                    $SN = $SN . "_" . md5(array2string(array_reverse($ssl[$i]['issuer'])) . $ssl[$i]['serialNumber']);
+                }
+            }
+        }
+        return $SN;
+    }
     /**
      * 0x转高精度数字
      * @param $hex
@@ -149,7 +205,18 @@ class AopCertClient
         $public_key = trim(str_replace('-----END PUBLIC KEY-----', '', $public_key));
         return $public_key;
     }
-
+    /**
+     * 从证书content中提取公钥
+     * @param $content
+     * @return mixed
+     */
+    public function getPublicKeyFromContent($content){
+        $pkey = openssl_pkey_get_public($content);
+        $keyData = openssl_pkey_get_details($pkey);
+        $public_key = str_replace('-----BEGIN PUBLIC KEY-----', '', $keyData['key']);
+        $public_key = trim(str_replace('-----END PUBLIC KEY-----', '', $public_key));
+        return $public_key;
+    }
 
     /**
      * 验证签名

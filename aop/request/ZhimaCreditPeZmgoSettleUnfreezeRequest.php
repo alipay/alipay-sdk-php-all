@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.zmgo.settle.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2021-04-21 10:20:18
+ * @since 1.0, 2021-08-23 11:07:40
  */
 class ZhimaCreditPeZmgoSettleUnfreezeRequest
 {

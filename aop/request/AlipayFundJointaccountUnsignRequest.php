@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.unsign request
  *
  * @author auto create
- * @since 1.0, 2021-03-18 10:44:14
+ * @since 1.0, 2021-08-17 22:32:05
  */
 class AlipayFundJointaccountUnsignRequest
 {

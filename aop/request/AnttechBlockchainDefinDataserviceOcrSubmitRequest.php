@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.dataservice.ocr.submit request
  *
  * @author auto create
- * @since 1.0, 2021-07-02 18:56:27
+ * @since 1.0, 2021-08-12 11:14:11
  */
 class AnttechBlockchainDefinDataserviceOcrSubmitRequest
 {

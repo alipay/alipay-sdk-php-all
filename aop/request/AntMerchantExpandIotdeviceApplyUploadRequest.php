@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.iotdevice.apply.upload request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:00
+ * @since 1.0, 2021-08-27 15:45:29
  */
 class AntMerchantExpandIotdeviceApplyUploadRequest
 {

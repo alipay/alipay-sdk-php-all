@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.digitalidentity.certificate.sync request
  *
  * @author auto create
- * @since 1.0, 2021-06-21 10:00:26
+ * @since 1.0, 2021-09-01 16:25:27
  */
 class AlipayUserDigitalidentityCertificateSyncRequest
 {

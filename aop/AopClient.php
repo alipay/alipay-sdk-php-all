@@ -4,7 +4,7 @@ require_once 'AopEncrypt.php';
 require_once 'EncryptParseItem.php';
 require_once 'EncryptResponseData.php';
 require_once 'SignData.php';
-
+require_once 'AlipayConfig.php';
 class AopClient
 {
     //应用ID
@@ -63,7 +63,19 @@ class AopClient
     private $targetServiceUrl = "";
 
     protected $alipaySdkVersion = "alipay-sdk-PHP-4.11.14.ALL";
-
+    function __construct() {
+        //根据参数个数和参数类型 来做相应的判断
+        if(func_num_args()==1 && func_get_arg(0) instanceof AlipayConfig){
+            $config = func_get_arg(0);
+            $this->appId = $config->getAppId();
+            $this->format = $config->getFormat();
+            $this->gatewayUrl = $config->getServerUrl();
+            $this->signType = $config->getSignType();
+            $this->postCharset = $config->getCharset();
+            $this->rsaPrivateKey = $config->getPrivateKey();
+            $this->alipayrsaPublicKey = $config->getAlipayPublicKey();
+        }
+    }
     public function generateSign($params, $signType = "RSA")
     {
         $params = array_filter($params);

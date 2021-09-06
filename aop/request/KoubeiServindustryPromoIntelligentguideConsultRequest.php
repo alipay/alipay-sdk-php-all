@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.promo.intelligentguide.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:11
+ * @since 1.0, 2021-09-01 11:05:52
  */
 class KoubeiServindustryPromoIntelligentguideConsultRequest
 {

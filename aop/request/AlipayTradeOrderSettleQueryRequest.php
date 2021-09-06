@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.ins.scene.application.mobile.apply request
+ * ALIPAY API: alipay.trade.order.settle.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:58
+ * @since 1.0, 2021-09-02 15:30:29
  */
-class AlipayInsSceneApplicationMobileApplyRequest
+class AlipayTradeOrderSettleQueryRequest
 {
 	/** 
-	 * 碎屏险投保
+	 * 交易分账查询接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayInsSceneApplicationMobileApplyRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.ins.scene.application.mobile.apply";
+		return "alipay.trade.order.settle.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)
