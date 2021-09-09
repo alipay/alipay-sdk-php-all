@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.commerce.iot.group.batchquery request
+ * ALIPAY API: mybank.payment.trade.subaccount.balance.query request
  *
  * @author auto create
- * @since 1.0, 2020-08-19 20:11:23
+ * @since 1.0, 2021-09-09 16:15:29
  */
-class AlipayCommerceIotGroupBatchqueryRequest
+class MybankPaymentTradeSubaccountBalanceQueryRequest
 {
 	/** 
-	 * 分组列表查询
+	 * 子账户余额查询
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayCommerceIotGroupBatchqueryRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.commerce.iot.group.batchquery";
+		return "mybank.payment.trade.subaccount.balance.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

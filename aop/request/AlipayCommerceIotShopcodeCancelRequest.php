@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.shopcode.cancel request
  *
  * @author auto create
- * @since 1.0, 2020-11-22 22:22:28
+ * @since 1.0, 2021-09-06 18:48:19
  */
 class AlipayCommerceIotShopcodeCancelRequest
 {

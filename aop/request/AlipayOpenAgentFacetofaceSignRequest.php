@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.facetoface.sign request
  *
  * @author auto create
- * @since 1.0, 2021-08-16 10:57:37
+ * @since 1.0, 2021-09-07 17:55:27
  */
 class AlipayOpenAgentFacetofaceSignRequest
 {
@@ -18,7 +18,7 @@ class AlipayOpenAgentFacetofaceSignRequest
 	private $businessLicenseAuthPic;
 	
 	/** 
-	 * 营业执照法人手机号码
+	 * 被邀请授权的营业执照法人手机号码，上传非同人营业执照时必填
 	 **/
 	private $businessLicenseMobile;
 	

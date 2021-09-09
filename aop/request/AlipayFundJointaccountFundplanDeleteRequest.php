@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.commerce.iot.group.modify request
+ * ALIPAY API: alipay.fund.jointaccount.fundplan.delete request
  *
  * @author auto create
- * @since 1.0, 2020-08-19 20:11:48
+ * @since 1.0, 2021-09-07 19:25:53
  */
-class AlipayCommerceIotGroupModifyRequest
+class AlipayFundJointaccountFundplanDeleteRequest
 {
 	/** 
-	 * IOT分组修改
+	 * 删除自动攒计划
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayCommerceIotGroupModifyRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.commerce.iot.group.modify";
+		return "alipay.fund.jointaccount.fundplan.delete";
 	}
 
 	public function setNotifyUrl($notifyUrl)

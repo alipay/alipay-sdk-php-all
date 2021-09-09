@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.commerce.iot.group.create request
+ * ALIPAY API: anttech.blockchain.twc.user.match request
  *
  * @author auto create
- * @since 1.0, 2020-08-19 20:12:00
+ * @since 1.0, 2021-09-08 17:29:57
  */
-class AlipayCommerceIotGroupCreateRequest
+class AnttechBlockchainTwcUserMatchRequest
 {
 	/** 
-	 * 创建分组
+	 * userId和certNo是不是一致
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayCommerceIotGroupCreateRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.commerce.iot.group.create";
+		return "anttech.blockchain.twc.user.match";
 	}
 
 	public function setNotifyUrl($notifyUrl)

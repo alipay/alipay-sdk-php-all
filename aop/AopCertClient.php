@@ -886,7 +886,7 @@ class AopCertClient
             $headers = array('content-type: application/x-www-form-urlencoded;charset=' . $this->postCharset);
             curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
         }
-        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+
         $reponse = curl_exec($ch);
         if (curl_errno($ch)) {
             throw new Exception(curl_error($ch), 0);

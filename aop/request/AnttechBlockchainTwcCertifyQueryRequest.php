@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.commerce.iot.group.member.delete request
+ * ALIPAY API: anttech.blockchain.twc.certify.query request
  *
  * @author auto create
- * @since 1.0, 2020-08-19 20:09:44
+ * @since 1.0, 2021-09-08 11:41:40
  */
-class AlipayCommerceIotGroupMemberDeleteRequest
+class AnttechBlockchainTwcCertifyQueryRequest
 {
 	/** 
-	 * 删除分组成员
+	 * 实人认证查询
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayCommerceIotGroupMemberDeleteRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.commerce.iot.group.member.delete";
+		return "anttech.blockchain.twc.certify.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

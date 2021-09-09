@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.commerce.iot.group.member.add request
+ * ALIPAY API: alipay.fund.jointaccount.depositplan.detail.query request
  *
  * @author auto create
- * @since 1.0, 2020-08-19 20:10:48
+ * @since 1.0, 2021-09-07 19:25:28
  */
-class AlipayCommerceIotGroupMemberAddRequest
+class AlipayFundJointaccountDepositplanDetailQueryRequest
 {
 	/** 
-	 * 批量添加分组设备
+	 * 自动攒计划详情查询
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayCommerceIotGroupMemberAddRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.commerce.iot.group.member.add";
+		return "alipay.fund.jointaccount.depositplan.detail.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

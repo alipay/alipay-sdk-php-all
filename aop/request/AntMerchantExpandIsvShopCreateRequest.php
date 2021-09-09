@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.isv.shop.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:00
+ * @since 1.0, 2021-09-07 15:22:52
  */
 class AntMerchantExpandIsvShopCreateRequest
 {

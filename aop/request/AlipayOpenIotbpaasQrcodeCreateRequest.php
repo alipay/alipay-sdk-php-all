@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.commerce.iot.group.delete request
+ * ALIPAY API: alipay.open.iotbpaas.qrcode.create request
  *
  * @author auto create
- * @since 1.0, 2020-08-19 20:11:34
+ * @since 1.0, 2021-09-07 15:05:28
  */
-class AlipayCommerceIotGroupDeleteRequest
+class AlipayOpenIotbpaasQrcodeCreateRequest
 {
 	/** 
-	 * 删除分组
+	 * IoTBPaaS通用二维码图片生成
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayCommerceIotGroupDeleteRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.commerce.iot.group.delete";
+		return "alipay.open.iotbpaas.qrcode.create";
 	}
 
 	public function setNotifyUrl($notifyUrl)

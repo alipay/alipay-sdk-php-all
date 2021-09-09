@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.commerce.iot.group.member.batchquery request
+ * ALIPAY API: alipay.fund.jointaccount.fund.order.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:05
+ * @since 1.0, 2021-09-07 10:07:43
  */
-class AlipayCommerceIotGroupMemberBatchqueryRequest
+class AlipayFundJointaccountFundOrderQueryRequest
 {
 	/** 
-	 * 分组设备列表查询
+	 * 查询资金单据
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayCommerceIotGroupMemberBatchqueryRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.commerce.iot.group.member.batchquery";
+		return "alipay.fund.jointaccount.fund.order.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)
