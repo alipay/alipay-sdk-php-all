@@ -75,8 +75,9 @@ echo $result;
 [SDK文档首页](https://docs.open.alipay.com/54/103419/)
 
 ## 问题
-[提交 Issue](https://github.com/alipay/alipay-sdk-php-all/issues/new)，我们会定期查看Issue记录并尽快做出反馈。
+不管您在使用SDK的过程中遇到任何问题，欢迎前往 [支付宝开放社区](https://forum.alipay.com/mini-app/channel/1100001)  发帖与支付宝工作人员和其他开发者一起交流。
 
+注：为了提高开发者问题的响应时效，github本身的issue功能已关闭，支付宝开放社区中发帖的问题，通常会在2小时内响应。
 
 ## 相关
 * [支付宝开放平台](https://open.alipay.com/platform/home.htm)
