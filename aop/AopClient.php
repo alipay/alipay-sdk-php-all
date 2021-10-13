@@ -440,7 +440,7 @@ class AopClient
     /**
      * 建立请求，以表单HTML形式构造（默认）
      * @param $para_temp 请求参数数组
-     * @return 提交表单HTML文本
+     * @return string
      */
     protected function buildRequestForm($para_temp)
     {
