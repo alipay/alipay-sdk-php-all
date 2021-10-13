@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.vendingmachine.profile.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-26 16:55:00
+ * @since 1.0, 2021-09-17 10:26:53
  */
 class AlipayCommerceIotVendingmachineProfileQueryRequest
 {

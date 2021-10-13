@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.sumapsummarybill.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-05 15:25:23
+ * @since 1.0, 2021-09-28 14:26:06
  */
 class AlipayBossFncGfsettleprodSumapsummarybillQueryRequest
 {

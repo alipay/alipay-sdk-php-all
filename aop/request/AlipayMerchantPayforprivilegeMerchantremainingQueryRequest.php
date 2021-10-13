@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.payforprivilege.merchantremaining.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-18 10:14:31
+ * @since 1.0, 2021-09-16 16:17:45
  */
 class AlipayMerchantPayforprivilegeMerchantremainingQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.page.sign request
  *
  * @author auto create
- * @since 1.0, 2021-09-07 19:55:28
+ * @since 1.0, 2021-09-27 11:40:33
  */
 class AlipayUserAgreementPageSignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.group.delete request
  *
  * @author auto create
- * @since 1.0, 2021-05-27 16:25:33
+ * @since 1.0, 2021-09-13 20:59:19
  */
 class AlipayOpenPublicGroupDeleteRequest
 {

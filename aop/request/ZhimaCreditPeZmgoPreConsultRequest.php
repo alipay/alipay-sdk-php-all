@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.zmgo.pre.consult request
  *
  * @author auto create
- * @since 1.0, 2021-08-03 10:45:23
+ * @since 1.0, 2021-09-26 20:15:29
  */
 class ZhimaCreditPeZmgoPreConsultRequest
 {

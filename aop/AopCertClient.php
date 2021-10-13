@@ -459,7 +459,7 @@ class AopCertClient
 
         $this->setupCharsets($request);
         if (strcasecmp($this->fileCharset, $this->postCharset)) {
-            throw new Exception("文件编码：[" . $this->fileCharset . "] 与表单提交编码：[" . $this->postCharset . "]两者不一致!");
+            throw new \Exception("文件编码：[" . $this->fileCharset . "] 与表单提交编码：[" . $this->postCharset . "]两者不一致!");
         }
         $iv=null;
         if(!$this->checkEmpty($request->getApiVersion())){
@@ -491,13 +491,13 @@ class AopCertClient
         if (method_exists($request,"getNeedEncrypt") &&$request->getNeedEncrypt()){
             $sysParams["encrypt_type"] = $this->encryptType;
             if ($this->checkEmpty($apiParams['biz_content'])) {
-                throw new Exception(" api request Fail! The reason : encrypt request is not supperted!");
+                throw new \Exception(" api request Fail! The reason : encrypt request is not supperted!");
             }
             if ($this->checkEmpty($this->encryptKey) || $this->checkEmpty($this->encryptType)) {
-                throw new Exception(" encryptType and encryptKey must not null! ");
+                throw new \Exception(" encryptType and encryptKey must not null! ");
             }
             if ("AES" != $this->encryptType) {
-                throw new Exception("加密类型只支持AES");
+                throw new \Exception("加密类型只支持AES");
             }
             // 执行加密
             $enCryptContent = encrypt($apiParams['biz_content'], $this->encryptKey);
@@ -584,7 +584,7 @@ class AopCertClient
         $this->setupCharsets($request);
         //如果两者编码不一致，会出现签名验签或者乱码
         if (strcasecmp($this->fileCharset, $this->postCharset)) {
-            throw new Exception("文件编码：[" . $this->fileCharset . "] 与表单提交编码：[" . $this->postCharset . "]两者不一致!");
+            throw new \Exception("文件编码：[" . $this->fileCharset . "] 与表单提交编码：[" . $this->postCharset . "]两者不一致!");
         }
         $iv = null;
         if (!$this->checkEmpty($request->getApiVersion())) {
@@ -620,13 +620,13 @@ class AopCertClient
         if (method_exists($request,"getNeedEncrypt") && $request->getNeedEncrypt()){
             $sysParams["encrypt_type"] = $this->encryptType;
             if ($this->checkEmpty($apiParams['biz_content'])) {
-                throw new Exception(" api request Fail! The reason : encrypt request is not supperted!");
+                throw new \Exception(" api request Fail! The reason : encrypt request is not supperted!");
             }
             if ($this->checkEmpty($this->encryptKey) || $this->checkEmpty($this->encryptType)) {
-                throw new Exception(" encryptType and encryptKey must not null! ");
+                throw new \Exception(" encryptType and encryptKey must not null! ");
             }
             if ("AES" != $this->encryptType) {
-                throw new Exception("加密类型只支持AES");
+                throw new \Exception("加密类型只支持AES");
             }
             // 执行加密
             $enCryptContent = encrypt($apiParams['biz_content'], $this->encryptKey);
@@ -889,11 +889,11 @@ class AopCertClient
 
         $reponse = curl_exec($ch);
         if (curl_errno($ch)) {
-            throw new Exception(curl_error($ch), 0);
+            throw new \Exception(curl_error($ch), 0);
         } else {
             $httpStatusCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
             if (200 !== $httpStatusCode) {
-                throw new Exception($reponse, $httpStatusCode);
+                throw new \Exception($reponse, $httpStatusCode);
             }
         }
         curl_close($ch);
@@ -1055,7 +1055,7 @@ class AopCertClient
     public function checkResponseSign($request, $signData, $resp, $respObject) {
         if (!$this->checkEmpty($this->alipayPublicKey) || !$this->checkEmpty($this->alipayrsaPublicKey)) {
             if ($signData == null || $this->checkEmpty($signData->sign) || $this->checkEmpty($signData->signSourceData)) {
-                throw new Exception(" check sign Fail! The reason : signData is Empty");
+                throw new \Exception(" check sign Fail! The reason : signData is Empty");
             }
             // 获取结果sub_code
             $responseSubCode = $this->parserResponseSubCode($request, $resp, $respObject, $this->format);
@@ -1066,7 +1066,7 @@ class AopCertClient
 
                     //请求网关下载新的支付宝公钥证书
                     if(!$respObject->alipay_cert_sn && ($request->getApiMethodName()=="alipay.open.app.alipaycert.download")){
-                        throw new Exception(" check sign Fail! The reason : alipay_cert_sn is Empty");
+                        throw new \Exception(" check sign Fail! The reason : alipay_cert_sn is Empty");
                     }
                     //组装系统参数
                     $sysParams["app_id"] = $this->appId;
@@ -1126,7 +1126,7 @@ class AopCertClient
                             $checkResult = $this->verify($signData->signSourceData, $signData->sign, $this->alipayrsaPublicKey, $this->signType);
                         }else{
                             //如果下载下来的支付宝公钥证书使用根证书检查失败直接抛异常
-                            throw new Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
+                            throw new \Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
                         }
                     }
 
@@ -1135,10 +1135,10 @@ class AopCertClient
                             $signData->signSourceData = str_replace("\\/", "/", $signData->signSourceData);
                             $checkResult = $this->verify($signData->signSourceData, $signData->sign, $this->alipayPublicKey, $this->signType);
                             if (!$checkResult) {
-                                throw new Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
+                                throw new \Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
                             }
                         } else {
-                            throw new Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
+                            throw new \Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
                         }
                     }
 

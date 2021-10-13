@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.service.promo.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-24 09:37:50
+ * @since 1.0, 2021-10-13 10:30:31
  */
 class AlipayOpenAppServicePromoQueryRequest
 {

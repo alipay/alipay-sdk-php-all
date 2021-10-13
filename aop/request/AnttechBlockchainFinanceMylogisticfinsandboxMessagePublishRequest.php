@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.mylogisticfinsandbox.message.publish request
  *
  * @author auto create
- * @since 1.0, 2020-06-01 11:08:09
+ * @since 1.0, 2021-10-11 17:11:38
  */
 class AnttechBlockchainFinanceMylogisticfinsandboxMessagePublishRequest
 {

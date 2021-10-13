@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.mobileauth.sign.verify request
  *
  * @author auto create
- * @since 1.0, 2020-06-12 14:47:25
+ * @since 1.0, 2021-09-29 17:26:41
  */
 class AlipayPcreditHuabeiMobileauthSignVerifyRequest
 {

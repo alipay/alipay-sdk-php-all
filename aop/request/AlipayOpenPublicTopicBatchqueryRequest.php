@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.topic.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-11-18 14:01:12
+ * @since 1.0, 2021-09-13 20:10:59
  */
 class AlipayOpenPublicTopicBatchqueryRequest
 {

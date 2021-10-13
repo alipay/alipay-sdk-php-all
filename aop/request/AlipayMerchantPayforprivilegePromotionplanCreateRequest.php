@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.payforprivilege.promotionplan.create request
  *
  * @author auto create
- * @since 1.0, 2021-08-18 10:15:50
+ * @since 1.0, 2021-09-13 20:56:40
  */
 class AlipayMerchantPayforprivilegePromotionplanCreateRequest
 {

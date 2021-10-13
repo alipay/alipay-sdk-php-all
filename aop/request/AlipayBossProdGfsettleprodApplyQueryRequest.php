@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.gfsettleprod.apply.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-24 17:15:29
+ * @since 1.0, 2021-09-28 14:24:27
  */
 class AlipayBossProdGfsettleprodApplyQueryRequest
 {

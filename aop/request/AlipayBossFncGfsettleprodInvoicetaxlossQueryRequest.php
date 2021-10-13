@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.invoicetaxloss.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-05 15:26:27
+ * @since 1.0, 2021-09-28 14:25:07
  */
 class AlipayBossFncGfsettleprodInvoicetaxlossQueryRequest
 {
