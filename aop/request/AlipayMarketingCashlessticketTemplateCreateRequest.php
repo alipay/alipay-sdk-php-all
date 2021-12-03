@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.cashlessticket.template.create request
  *
  * @author auto create
- * @since 1.0, 2019-12-09 11:10:27
+ * @since 1.0, 2021-10-14 16:20:04
  */
 class AlipayMarketingCashlessticketTemplateCreateRequest
 {

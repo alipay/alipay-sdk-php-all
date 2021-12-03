@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.assetproduce.assign.sync request
  *
  * @author auto create
- * @since 1.0, 2020-09-14 20:31:10
+ * @since 1.0, 2021-11-19 16:03:01
  */
 class AntMerchantExpandAssetproduceAssignSyncRequest
 {

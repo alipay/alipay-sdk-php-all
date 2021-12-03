@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.settle.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-09-26 16:37:44
+ * @since 1.0, 2021-11-26 21:12:51
  */
 class AlipayTradeSettleConfirmRequest
 {

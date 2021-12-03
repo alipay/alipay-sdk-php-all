@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.market.item.state request
  *
  * @author auto create
- * @since 1.0, 2020-08-31 10:34:55
+ * @since 1.0, 2021-11-05 15:10:42
  */
 class AlipayOfflineMarketItemStateRequest
 {

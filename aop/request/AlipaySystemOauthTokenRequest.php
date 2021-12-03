@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.system.oauth.token request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:02:07
+ * @since 1.0, 2021-10-28 15:06:12
  */
 class AlipaySystemOauthTokenRequest
 {

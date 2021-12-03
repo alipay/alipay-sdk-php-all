@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.finance.yulibao.capital.purchase request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 15:47:19
+ * @since 1.0, 2021-11-05 15:04:04
  */
 class MybankFinanceYulibaoCapitalPurchaseRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mytesto.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-02 02:10:31
+ * @since 1.0, 2021-11-03 15:52:51
  */
 class AlipayOpenMytestoQueryRequest
 {

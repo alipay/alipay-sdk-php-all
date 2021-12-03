@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.finance.order.submit request
  *
  * @author auto create
- * @since 1.0, 2021-01-25 18:26:20
+ * @since 1.0, 2021-11-22 10:32:47
  */
 class AnttechBlockchainDefinFinanceOrderSubmitRequest
 {

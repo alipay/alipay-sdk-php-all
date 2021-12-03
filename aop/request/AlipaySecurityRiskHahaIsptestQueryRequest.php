@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.haha.isptest.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-24 19:07:46
+ * @since 1.0, 2021-11-08 13:46:38
  */
 class AlipaySecurityRiskHahaIsptestQueryRequest
 {

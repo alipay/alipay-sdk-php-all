@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.platform.userid.get request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2021-11-05 15:12:41
  */
 class AlipayPlatformUseridGetRequest
 {

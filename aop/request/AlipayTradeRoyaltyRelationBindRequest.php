@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.royalty.relation.bind request
  *
  * @author auto create
- * @since 1.0, 2021-09-26 17:05:39
+ * @since 1.0, 2021-11-03 14:50:58
  */
 class AlipayTradeRoyaltyRelationBindRequest
 {

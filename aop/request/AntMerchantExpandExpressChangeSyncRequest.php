@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.express.change.sync request
  *
  * @author auto create
- * @since 1.0, 2020-09-14 20:33:54
+ * @since 1.0, 2021-11-19 16:00:43
  */
 class AntMerchantExpandExpressChangeSyncRequest
 {

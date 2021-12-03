@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.qrcode.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-22 15:37:58
+ * @since 1.0, 2021-11-26 17:28:05
  */
 class AlipayOpenAppQrcodeCreateRequest
 {

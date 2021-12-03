@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.notice.publish request
  *
  * @author auto create
- * @since 1.0, 2021-05-06 10:22:36
+ * @since 1.0, 2021-11-09 14:33:36
  */
 class AlipayEbppCommunityNoticePublishRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.intelligentize.data.sync request
  *
  * @author auto create
- * @since 1.0, 2020-09-04 21:01:18
+ * @since 1.0, 2021-10-28 17:20:28
  */
 class AlipayCommerceTransportIntelligentizeDataSyncRequest
 {

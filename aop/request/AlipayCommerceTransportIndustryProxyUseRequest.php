@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.industry.proxy.use request
  *
  * @author auto create
- * @since 1.0, 2021-10-09 16:13:39
+ * @since 1.0, 2021-11-23 11:13:14
  */
 class AlipayCommerceTransportIndustryProxyUseRequest
 {

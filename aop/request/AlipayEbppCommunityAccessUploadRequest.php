@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.access.upload request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:13
+ * @since 1.0, 2021-11-09 14:34:06
  */
 class AlipayEbppCommunityAccessUploadRequest
 {

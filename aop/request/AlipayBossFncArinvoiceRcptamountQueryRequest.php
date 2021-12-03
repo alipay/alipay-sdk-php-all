@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.arinvoice.rcptamount.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-11 11:26:40
+ * @since 1.0, 2021-11-12 10:40:31
  */
 class AlipayBossFncArinvoiceRcptamountQueryRequest
 {

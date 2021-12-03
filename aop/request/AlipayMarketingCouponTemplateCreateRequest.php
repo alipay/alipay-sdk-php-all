@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.coupon.template.create request
  *
  * @author auto create
- * @since 1.0, 2020-12-23 15:10:11
+ * @since 1.0, 2021-11-22 11:32:58
  */
 class AlipayMarketingCouponTemplateCreateRequest
 {

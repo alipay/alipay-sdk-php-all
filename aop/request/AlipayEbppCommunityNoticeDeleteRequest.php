@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.notice.delete request
  *
  * @author auto create
- * @since 1.0, 2021-05-06 10:15:45
+ * @since 1.0, 2021-11-09 14:31:32
  */
 class AlipayEbppCommunityNoticeDeleteRequest
 {
