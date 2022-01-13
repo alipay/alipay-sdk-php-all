@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.data.dishdiagnosetype.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 10:07:31
+ * @since 1.0, 2021-12-21 22:30:35
  */
 class KoubeiMarketingDataDishdiagnosetypeBatchqueryRequest
 {

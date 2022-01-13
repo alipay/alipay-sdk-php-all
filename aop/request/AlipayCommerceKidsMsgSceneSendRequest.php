@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.kids.msg.scene.send request
  *
  * @author auto create
- * @since 1.0, 2021-07-23 15:19:34
+ * @since 1.0, 2021-12-08 21:47:53
  */
 class AlipayCommerceKidsMsgSceneSendRequest
 {

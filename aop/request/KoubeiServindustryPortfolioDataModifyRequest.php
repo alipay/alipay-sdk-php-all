@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.portfolio.data.modify request
  *
  * @author auto create
- * @since 1.0, 2020-06-18 11:56:34
+ * @since 1.0, 2021-12-21 22:41:07
  */
 class KoubeiServindustryPortfolioDataModifyRequest
 {

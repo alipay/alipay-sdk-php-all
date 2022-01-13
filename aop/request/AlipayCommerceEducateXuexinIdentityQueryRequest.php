@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.xuexin.identity.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-20 11:00:24
+ * @since 1.0, 2021-12-21 23:02:37
  */
 class AlipayCommerceEducateXuexinIdentityQueryRequest
 {

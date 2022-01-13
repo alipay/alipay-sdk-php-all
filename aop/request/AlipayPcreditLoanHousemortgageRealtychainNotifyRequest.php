@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.housemortgage.realtychain.notify request
  *
  * @author auto create
- * @since 1.0, 2021-06-29 14:03:46
+ * @since 1.0, 2021-12-09 00:44:42
  */
 class AlipayPcreditLoanHousemortgageRealtychainNotifyRequest
 {

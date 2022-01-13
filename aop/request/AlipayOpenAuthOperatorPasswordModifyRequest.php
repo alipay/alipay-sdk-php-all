@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.auth.operator.password.modify request
  *
  * @author auto create
- * @since 1.0, 2020-09-28 10:23:44
+ * @since 1.0, 2021-12-08 23:46:45
  */
 class AlipayOpenAuthOperatorPasswordModifyRequest
 {

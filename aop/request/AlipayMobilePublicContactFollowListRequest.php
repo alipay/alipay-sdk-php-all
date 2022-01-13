@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.contact.follow.list request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:42:01
+ * @since 1.0, 2021-12-21 23:41:06
  */
 class AlipayMobilePublicContactFollowListRequest
 {

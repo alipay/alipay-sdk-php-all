@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.customertag.save request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:25
+ * @since 1.0, 2021-12-21 21:57:47
  */
 class AlipayUserCustomertagSaveRequest
 {

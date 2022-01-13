@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.content.community.alivemsg.notify request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 19:46:21
+ * @since 1.0, 2021-12-21 22:09:24
  */
 class AntfortuneContentCommunityAlivemsgNotifyRequest
 {

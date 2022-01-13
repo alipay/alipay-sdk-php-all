@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.enterprise.reimburse.sync request
  *
  * @author auto create
- * @since 1.0, 2020-08-04 14:36:25
+ * @since 1.0, 2021-12-09 00:42:51
  */
 class AlipayPcreditHuabeiEnterpriseReimburseSyncRequest
 {

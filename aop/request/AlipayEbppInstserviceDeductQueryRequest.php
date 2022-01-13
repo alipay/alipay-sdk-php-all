@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.instservice.deduct.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:30
+ * @since 1.0, 2021-12-17 14:22:29
  */
 class AlipayEbppInstserviceDeductQueryRequest
 {

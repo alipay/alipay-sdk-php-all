@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.bill.add request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:13
+ * @since 1.0, 2021-12-21 23:11:16
  */
 class AlipayEbppBillAddRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.dapply.order.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:05
+ * @since 1.0, 2021-12-21 11:26:38
  */
 class AlipayCommerceIotDapplyOrderQueryRequest
 {

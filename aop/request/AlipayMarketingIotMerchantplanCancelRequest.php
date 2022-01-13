@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.iot.merchantplan.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 10:35:36
+ * @since 1.0, 2021-12-08 23:22:07
  */
 class AlipayMarketingIotMerchantplanCancelRequest
 {

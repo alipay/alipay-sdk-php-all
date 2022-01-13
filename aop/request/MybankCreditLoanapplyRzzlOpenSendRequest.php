@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.rzzl.open.send request
  *
  * @author auto create
- * @since 1.0, 2021-05-26 19:37:35
+ * @since 1.0, 2021-12-21 22:42:44
  */
 class MybankCreditLoanapplyRzzlOpenSendRequest
 {

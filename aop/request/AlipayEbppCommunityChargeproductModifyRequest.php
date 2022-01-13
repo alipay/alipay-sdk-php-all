@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.chargeproduct.modify request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:33:03
+ * @since 1.0, 2021-12-08 22:03:06
  */
 class AlipayEbppCommunityChargeproductModifyRequest
 {

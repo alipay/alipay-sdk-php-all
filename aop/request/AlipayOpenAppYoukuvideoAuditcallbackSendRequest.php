@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.youkuvideo.auditcallback.send request
  *
  * @author auto create
- * @since 1.0, 2019-03-29 16:10:00
+ * @since 1.0, 2021-12-08 23:45:58
  */
 class AlipayOpenAppYoukuvideoAuditcallbackSendRequest
 {

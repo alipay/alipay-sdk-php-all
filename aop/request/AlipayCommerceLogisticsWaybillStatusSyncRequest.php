@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.waybill.status.sync request
  *
  * @author auto create
- * @since 1.0, 2021-05-11 17:09:21
+ * @since 1.0, 2021-12-08 21:49:15
  */
 class AlipayCommerceLogisticsWaybillStatusSyncRequest
 {

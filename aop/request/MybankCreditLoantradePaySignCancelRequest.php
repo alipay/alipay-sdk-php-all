@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.pay.sign.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-08-19 21:35:23
+ * @since 1.0, 2021-12-27 11:58:56
  */
 class MybankCreditLoantradePaySignCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.medicalcare.hos.reportnotify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:32
+ * @since 1.0, 2021-12-08 22:47:07
  */
 class AlipayEcoMedicalcareHosReportnotifyRequest
 {

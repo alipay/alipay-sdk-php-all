@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerversion.beta.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-05-25 17:11:24
+ * @since 1.0, 2021-12-09 00:03:58
  */
 class AlipayOpenMiniInnerversionBetaConfirmRequest
 {

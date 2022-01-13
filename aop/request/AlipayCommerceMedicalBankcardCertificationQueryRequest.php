@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.bankcard.certification.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-16 15:45:47
+ * @since 1.0, 2021-12-21 23:03:57
  */
 class AlipayCommerceMedicalBankcardCertificationQueryRequest
 {

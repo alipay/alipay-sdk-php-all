@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.pdeduct.bill.pay.status request
  *
  * @author auto create
- * @since 1.0, 2021-08-04 16:38:43
+ * @since 1.0, 2021-12-21 23:17:06
  */
 class AlipayEbppPdeductBillPayStatusRequest
 {

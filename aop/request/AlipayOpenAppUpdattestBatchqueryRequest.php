@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.updattest.batchquery request
  *
  * @author auto create
- * @since 1.0, 2019-04-03 13:20:00
+ * @since 1.0, 2021-12-08 23:45:10
  */
 class AlipayOpenAppUpdattestBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.instcard.createandpay request
  *
  * @author auto create
- * @since 1.0, 2021-11-02 11:05:28
+ * @since 1.0, 2021-12-21 23:04:49
  */
 class AlipayCommerceMedicalInstcardCreateandpayRequest
 {

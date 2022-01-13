@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.facepayskin.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-10-29 14:20:32
+ * @since 1.0, 2021-12-14 15:25:35
  */
 class AlipayCommerceSportsFacepayskinBatchqueryRequest
 {

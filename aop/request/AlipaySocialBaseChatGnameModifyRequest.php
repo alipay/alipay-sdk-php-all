@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.chat.gname.modify request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2021-12-22 00:05:52
  */
 class AlipaySocialBaseChatGnameModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.conversion.upload request
  *
  * @author auto create
- * @since 1.0, 2021-10-20 23:05:34
+ * @since 1.0, 2021-12-08 22:00:34
  */
 class AlipayDataDataserviceAdConversionUploadRequest
 {

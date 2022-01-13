@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.platform.notice.create request
  *
  * @author auto create
- * @since 1.0, 2019-01-18 16:25:01
+ * @since 1.0, 2021-12-09 00:22:40
  */
 class AlipayOpenOperationPlatformNoticeCreateRequest
 {

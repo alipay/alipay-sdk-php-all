@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.service.bizabilitydata.set request
  *
  * @author auto create
- * @since 1.0, 2019-05-31 14:25:01
+ * @since 1.0, 2021-12-08 23:39:53
  */
 class AlipayOpenAppServiceBizabilitydataSetRequest
 {

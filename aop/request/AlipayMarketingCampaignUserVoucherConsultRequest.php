@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.user.voucher.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-12 10:04:34
+ * @since 1.0, 2021-12-21 23:36:19
  */
 class AlipayMarketingCampaignUserVoucherConsultRequest
 {

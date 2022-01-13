@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.maintain.bizorder.update request
  *
  * @author auto create
- * @since 1.0, 2020-12-31 11:45:11
+ * @since 1.0, 2021-12-08 22:49:03
  */
 class AlipayEcoMycarMaintainBizorderUpdateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.user.bankcard.bind request
  *
  * @author auto create
- * @since 1.0, 2021-12-02 11:44:01
+ * @since 1.0, 2021-12-21 22:44:05
  */
 class MybankCreditUserBankcardBindRequest
 {

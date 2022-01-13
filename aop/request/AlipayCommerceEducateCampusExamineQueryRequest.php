@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.campus.examine.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:04:42
+ * @since 1.0, 2021-12-21 23:00:14
  */
 class AlipayCommerceEducateCampusExamineQueryRequest
 {

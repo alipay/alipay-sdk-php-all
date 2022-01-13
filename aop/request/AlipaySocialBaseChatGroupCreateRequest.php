@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.chat.group.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:07
+ * @since 1.0, 2021-12-22 00:06:25
  */
 class AlipaySocialBaseChatGroupCreateRequest
 {

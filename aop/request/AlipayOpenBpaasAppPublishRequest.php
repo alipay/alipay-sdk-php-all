@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.bpaas.app.publish request
  *
  * @author auto create
- * @since 1.0, 2021-03-22 10:00:19
+ * @since 1.0, 2021-12-08 23:47:01
  */
 class AlipayOpenBpaasAppPublishRequest
 {

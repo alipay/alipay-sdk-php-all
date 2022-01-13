@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.portfolio.opus.delete request
  *
  * @author auto create
- * @since 1.0, 2020-06-18 11:54:25
+ * @since 1.0, 2021-12-21 22:41:23
  */
 class KoubeiServindustryPortfolioOpusDeleteRequest
 {

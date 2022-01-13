@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.dialogonline.vehicle.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-31 11:47:45
+ * @since 1.0, 2021-12-21 23:22:15
  */
 class AlipayEcoMycarDialogonlineVehicleQueryRequest
 {

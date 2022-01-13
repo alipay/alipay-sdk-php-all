@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.audit.apply request
  *
  * @author auto create
- * @since 1.0, 2021-11-24 15:42:34
+ * @since 1.0, 2022-01-10 15:25:40
  */
 class AlipayOpenMiniVersionAuditApplyRequest
 {
@@ -46,6 +46,13 @@ class AlipayOpenMiniVersionAuditApplyRequest
 	 * 小程序版本号，请选择开发版本执行提交审核操作。
 	 **/
 	private $appVersion;
+	
+	/** 
+	 * 审核类型：
+NONE： 不拆分准入、营销（默认）
+BASE_PROMOTE：准入、营销拆分审核
+	 **/
+	private $auditRule;
 	
 	/** 
 	 * 小程序投放的端参数。例如投放到支付宝钱包是支付宝端。默认支付宝端。支持：
@@ -183,6 +190,13 @@ LOCATION-指定区域
 	private $serviceRegionInfo;
 	
 	/** 
+	 * 如果有绿通权益，是否使用绿通权益加速审核：
+加速（默认）：true
+不加速：false
+	 **/
+	private $speedUp;
+	
+	/** 
 	 * 测试账号，是否需要填写请参见https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4
 	 **/
 	private $testAccout;
@@ -306,6 +320,17 @@ LOCATION-指定区域
 	public function getAppVersion()
 	{
 		return $this->appVersion;
+	}
+
+	public function setAuditRule($auditRule)
+	{
+		$this->auditRule = $auditRule;
+		$this->apiParas["audit_rule"] = $auditRule;
+	}
+
+	public function getAuditRule()
+	{
+		return $this->auditRule;
 	}
 
 	public function setBundleId($bundleId)
@@ -537,6 +562,17 @@ LOCATION-指定区域
 	public function getServiceRegionInfo()
 	{
 		return $this->serviceRegionInfo;
+	}
+
+	public function setSpeedUp($speedUp)
+	{
+		$this->speedUp = $speedUp;
+		$this->apiParas["speed_up"] = $speedUp;
+	}
+
+	public function getSpeedUp()
+	{
+		return $this->speedUp;
 	}
 
 	public function setTestAccout($testAccout)

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.lifemssage.single.send request
  *
  * @author auto create
- * @since 1.0, 2020-08-13 15:02:26
+ * @since 1.0, 2021-12-08 23:10:44
  */
 class AlipayInsSceneLifemssageSingleSendRequest
 {

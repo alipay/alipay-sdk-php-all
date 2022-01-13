@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.mdeviceprod.device.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-03 19:22:30
+ * @since 1.0, 2021-12-21 11:27:01
  */
 class AlipayCommerceIotMdeviceprodDeviceQueryRequest
 {

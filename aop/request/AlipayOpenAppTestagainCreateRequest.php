@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.testagain.create request
  *
  * @author auto create
- * @since 1.0, 2020-12-04 20:23:29
+ * @since 1.0, 2021-12-08 23:44:53
  */
 class AlipayOpenAppTestagainCreateRequest
 {

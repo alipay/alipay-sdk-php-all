@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.advert.commission.cascademission.create request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2021-12-21 22:13:25
  */
 class KoubeiAdvertCommissionCascademissionCreateRequest
 {

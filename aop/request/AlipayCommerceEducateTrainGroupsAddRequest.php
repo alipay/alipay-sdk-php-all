@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.train.groups.add request
  *
  * @author auto create
- * @since 1.0, 2020-08-06 15:51:16
+ * @since 1.0, 2021-12-08 21:37:13
  */
 class AlipayCommerceEducateTrainGroupsAddRequest
 {

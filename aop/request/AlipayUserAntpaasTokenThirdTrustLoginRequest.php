@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antpaas.token.third.trust.login request
  *
  * @author auto create
- * @since 1.0, 2020-07-02 19:50:32
+ * @since 1.0, 2021-12-22 00:16:24
  */
 class AlipayUserAntpaasTokenThirdTrustLoginRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.remit.result.finish request
  *
  * @author auto create
- * @since 1.0, 2019-10-24 13:45:41
+ * @since 1.0, 2021-12-09 00:41:00
  */
 class AlipayOverseasRemitResultFinishRequest
 {

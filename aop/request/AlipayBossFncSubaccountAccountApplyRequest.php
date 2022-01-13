@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.subaccount.account.apply request
  *
  * @author auto create
- * @since 1.0, 2020-08-31 19:45:14
+ * @since 1.0, 2021-12-27 20:14:24
  */
 class AlipayBossFncSubaccountAccountApplyRequest
 {

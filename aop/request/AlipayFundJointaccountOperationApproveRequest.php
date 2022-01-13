@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.operation.approve request
  *
  * @author auto create
- * @since 1.0, 2021-09-07 10:27:44
+ * @since 1.0, 2021-12-08 23:02:50
  */
 class AlipayFundJointaccountOperationApproveRequest
 {

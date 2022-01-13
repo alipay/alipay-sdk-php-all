@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerbaseinfo.parameter.verify request
  *
  * @author auto create
- * @since 1.0, 2021-06-21 10:41:23
+ * @since 1.0, 2021-12-09 00:00:49
  */
 class AlipayOpenMiniInnerbaseinfoParameterVerifyRequest
 {
