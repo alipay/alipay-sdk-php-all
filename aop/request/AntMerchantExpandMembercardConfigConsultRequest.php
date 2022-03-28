@@ -3,10 +3,14 @@
  * ALIPAY API: ant.merchant.expand.membercard.config.consult request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:05:32
+ * @since 1.0, 2022-03-22 15:13:04
  */
 class AntMerchantExpandMembercardConfigConsultRequest
 {
+	/** 
+	 * 商家安心充配置咨询
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AntMerchantExpandMembercardConfigConsultRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "ant.merchant.expand.membercard.config.consult";

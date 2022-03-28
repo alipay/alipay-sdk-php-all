@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.stepcounter.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:25:14
+ * @since 1.0, 2022-03-18 10:50:30
  */
 class AlipayUserStepcounterQueryRequest
 {

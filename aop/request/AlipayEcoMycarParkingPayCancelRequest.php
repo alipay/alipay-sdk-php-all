@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.parking.pay.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-11-10 11:40:34
+ * @since 1.0, 2022-03-26 11:36:36
  */
 class AlipayEcoMycarParkingPayCancelRequest
 {

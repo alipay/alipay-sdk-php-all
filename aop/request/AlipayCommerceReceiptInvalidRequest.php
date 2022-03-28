@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.receipt.invalid request
  *
  * @author auto create
- * @since 1.0, 2022-01-07 14:35:38
+ * @since 1.0, 2022-01-17 16:25:36
  */
 class AlipayCommerceReceiptInvalidRequest
 {

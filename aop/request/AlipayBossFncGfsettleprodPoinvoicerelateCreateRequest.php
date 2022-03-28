@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.poinvoicerelate.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:25:23
+ * @since 1.0, 2022-02-23 17:17:06
  */
 class AlipayBossFncGfsettleprodPoinvoicerelateCreateRequest
 {

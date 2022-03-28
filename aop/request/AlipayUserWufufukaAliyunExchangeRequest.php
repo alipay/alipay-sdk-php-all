@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.wufufuka.aliyun.exchange request
  *
  * @author auto create
- * @since 1.0, 2021-12-13 12:21:39
+ * @since 1.0, 2022-01-16 22:01:40
  */
 class AlipayUserWufufukaAliyunExchangeRequest
 {

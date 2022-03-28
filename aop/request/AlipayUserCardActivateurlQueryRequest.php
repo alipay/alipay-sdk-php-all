@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.card.activateurl.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-01 09:40:21
+ * @since 1.0, 2022-02-15 10:41:32
  */
 class AlipayUserCardActivateurlQueryRequest
 {
