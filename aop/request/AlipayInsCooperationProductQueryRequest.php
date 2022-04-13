@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.cooperation.product.query request
  *
  * @author auto create
- * @since 1.0, 2019-08-26 22:59:35
+ * @since 1.0, 2022-03-28 17:18:31
  */
 class AlipayInsCooperationProductQueryRequest
 {

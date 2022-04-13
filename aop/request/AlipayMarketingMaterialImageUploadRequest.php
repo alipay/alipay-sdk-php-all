@@ -3,10 +3,16 @@
  * ALIPAY API: alipay.marketing.material.image.upload request
  *
  * @author auto create
- * @since 1.0, 2022-03-15 14:33:38
+ * @since 1.0, 2022-04-02 20:01:42
  */
 class AlipayMarketingMaterialImageUploadRequest
 {
+	/** 
+	 * 服务商代商户创建投放必选
+bussinessType设置为ISV_FOR_MERCHANT。
+	 **/
+	private $belongMerchantInfo;
+	
 	/** 
 	 * 图片的byte字节数组。图片大小限制为2M
 	 **/
@@ -32,6 +38,17 @@ class AlipayMarketingMaterialImageUploadRequest
     private $needEncrypt=false;
 
 	
+	public function setBelongMerchantInfo($belongMerchantInfo)
+	{
+		$this->belongMerchantInfo = $belongMerchantInfo;
+		$this->apiParas["belong_merchant_info"] = $belongMerchantInfo;
+	}
+
+	public function getBelongMerchantInfo()
+	{
+		return $this->belongMerchantInfo;
+	}
+
 	public function setFileContent($fileContent)
 	{
 		$this->fileContent = $fileContent;

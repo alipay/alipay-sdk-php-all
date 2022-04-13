@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.bill.refund request
  *
  * @author auto create
- * @since 1.0, 2021-04-07 20:38:02
+ * @since 1.0, 2022-04-11 11:47:50
  */
 class AlipayEbppBillRefundRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.weather.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:08:35
+ * @since 1.0, 2022-03-28 17:12:34
  */
 class AlipayInsDataWeatherSyncRequest
 {

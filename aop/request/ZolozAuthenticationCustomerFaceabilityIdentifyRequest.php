@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.authentication.customer.faceability.identify request
  *
  * @author auto create
- * @since 1.0, 2022-02-22 17:08:24
+ * @since 1.0, 2022-03-30 10:26:42
  */
 class ZolozAuthenticationCustomerFaceabilityIdentifyRequest
 {

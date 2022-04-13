@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.claim.attachment.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:09:08
+ * @since 1.0, 2022-03-28 17:12:17
  */
 class AlipayInsSceneClaimAttachmentUploadRequest
 {

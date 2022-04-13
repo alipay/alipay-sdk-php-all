@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.entrust.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-04 21:00:20
+ * @since 1.0, 2022-04-01 13:44:11
  */
 class AlipayFundTransEntrustQueryRequest
 {
