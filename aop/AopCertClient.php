@@ -658,7 +658,7 @@ class AopCertClient
         $r = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
         $signData = null;
 
-        if ("json" == $this->format) {
+        if ("json" == strtolower($this->format)) {
             $respObject = json_decode($r);
             if (null !== $respObject) {
                 $respWellFormed = true;
@@ -686,7 +686,7 @@ class AopCertClient
         // 解密
         if (method_exists($request,"getNeedEncrypt") &&$request->getNeedEncrypt()){
 
-            if ("json" == $this->format) {
+            if ("json" == strtolower($this->format)) {
                 $resp = $this->encryptJSONSignSource($request, $resp);
                 // 将返回结果转换本地文件编码
                 $r = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
@@ -1149,7 +1149,7 @@ class AopCertClient
 
 
     function parserResponseSubCode($request, $responseContent, $respObject, $format) {
-        if ("json" == $format) {
+        if ("json" == strtolower($format)) {
             $apiName = $request->getApiMethodName();
             $rootNodeName = str_replace(".", "_", $apiName) . $this->RESPONSE_SUFFIX;
             $errorNodeName = $this->ERROR_RESPONSE;

@@ -627,7 +627,7 @@ class AopClient
         // 解密
         if (method_exists($request, "getNeedEncrypt") && $request->getNeedEncrypt()) {
 
-            if ("json" == $this->format) {
+            if ("json" == strtolower($this->format)) {
 
 
                 $resp = $this->encryptJSONSignSource($request, $resp);
@@ -917,7 +917,7 @@ class AopClient
     function parserResponseSubCode($request, $responseContent, $respObject, $format)
     {
 
-        if ("json" == $format) {
+        if ("json" == strtolower($format)) {
 
             $apiName = $request->getApiMethodName();
             $rootNodeName = str_replace(".", "_", $apiName) . $this->RESPONSE_SUFFIX;
