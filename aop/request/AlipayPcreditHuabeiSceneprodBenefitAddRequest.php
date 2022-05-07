@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.sceneprod.benefit.add request
  *
  * @author auto create
- * @since 1.0, 2021-12-20 20:45:45
+ * @since 1.0, 2022-04-19 17:50:31
  */
 class AlipayPcreditHuabeiSceneprodBenefitAddRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.auth.userauth.token.create request
  *
  * @author auto create
- * @since 1.0, 2022-02-17 10:51:33
+ * @since 1.0, 2022-04-20 17:03:58
  */
 class AlipayOpenAuthUserauthTokenCreateRequest
 {

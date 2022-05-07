@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.file.upload request
  *
  * @author auto create
- * @since 1.0, 2022-04-13 11:06:44
+ * @since 1.0, 2022-04-15 10:51:47
  */
 class AlipayOpenFileUploadRequest
 {

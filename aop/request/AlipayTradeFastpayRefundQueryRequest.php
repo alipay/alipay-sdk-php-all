@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.fastpay.refund.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-12 15:11:43
+ * @since 1.0, 2022-05-06 11:01:46
  */
 class AlipayTradeFastpayRefundQueryRequest
 {

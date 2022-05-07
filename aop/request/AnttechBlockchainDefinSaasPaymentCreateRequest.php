@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.saas.payment.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-17 13:16:04
+ * @since 1.0, 2022-04-25 12:43:53
  */
 class AnttechBlockchainDefinSaasPaymentCreateRequest
 {

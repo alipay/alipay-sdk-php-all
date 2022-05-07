@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.intelligentize.workschedule.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-25 16:16:33
+ * @since 1.0, 2022-05-07 16:41:37
  */
 class AlipayCommerceTransportIntelligentizeWorkscheduleCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.system.templatemessage.send request
  *
  * @author auto create
- * @since 1.0, 2022-04-13 10:11:40
+ * @since 1.0, 2022-04-22 10:51:45
  */
 class AlipayEcoMycarSystemTemplatemessageSendRequest
 {

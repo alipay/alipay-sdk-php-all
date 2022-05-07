@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.recruit.plan.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-23 15:22:05
+ * @since 1.0, 2022-05-06 20:33:11
  */
 class AlipayMarketingRecruitPlanQueryRequest
 {

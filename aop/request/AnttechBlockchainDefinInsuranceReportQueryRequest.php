@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.insurance.report.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-31 11:36:36
+ * @since 1.0, 2022-04-14 12:17:28
  */
 class AnttechBlockchainDefinInsuranceReportQueryRequest
 {
