@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.recruit.enroll.create request
  *
  * @author auto create
- * @since 1.0, 2022-03-02 09:46:50
+ * @since 1.0, 2022-05-19 13:36:42
  */
 class AlipayMarketingRecruitEnrollCreateRequest
 {

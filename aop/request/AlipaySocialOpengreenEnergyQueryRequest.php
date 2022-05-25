@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.opengreen.energy.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-25 17:26:35
+ * @since 1.0, 2022-05-18 15:16:44
  */
 class AlipaySocialOpengreenEnergyQueryRequest
 {

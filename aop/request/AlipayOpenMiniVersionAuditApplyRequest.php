@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.audit.apply request
  *
  * @author auto create
- * @since 1.0, 2022-04-14 11:06:43
+ * @since 1.0, 2022-05-23 11:26:41
  */
 class AlipayOpenMiniVersionAuditApplyRequest
 {
@@ -53,6 +53,12 @@ NONE： 不拆分准入、营销（默认）
 BASE_PROMOTE：准入、营销拆分审核
 	 **/
 	private $auditRule;
+	
+	/** 
+	 * 审核通过后是否自动上架，
+自动上架：true；不自动上架（默认）：false
+	 **/
+	private $autoOnline;
 	
 	/** 
 	 * 小程序投放的端参数。例如投放到支付宝钱包是支付宝端。默认支付宝端。支持：
@@ -331,6 +337,17 @@ LOCATION-指定区域
 	public function getAuditRule()
 	{
 		return $this->auditRule;
+	}
+
+	public function setAutoOnline($autoOnline)
+	{
+		$this->autoOnline = $autoOnline;
+		$this->apiParas["auto_online"] = $autoOnline;
+	}
+
+	public function getAutoOnline()
+	{
+		return $this->autoOnline;
 	}
 
 	public function setBundleId($bundleId)

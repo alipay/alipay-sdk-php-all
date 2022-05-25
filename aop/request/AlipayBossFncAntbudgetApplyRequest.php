@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.antbudget.apply request
  *
  * @author auto create
- * @since 1.0, 2021-01-22 13:20:16
+ * @since 1.0, 2022-05-19 14:25:56
  */
 class AlipayBossFncAntbudgetApplyRequest
 {

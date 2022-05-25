@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.auth.resauth.check request
  *
  * @author auto create
- * @since 1.0, 2022-04-19 10:36:43
+ * @since 1.0, 2022-05-13 17:15:39
  */
 class AlipayOpenAuthResauthCheckRequest
 {

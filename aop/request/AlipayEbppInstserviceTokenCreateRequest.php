@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.instservice.token.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:30
+ * @since 1.0, 2022-05-19 09:55:51
  */
 class AlipayEbppInstserviceTokenCreateRequest
 {

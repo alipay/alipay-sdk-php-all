@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.auth.userauth.relationship.certify request
  *
  * @author auto create
- * @since 1.0, 2020-12-14 14:24:50
+ * @since 1.0, 2022-05-13 17:22:32
  */
 class AlipayOpenAuthUserauthRelationshipCertifyRequest
 {

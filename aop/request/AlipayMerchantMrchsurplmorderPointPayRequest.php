@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.mrchsurplmorder.point.pay request
  *
  * @author auto create
- * @since 1.0, 2022-04-19 19:56:40
+ * @since 1.0, 2022-05-18 15:16:45
  */
 class AlipayMerchantMrchsurplmorderPointPayRequest
 {
