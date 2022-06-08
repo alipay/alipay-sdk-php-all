@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.antforest.event.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:05:30
+ * @since 1.0, 2022-06-08 10:02:12
  */
 class AlipayEbppIndustryAntforestEventSendRequest
 {

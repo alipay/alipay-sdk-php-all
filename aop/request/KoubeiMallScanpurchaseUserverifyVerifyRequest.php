@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.mall.scanpurchase.userverify.verify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:25:31
+ * @since 1.0, 2022-06-02 11:04:57
  */
 class KoubeiMallScanpurchaseUserverifyVerifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.order.istdcancel.preconsult request
  *
  * @author auto create
- * @since 1.0, 2021-03-31 13:49:35
+ * @since 1.0, 2022-05-31 16:13:30
  */
 class AlipayCommerceLogisticsOrderIstdcancelPreconsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.migrate request
  *
  * @author auto create
- * @since 1.0, 2022-05-07 10:41:43
+ * @since 1.0, 2022-06-08 11:36:43
  */
 class AlipayUserAgreementMigrateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.odps.crowd.sync request
  *
  * @author auto create
- * @since 1.0, 2021-01-25 16:30:02
+ * @since 1.0, 2022-06-01 15:30:14
  */
 class AlipayOpenPublicOdpsCrowdSyncRequest
 {
