@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.invited.convert.sync request
  *
  * @author auto create
- * @since 1.0, 2019-09-18 21:53:46
+ * @since 1.0, 2022-06-10 13:30:39
  */
 class AlipayUserAccountInvitedConvertSyncRequest
 {

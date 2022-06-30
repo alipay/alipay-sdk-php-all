@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.contract.merchant.unsign request
  *
  * @author auto create
- * @since 1.0, 2021-10-11 14:51:26
+ * @since 1.0, 2022-06-10 14:49:47
  */
 class AlipayFinancialnetAuthContractMerchantUnsignRequest
 {

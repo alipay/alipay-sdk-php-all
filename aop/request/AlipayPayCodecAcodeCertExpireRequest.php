@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.codec.acode.cert.expire request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:42:20
+ * @since 1.0, 2022-06-20 18:42:06
  */
 class AlipayPayCodecAcodeCertExpireRequest
 {

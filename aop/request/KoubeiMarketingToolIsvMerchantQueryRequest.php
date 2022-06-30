@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.tool.isv.merchant.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:35
+ * @since 1.0, 2022-06-27 11:18:29
  */
 class KoubeiMarketingToolIsvMerchantQueryRequest
 {

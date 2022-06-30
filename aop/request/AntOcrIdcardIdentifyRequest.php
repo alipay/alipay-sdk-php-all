@@ -3,7 +3,7 @@
  * ALIPAY API: ant.ocr.idcard.identify request
  *
  * @author auto create
- * @since 1.0, 2020-03-20 11:07:26
+ * @since 1.0, 2022-06-27 14:25:54
  */
 class AntOcrIdcardIdentifyRequest
 {

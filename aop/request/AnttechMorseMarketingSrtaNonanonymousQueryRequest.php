@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.morse.marketing.srta.nonanonymous.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:50
+ * @since 1.0, 2022-06-21 15:41:42
  */
 class AnttechMorseMarketingSrtaNonanonymousQueryRequest
 {

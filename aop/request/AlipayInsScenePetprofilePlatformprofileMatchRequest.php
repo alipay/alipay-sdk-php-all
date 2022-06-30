@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.petprofile.platformprofile.match request
  *
  * @author auto create
- * @since 1.0, 2021-12-01 16:47:51
+ * @since 1.0, 2022-06-21 20:56:43
  */
 class AlipayInsScenePetprofilePlatformprofileMatchRequest
 {

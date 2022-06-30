@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.fundds.fund.witness.withdraw request
  *
  * @author auto create
- * @since 1.0, 2022-05-06 16:21:48
+ * @since 1.0, 2022-06-11 17:07:06
  */
 class AlipayFincoreFunddsFundWitnessWithdrawRequest
 {
