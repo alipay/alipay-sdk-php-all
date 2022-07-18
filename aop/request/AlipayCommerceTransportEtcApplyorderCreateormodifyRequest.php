@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.applyorder.createormodify request
  *
  * @author auto create
- * @since 1.0, 2022-06-23 10:41:45
+ * @since 1.0, 2022-07-08 16:11:44
  */
 class AlipayCommerceTransportEtcApplyorderCreateormodifyRequest
 {

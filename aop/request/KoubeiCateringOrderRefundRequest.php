@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.order.refund request
  *
  * @author auto create
- * @since 1.0, 2019-01-25 10:41:35
+ * @since 1.0, 2022-07-01 16:26:13
  */
 class KoubeiCateringOrderRefundRequest
 {

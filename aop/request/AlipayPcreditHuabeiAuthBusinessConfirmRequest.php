@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.auth.business.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-10-27 10:07:41
+ * @since 1.0, 2022-07-01 16:41:09
  */
 class AlipayPcreditHuabeiAuthBusinessConfirmRequest
 {

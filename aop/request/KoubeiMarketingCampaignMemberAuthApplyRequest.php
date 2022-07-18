@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.campaign.member.auth.apply request
  *
  * @author auto create
- * @since 1.0, 2019-03-06 16:05:01
+ * @since 1.0, 2022-07-05 17:42:34
  */
 class KoubeiMarketingCampaignMemberAuthApplyRequest
 {

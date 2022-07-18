@@ -3,7 +3,7 @@
  * ALIPAY API: amap.map.mapservice.iotfcae.iotfcae.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-19 15:06:49
+ * @since 1.0, 2022-07-04 18:19:34
  */
 class AmapMapMapserviceIotfcaeIotfcaeQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.common.sign request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:32:52
+ * @since 1.0, 2022-07-08 14:21:00
  */
 class AlipayOpenAgentCommonSignRequest
 {
@@ -53,7 +53,7 @@ class AlipayOpenAgentCommonSignRequest
 	private $longTerm;
 	
 	/** 
-	 * <a href="https://doc.open.alipay.com/doc2/detail.htm?spm=a219a.7629140.0.0.59bgD2&treeId=222&articleId=105364&docType=1#s1">商家经营类目</a> 中的“经营类目编码”
+	 * <a href="https://opendocs.alipay.com/common/02khjv">商家经营类目</a> 中的“经营类目编码”
 	 **/
 	private $mccCode;
 	
@@ -74,7 +74,7 @@ class AlipayOpenAgentCommonSignRequest
 	
 	/** 
 	 * 企业特殊资质图片，可参考
-<a href="https://doc.open.alipay.com/doc2/detail.htm?spm=a219a.7629140.0.0.59bgD2&treeId=222&articleId=105364&docType=1#s1">商家经营类目</a> 中的“需要的特殊资质证书”。文件最小为 5KB，最大为5M，图片格式必须为：png、bmp、gif、jpg、jpeg。
+<a href="https://opendocs.alipay.com/common/02khjv">商家经营类目</a> 中的“需要的特殊资质证书”。文件最小为 5KB，最大为5M，图片格式必须为：png、bmp、gif、jpg、jpeg。
 	 **/
 	private $specialLicensePic;
 	

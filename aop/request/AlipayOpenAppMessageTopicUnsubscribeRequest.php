@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.message.topic.unsubscribe request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:37:30
+ * @since 1.0, 2022-07-14 16:23:49
  */
 class AlipayOpenAppMessageTopicUnsubscribeRequest
 {
