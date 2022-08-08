@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.antlaw.orderhitstatus.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-10 14:26:44
+ * @since 1.0, 2022-07-28 20:13:37
  */
 class AlipayBossProdAntlawOrderhitstatusQueryRequest
 {

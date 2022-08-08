@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.crowd.logical.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-26 09:36:46
+ * @since 1.0, 2022-08-03 16:56:42
  */
 class DatadigitalFincloudFinsaasCrowdLogicalCreateRequest
 {

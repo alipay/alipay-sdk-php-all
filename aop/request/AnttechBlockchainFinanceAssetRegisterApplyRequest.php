@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.asset.register.apply request
  *
  * @author auto create
- * @since 1.0, 2020-07-24 16:11:15
+ * @since 1.0, 2022-07-27 16:36:36
  */
 class AnttechBlockchainFinanceAssetRegisterApplyRequest
 {

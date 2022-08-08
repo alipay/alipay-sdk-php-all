@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.third.customer.service request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:12:10
+ * @since 1.0, 2022-08-05 19:30:26
  */
 class AlipayOpenPublicThirdCustomerServiceRequest
 {

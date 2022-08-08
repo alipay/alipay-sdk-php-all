@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.material.image.upload request
  *
  * @author auto create
- * @since 1.0, 2022-06-23 15:26:43
+ * @since 1.0, 2022-07-29 16:36:54
  */
 class AlipayMarketingMaterialImageUploadRequest
 {
@@ -33,6 +33,15 @@ voucher_display_info.brand_logo字段,file_key=PROMO_BRAND_LOGO，上传图片�
 voucher_display_info.voucher_image字段,file_key=PROMO_VOUCHER_IMAGE,上传图片尺寸670*335，支持格式：png、jpg、jpeg、bmp，大小不超过2MB
 	 **/
 	private $fileKey;
+	
+	/** 
+	 * 商户接入模式
+
+枚举值
+SELF_MODE 商户自接入模式
+AGENCY_MODE 服务商代接入模式
+	 **/
+	private $merchantAccessMode;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -75,6 +84,17 @@ voucher_display_info.voucher_image字段,file_key=PROMO_VOUCHER_IMAGE,上传图�
 	public function getFileKey()
 	{
 		return $this->fileKey;
+	}
+
+	public function setMerchantAccessMode($merchantAccessMode)
+	{
+		$this->merchantAccessMode = $merchantAccessMode;
+		$this->apiParas["merchant_access_mode"] = $merchantAccessMode;
+	}
+
+	public function getMerchantAccessMode()
+	{
+		return $this->merchantAccessMode;
 	}
 
 	public function getApiMethodName()

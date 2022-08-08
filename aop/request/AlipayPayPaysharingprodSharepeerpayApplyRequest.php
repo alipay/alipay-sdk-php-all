@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.paysharingprod.sharepeerpay.apply request
  *
  * @author auto create
- * @since 1.0, 2022-06-21 22:28:50
+ * @since 1.0, 2022-08-01 16:46:44
  */
 class AlipayPayPaysharingprodSharepeerpayApplyRequest
 {

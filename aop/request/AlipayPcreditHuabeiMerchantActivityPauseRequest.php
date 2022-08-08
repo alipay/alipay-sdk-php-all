@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.merchant.activity.pause request
  *
  * @author auto create
- * @since 1.0, 2022-04-20 15:17:43
+ * @since 1.0, 2022-07-22 15:01:27
  */
 class AlipayPcreditHuabeiMerchantActivityPauseRequest
 {

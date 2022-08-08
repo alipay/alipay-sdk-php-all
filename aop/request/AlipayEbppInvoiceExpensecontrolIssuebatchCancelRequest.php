@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expensecontrol.issuebatch.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 10:11:44
+ * @since 1.0, 2022-08-04 19:37:45
  */
 class AlipayEbppInvoiceExpensecontrolIssuebatchCancelRequest
 {

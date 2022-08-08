@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.ocr.mobile.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-06-14 13:56:45
+ * @since 1.0, 2022-07-22 17:47:29
  */
 class DatadigitalFincloudGeneralsaasOcrMobileInitializeRequest
 {

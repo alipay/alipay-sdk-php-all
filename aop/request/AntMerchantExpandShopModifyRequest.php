@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.shop.modify request
  *
  * @author auto create
- * @since 1.0, 2022-05-24 15:44:22
+ * @since 1.0, 2022-07-29 21:31:40
  */
 class AntMerchantExpandShopModifyRequest
 {

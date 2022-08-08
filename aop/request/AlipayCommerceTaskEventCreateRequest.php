@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.task.event.create request
  *
  * @author auto create
- * @since 1.0, 2022-06-24 11:27:57
+ * @since 1.0, 2022-07-19 15:41:45
  */
 class AlipayCommerceTaskEventCreateRequest
 {

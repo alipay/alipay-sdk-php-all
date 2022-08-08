@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.partner.subscribe.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:31:43
+ * @since 1.0, 2022-08-05 19:30:54
  */
 class AlipayOpenPublicPartnerSubscribeSyncRequest
 {
