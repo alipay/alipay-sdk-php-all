@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.ordervoucher.codecount request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 22:01:39
+ * @since 1.0, 2022-08-19 10:21:40
  */
 class AlipayMarketingActivityOrdervoucherCodecountRequest
 {

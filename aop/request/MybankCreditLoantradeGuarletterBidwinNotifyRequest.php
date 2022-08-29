@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.guarletter.bidwin.notify request
  *
  * @author auto create
- * @since 1.0, 2022-07-12 12:38:52
+ * @since 1.0, 2022-08-24 17:39:16
  */
 class MybankCreditLoantradeGuarletterBidwinNotifyRequest
 {

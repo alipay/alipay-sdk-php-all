@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.intelligentize.timetable.create request
  *
  * @author auto create
- * @since 1.0, 2022-02-08 17:15:38
+ * @since 1.0, 2022-08-18 17:29:00
  */
 class AlipayCommerceTransportIntelligentizeTimetableCreateRequest
 {

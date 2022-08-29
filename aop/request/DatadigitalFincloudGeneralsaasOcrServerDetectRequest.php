@@ -3,10 +3,15 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.ocr.server.detect request
  *
  * @author auto create
- * @since 1.0, 2022-07-22 16:32:06
+ * @since 1.0, 2022-08-19 14:01:47
  */
 class DatadigitalFincloudGeneralsaasOcrServerDetectRequest
 {
+	/** 
+	 * 二进制流图片，大小限制1M
+	 **/
+	private $fileContent;
+	
 	/** 
 	 * 可识别OCR类型。如，ID_CARD_FRONT 身份证正面；ID_CARD_FRONT 身份证反面等。具体支持的类型以接入文档为准。
 	 **/
@@ -27,6 +32,17 @@ class DatadigitalFincloudGeneralsaasOcrServerDetectRequest
     private $needEncrypt=false;
 
 	
+	public function setFileContent($fileContent)
+	{
+		$this->fileContent = $fileContent;
+		$this->apiParas["file_content"] = $fileContent;
+	}
+
+	public function getFileContent()
+	{
+		return $this->fileContent;
+	}
+
 	public function setOcrType($ocrType)
 	{
 		$this->ocrType = $ocrType;

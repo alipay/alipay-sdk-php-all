@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.robot.avatarbase.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-22 14:16:43
+ * @since 1.0, 2022-08-09 20:01:40
  */
 class AlipayIserviceCcmRobotAvatarbaseQueryRequest
 {

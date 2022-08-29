@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.saas.payment.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 13:56:42
+ * @since 1.0, 2022-08-25 22:31:46
  */
 class AnttechBlockchainDefinSaasPaymentCancelRequest
 {

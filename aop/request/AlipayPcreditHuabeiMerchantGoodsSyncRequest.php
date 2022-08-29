@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.merchant.goods.sync request
  *
  * @author auto create
- * @since 1.0, 2021-10-25 13:46:18
+ * @since 1.0, 2022-08-11 18:47:01
  */
 class AlipayPcreditHuabeiMerchantGoodsSyncRequest
 {

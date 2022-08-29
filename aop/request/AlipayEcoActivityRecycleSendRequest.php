@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.activity.recycle.send request
  *
  * @author auto create
- * @since 1.0, 2022-07-05 00:06:57
+ * @since 1.0, 2022-08-17 10:31:47
  */
 class AlipayEcoActivityRecycleSendRequest
 {

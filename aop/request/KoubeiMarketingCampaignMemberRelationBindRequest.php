@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.campaign.member.relation.bind request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:02
+ * @since 1.0, 2022-08-16 21:02:13
  */
 class KoubeiMarketingCampaignMemberRelationBindRequest
 {

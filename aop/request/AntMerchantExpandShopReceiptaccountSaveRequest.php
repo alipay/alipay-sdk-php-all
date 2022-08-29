@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.shop.receiptaccount.save request
  *
  * @author auto create
- * @since 1.0, 2022-07-25 10:36:40
+ * @since 1.0, 2022-08-26 14:16:46
  */
 class AntMerchantExpandShopReceiptaccountSaveRequest
 {

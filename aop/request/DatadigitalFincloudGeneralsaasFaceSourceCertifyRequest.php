@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.face.source.certify request
  *
  * @author auto create
- * @since 1.0, 2022-04-15 17:51:40
+ * @since 1.0, 2022-08-19 17:56:44
  */
 class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 {
@@ -21,6 +21,11 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	 * 证件信息类型，大陆身份证：IDENTITY_CARD
 	 **/
 	private $certType;
+	
+	/** 
+	 * 二进制流图片，大小限制1M
+	 **/
+	private $fileContent;
 	
 	/** 
 	 * 客户业务单据号
@@ -44,7 +49,7 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	private $apiVersion="1.0";
 	private $notifyUrl;
 	private $returnUrl;
-    private $needEncrypt=false;
+    private $needEncrypt=true;
 
 	
 	public function setCertName($certName)
@@ -78,6 +83,17 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	public function getCertType()
 	{
 		return $this->certType;
+	}
+
+	public function setFileContent($fileContent)
+	{
+		$this->fileContent = $fileContent;
+		$this->apiParas["file_content"] = $fileContent;
+	}
+
+	public function getFileContent()
+	{
+		return $this->fileContent;
 	}
 
 	public function setOuterBizNo($outerBizNo)
