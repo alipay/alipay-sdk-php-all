@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.mini.templatemessage.send request
  *
  * @author auto create
- * @since 1.0, 2022-06-01 21:41:43
+ * @since 1.0, 2022-09-01 01:07:19
  */
 class AlipayOpenAppMiniTemplatemessageSendRequest
 {

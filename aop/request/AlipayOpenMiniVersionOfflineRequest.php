@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.offline request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:20:31
+ * @since 1.0, 2022-09-09 18:16:52
  */
 class AlipayOpenMiniVersionOfflineRequest
 {

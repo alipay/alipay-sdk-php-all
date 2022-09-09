@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.shuanq.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-07-29 17:26:42
+ * @since 1.0, 2022-08-29 15:51:07
  */
 class AlipaySecurityShuanqBatchqueryRequest
 {
