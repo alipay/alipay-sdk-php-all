@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.dtc.data.send request
  *
  * @author auto create
- * @since 1.0, 2022-06-22 17:21:48
+ * @since 1.0, 2022-09-16 15:57:01
  */
 class AnttechBlockchainDefinDtcDataSendRequest
 {

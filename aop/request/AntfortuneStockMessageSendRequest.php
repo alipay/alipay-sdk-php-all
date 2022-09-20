@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.message.send request
  *
  * @author auto create
- * @since 1.0, 2022-07-06 22:35:45
+ * @since 1.0, 2022-09-13 14:58:33
  */
 class AntfortuneStockMessageSendRequest
 {

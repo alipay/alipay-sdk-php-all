@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.template.answer.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:21:53
+ * @since 1.0, 2022-09-14 10:59:59
  */
 class AlipayFincoreComplianceTemplateAnswerQueryRequest
 {

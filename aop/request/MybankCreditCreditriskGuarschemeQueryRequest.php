@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.creditrisk.guarscheme.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-02 11:44:19
+ * @since 1.0, 2022-09-19 15:48:02
  */
 class MybankCreditCreditriskGuarschemeQueryRequest
 {

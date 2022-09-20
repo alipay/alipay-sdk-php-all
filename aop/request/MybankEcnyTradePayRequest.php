@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.ecny.trade.pay request
  *
  * @author auto create
- * @since 1.0, 2021-12-03 16:45:34
+ * @since 1.0, 2022-09-14 16:04:15
  */
 class MybankEcnyTradePayRequest
 {

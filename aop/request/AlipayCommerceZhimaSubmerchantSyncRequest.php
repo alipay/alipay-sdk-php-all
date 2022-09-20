@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.zhima.submerchant.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-06 10:31:56
+ * @since 1.0, 2022-09-13 10:56:49
  */
 class AlipayCommerceZhimaSubmerchantSyncRequest
 {
