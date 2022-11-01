@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.facedb.create request
  *
  * @author auto create
- * @since 1.0, 2022-06-08 14:26:42
+ * @since 1.0, 2022-10-14 11:06:53
  */
 class AlipayOpenIotmbsFacedbCreateRequest
 {

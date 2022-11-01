@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.order.point.query request
  *
  * @author auto create
- * @since 1.0, 2019-11-13 12:03:03
+ * @since 1.0, 2022-11-01 11:34:44
  */
 class AlipayMerchantOrderPointQueryRequest
 {

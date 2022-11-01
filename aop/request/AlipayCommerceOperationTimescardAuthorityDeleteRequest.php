@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.timescard.authority.delete request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 16:35:17
+ * @since 1.0, 2022-10-10 19:42:43
  */
 class AlipayCommerceOperationTimescardAuthorityDeleteRequest
 {

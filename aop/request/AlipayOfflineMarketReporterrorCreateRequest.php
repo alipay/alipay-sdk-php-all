@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.market.reporterror.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:30:42
+ * @since 1.0, 2022-10-11 12:03:08
  */
 class AlipayOfflineMarketReporterrorCreateRequest
 {

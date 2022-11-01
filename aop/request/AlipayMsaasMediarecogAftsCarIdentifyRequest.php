@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.afts.car.identify request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2022-10-19 10:46:13
  */
 class AlipayMsaasMediarecogAftsCarIdentifyRequest
 {

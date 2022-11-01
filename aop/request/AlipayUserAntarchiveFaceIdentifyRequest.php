@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antarchive.face.identify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:24
+ * @since 1.0, 2022-09-22 16:10:01
  */
 class AlipayUserAntarchiveFaceIdentifyRequest
 {

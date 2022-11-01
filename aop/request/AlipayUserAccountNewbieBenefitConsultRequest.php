@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.newbie.benefit.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:17
+ * @since 1.0, 2022-09-21 18:09:30
  */
 class AlipayUserAccountNewbieBenefitConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.zmgo.cumulate.sync request
  *
  * @author auto create
- * @since 1.0, 2021-09-29 17:22:01
+ * @since 1.0, 2022-10-10 14:11:20
  */
 class ZhimaMerchantZmgoCumulateSyncRequest
 {

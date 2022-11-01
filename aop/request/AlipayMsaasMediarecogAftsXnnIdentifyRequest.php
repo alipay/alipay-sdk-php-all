@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.afts.xnn.identify request
  *
  * @author auto create
- * @since 1.0, 2022-06-21 11:37:09
+ * @since 1.0, 2022-10-08 17:03:54
  */
 class AlipayMsaasMediarecogAftsXnnIdentifyRequest
 {

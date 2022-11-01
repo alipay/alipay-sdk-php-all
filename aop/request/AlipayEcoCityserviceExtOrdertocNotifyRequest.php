@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cityservice.ext.ordertoc.notify request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 15:06:54
+ * @since 1.0, 2022-11-01 16:36:50
  */
 class AlipayEcoCityserviceExtOrdertocNotifyRequest
 {

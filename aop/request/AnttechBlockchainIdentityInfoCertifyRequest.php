@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.identity.info.certify request
  *
  * @author auto create
- * @since 1.0, 2021-12-28 18:23:22
+ * @since 1.0, 2022-10-27 16:02:26
  */
 class AnttechBlockchainIdentityInfoCertifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.trip.sync request
  *
  * @author auto create
- * @since 1.0, 2021-09-29 15:15:30
+ * @since 1.0, 2022-10-26 15:36:51
  */
 class AlipayCommerceTransportEtcTripSyncRequest
 {

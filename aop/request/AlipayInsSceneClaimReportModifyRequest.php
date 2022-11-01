@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.claim.report.modify request
  *
  * @author auto create
- * @since 1.0, 2022-03-28 17:11:57
+ * @since 1.0, 2022-09-23 16:29:58
  */
 class AlipayInsSceneClaimReportModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.invite.offlinesummary.query request
  *
  * @author auto create
- * @since 1.0, 2020-09-08 15:31:25
+ * @since 1.0, 2022-09-21 18:07:14
  */
 class AlipayUserInviteOfflinesummaryQueryRequest
 {

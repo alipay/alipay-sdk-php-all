@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.safebox.record.save request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:04:16
+ * @since 1.0, 2022-10-31 10:31:49
  */
 class AlipayUserSafeboxRecordSaveRequest
 {

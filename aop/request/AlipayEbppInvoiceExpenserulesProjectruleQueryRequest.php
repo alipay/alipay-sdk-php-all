@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expenserules.projectrule.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-29 17:01:54
+ * @since 1.0, 2022-10-10 14:30:14
  */
 class AlipayEbppInvoiceExpenserulesProjectruleQueryRequest
 {

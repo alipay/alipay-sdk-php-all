@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.signinfo.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-23 10:41:45
+ * @since 1.0, 2022-10-31 10:11:19
  */
 class AlipayCommerceTransportEtcSigninfoQueryRequest
 {

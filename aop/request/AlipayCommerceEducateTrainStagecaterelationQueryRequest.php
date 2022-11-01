@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.train.stagecaterelation.query request
  *
  * @author auto create
- * @since 1.0, 2020-08-19 20:16:16
+ * @since 1.0, 2022-10-26 11:09:08
  */
 class AlipayCommerceEducateTrainStagecaterelationQueryRequest
 {

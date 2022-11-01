@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.identitypay.member.unsign request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 16:37:50
+ * @since 1.0, 2022-10-14 01:36:57
  */
 class AlipayFundIdentitypayMemberUnsignRequest
 {

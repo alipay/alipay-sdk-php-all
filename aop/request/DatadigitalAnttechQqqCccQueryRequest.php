@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.anttech.qqq.ccc.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-06 15:24:47
+ * @since 1.0, 2022-10-25 10:31:51
  */
 class DatadigitalAnttechQqqCccQueryRequest
 {

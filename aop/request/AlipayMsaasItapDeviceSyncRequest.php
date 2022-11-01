@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.itap.device.sync request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:42:01
+ * @since 1.0, 2022-09-23 11:41:17
  */
 class AlipayMsaasItapDeviceSyncRequest
 {

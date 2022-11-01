@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.gas.info.groupcoupon.query request
  *
  * @author auto create
- * @since 1.0, 2020-11-25 20:40:14
+ * @since 1.0, 2022-10-21 11:17:24
  */
 class AlipayCommerceGasInfoGroupcouponQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.data.bizadviser.myddsreport.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-24 14:22:07
+ * @since 1.0, 2022-10-11 12:04:15
  */
 class KoubeiMarketingDataBizadviserMyddsreportQueryRequest
 {

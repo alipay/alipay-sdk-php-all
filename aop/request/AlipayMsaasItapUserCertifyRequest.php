@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.itap.user.certify request
  *
  * @author auto create
- * @since 1.0, 2020-10-15 16:45:41
+ * @since 1.0, 2022-09-23 11:42:15
  */
 class AlipayMsaasItapUserCertifyRequest
 {

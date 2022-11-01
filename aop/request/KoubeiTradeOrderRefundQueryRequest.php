@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.order.refund.query request
  *
  * @author auto create
- * @since 1.0, 2020-01-03 14:49:26
+ * @since 1.0, 2022-10-18 13:53:10
  */
 class KoubeiTradeOrderRefundQueryRequest
 {

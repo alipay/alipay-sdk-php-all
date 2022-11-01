@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.point.balance.get request
  *
  * @author auto create
- * @since 1.0, 2022-08-01 19:23:54
+ * @since 1.0, 2022-10-12 19:33:41
  */
 class AlipayPointBalanceGetRequest
 {

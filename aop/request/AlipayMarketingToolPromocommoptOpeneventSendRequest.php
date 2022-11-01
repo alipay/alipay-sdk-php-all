@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.tool.promocommopt.openevent.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:22:54
+ * @since 1.0, 2022-10-26 21:51:50
  */
 class AlipayMarketingToolPromocommoptOpeneventSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.picvideo.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-28 15:12:37
+ * @since 1.0, 2022-10-02 14:20:42
  */
 class AlipayMsaasMediarecogMmtcaftscvPicvideoQueryRequest
 {

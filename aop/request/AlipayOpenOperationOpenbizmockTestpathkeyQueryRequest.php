@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.openbizmock.testpathkey.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-16 19:11:48
+ * @since 1.0, 2022-10-09 14:17:09
  */
 class AlipayOpenOperationOpenbizmockTestpathkeyQueryRequest
 {

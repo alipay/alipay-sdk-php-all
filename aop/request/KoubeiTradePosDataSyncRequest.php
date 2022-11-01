@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.pos.data.sync request
  *
  * @author auto create
- * @since 1.0, 2019-03-27 16:37:57
+ * @since 1.0, 2022-10-11 12:05:54
  */
 class KoubeiTradePosDataSyncRequest
 {

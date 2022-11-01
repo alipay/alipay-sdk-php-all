@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.vehicle.certified.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-14 10:25:19
+ * @since 1.0, 2022-09-30 11:16:59
  */
 class AlipayEcoMycarVehicleCertifiedQueryRequest
 {

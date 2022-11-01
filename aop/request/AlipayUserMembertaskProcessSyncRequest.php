@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.membertask.process.sync request
  *
  * @author auto create
- * @since 1.0, 2021-10-25 17:10:32
+ * @since 1.0, 2022-11-01 15:03:58
  */
 class AlipayUserMembertaskProcessSyncRequest
 {
