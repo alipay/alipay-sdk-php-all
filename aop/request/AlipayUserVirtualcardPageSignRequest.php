@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.virtualcard.page.sign request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2022-11-12 21:11:34
  */
 class AlipayUserVirtualcardPageSignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.market.received.consult request
  *
  * @author auto create
- * @since 1.0, 2022-10-13 14:41:50
+ * @since 1.0, 2022-11-04 18:12:39
  */
 class AlipayOpenMiniMarketReceivedConsultRequest
 {

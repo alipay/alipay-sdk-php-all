@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.user.chargeinst.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2022-11-18 14:07:37
  */
 class AlipayEbppUserChargeinstQueryRequest
 {

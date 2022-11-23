@@ -3,24 +3,14 @@
  * ALIPAY API: alipay.ebpp.industry.job.contract.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 14:26:49
+ * @since 1.0, 2022-11-16 14:56:35
  */
 class AlipayEbppIndustryJobContractCreateRequest
 {
 	/** 
-	 * 用户身份证号码
+	 * 企业列表
 	 **/
-	private $certNo;
-	
-	/** 
-	 * 企业信用代码或者营业执照注册号
-	 **/
-	private $companyCertNo;
-	
-	/** 
-	 * 企业名称
-	 **/
-	private $companyName;
+	private $companyList;
 	
 	/** 
 	 * 上传文件的二进制流
@@ -28,29 +18,9 @@ class AlipayEbppIndustryJobContractCreateRequest
 	private $fileContent;
 	
 	/** 
-	 * 企业法人身份证号码
-	 **/
-	private $legalPersonCertNo;
-	
-	/** 
-	 * 企业法人名称
-	 **/
-	private $legalPersonName;
-	
-	/** 
-	 * 蚂蚁统一会员ID
-	 **/
-	private $openId;
-	
-	/** 
 	 * 外部订单号
 	 **/
 	private $outerBizNo;
-	
-	/** 
-	 * 电子合同签署区配置，必须包含个人和企业两部分信息
-	 **/
-	private $signArea;
 	
 	/** 
 	 * 签署平台: H5 或者 ALIPAY
@@ -58,14 +28,9 @@ class AlipayEbppIndustryJobContractCreateRequest
 	private $signPlatform;
 	
 	/** 
-	 * 蚂蚁统一会员ID
+	 * 合同用户列表
 	 **/
-	private $userId;
-	
-	/** 
-	 * 用户名称
-	 **/
-	private $userName;
+	private $userList;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -77,37 +42,15 @@ class AlipayEbppIndustryJobContractCreateRequest
     private $needEncrypt=false;
 
 	
-	public function setCertNo($certNo)
+	public function setCompanyList($companyList)
 	{
-		$this->certNo = $certNo;
-		$this->apiParas["cert_no"] = $certNo;
+		$this->companyList = $companyList;
+		$this->apiParas["company_list"] = $companyList;
 	}
 
-	public function getCertNo()
+	public function getCompanyList()
 	{
-		return $this->certNo;
-	}
-
-	public function setCompanyCertNo($companyCertNo)
-	{
-		$this->companyCertNo = $companyCertNo;
-		$this->apiParas["company_cert_no"] = $companyCertNo;
-	}
-
-	public function getCompanyCertNo()
-	{
-		return $this->companyCertNo;
-	}
-
-	public function setCompanyName($companyName)
-	{
-		$this->companyName = $companyName;
-		$this->apiParas["company_name"] = $companyName;
-	}
-
-	public function getCompanyName()
-	{
-		return $this->companyName;
+		return $this->companyList;
 	}
 
 	public function setFileContent($fileContent)
@@ -121,39 +64,6 @@ class AlipayEbppIndustryJobContractCreateRequest
 		return $this->fileContent;
 	}
 
-	public function setLegalPersonCertNo($legalPersonCertNo)
-	{
-		$this->legalPersonCertNo = $legalPersonCertNo;
-		$this->apiParas["legal_person_cert_no"] = $legalPersonCertNo;
-	}
-
-	public function getLegalPersonCertNo()
-	{
-		return $this->legalPersonCertNo;
-	}
-
-	public function setLegalPersonName($legalPersonName)
-	{
-		$this->legalPersonName = $legalPersonName;
-		$this->apiParas["legal_person_name"] = $legalPersonName;
-	}
-
-	public function getLegalPersonName()
-	{
-		return $this->legalPersonName;
-	}
-
-	public function setOpenId($openId)
-	{
-		$this->openId = $openId;
-		$this->apiParas["open_id"] = $openId;
-	}
-
-	public function getOpenId()
-	{
-		return $this->openId;
-	}
-
 	public function setOuterBizNo($outerBizNo)
 	{
 		$this->outerBizNo = $outerBizNo;
@@ -163,17 +73,6 @@ class AlipayEbppIndustryJobContractCreateRequest
 	public function getOuterBizNo()
 	{
 		return $this->outerBizNo;
-	}
-
-	public function setSignArea($signArea)
-	{
-		$this->signArea = $signArea;
-		$this->apiParas["sign_area"] = $signArea;
-	}
-
-	public function getSignArea()
-	{
-		return $this->signArea;
 	}
 
 	public function setSignPlatform($signPlatform)
@@ -187,26 +86,15 @@ class AlipayEbppIndustryJobContractCreateRequest
 		return $this->signPlatform;
 	}
 
-	public function setUserId($userId)
+	public function setUserList($userList)
 	{
-		$this->userId = $userId;
-		$this->apiParas["user_id"] = $userId;
+		$this->userList = $userList;
+		$this->apiParas["user_list"] = $userList;
 	}
 
-	public function getUserId()
+	public function getUserList()
 	{
-		return $this->userId;
-	}
-
-	public function setUserName($userName)
-	{
-		$this->userName = $userName;
-		$this->apiParas["user_name"] = $userName;
-	}
-
-	public function getUserName()
-	{
-		return $this->userName;
+		return $this->userList;
 	}
 
 	public function getApiMethodName()

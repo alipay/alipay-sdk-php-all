@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.jf.instmessage.notify request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 09:56:49
+ * @since 1.0, 2022-11-18 13:41:34
  */
 class AlipayEbppJfInstmessageNotifyRequest
 {

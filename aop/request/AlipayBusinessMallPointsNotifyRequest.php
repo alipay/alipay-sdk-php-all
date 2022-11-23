@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.mall.points.notify request
  *
  * @author auto create
- * @since 1.0, 2022-08-16 10:07:05
+ * @since 1.0, 2022-11-03 10:56:32
  */
 class AlipayBusinessMallPointsNotifyRequest
 {

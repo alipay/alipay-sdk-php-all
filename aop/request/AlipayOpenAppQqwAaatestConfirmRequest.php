@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.open.app.qqw.aaatest.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-05-09 20:26:44
+ * @since 1.0, 2022-11-03 14:55:12
  */
 class AlipayOpenAppQqwAaatestConfirmRequest
 {
+	/** 
+	 * aaatest
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayOpenAppQqwAaatestConfirmRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.open.app.qqw.aaatest.confirm";

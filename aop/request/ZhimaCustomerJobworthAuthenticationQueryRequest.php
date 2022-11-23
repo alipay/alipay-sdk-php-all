@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.jobworth.authentication.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-01 13:59:03
+ * @since 1.0, 2022-11-11 17:31:34
  */
 class ZhimaCustomerJobworthAuthenticationQueryRequest
 {

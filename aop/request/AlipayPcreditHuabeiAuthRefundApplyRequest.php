@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.auth.refund.apply request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 14:08:28
+ * @since 1.0, 2022-11-16 20:31:40
  */
 class AlipayPcreditHuabeiAuthRefundApplyRequest
 {

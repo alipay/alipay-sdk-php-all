@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.gotone.message.courier.send request
  *
  * @author auto create
- * @since 1.0, 2021-03-29 15:24:14
+ * @since 1.0, 2022-11-18 13:51:37
  */
 class AlipayGotoneMessageCourierSendRequest
 {
@@ -16,6 +16,11 @@ class AlipayGotoneMessageCourierSendRequest
 	 * 扩展信息。IMEI表示钱包客户端IMEI号；CURRENT_STEP表示消息进度节点,必须为数字； IS_CORRECT表示当前节点是正常还是异常分支，必须为Y或者N; todoPublicId表示钱包公众号id。注意：上诉key值必须严格匹配，大小写敏感
 	 **/
 	private $extInfo;
+	
+	/** 
+	 * 支付宝openId
+	 **/
+	private $openId;
 	
 	/** 
 	 * 业务配置码serviceCode
@@ -57,6 +62,17 @@ class AlipayGotoneMessageCourierSendRequest
 	public function getExtInfo()
 	{
 		return $this->extInfo;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setServiceCode($serviceCode)

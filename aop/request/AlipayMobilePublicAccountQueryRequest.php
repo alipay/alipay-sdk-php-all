@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.account.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-18 20:56:51
+ * @since 1.0, 2022-11-18 14:11:40
  */
 class AlipayMobilePublicAccountQueryRequest
 {

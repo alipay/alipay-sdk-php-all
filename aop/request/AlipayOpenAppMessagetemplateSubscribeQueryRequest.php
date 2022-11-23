@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.messagetemplate.subscribe.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-31 17:26:50
+ * @since 1.0, 2022-11-18 14:51:14
  */
 class AlipayOpenAppMessagetemplateSubscribeQueryRequest
 {

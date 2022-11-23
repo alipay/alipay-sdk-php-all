@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expensecontrol.quota.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 15:36:45
+ * @since 1.0, 2022-11-18 23:41:34
  */
 class AlipayEbppInvoiceExpensecontrolQuotaQueryRequest
 {

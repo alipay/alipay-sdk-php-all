@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.enterpriseexctrl.employertitle.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-11 16:52:55
+ * @since 1.0, 2022-11-22 09:58:48
  */
 class AlipayEbppInvoiceEnterpriseexctrlEmployertitleQueryRequest
 {

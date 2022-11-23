@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.iot.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-17 10:00:41
+ * @since 1.0, 2022-11-07 16:16:36
  */
 class AlipayMerchantIndirectIotQueryRequest
 {

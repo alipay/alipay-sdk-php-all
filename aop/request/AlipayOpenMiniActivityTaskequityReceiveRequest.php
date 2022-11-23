@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.activity.taskequity.receive request
  *
  * @author auto create
- * @since 1.0, 2021-06-28 17:01:29
+ * @since 1.0, 2022-11-14 10:17:34
  */
 class AlipayOpenMiniActivityTaskequityReceiveRequest
 {

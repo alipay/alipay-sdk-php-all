@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.user.auth.apply request
  *
  * @author auto create
- * @since 1.0, 2021-03-12 10:53:49
+ * @since 1.0, 2022-11-14 14:20:04
  */
 class ZhimaCreditPeUserAuthApplyRequest
 {

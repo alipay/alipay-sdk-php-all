@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.paygrowth.payability.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-22 14:35:15
+ * @since 1.0, 2022-11-21 20:26:35
  */
 class AlipayTradePaygrowthPayabilityQueryRequest
 {

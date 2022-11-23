@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.gamecenter.log.submit request
  *
  * @author auto create
- * @since 1.0, 2022-10-11 19:06:56
+ * @since 1.0, 2022-11-18 15:46:37
  */
 class AlipayUserGamecenterLogSubmitRequest
 {

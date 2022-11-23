@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.department.sublist.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-14 12:21:45
+ * @since 1.0, 2022-11-08 13:21:35
  */
 class AlipayCommerceEcDepartmentSublistQueryRequest
 {

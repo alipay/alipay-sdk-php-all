@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.scene.user.sign request
  *
  * @author auto create
- * @since 1.0, 2021-12-24 18:02:55
+ * @since 1.0, 2022-11-17 15:26:36
  */
 class AlipayCommerceEducateSceneUserSignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.open.app.modelpredict.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-28 09:56:49
+ * @since 1.0, 2022-11-11 12:56:33
  */
 class ZhimaOpenAppModelpredictQueryRequest
 {

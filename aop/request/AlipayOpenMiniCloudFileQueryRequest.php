@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.cloud.file.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-16 15:26:50
+ * @since 1.0, 2022-11-07 17:46:37
  */
 class AlipayOpenMiniCloudFileQueryRequest
 {

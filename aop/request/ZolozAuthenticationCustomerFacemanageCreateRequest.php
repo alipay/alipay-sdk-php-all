@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.authentication.customer.facemanage.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-20 10:33:12
+ * @since 1.0, 2022-11-18 14:11:40
  */
 class ZolozAuthenticationCustomerFacemanageCreateRequest
 {

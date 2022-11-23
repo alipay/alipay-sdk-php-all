@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.miniapp.favoriteext.delete request
  *
  * @author auto create
- * @since 1.0, 2019-11-21 19:56:36
+ * @since 1.0, 2022-11-14 10:16:38
  */
 class AlipayOpenMiniMiniappFavoriteextDeleteRequest
 {

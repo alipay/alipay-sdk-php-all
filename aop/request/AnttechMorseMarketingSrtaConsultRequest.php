@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.morse.marketing.srta.consult request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 19:46:56
+ * @since 1.0, 2022-11-22 18:02:49
  */
 class AnttechMorseMarketingSrtaConsultRequest
 {

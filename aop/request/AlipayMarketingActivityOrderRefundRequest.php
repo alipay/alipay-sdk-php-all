@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.order.refund request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 13:51:50
+ * @since 1.0, 2022-11-18 14:32:08
  */
 class AlipayMarketingActivityOrderRefundRequest
 {

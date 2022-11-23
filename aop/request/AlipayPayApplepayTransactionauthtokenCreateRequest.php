@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.applepay.transactionauthtoken.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 14:02:28
+ * @since 1.0, 2022-11-21 11:13:53
  */
 class AlipayPayApplepayTransactionauthtokenCreateRequest
 {

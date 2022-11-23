@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.order.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-07-15 17:00:22
+ * @since 1.0, 2022-11-15 15:16:35
  */
 class ZhimaMerchantOrderConfirmRequest
 {

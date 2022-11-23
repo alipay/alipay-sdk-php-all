@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.scene.kids.close request
  *
  * @author auto create
- * @since 1.0, 2022-07-20 21:07:11
+ * @since 1.0, 2022-11-17 14:56:34
  */
 class AlipayCommerceEducateSceneKidsCloseRequest
 {

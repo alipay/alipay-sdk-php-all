@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.zmgo.tbsign.consult request
  *
  * @author auto create
- * @since 1.0, 2021-05-11 20:30:19
+ * @since 1.0, 2022-11-14 15:40:15
  */
 class ZhimaCreditPeZmgoTbsignConsultRequest
 {

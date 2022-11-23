@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.role.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:12:27
+ * @since 1.0, 2022-11-09 11:17:00
  */
 class AlipayIserviceCcmRoleDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.taxno.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 14:29:43
+ * @since 1.0, 2022-11-19 16:51:33
  */
 class AlipayEbppInvoiceTaxnoBatchqueryRequest
 {
