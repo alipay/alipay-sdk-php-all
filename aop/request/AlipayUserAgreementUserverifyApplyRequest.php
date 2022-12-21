@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.userverify.apply request
  *
  * @author auto create
- * @since 1.0, 2020-07-08 14:02:30
+ * @since 1.0, 2022-12-10 23:08:53
  */
 class AlipayUserAgreementUserverifyApplyRequest
 {

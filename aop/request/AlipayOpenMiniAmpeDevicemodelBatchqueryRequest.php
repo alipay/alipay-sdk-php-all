@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.devicemodel.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:42:02
+ * @since 1.0, 2022-12-08 06:18:10
  */
 class AlipayOpenMiniAmpeDevicemodelBatchqueryRequest
 {

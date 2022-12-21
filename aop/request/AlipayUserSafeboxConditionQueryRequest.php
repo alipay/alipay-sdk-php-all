@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.safebox.condition.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 14:41:53
+ * @since 1.0, 2022-12-08 03:01:39
  */
 class AlipayUserSafeboxConditionQueryRequest
 {

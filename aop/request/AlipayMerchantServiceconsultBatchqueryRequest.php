@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.serviceconsult.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:16
+ * @since 1.0, 2022-12-07 16:54:15
  */
 class AlipayMerchantServiceconsultBatchqueryRequest
 {

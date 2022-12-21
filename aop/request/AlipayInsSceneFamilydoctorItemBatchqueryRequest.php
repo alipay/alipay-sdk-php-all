@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.familydoctor.item.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-03-15 15:12:17
+ * @since 1.0, 2022-12-08 13:48:32
  */
 class AlipayInsSceneFamilydoctorItemBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.paymenthub.refund request
  *
  * @author auto create
- * @since 1.0, 2020-03-23 22:00:11
+ * @since 1.0, 2022-12-08 01:22:45
  */
 class AlipayBusinessPaymenthubRefundRequest
 {

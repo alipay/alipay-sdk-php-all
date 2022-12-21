@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.account.applied.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-05 11:21:44
+ * @since 1.0, 2022-12-07 18:27:27
  */
 class DatadigitalFincloudFinsaasAccountAppliedSyncRequest
 {

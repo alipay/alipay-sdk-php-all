@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.vendorpay.devicedata.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:11:30
+ * @since 1.0, 2022-12-08 14:38:10
  */
 class AlipayTradeVendorpayDevicedataUploadRequest
 {

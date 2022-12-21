@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.putplan.list.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 17:21:52
+ * @since 1.0, 2022-12-08 11:03:19
  */
 class DatadigitalFincloudFinsaasPutplanListBatchqueryRequest
 {

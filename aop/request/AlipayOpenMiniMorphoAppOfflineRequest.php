@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.morpho.app.offline request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:12:14
+ * @since 1.0, 2022-12-08 05:03:52
  */
 class AlipayOpenMiniMorphoAppOfflineRequest
 {

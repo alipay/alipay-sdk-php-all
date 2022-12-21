@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.device.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:55:36
+ * @since 1.0, 2022-12-08 06:34:31
  */
 class AlipayOpenMiniAmpeDeviceDeleteRequest
 {

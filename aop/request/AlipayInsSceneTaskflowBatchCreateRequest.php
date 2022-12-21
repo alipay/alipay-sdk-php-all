@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.taskflow.batch.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:28:19
+ * @since 1.0, 2022-12-19 18:01:40
  */
 class AlipayInsSceneTaskflowBatchCreateRequest
 {

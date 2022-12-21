@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.contract.common.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-04-09 10:50:17
+ * @since 1.0, 2022-12-07 18:56:08
  */
 class ZhimaMerchantContractCommonCancelRequest
 {

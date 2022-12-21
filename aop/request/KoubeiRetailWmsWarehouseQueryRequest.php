@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.retail.wms.warehouse.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:57
+ * @since 1.0, 2022-12-08 09:32:29
  */
 class KoubeiRetailWmsWarehouseQueryRequest
 {

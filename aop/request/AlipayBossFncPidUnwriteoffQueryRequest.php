@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.pid.unwriteoff.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-25 14:08:30
+ * @since 1.0, 2022-12-08 07:27:04
  */
 class AlipayBossFncPidUnwriteoffQueryRequest
 {

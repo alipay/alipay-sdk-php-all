@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.craftsman.data.work.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:57:08
+ * @since 1.0, 2022-12-07 18:53:26
  */
 class KoubeiCraftsmanDataWorkCreateRequest
 {

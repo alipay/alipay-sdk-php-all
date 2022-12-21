@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.nobillinvoice.apply request
  *
  * @author auto create
- * @since 1.0, 2022-04-14 16:11:44
+ * @since 1.0, 2022-12-08 06:25:18
  */
 class AlipayBossFncGfsettleprodNobillinvoiceApplyRequest
 {

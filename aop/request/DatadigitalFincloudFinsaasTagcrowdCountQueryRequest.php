@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.tagcrowd.count.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-26 09:41:41
+ * @since 1.0, 2022-12-07 17:14:51
  */
 class DatadigitalFincloudFinsaasTagcrowdCountQueryRequest
 {

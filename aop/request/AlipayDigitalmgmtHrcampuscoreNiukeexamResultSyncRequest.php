@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.hrcampuscore.niukeexam.result.sync request
  *
  * @author auto create
- * @since 1.0, 2022-07-01 21:36:54
+ * @since 1.0, 2022-12-07 16:00:27
  */
 class AlipayDigitalmgmtHrcampuscoreNiukeexamResultSyncRequest
 {

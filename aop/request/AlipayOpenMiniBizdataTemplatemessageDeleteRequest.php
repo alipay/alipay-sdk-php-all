@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.bizdata.templatemessage.delete request
  *
  * @author auto create
- * @since 1.0, 2019-12-03 20:10:12
+ * @since 1.0, 2022-12-20 13:26:39
  */
 class AlipayOpenMiniBizdataTemplatemessageDeleteRequest
 {

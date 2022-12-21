@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.antlegalchain.notary.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-07 18:58:36
+ * @since 1.0, 2022-12-08 11:48:12
  */
 class AlipayBossProdAntlegalchainNotaryQueryRequest
 {

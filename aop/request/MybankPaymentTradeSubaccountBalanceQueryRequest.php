@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.subaccount.balance.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-09 16:15:29
+ * @since 1.0, 2022-12-08 04:41:12
  */
 class MybankPaymentTradeSubaccountBalanceQueryRequest
 {

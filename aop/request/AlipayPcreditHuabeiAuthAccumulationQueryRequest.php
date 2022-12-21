@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.auth.accumulation.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 19:41:33
+ * @since 1.0, 2022-12-06 17:41:41
  */
 class AlipayPcreditHuabeiAuthAccumulationQueryRequest
 {

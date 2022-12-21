@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.sign.list.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-29 14:38:51
+ * @since 1.0, 2022-12-08 13:47:33
  */
 class AlipayFincoreComplianceSignListApplyRequest
 {

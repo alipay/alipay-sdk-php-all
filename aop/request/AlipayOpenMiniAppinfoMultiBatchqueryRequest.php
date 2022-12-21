@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.appinfo.multi.batchquery request
  *
  * @author auto create
- * @since 1.0, 2019-04-11 10:55:00
+ * @since 1.0, 2022-12-07 23:37:27
  */
 class AlipayOpenMiniAppinfoMultiBatchqueryRequest
 {

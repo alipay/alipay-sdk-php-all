@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.esg.info.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 20:21:33
+ * @since 1.0, 2022-12-08 01:26:37
  */
 class ZhimaCreditEpEsgInfoQueryRequest
 {

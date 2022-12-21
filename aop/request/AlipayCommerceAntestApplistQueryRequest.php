@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.antest.applist.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:29:12
+ * @since 1.0, 2022-12-08 01:50:56
  */
 class AlipayCommerceAntestApplistQueryRequest
 {

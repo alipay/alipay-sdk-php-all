@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lottery.typelist.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:49:32
+ * @since 1.0, 2022-12-07 19:43:40
  */
 class AlipayCommerceLotteryTypelistQueryRequest
 {

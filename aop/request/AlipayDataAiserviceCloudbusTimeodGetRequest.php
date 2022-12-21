@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.cloudbus.timeod.get request
  *
  * @author auto create
- * @since 1.0, 2020-10-21 10:32:48
+ * @since 1.0, 2022-12-08 06:57:47
  */
 class AlipayDataAiserviceCloudbusTimeodGetRequest
 {

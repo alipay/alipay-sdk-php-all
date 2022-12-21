@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.jobworth.jobdata.add request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 17:31:35
+ * @since 1.0, 2022-12-07 19:46:42
  */
 class ZhimaCustomerJobworthJobdataAddRequest
 {

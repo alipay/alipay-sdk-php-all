@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.health.gift.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-21 10:55:43
+ * @since 1.0, 2022-12-14 14:53:19
  */
 class AlipayInsSceneHealthGiftQueryRequest
 {

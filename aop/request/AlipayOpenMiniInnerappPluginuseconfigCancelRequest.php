@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerapp.pluginuseconfig.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:00:38
+ * @since 1.0, 2022-12-08 07:08:03
  */
 class AlipayOpenMiniInnerappPluginuseconfigCancelRequest
 {

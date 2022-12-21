@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.service.recommendbank.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 11:23:09
+ * @since 1.0, 2022-12-08 12:04:20
  */
 class AlipayTradeServiceRecommendbankQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.material.image.upload request
  *
  * @author auto create
- * @since 1.0, 2022-05-30 14:39:02
+ * @since 1.0, 2022-12-06 16:07:35
  */
 class AlipayOfflineMaterialImageUploadRequest
 {

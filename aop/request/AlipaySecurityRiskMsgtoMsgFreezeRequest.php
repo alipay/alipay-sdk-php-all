@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.msgto.msg.freeze request
  *
  * @author auto create
- * @since 1.0, 2022-11-20 18:21:35
+ * @since 1.0, 2022-11-23 18:56:36
  */
 class AlipaySecurityRiskMsgtoMsgFreezeRequest
 {

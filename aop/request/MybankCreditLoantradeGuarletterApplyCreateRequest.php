@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.guarletter.apply.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 18:46:39
+ * @since 1.0, 2022-12-08 00:30:09
  */
 class MybankCreditLoantradeGuarletterApplyCreateRequest
 {

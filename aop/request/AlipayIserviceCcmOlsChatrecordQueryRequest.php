@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.ols.chatrecord.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-19 17:25:22
+ * @since 1.0, 2022-12-07 17:34:13
  */
 class AlipayIserviceCcmOlsChatrecordQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.weibo.token.get request
  *
  * @author auto create
- * @since 1.0, 2021-12-30 15:00:22
+ * @since 1.0, 2022-12-08 14:37:20
  */
 class AlipayWeiboTokenGetRequest
 {

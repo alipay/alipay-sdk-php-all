@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.family.archive.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:19:56
+ * @since 1.0, 2022-12-07 16:27:22
  */
 class AlipayUserFamilyArchiveQueryRequest
 {

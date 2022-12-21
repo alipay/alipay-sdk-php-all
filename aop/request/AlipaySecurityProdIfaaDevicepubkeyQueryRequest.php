@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.ifaa.devicepubkey.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:42:00
+ * @since 1.0, 2022-12-08 08:16:30
  */
 class AlipaySecurityProdIfaaDevicepubkeyQueryRequest
 {

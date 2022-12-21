@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.ecny.trade.refund request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 16:39:53
+ * @since 1.0, 2022-12-08 10:56:28
  */
 class MybankEcnyTradeRefundRequest
 {

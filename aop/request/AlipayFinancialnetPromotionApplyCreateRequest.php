@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.promotion.apply.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 11:11:49
+ * @since 1.0, 2022-12-08 11:26:38
  */
 class AlipayFinancialnetPromotionApplyCreateRequest
 {

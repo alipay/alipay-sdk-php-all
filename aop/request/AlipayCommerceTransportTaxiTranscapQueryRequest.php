@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.taxi.transcap.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 16:51:54
+ * @since 1.0, 2022-12-07 23:26:48
  */
 class AlipayCommerceTransportTaxiTranscapQueryRequest
 {

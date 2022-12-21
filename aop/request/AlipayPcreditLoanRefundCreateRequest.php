@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.refund.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:06:46
+ * @since 1.0, 2022-12-07 19:15:57
  */
 class AlipayPcreditLoanRefundCreateRequest
 {

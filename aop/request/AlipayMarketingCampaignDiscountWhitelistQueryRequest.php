@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.discount.whitelist.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-15 15:30:35
+ * @since 1.0, 2022-12-08 14:35:13
  */
 class AlipayMarketingCampaignDiscountWhitelistQueryRequest
 {

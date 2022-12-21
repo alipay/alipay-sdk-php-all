@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.icontrol.dispatch.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-26 21:01:43
+ * @since 1.0, 2022-12-07 14:57:26
  */
 class AlipayIserviceIcontrolDispatchQueryRequest
 {

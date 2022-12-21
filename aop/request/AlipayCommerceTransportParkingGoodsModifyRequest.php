@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.parking.goods.modify request
  *
  * @author auto create
- * @since 1.0, 2020-06-22 17:12:31
+ * @since 1.0, 2022-12-08 07:01:04
  */
 class AlipayCommerceTransportParkingGoodsModifyRequest
 {

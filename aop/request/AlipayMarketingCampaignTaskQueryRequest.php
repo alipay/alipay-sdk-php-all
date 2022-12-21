@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.task.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 21:05:04
+ * @since 1.0, 2022-12-09 14:16:39
  */
 class AlipayMarketingCampaignTaskQueryRequest
 {

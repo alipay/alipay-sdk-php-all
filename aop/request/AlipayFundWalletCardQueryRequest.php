@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.card.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 17:11:35
+ * @since 1.0, 2022-12-07 19:16:43
  */
 class AlipayFundWalletCardQueryRequest
 {

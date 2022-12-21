@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.yuntask.taxbill.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-26 12:16:37
+ * @since 1.0, 2022-12-08 09:10:30
  */
 class AlipayCommerceYuntaskTaxbillQueryRequest
 {

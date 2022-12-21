@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.isv.bill.sync request
  *
  * @author auto create
- * @since 1.0, 2022-05-23 19:36:11
+ * @since 1.0, 2022-12-06 19:21:20
  */
 class AlipayOpenSpIsvBillSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operator.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:23:13
+ * @since 1.0, 2022-12-07 21:01:18
  */
 class AlipayOpenOperatorSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.book.shopbooktable.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:15:18
+ * @since 1.0, 2022-12-08 05:26:00
  */
 class KoubeiCateringBookShopbooktableSyncRequest
 {

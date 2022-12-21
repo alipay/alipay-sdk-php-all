@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.box.offline request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 19:31:12
+ * @since 1.0, 2022-12-12 11:22:29
  */
 class AlipayOpenSearchBoxOfflineRequest
 {

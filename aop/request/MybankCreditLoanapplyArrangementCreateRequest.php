@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.arrangement.create request
  *
  * @author auto create
- * @since 1.0, 2022-02-17 13:48:12
+ * @since 1.0, 2022-12-08 00:30:45
  */
 class MybankCreditLoanapplyArrangementCreateRequest
 {

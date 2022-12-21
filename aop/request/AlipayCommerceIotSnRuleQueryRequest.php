@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.sn.rule.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-28 19:15:52
+ * @since 1.0, 2022-12-07 20:39:43
  */
 class AlipayCommerceIotSnRuleQueryRequest
 {

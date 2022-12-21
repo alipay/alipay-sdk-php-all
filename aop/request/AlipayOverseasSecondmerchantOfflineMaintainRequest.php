@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.secondmerchant.offline.maintain request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:41:39
+ * @since 1.0, 2022-12-08 06:02:49
  */
 class AlipayOverseasSecondmerchantOfflineMaintainRequest
 {

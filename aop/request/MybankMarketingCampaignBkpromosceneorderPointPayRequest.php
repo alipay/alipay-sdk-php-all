@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.marketing.campaign.bkpromosceneorder.point.pay request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 20:16:55
+ * @since 1.0, 2022-12-07 23:09:15
  */
 class MybankMarketingCampaignBkpromosceneorderPointPayRequest
 {

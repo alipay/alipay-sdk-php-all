@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.zcardprod.merchant.sign request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 01:36:48
+ * @since 1.0, 2022-12-08 13:11:40
  */
 class AlipayFundZcardprodMerchantSignRequest
 {

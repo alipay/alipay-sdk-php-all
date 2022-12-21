@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.saas.funditem.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 21:01:50
+ * @since 1.0, 2022-12-07 17:52:09
  */
 class AnttechBlockchainDefinSaasFunditemQueryRequest
 {

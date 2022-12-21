@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.world.virtualcard.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:07
+ * @since 1.0, 2022-12-08 11:44:14
  */
 class AlipayCommerceTransportWorldVirtualcardApplyRequest
 {

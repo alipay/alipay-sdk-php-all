@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfaccruedprod.cumpoaccbalamt.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 15:30:41
+ * @since 1.0, 2022-12-07 19:39:04
  */
 class AlipayBossFncGfaccruedprodCumpoaccbalamtQueryRequest
 {

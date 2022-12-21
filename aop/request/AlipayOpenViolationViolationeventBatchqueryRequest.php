@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.violation.violationevent.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-10-17 15:17:02
+ * @since 1.0, 2022-12-06 17:38:51
  */
 class AlipayOpenViolationViolationeventBatchqueryRequest
 {

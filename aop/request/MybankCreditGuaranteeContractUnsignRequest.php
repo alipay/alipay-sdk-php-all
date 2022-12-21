@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.guarantee.contract.unsign request
  *
  * @author auto create
- * @since 1.0, 2022-02-15 15:23:13
+ * @since 1.0, 2022-12-08 02:46:16
  */
 class MybankCreditGuaranteeContractUnsignRequest
 {

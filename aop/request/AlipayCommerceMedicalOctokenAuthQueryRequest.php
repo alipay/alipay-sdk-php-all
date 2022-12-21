@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.octoken.auth.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:05:05
+ * @since 1.0, 2022-12-02 16:16:38
  */
 class AlipayCommerceMedicalOctokenAuthQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.electronicid.user.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:19
+ * @since 1.0, 2022-12-08 07:21:41
  */
 class AlipayUserElectronicidUserQueryRequest
 {

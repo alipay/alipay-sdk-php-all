@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.qqw.aaatest.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 14:55:12
+ * @since 1.0, 2022-12-07 17:38:38
  */
 class AlipayOpenAppQqwAaatestConfirmRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.car.sign request
  *
  * @author auto create
- * @since 1.0, 2020-04-15 21:25:12
+ * @since 1.0, 2022-12-08 09:21:40
  */
 class AlipayPayAppCarSignRequest
 {

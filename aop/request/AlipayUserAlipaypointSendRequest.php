@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.alipaypoint.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 17:26:36
+ * @since 1.0, 2022-12-07 15:11:39
  */
 class AlipayUserAlipaypointSendRequest
 {

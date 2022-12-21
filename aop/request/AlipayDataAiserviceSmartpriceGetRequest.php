@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.smartprice.get request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:39
+ * @since 1.0, 2022-12-08 01:03:15
  */
 class AlipayDataAiserviceSmartpriceGetRequest
 {

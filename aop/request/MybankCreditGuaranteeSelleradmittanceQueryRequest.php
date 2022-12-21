@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.guarantee.selleradmittance.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-15 15:25:08
+ * @since 1.0, 2022-12-08 05:47:58
  */
 class MybankCreditGuaranteeSelleradmittanceQueryRequest
 {

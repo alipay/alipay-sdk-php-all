@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.privacy.audit.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-20 15:10:39
+ * @since 1.0, 2022-12-07 18:11:01
  */
 class AlipayOpenMiniPrivacyAuditQueryRequest
 {

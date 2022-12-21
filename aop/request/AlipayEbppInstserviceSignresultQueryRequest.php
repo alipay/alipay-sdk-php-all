@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.instservice.signresult.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 10:46:37
+ * @since 1.0, 2022-12-20 12:12:15
  */
 class AlipayEbppInstserviceSignresultQueryRequest
 {

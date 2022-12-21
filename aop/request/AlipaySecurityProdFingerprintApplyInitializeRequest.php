@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.fingerprint.apply.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:43:07
+ * @since 1.0, 2022-12-07 19:00:55
  */
 class AlipaySecurityProdFingerprintApplyInitializeRequest
 {

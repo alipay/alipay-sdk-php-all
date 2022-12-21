@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.ai.cv.tfjs.model.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-04-26 20:46:14
+ * @since 1.0, 2022-12-08 09:18:15
  */
 class AnttechAiCvTfjsModelBatchqueryRequest
 {

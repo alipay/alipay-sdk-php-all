@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.eprint.order.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:44:24
+ * @since 1.0, 2022-12-08 08:05:02
  */
 class AlipayEcoEprintOrderCancelRequest
 {

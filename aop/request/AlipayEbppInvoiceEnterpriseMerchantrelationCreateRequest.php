@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.enterprise.merchantrelation.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 19:31:37
+ * @since 1.0, 2022-11-29 10:46:37
  */
 class AlipayEbppInvoiceEnterpriseMerchantrelationCreateRequest
 {

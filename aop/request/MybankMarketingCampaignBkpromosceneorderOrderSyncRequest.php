@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.marketing.campaign.bkpromosceneorder.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-28 11:52:03
+ * @since 1.0, 2022-12-07 17:38:01
  */
 class MybankMarketingCampaignBkpromosceneorderOrderSyncRequest
 {

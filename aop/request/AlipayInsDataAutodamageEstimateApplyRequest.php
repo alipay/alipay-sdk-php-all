@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.autodamage.estimate.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:07:14
+ * @since 1.0, 2022-12-13 13:56:20
  */
 class AlipayInsDataAutodamageEstimateApplyRequest
 {

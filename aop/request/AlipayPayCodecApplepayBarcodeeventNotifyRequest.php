@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.codec.applepay.barcodeevent.notify request
  *
  * @author auto create
- * @since 1.0, 2021-02-03 10:44:32
+ * @since 1.0, 2022-12-08 03:55:48
  */
 class AlipayPayCodecApplepayBarcodeeventNotifyRequest
 {

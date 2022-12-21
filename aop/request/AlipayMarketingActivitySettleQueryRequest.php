@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.settle.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-08 11:46:48
+ * @since 1.0, 2022-12-07 19:57:48
  */
 class AlipayMarketingActivitySettleQueryRequest
 {

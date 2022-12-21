@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.crowd.tag.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-26 09:41:41
+ * @since 1.0, 2022-12-07 18:33:33
  */
 class DatadigitalFincloudFinsaasCrowdTagCreateRequest
 {

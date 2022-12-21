@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.bkruralindustry.massif.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 10:12:54
+ * @since 1.0, 2022-12-07 16:28:38
  */
 class MybankCreditLoanapplyBkruralindustryMassifQueryRequest
 {

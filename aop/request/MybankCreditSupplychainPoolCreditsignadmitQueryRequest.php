@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.pool.creditsignadmit.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-03 14:52:55
+ * @since 1.0, 2022-12-08 02:38:40
  */
 class MybankCreditSupplychainPoolCreditsignadmitQueryRequest
 {

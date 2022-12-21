@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.quanyibao.pointdeduct.submit request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 19:13:48
+ * @since 1.0, 2022-11-28 17:21:36
  */
 class AlipayUserQuanyibaoPointdeductSubmitRequest
 {

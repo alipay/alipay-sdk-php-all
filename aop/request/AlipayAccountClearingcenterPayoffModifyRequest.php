@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.clearingcenter.payoff.modify request
  *
  * @author auto create
- * @since 1.0, 2020-06-28 09:59:12
+ * @since 1.0, 2022-12-08 10:50:53
  */
 class AlipayAccountClearingcenterPayoffModifyRequest
 {

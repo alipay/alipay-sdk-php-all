@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.eprint.printer.add request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:44:56
+ * @since 1.0, 2022-12-08 12:37:12
  */
 class AlipayEcoEprintPrinterAddRequest
 {

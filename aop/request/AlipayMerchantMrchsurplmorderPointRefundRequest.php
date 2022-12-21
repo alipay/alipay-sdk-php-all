@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.mrchsurplmorder.point.refund request
  *
  * @author auto create
- * @since 1.0, 2022-04-19 19:56:40
+ * @since 1.0, 2022-12-07 18:22:52
  */
 class AlipayMerchantMrchsurplmorderPointRefundRequest
 {

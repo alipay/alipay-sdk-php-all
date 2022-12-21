@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.text.voice.notify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:58:06
+ * @since 1.0, 2022-12-08 01:49:27
  */
 class AlipayEcoTextVoiceNotifyRequest
 {

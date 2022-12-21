@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.dish.material.create request
  *
  * @author auto create
- * @since 1.0, 2020-11-23 11:23:22
+ * @since 1.0, 2022-12-08 12:15:12
  */
 class KoubeiCateringDishMaterialCreateRequest
 {

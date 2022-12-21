@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.scenetype.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-30 14:41:50
+ * @since 1.0, 2022-12-07 23:40:39
  */
 class AlipayDigitalmgmtScenetypeQueryRequest
 {

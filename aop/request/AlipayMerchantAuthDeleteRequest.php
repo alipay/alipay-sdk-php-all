@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.auth.delete request
  *
  * @author auto create
- * @since 1.0, 2022-04-06 11:56:09
+ * @since 1.0, 2022-12-08 02:06:41
  */
 class AlipayMerchantAuthDeleteRequest
 {

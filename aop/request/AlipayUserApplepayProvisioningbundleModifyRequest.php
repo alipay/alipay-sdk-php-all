@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.applepay.provisioningbundle.modify request
  *
  * @author auto create
- * @since 1.0, 2020-05-29 10:26:48
+ * @since 1.0, 2022-12-08 09:56:52
  */
 class AlipayUserApplepayProvisioningbundleModifyRequest
 {

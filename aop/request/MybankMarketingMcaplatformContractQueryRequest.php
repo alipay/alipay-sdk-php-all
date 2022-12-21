@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.marketing.mcaplatform.contract.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 11:51:46
+ * @since 1.0, 2022-12-08 02:39:51
  */
 class MybankMarketingMcaplatformContractQueryRequest
 {

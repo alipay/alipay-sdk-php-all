@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.prodarrangement.contracttext.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:48:56
+ * @since 1.0, 2022-12-08 06:12:47
  */
 class MybankCreditProdarrangementContracttextQueryRequest
 {

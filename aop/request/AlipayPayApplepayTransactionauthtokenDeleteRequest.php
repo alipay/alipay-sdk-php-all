@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.applepay.transactionauthtoken.delete request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 15:10:42
+ * @since 1.0, 2022-12-08 05:35:09
  */
 class AlipayPayApplepayTransactionauthtokenDeleteRequest
 {

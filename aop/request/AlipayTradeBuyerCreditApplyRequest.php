@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.buyer.credit.apply request
  *
  * @author auto create
- * @since 1.0, 2020-07-10 19:40:55
+ * @since 1.0, 2022-12-08 08:07:35
  */
 class AlipayTradeBuyerCreditApplyRequest
 {

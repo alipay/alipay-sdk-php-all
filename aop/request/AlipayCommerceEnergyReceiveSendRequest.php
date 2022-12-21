@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.energy.receive.send request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 16:27:36
+ * @since 1.0, 2022-12-20 16:51:43
  */
 class AlipayCommerceEnergyReceiveSendRequest
 {

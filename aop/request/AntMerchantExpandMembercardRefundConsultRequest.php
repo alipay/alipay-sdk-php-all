@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.membercard.refund.consult request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 14:21:34
+ * @since 1.0, 2022-12-07 18:06:41
  */
 class AntMerchantExpandMembercardRefundConsultRequest
 {

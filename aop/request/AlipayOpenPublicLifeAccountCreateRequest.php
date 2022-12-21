@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.life.account.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:08
+ * @since 1.0, 2022-12-14 20:07:02
  */
 class AlipayOpenPublicLifeAccountCreateRequest
 {
@@ -47,6 +47,11 @@ class AlipayOpenPublicLifeAccountCreateRequest
 	 * logo图片，需上传图片原始二进制流，此图片显示在支付宝客户端生活号主页上方位置，后缀是jpg或者jpeg，图片大小限制1mb
 	 **/
 	private $logo;
+	
+	/** 
+	 * 支付宝用户唯一标识
+	 **/
+	private $openId;
 	
 	/** 
 	 * 支付宝用户id，由支付宝同学提供用户id，为该生活号对应pid
@@ -149,6 +154,17 @@ class AlipayOpenPublicLifeAccountCreateRequest
 	public function getLogo()
 	{
 		return $this->logo;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setUserId($userId)

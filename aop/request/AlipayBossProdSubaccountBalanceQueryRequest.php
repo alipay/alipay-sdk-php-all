@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.subaccount.balance.query request
  *
  * @author auto create
- * @since 1.0, 2020-08-31 19:45:13
+ * @since 1.0, 2022-12-08 08:51:19
  */
 class AlipayBossProdSubaccountBalanceQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.minitipsdelivery.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 23:36:34
+ * @since 1.0, 2022-12-08 22:31:38
  */
 class ZhimaCreditEpMinitipsdeliveryQueryRequest
 {

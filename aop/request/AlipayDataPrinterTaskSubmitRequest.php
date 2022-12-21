@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.printer.task.submit request
  *
  * @author auto create
- * @since 1.0, 2019-10-18 16:25:57
+ * @since 1.0, 2022-12-08 06:26:50
  */
 class AlipayDataPrinterTaskSubmitRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.account.notify request
  *
  * @author auto create
- * @since 1.0, 2022-09-21 13:22:04
+ * @since 1.0, 2022-12-08 02:06:42
  */
 class AlipayMerchantIndirectAccountNotifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalop.ucdp.apeexperiment.task.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-06 20:01:57
+ * @since 1.0, 2022-12-08 03:30:53
  */
 class AlipayDigitalopUcdpApeexperimentTaskQueryRequest
 {

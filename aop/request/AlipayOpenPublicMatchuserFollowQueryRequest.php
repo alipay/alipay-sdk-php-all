@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.matchuser.follow.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:47
+ * @since 1.0, 2022-12-16 14:32:53
  */
 class AlipayOpenPublicMatchuserFollowQueryRequest
 {

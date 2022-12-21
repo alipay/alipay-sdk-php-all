@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.authentication.customer.ftoken.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 15:16:35
+ * @since 1.0, 2022-12-06 17:41:42
  */
 class ZolozAuthenticationCustomerFtokenQueryRequest
 {

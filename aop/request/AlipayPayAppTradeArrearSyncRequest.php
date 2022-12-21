@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.trade.arrear.sync request
  *
  * @author auto create
- * @since 1.0, 2022-06-20 18:42:33
+ * @since 1.0, 2022-12-08 01:58:17
  */
 class AlipayPayAppTradeArrearSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.trusple.customsauthinit.submit request
  *
  * @author auto create
- * @since 1.0, 2022-10-13 16:56:49
+ * @since 1.0, 2022-12-08 05:07:06
  */
 class AnttechBlockchainFinanceTruspleCustomsauthinitSubmitRequest
 {

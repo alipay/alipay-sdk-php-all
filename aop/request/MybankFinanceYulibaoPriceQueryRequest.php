@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.finance.yulibao.price.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 15:47:27
+ * @since 1.0, 2022-12-07 18:36:40
  */
 class MybankFinanceYulibaoPriceQueryRequest
 {

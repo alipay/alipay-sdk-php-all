@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.apbill.totalbillamt.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-07 17:22:26
+ * @since 1.0, 2022-12-08 10:37:20
  */
 class AlipayBossFncApbillTotalbillamtQueryRequest
 {

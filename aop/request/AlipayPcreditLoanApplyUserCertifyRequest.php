@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.apply.user.certify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:42
+ * @since 1.0, 2022-12-08 08:44:55
  */
 class AlipayPcreditLoanApplyUserCertifyRequest
 {

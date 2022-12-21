@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.partnerships.stop request
  *
  * @author auto create
- * @since 1.0, 2022-08-19 14:22:35
+ * @since 1.0, 2022-12-15 21:52:22
  */
 class AlipayMarketingPartnershipsStopRequest
 {

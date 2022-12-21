@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.cloudbus.scheduletaskod.query request
  *
  * @author auto create
- * @since 1.0, 2020-10-21 10:35:15
+ * @since 1.0, 2022-12-07 23:21:11
  */
 class AlipayDataAiserviceCloudbusScheduletaskodQueryRequest
 {

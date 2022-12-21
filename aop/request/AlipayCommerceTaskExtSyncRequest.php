@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.task.ext.sync request
  *
  * @author auto create
- * @since 1.0, 2022-10-18 15:26:38
+ * @since 1.0, 2022-12-16 16:11:39
  */
 class AlipayCommerceTaskExtSyncRequest
 {

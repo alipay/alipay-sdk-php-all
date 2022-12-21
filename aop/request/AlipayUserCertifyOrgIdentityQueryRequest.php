@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certify.org.identity.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 18:12:40
+ * @since 1.0, 2022-12-07 16:56:40
  */
 class AlipayUserCertifyOrgIdentityQueryRequest
 {

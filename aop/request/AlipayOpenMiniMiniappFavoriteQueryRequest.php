@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.miniapp.favorite.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 10:06:25
+ * @since 1.0, 2022-12-15 21:41:38
  */
 class AlipayOpenMiniMiniappFavoriteQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.account.add request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 10:50:01
+ * @since 1.0, 2022-12-15 15:56:39
  */
 class AlipayMobilePublicAccountAddRequest
 {
@@ -31,6 +31,11 @@ class AlipayMobilePublicAccountAddRequest
 	 * 关注者标识
 	 **/
 	private $fromUserId;
+	
+	/** 
+	 * 支付宝用户唯一标识（关注者）
+	 **/
+	private $openId;
 	
 	/** 
 	 * 绑定账户的用户名
@@ -100,6 +105,17 @@ class AlipayMobilePublicAccountAddRequest
 	public function getFromUserId()
 	{
 		return $this->fromUserId;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setRealName($realName)

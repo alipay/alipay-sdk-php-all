@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.hospital.query request
  *
  * @author auto create
- * @since 1.0, 2020-11-25 14:40:14
+ * @since 1.0, 2022-12-08 07:09:32
  */
 class AlipayInsDataHospitalQueryRequest
 {

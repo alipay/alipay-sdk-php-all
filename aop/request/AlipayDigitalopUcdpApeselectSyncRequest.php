@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalop.ucdp.apeselect.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 22:07:03
+ * @since 1.0, 2022-12-08 11:21:38
  */
 class AlipayDigitalopUcdpApeselectSyncRequest
 {

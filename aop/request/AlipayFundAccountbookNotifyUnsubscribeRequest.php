@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.accountbook.notify.unsubscribe request
  *
  * @author auto create
- * @since 1.0, 2022-10-31 11:13:04
+ * @since 1.0, 2022-12-07 15:08:32
  */
 class AlipayFundAccountbookNotifyUnsubscribeRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.credit.creditrisk.data.put request
  *
  * @author auto create
- * @since 1.0, 2020-09-03 17:21:59
+ * @since 1.0, 2022-11-25 15:26:24
  */
 class AlipayCreditCreditriskDataPutRequest
 {

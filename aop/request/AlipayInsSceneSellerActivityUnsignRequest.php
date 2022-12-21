@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.seller.activity.unsign request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:11:16
+ * @since 1.0, 2022-12-08 11:41:41
  */
 class AlipayInsSceneSellerActivityUnsignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.auth.userauth.relation.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 10:11:35
+ * @since 1.0, 2022-12-07 15:21:42
  */
 class AlipayOpenAuthUserauthRelationQueryRequest
 {

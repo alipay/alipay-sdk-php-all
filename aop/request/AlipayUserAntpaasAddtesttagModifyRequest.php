@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antpaas.addtesttag.modify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:24
+ * @since 1.0, 2022-12-08 05:20:03
  */
 class AlipayUserAntpaasAddtesttagModifyRequest
 {

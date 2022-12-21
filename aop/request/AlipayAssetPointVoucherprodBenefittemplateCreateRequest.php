@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.asset.point.voucherprod.benefittemplate.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:38:03
+ * @since 1.0, 2022-12-08 01:34:33
  */
 class AlipayAssetPointVoucherprodBenefittemplateCreateRequest
 {

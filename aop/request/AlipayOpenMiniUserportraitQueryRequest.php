@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.userportrait.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-01 14:32:56
+ * @since 1.0, 2022-12-08 09:52:21
  */
 class AlipayOpenMiniUserportraitQueryRequest
 {

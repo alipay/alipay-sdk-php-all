@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.operator.freeze request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 16:44:33
+ * @since 1.0, 2022-12-08 07:20:25
  */
 class KoubeiMerchantOperatorFreezeRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.fulfillment.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 15:41:35
+ * @since 1.0, 2022-12-08 14:31:41
  */
 class ZhimaCustomerFulfillmentSyncRequest
 {

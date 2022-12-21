@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.payafteruse.creditagreement.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-08-15 14:26:46
+ * @since 1.0, 2022-12-06 19:39:17
  */
 class ZhimaCreditPayafteruseCreditagreementTransferRequest
 {

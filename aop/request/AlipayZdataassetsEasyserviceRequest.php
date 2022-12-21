@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.zdataassets.easyservice request
  *
  * @author auto create
- * @since 1.0, 2021-12-30 15:04:01
+ * @since 1.0, 2022-12-07 19:33:39
  */
 class AlipayZdataassetsEasyserviceRequest
 {

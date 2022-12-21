@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.nucleicremind.subscribe.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-11 17:16:33
+ * @since 1.0, 2022-12-07 23:56:39
  */
 class AlipayEbppIndustryNucleicremindSubscribeModifyRequest
 {

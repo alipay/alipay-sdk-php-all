@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.taxbill.sign.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-11 18:26:54
+ * @since 1.0, 2022-12-07 16:37:10
  */
 class AlipayFundTaxbillSignQueryRequest
 {

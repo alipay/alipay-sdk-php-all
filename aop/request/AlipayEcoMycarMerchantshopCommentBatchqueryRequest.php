@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.merchantshop.comment.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:54
+ * @since 1.0, 2022-12-08 08:52:45
  */
 class AlipayEcoMycarMerchantshopCommentBatchqueryRequest
 {

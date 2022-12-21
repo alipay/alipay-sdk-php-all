@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.prodmode.sign.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-15 10:02:13
+ * @since 1.0, 2022-12-08 08:02:47
  */
 class AlipayEbppProdmodeSignQueryRequest
 {

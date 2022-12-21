@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.insure.check request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 20:41:47
+ * @since 1.0, 2022-12-07 19:44:34
  */
 class AlipayInsSceneEcommerceInsureCheckRequest
 {

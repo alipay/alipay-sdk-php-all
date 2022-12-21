@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.showwindow.content.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-05 00:38:20
+ * @since 1.0, 2022-12-08 08:48:54
  */
 class AlipayMarketingShowwindowContentQueryRequest
 {

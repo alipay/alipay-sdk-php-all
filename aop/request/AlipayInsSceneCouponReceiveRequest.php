@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.coupon.receive request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:07
+ * @since 1.0, 2022-12-07 19:21:05
  */
 class AlipayInsSceneCouponReceiveRequest
 {

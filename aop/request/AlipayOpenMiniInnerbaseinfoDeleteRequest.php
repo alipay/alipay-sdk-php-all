@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerbaseinfo.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:00:17
+ * @since 1.0, 2022-12-08 09:08:39
  */
 class AlipayOpenMiniInnerbaseinfoDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.formtemplate.relations.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 21:11:40
+ * @since 1.0, 2022-12-08 14:17:08
  */
 class DatadigitalFincloudFinsaasFormtemplateRelationsBatchqueryRequest
 {

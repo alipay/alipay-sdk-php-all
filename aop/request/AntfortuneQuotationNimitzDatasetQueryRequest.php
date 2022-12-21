@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.quotation.nimitz.dataset.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 11:26:50
+ * @since 1.0, 2022-12-08 02:44:52
  */
 class AntfortuneQuotationNimitzDatasetQueryRequest
 {

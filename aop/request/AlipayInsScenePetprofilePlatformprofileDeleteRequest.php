@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.petprofile.platformprofile.delete request
  *
  * @author auto create
- * @since 1.0, 2022-03-28 16:54:31
+ * @since 1.0, 2022-12-07 16:53:40
  */
 class AlipayInsScenePetprofilePlatformprofileDeleteRequest
 {

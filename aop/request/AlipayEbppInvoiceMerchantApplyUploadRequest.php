@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.merchant.apply.upload request
  *
  * @author auto create
- * @since 1.0, 2022-06-22 09:59:00
+ * @since 1.0, 2022-12-08 08:18:59
  */
 class AlipayEbppInvoiceMerchantApplyUploadRequest
 {

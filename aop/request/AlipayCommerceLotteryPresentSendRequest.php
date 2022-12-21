@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lottery.present.send request
  *
  * @author auto create
- * @since 1.0, 2020-12-14 15:48:03
+ * @since 1.0, 2022-12-07 17:58:10
  */
 class AlipayCommerceLotteryPresentSendRequest
 {

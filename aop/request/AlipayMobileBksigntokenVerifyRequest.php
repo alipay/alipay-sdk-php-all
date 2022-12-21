@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.bksigntoken.verify request
  *
  * @author auto create
- * @since 1.0, 2020-08-24 23:10:56
+ * @since 1.0, 2022-12-07 17:58:15
  */
 class AlipayMobileBksigntokenVerifyRequest
 {

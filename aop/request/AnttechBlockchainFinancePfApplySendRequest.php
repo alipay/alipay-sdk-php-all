@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.pf.apply.send request
  *
  * @author auto create
- * @since 1.0, 2020-09-14 19:55:36
+ * @since 1.0, 2022-12-08 07:26:46
  */
 class AnttechBlockchainFinancePfApplySendRequest
 {

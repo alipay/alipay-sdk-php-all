@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.dossier.courtassess.submit request
  *
  * @author auto create
- * @since 1.0, 2022-01-07 14:37:56
+ * @since 1.0, 2022-12-16 14:31:39
  */
 class ZhimaCreditEpDossierCourtassessSubmitRequest
 {

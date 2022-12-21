@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.policy.endorse.apply request
  *
  * @author auto create
- * @since 1.0, 2022-03-08 13:29:23
+ * @since 1.0, 2022-12-08 06:43:07
  */
 class AlipayInsScenePolicyEndorseApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expensecontrol.aggregation.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 15:35:39
+ * @since 1.0, 2022-12-07 19:50:15
  */
 class AlipayEbppInvoiceExpensecontrolAggregationCreateRequest
 {

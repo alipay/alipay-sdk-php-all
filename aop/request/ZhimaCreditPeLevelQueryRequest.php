@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.level.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 17:30:06
+ * @since 1.0, 2022-12-08 06:02:15
  */
 class ZhimaCreditPeLevelQueryRequest
 {

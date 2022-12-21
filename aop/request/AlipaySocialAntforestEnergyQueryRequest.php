@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antforest.energy.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-13 22:51:49
+ * @since 1.0, 2022-12-08 06:16:39
  */
 class AlipaySocialAntforestEnergyQueryRequest
 {

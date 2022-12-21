@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.pass.instancebatch.add request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 16:21:35
+ * @since 1.0, 2022-12-07 19:16:42
  */
 class AlipayUserPassInstancebatchAddRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.contract.onestepsign.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-12 14:35:34
+ * @since 1.0, 2022-12-08 01:47:58
  */
 class AlipayBossProdContractOnestepsignCreateRequest
 {

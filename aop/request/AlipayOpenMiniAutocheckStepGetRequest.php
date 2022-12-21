@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.autocheck.step.get request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 09:21:53
+ * @since 1.0, 2022-12-19 16:21:44
  */
 class AlipayOpenMiniAutocheckStepGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.identification.zolozid.get request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 21:38:28
+ * @since 1.0, 2022-12-08 05:12:18
  */
 class ZolozIdentificationZolozidGetRequest
 {

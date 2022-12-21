@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.partner.payment.apply request
  *
  * @author auto create
- * @since 1.0, 2022-01-11 10:02:12
+ * @since 1.0, 2022-12-08 07:05:07
  */
 class MybankCreditLoantradePartnerPaymentApplyRequest
 {

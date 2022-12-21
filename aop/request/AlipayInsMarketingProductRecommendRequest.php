@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.marketing.product.recommend request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 18:35:15
+ * @since 1.0, 2022-12-08 11:05:07
  */
 class AlipayInsMarketingProductRecommendRequest
 {

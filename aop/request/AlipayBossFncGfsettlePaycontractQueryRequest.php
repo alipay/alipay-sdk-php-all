@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettle.paycontract.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 11:46:51
+ * @since 1.0, 2022-12-08 07:16:38
  */
 class AlipayBossFncGfsettlePaycontractQueryRequest
 {

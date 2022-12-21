@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.invoice.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:24:17
+ * @since 1.0, 2022-12-08 11:11:39
  */
 class AlipayBossFncGfsettleprodInvoiceDeleteRequest
 {

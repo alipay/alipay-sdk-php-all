@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.user.msg.send request
  *
  * @author auto create
- * @since 1.0, 2019-03-12 14:45:00
+ * @since 1.0, 2022-12-16 15:36:50
  */
 class AlipayInsAutoUserMsgSendRequest
 {

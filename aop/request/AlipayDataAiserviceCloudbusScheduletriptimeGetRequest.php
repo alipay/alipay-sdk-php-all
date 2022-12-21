@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.cloudbus.scheduletriptime.get request
  *
  * @author auto create
- * @since 1.0, 2020-10-21 10:33:47
+ * @since 1.0, 2022-12-08 04:15:36
  */
 class AlipayDataAiserviceCloudbusScheduletriptimeGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.facepayskin.receive request
  *
  * @author auto create
- * @since 1.0, 2021-12-14 15:25:35
+ * @since 1.0, 2022-12-12 19:26:41
  */
 class AlipayCommerceSportsFacepayskinReceiveRequest
 {

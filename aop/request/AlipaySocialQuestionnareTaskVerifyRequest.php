@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.questionnare.task.verify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:16
+ * @since 1.0, 2022-12-08 12:06:28
  */
 class AlipaySocialQuestionnareTaskVerifyRequest
 {

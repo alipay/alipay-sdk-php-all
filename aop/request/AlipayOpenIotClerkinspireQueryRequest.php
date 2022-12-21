@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iot.clerkinspire.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-26 13:45:04
+ * @since 1.0, 2022-12-08 06:20:35
  */
 class AlipayOpenIotClerkinspireQueryRequest
 {

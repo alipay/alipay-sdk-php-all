@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.renthouse.publicrent.applyschedule.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:56:46
+ * @since 1.0, 2022-12-07 20:42:22
  */
 class AlipayEcoRenthousePublicrentApplyscheduleSyncRequest
 {

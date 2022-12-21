@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.serviceorder.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-02-10 17:07:12
+ * @since 1.0, 2022-12-07 17:05:28
  */
 class AlipayOpenSearchServiceorderBatchqueryRequest
 {

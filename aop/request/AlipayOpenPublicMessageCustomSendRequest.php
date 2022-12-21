@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.message.custom.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 16:06:44
+ * @since 1.0, 2022-12-07 18:06:40
  */
 class AlipayOpenPublicMessageCustomSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.room.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:30:07
+ * @since 1.0, 2022-12-07 20:52:05
  */
 class AlipayEbppCommunityRoomCreateRequest
 {

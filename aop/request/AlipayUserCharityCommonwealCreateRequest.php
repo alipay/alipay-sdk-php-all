@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.charity.commonweal.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-25 21:06:54
+ * @since 1.0, 2022-12-07 23:11:39
  */
 class AlipayUserCharityCommonwealCreateRequest
 {

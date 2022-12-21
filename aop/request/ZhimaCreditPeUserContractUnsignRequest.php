@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.user.contract.unsign request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 14:17:13
+ * @since 1.0, 2022-12-19 15:26:37
  */
 class ZhimaCreditPeUserContractUnsignRequest
 {

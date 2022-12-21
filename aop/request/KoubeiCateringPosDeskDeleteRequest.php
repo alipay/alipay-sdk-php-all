@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.desk.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:18:49
+ * @since 1.0, 2022-12-08 09:28:40
  */
 class KoubeiCateringPosDeskDeleteRequest
 {

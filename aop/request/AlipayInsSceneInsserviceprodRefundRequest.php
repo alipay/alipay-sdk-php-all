@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.insserviceprod.refund request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:10:28
+ * @since 1.0, 2022-12-08 09:51:27
  */
 class AlipayInsSceneInsserviceprodRefundRequest
 {

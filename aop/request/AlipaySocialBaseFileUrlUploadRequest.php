@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.file.url.upload request
  *
  * @author auto create
- * @since 1.0, 2021-10-18 10:47:48
+ * @since 1.0, 2022-12-07 19:04:48
  */
 class AlipaySocialBaseFileUrlUploadRequest
 {

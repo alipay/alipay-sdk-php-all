@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.rollback request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:21:04
+ * @since 1.0, 2022-12-06 17:34:46
  */
 class AlipayOpenMiniVersionRollbackRequest
 {

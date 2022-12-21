@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.gis.get request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 14:20:50
+ * @since 1.0, 2022-12-07 15:16:50
  */
 class AlipayMobilePublicGisGetRequest
 {

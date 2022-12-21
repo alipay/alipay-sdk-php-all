@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.title.fuzzy.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-24 15:31:50
+ * @since 1.0, 2022-12-08 03:26:46
  */
 class AlipayEbppInvoiceTitleFuzzyQueryRequest
 {

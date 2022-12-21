@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.yeb.asset.trade.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2020-11-30 20:10:15
+ * @since 1.0, 2022-12-08 04:08:41
  */
 class AntfortuneYebAssetTradeUnfreezeRequest
 {
