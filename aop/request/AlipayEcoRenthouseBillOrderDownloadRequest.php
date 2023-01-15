@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.renthouse.bill.order.download request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 14:28:38
+ * @since 1.0, 2023-01-05 11:04:34
  */
 class AlipayEcoRenthouseBillOrderDownloadRequest
 {

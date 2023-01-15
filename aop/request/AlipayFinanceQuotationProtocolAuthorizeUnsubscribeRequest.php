@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.quotation.protocol.authorize.unsubscribe request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 13:01:41
+ * @since 1.0, 2023-01-11 01:56:42
  */
 class AlipayFinanceQuotationProtocolAuthorizeUnsubscribeRequest
 {

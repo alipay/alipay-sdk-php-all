@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.openbizmock.delete.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-13 15:01:40
+ * @since 1.0, 2023-01-11 10:06:49
  */
 class AlipayOpenOperationOpenbizmockDeleteQueryRequest
 {

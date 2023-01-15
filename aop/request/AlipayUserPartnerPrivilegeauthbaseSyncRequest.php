@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.partner.privilegeauthbase.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 16:09:55
+ * @since 1.0, 2023-01-05 00:06:54
  */
 class AlipayUserPartnerPrivilegeauthbaseSyncRequest
 {

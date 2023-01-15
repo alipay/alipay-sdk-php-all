@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.voucher.template.delete request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 14:53:47
+ * @since 1.0, 2023-01-04 21:44:23
  */
 class AlipayMarketingVoucherTemplateDeleteRequest
 {

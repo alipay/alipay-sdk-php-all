@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.role.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 15:02:34
+ * @since 1.0, 2023-01-04 18:43:30
  */
 class AlipayIserviceCcmRoleCreateRequest
 {

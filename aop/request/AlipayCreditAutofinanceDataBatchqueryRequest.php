@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.credit.autofinance.data.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:14:59
+ * @since 1.0, 2023-01-05 10:29:46
  */
 class AlipayCreditAutofinanceDataBatchqueryRequest
 {

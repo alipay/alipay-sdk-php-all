@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.rule.tag.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 01:15:41
+ * @since 1.0, 2023-01-11 03:31:40
  */
 class AlipayMarketingCampaignRuleTagQueryRequest
 {

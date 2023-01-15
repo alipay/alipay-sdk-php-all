@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.yuntask.accountbook.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-30 20:18:48
+ * @since 1.0, 2023-01-11 09:06:44
  */
 class AlipayCommerceYuntaskAccountbookQueryRequest
 {

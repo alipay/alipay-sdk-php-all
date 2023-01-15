@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.itap.states.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:22:44
+ * @since 1.0, 2023-01-11 06:39:49
  */
 class AlipayMsaasItapStatesSyncRequest
 {

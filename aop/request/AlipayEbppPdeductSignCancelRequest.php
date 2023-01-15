@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.pdeduct.sign.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 16:34:09
+ * @since 1.0, 2023-01-04 18:08:15
  */
 class AlipayEbppPdeductSignCancelRequest
 {

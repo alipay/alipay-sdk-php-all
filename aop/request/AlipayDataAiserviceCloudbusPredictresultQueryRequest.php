@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.cloudbus.predictresult.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 02:07:53
+ * @since 1.0, 2023-01-10 22:37:19
  */
 class AlipayDataAiserviceCloudbusPredictresultQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.order.diagnosis.get request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:11:23
+ * @since 1.0, 2023-01-11 05:10:51
  */
 class AlipayBossOrderDiagnosisGetRequest
 {

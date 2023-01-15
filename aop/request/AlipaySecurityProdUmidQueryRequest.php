@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.umid.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 05:23:21
+ * @since 1.0, 2023-01-11 03:50:07
  */
 class AlipaySecurityProdUmidQueryRequest
 {

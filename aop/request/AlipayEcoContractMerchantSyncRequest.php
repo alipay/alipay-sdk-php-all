@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.contract.merchant.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 08:11:55
+ * @since 1.0, 2023-01-10 23:05:00
  */
 class AlipayEcoContractMerchantSyncRequest
 {

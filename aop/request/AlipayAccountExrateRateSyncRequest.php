@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.exrate.rate.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 07:23:31
+ * @since 1.0, 2023-01-10 23:05:52
  */
 class AlipayAccountExrateRateSyncRequest
 {

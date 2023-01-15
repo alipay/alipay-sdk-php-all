@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.fliggy.shop.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:51:41
+ * @since 1.0, 2023-01-11 02:11:40
  */
 class AlipayOverseasTravelFliggyShopTransferRequest
 {

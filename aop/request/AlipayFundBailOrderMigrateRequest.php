@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.bail.order.migrate request
  *
  * @author auto create
- * @since 1.0, 2022-12-20 21:36:39
+ * @since 1.0, 2023-01-11 02:56:38
  */
 class AlipayFundBailOrderMigrateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.job.contract.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 00:06:59
+ * @since 1.0, 2023-01-11 09:36:40
  */
 class AlipayEbppIndustryJobContractCreateRequest
 {

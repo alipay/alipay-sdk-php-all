@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.acceptance.request.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 01:06:52
+ * @since 1.0, 2023-01-05 11:09:12
  */
 class AlipayEcoAcceptanceRequestCreateRequest
 {

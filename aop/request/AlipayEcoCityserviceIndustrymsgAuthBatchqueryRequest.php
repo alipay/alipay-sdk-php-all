@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cityservice.industrymsg.auth.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:03:55
+ * @since 1.0, 2023-01-11 07:29:46
  */
 class AlipayEcoCityserviceIndustrymsgAuthBatchqueryRequest
 {

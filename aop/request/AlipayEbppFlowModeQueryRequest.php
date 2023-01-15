@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.flow.mode.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 14:21:49
+ * @since 1.0, 2023-01-11 04:41:09
  */
 class AlipayEbppFlowModeQueryRequest
 {

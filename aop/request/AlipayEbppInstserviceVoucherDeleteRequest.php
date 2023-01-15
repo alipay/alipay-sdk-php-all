@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.instservice.voucher.delete request
  *
  * @author auto create
- * @since 1.0, 2022-12-20 12:13:02
+ * @since 1.0, 2023-01-05 00:06:52
  */
 class AlipayEbppInstserviceVoucherDeleteRequest
 {

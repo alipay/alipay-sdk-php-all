@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.commodity.extendinfos.add request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 11:59:02
+ * @since 1.0, 2023-01-05 10:05:43
  */
 class AlipayOpenServicemarketCommodityExtendinfosAddRequest
 {

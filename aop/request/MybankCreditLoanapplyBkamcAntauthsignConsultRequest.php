@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.bkamc.antauthsign.consult request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 03:32:04
+ * @since 1.0, 2023-01-11 01:22:49
  */
 class MybankCreditLoanapplyBkamcAntauthsignConsultRequest
 {

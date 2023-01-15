@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.iotdata.bai.cargocount.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 23:48:15
+ * @since 1.0, 2023-01-10 22:50:12
  */
 class AlipayDataIotdataBaiCargocountQueryRequest
 {

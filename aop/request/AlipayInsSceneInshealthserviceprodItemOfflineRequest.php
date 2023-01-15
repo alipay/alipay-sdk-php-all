@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.inshealthserviceprod.item.offline request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 09:33:59
+ * @since 1.0, 2023-01-11 06:57:47
  */
 class AlipayInsSceneInshealthserviceprodItemOfflineRequest
 {

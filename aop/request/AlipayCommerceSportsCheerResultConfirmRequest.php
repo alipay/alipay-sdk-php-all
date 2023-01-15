@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.cheer.result.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:43:01
+ * @since 1.0, 2023-01-11 07:25:13
  */
 class AlipayCommerceSportsCheerResultConfirmRequest
 {

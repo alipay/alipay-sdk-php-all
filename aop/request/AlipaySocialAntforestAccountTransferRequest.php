@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antforest.account.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 07:51:39
+ * @since 1.0, 2023-01-11 09:01:40
  */
 class AlipaySocialAntforestAccountTransferRequest
 {

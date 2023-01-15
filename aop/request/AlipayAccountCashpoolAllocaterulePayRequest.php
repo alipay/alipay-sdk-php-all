@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.cashpool.allocaterule.pay request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 09:37:38
+ * @since 1.0, 2023-01-11 06:24:35
  */
 class AlipayAccountCashpoolAllocaterulePayRequest
 {

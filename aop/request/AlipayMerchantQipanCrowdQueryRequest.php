@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.qipan.crowd.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 19:53:00
+ * @since 1.0, 2023-01-04 23:43:27
  */
 class AlipayMerchantQipanCrowdQueryRequest
 {

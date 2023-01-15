@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.tradecomplain.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 14:36:39
+ * @since 1.0, 2023-01-12 10:58:20
  */
 class AlipayMerchantTradecomplainBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.applepay.pbstatus.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 02:35:59
+ * @since 1.0, 2023-01-10 23:27:40
  */
 class AlipayUserApplepayPbstatusQueryRequest
 {

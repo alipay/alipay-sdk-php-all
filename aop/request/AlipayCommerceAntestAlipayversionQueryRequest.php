@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.antest.alipayversion.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 14:09:18
+ * @since 1.0, 2023-01-10 23:15:18
  */
 class AlipayCommerceAntestAlipayversionQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.dataservice.riskctl.submit request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 01:47:05
+ * @since 1.0, 2023-01-11 07:30:02
  */
 class AnttechBlockchainDefinDataserviceRiskctlSubmitRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.members.huoban.delete request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 11:14:34
+ * @since 1.0, 2023-01-11 05:30:43
  */
 class AlipayOpenMiniMembersHuobanDeleteRequest
 {

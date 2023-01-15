@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.customer.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 07:22:35
+ * @since 1.0, 2023-01-11 05:51:52
  */
 class AnttechBlockchainFinanceCustomerCreateRequest
 {

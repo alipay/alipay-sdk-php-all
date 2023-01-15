@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.shopcode.apply request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 16:08:07
+ * @since 1.0, 2023-01-10 23:51:31
  */
 class AlipayCommerceIotShopcodeApplyRequest
 {

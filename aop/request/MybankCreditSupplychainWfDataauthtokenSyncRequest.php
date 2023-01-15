@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.dataauthtoken.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-20 16:56:40
+ * @since 1.0, 2023-01-11 09:46:39
  */
 class MybankCreditSupplychainWfDataauthtokenSyncRequest
 {

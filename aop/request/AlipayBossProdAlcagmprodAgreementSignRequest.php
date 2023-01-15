@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.alcagmprod.agreement.sign request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 12:51:39
+ * @since 1.0, 2023-01-11 09:26:40
  */
 class AlipayBossProdAlcagmprodAgreementSignRequest
 {

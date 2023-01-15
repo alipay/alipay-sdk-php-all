@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.clive.visitor.offline request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 14:56:16
+ * @since 1.0, 2023-01-04 22:49:37
  */
 class AlipayIserviceCliveVisitorOfflineRequest
 {

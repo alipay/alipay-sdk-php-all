@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.authenticate.campuscard.modify request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 05:26:48
+ * @since 1.0, 2023-01-11 08:46:49
  */
 class AlipayCommerceEducateAuthenticateCampuscardModifyRequest
 {

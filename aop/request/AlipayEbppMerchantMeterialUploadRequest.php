@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.merchant.meterial.upload request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 14:22:45
+ * @since 1.0, 2023-01-11 07:06:10
  */
 class AlipayEbppMerchantMeterialUploadRequest
 {

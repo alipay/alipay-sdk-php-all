@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.sceneprod.payment.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 03:22:18
+ * @since 1.0, 2023-01-11 03:56:16
  */
 class MybankCreditSceneprodPaymentQueryRequest
 {

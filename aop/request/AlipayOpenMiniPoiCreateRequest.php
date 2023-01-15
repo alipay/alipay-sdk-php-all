@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.poi.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 00:22:50
+ * @since 1.0, 2023-01-05 11:28:00
  */
 class AlipayOpenMiniPoiCreateRequest
 {

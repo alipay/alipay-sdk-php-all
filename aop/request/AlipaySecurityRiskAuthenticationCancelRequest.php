@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.authentication.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 13:40:10
+ * @since 1.0, 2023-01-05 10:34:22
  */
 class AlipaySecurityRiskAuthenticationCancelRequest
 {

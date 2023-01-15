@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.kms.baking.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 23:19:45
+ * @since 1.0, 2023-01-10 23:12:37
  */
 class KoubeiCateringKmsBakingBatchqueryRequest
 {

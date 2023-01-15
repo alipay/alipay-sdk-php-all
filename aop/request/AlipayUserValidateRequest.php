@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.validate request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 12:36:40
+ * @since 1.0, 2023-01-11 09:06:45
  */
 class AlipayUserValidateRequest
 {

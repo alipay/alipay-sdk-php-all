@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerapp.pluginuseconfig.online request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 09:58:26
+ * @since 1.0, 2023-01-11 07:35:09
  */
 class AlipayOpenMiniInnerappPluginuseconfigOnlineRequest
 {

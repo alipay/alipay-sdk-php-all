@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.identification.customer.smilerepo.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 10:58:37
+ * @since 1.0, 2023-01-11 04:28:51
  */
 class ZolozIdentificationCustomerSmilerepoSyncRequest
 {

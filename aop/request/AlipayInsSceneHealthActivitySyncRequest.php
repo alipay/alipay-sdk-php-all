@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.health.activity.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:42:24
+ * @since 1.0, 2023-01-11 03:47:42
  */
 class AlipayInsSceneHealthActivitySyncRequest
 {

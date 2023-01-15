@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.fingerprint.delete request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 18:05:36
+ * @since 1.0, 2023-01-04 21:46:01
  */
 class AlipaySecurityProdFingerprintDeleteRequest
 {

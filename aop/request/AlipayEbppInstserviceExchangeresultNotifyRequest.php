@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.instservice.exchangeresult.notify request
  *
  * @author auto create
- * @since 1.0, 2022-12-20 12:11:12
+ * @since 1.0, 2023-01-11 01:36:44
  */
 class AlipayEbppInstserviceExchangeresultNotifyRequest
 {

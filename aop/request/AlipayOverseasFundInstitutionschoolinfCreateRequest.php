@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.fund.institutionschoolinf.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 13:54:20
+ * @since 1.0, 2023-01-11 06:49:27
  */
 class AlipayOverseasFundInstitutionschoolinfCreateRequest
 {

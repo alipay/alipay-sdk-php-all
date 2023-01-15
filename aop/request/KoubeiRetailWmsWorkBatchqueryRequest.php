@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.retail.wms.work.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 07:37:24
+ * @since 1.0, 2023-01-11 04:08:28
  */
 class KoubeiRetailWmsWorkBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.pcreditmerchant.productorder.delay request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 06:50:05
+ * @since 1.0, 2023-01-10 23:27:56
  */
 class AlipayPcreditHuabeiPcreditmerchantProductorderDelayRequest
 {

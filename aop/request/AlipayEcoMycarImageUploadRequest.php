@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.image.upload request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 12:28:31
+ * @since 1.0, 2023-01-11 03:26:02
  */
 class AlipayEcoMycarImageUploadRequest
 {

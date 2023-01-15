@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.data.morse.operate.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 12:22:08
+ * @since 1.0, 2023-01-11 04:00:01
  */
 class ZhimaDataMorseOperateSyncRequest
 {

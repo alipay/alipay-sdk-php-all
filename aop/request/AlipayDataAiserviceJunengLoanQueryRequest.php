@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.juneng.loan.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 13:34:38
+ * @since 1.0, 2023-01-11 03:48:47
  */
 class AlipayDataAiserviceJunengLoanQueryRequest
 {

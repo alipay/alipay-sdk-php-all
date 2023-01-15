@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.marketing.equitystatus.thirdpart.modify request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 14:50:25
+ * @since 1.0, 2023-01-04 23:17:33
  */
 class AntfortuneMarketingEquitystatusThirdpartModifyRequest
 {

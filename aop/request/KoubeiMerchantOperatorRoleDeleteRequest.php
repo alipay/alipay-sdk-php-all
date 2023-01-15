@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.operator.role.delete request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 23:41:32
+ * @since 1.0, 2023-01-11 04:15:59
  */
 class KoubeiMerchantOperatorRoleDeleteRequest
 {

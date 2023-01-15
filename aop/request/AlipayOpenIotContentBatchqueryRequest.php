@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iot.content.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 16:21:42
+ * @since 1.0, 2023-01-11 02:06:46
  */
 class AlipayOpenIotContentBatchqueryRequest
 {

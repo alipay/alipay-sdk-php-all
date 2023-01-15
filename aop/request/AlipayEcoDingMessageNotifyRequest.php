@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.ding.message.notify request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 13:05:41
+ * @since 1.0, 2023-01-10 22:33:33
  */
 class AlipayEcoDingMessageNotifyRequest
 {

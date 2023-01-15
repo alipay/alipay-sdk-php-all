@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.credit.autofinance.loan.close request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 08:56:02
+ * @since 1.0, 2023-01-05 10:06:32
  */
 class AlipayCreditAutofinanceLoanCloseRequest
 {

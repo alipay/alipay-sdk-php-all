@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.quotation.quotetrade.symbols.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 12:17:44
+ * @since 1.0, 2023-01-10 23:55:33
  */
 class AlipayFinanceQuotationQuotetradeSymbolsQueryRequest
 {

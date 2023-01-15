@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.dataservice.logistics.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 09:37:56
+ * @since 1.0, 2023-01-11 00:43:36
  */
 class AnttechBlockchainDefinDataserviceLogisticsQueryRequest
 {

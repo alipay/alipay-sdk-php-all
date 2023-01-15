@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.widget.goods.upload request
  *
  * @author auto create
- * @since 1.0, 2022-12-06 19:41:36
+ * @since 1.0, 2023-01-04 21:07:16
  */
 class AlipayOpenMiniWidgetGoodsUploadRequest
 {

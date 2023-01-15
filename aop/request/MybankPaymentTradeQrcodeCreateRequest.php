@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.qrcode.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 18:12:21
+ * @since 1.0, 2023-01-04 19:06:38
  */
 class MybankPaymentTradeQrcodeCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.payforprivilege.member.delete request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 13:56:42
+ * @since 1.0, 2023-01-11 02:26:40
  */
 class AlipayCommercePayforprivilegeMemberDeleteRequest
 {

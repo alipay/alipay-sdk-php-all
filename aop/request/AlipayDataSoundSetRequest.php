@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.sound.set request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:58:47
+ * @since 1.0, 2023-01-10 22:41:53
  */
 class AlipayDataSoundSetRequest
 {

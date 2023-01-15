@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.service.close request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 16:21:57
+ * @since 1.0, 2023-01-04 18:38:50
  */
 class AlipayIserviceCcmServiceCloseRequest
 {

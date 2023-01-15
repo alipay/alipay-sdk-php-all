@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.seller.activity.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 20:44:40
+ * @since 1.0, 2023-01-11 03:52:15
  */
 class AlipayInsSceneSellerActivityQueryRequest
 {

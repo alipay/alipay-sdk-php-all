@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.api.field.apply request
  *
  * @author auto create
- * @since 1.0, 2022-12-06 19:19:47
+ * @since 1.0, 2023-01-04 18:57:25
  */
 class AlipayOpenAppApiFieldApplyRequest
 {

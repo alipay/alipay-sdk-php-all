@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.tax.advanced.pay request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 14:01:40
+ * @since 1.0, 2023-01-11 06:25:23
  */
 class AlipayOverseasTaxAdvancedPayRequest
 {

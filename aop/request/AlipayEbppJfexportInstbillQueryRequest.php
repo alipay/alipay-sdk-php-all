@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.jfexport.instbill.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 06:10:06
+ * @since 1.0, 2023-01-05 10:34:54
  */
 class AlipayEbppJfexportInstbillQueryRequest
 {

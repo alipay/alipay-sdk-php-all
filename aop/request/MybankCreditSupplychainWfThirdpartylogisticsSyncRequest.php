@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.thirdpartylogistics.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 14:16:28
+ * @since 1.0, 2023-01-11 02:41:39
  */
 class MybankCreditSupplychainWfThirdpartylogisticsSyncRequest
 {

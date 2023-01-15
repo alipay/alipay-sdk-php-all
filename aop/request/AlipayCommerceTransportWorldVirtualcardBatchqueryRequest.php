@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.world.virtualcard.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 10:07:12
+ * @since 1.0, 2023-01-11 06:12:50
  */
 class AlipayCommerceTransportWorldVirtualcardBatchqueryRequest
 {

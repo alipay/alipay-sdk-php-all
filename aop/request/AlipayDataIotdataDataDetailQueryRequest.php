@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.iotdata.data.detail.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 02:59:31
+ * @since 1.0, 2023-01-05 11:35:19
  */
 class AlipayDataIotdataDataDetailQueryRequest
 {

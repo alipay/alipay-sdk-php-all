@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.unitedopencoupon.receive.trigger request
  *
  * @author auto create
- * @since 1.0, 2022-12-12 14:16:37
+ * @since 1.0, 2023-01-05 01:01:38
  */
 class AlipayMarketingCampaignUnitedopencouponReceiveTriggerRequest
 {

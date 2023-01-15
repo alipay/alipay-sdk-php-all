@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.instcard.open.sign request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 01:55:37
+ * @since 1.0, 2023-01-11 07:50:42
  */
 class AlipayFundInstcardOpenSignRequest
 {

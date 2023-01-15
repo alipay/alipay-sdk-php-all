@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.inshealthserviceprod.itemoperationrecord.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 16:16:46
+ * @since 1.0, 2023-01-11 09:46:40
  */
 class AlipayInsSceneInshealthserviceprodItemoperationrecordQueryRequest
 {

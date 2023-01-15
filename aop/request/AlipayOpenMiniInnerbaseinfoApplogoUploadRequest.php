@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerbaseinfo.applogo.upload request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:16:12
+ * @since 1.0, 2023-01-11 00:19:30
  */
 class AlipayOpenMiniInnerbaseinfoApplogoUploadRequest
 {

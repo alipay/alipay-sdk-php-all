@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.merchant.credit.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 00:02:53
+ * @since 1.0, 2023-01-11 05:35:32
  */
 class AlipayTradeMerchantCreditQueryRequest
 {

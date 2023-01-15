@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cognitive.ocr.bankcard.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 09:57:28
+ * @since 1.0, 2023-01-11 04:14:55
  */
 class AlipayIserviceCognitiveOcrBankcardQueryRequest
 {

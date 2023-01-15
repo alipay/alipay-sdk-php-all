@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.verification.result.send request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 08:40:55
+ * @since 1.0, 2023-01-11 04:02:09
  */
 class AlipayDataDataserviceVerificationResultSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.info.modify request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 18:10:23
+ * @since 1.0, 2023-01-04 22:41:51
  */
 class AlipayOpenPublicInfoModifyRequest
 {

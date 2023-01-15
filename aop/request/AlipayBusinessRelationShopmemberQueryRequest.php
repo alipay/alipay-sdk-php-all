@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.relation.shopmember.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:59:04
+ * @since 1.0, 2023-01-11 01:25:15
  */
 class AlipayBusinessRelationShopmemberQueryRequest
 {

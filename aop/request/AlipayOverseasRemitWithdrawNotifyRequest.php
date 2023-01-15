@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.remit.withdraw.notify request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 09:04:16
+ * @since 1.0, 2023-01-10 23:03:04
  */
 class AlipayOverseasRemitWithdrawNotifyRequest
 {

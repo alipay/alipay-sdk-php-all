@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.title.batchquery.inner request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 19:31:34
+ * @since 1.0, 2023-01-11 09:41:40
  */
 class AlipayEbppInvoiceTitleBatchqueryInnerRequest
 {

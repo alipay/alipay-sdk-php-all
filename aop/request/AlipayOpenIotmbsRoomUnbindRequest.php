@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.room.unbind request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 09:07:42
+ * @since 1.0, 2023-01-11 00:43:04
  */
 class AlipayOpenIotmbsRoomUnbindRequest
 {

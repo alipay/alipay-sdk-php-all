@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.principal.checkavailable request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 17:50:05
+ * @since 1.0, 2023-01-04 22:18:27
  */
 class AlipayDataDataserviceAdPrincipalCheckavailableRequest
 {

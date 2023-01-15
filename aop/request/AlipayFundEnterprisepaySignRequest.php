@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.enterprisepay.sign request
  *
  * @author auto create
- * @since 1.0, 2022-12-05 11:46:37
+ * @since 1.0, 2023-01-09 14:34:57
  */
 class AlipayFundEnterprisepaySignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.instantdelivery.merchantshop.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-06 17:50:07
+ * @since 1.0, 2023-01-04 22:37:50
  */
 class AlipayOpenInstantdeliveryMerchantshopBatchqueryRequest
 {

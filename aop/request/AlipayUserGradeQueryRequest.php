@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.grade.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:41:47
+ * @since 1.0, 2023-01-11 03:21:13
  */
 class AlipayUserGradeQueryRequest
 {

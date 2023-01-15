@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.property.businessproperty.modify request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 07:31:33
+ * @since 1.0, 2023-01-10 22:37:02
  */
 class AlipayDataDataservicePropertyBusinesspropertyModifyRequest
 {

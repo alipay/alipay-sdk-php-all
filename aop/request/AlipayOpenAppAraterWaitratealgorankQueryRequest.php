@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.arater.waitratealgorank.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 13:24:47
+ * @since 1.0, 2023-01-10 23:15:50
  */
 class AlipayOpenAppAraterWaitratealgorankQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.auth.app.aes.get request
  *
  * @author auto create
- * @since 1.0, 2022-12-06 19:19:29
+ * @since 1.0, 2023-01-13 15:45:38
  */
 class AlipayOpenAuthAppAesGetRequest
 {

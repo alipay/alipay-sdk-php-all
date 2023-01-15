@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.marketing.bkcustgrowprod.cardstyle.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-26 18:14:56
+ * @since 1.0, 2023-01-11 01:51:37
  */
 class MybankMarketingBkcustgrowprodCardstyleCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.device.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 08:45:51
+ * @since 1.0, 2023-01-10 23:33:17
  */
 class AlipayOpenMiniAmpeDeviceQueryRequest
 {

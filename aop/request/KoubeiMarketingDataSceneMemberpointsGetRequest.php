@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.data.scene.memberpoints.get request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 23:39:12
+ * @since 1.0, 2023-01-11 04:13:35
  */
 class KoubeiMarketingDataSceneMemberpointsGetRequest
 {

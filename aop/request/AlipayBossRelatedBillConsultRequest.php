@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.related.bill.consult request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 03:35:36
+ * @since 1.0, 2023-01-11 08:19:52
  */
 class AlipayBossRelatedBillConsultRequest
 {

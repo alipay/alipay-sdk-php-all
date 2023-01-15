@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.idpsource.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 03:37:21
+ * @since 1.0, 2023-01-11 03:53:52
  */
 class AlipaySocialBaseIdpsourceSyncRequest
 {

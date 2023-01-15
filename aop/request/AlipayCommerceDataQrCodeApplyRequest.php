@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.data.qr.code.apply request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 16:08:02
+ * @since 1.0, 2023-01-11 09:07:34
  */
 class AlipayCommerceDataQrCodeApplyRequest
 {

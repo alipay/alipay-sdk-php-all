@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.fund.fund.fixedprofit.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 23:23:48
+ * @since 1.0, 2023-01-05 10:31:55
  */
 class AlipayFinanceFundFundFixedprofitQueryRequest
 {

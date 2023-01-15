@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.mall.event.send request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 02:38:58
+ * @since 1.0, 2023-01-11 05:31:31
  */
 class KoubeiMallEventSendRequest
 {

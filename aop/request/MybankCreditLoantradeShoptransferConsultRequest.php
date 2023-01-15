@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.shoptransfer.consult request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 20:47:21
+ * @since 1.0, 2023-01-11 05:11:39
  */
 class MybankCreditLoantradeShoptransferConsultRequest
 {

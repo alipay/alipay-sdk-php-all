@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.instance.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 11:32:10
+ * @since 1.0, 2023-01-11 04:50:39
  */
 class AlipayOpenServicemarketInstanceSyncRequest
 {

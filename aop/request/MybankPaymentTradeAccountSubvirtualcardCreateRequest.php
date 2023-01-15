@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.account.subvirtualcard.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 08:42:07
+ * @since 1.0, 2023-01-11 04:54:26
  */
 class MybankPaymentTradeAccountSubvirtualcardCreateRequest
 {

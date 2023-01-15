@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.account.fundcomposition.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 01:20:05
+ * @since 1.0, 2023-01-11 03:06:47
  */
 class AlipayTradeAccountFundcompositionQueryRequest
 {

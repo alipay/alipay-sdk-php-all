@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.dish.cookcatetop.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 15:53:59
+ * @since 1.0, 2023-01-04 18:25:37
  */
 class KoubeiCateringDishCookcatetopSyncRequest
 {

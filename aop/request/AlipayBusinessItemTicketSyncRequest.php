@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.item.ticket.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 04:30:27
+ * @since 1.0, 2023-01-11 07:24:57
  */
 class AlipayBusinessItemTicketSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cplife.roominfo.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 19:08:16
+ * @since 1.0, 2023-01-04 21:46:50
  */
 class AlipayEcoCplifeRoominfoQueryRequest
 {

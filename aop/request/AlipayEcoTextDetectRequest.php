@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.text.detect request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 12:47:20
+ * @since 1.0, 2023-01-11 05:34:59
  */
 class AlipayEcoTextDetectRequest
 {

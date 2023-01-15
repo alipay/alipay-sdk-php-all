@@ -3,7 +3,7 @@
  * ALIPAY API: ant.prodpaas.arrangement.common.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 14:14:09
+ * @since 1.0, 2023-01-11 03:23:54
  */
 class AntProdpaasArrangementCommonQueryRequest
 {

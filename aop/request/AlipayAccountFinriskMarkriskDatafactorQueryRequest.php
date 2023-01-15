@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.finrisk.markrisk.datafactor.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 10:41:03
+ * @since 1.0, 2023-01-11 04:58:11
  */
 class AlipayAccountFinriskMarkriskDatafactorQueryRequest
 {

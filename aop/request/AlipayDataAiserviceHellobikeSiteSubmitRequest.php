@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.hellobike.site.submit request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 06:15:45
+ * @since 1.0, 2023-01-10 23:17:11
  */
 class AlipayDataAiserviceHellobikeSiteSubmitRequest
 {

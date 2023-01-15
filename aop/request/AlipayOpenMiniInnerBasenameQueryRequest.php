@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.inner.basename.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 07:23:12
+ * @since 1.0, 2023-01-11 01:24:10
  */
 class AlipayOpenMiniInnerBasenameQueryRequest
 {

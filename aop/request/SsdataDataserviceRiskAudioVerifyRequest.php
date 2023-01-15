@@ -3,7 +3,7 @@
  * ALIPAY API: ssdata.dataservice.risk.audio.verify request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 12:02:23
+ * @since 1.0, 2023-01-11 03:58:41
  */
 class SsdataDataserviceRiskAudioVerifyRequest
 {

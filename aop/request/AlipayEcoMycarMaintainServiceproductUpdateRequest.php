@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.maintain.serviceproduct.update request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 06:26:13
+ * @since 1.0, 2023-01-05 10:14:22
  */
 class AlipayEcoMycarMaintainServiceproductUpdateRequest
 {

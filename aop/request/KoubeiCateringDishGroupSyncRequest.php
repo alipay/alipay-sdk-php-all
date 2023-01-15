@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.dish.group.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 11:26:34
+ * @since 1.0, 2023-01-11 06:54:00
  */
 class KoubeiCateringDishGroupSyncRequest
 {

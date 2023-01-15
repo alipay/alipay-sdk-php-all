@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.content.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 20:32:06
+ * @since 1.0, 2023-01-11 03:45:50
  */
 class AlipayOpenPublicContentCancelRequest
 {

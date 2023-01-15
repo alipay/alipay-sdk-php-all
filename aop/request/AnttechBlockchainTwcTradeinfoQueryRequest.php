@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.twc.tradeinfo.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 08:01:40
+ * @since 1.0, 2023-01-11 09:26:40
  */
 class AnttechBlockchainTwcTradeinfoQueryRequest
 {

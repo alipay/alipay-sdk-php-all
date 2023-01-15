@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certify.mfv.submit request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 16:27:40
+ * @since 1.0, 2023-01-11 08:38:09
  */
 class AlipayUserCertifyMfvSubmitRequest
 {

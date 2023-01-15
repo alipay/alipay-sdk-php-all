@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.creditrisk.dsdd.admit.consult request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 10:17:24
+ * @since 1.0, 2023-01-11 05:44:55
  */
 class MybankCreditCreditriskDsddAdmitConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.data.equity.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 16:21:42
+ * @since 1.0, 2023-01-11 09:01:41
  */
 class AlipayMarketingDataEquitySyncRequest
 {

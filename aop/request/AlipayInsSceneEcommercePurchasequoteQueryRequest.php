@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.purchasequote.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 17:31:42
+ * @since 1.0, 2023-01-05 00:07:14
  */
 class AlipayInsSceneEcommercePurchasequoteQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.contract.sign.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 02:20:04
+ * @since 1.0, 2023-01-11 07:52:19
  */
 class AlipayBossProdContractSignQueryRequest
 {

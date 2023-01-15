@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.cs.cssocial.yqmessage.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 11:13:06
+ * @since 1.0, 2023-01-05 10:54:10
  */
 class AlipayBossCsCssocialYqmessageQueryRequest
 {

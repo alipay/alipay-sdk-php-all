@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.logistics.express.order.modify request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 01:28:36
+ * @since 1.0, 2023-01-05 10:15:27
  */
 class AlipayEcoLogisticsExpressOrderModifyRequest
 {

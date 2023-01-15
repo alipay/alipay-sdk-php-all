@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.benefit.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 08:01:40
+ * @since 1.0, 2023-01-11 08:56:40
  */
 class AlipayOverseasTravelBenefitTransferRequest
 {

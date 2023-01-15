@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.pcreditmerchant.productorder.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 11:24:48
+ * @since 1.0, 2023-01-11 06:23:15
  */
 class AlipayPcreditHuabeiPcreditmerchantProductorderCancelRequest
 {

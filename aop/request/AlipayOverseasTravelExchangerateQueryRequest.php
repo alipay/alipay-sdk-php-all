@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.exchangerate.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:41
+ * @since 1.0, 2023-01-11 06:08:49
  */
 class AlipayOverseasTravelExchangerateQueryRequest
 {

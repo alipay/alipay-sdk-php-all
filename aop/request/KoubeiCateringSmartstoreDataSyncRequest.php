@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.smartstore.data.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 06:00:11
+ * @since 1.0, 2023-01-11 05:58:00
  */
 class KoubeiCateringSmartstoreDataSyncRequest
 {

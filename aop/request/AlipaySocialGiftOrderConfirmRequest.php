@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.gift.order.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 12:01:28
+ * @since 1.0, 2023-01-11 04:30:11
  */
 class AlipaySocialGiftOrderConfirmRequest
 {

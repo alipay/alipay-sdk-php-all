@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.clear.apply request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 19:09:38
+ * @since 1.0, 2023-01-04 19:42:53
  */
 class AlipayEbppIndustryClearApplyRequest
 {

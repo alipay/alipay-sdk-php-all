@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.codec.applepay.credentials.get request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 09:30:16
+ * @since 1.0, 2023-01-11 06:34:28
  */
 class AlipayPayCodecApplepayCredentialsGetRequest
 {

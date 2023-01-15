@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.service.miniappnearbypoi.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 23:59:04
+ * @since 1.0, 2023-01-11 05:17:33
  */
 class AlipayOpenAppServiceMiniappnearbypoiQueryRequest
 {

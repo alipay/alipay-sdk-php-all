@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cplife.bill.batch.upload request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 15:41:31
+ * @since 1.0, 2023-01-04 17:53:15
  */
 class AlipayEcoCplifeBillBatchUploadRequest
 {

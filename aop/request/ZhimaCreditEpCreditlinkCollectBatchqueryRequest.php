@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.creditlink.collect.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 17:16:39
+ * @since 1.0, 2023-01-04 20:06:42
  */
 class ZhimaCreditEpCreditlinkCollectBatchqueryRequest
 {

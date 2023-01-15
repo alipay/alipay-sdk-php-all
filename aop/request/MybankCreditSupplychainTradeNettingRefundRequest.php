@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.trade.netting.refund request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 05:45:17
+ * @since 1.0, 2023-01-11 05:36:52
  */
 class MybankCreditSupplychainTradeNettingRefundRequest
 {

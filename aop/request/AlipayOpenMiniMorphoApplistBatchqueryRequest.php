@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.morpho.applist.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 08:13:29
+ * @since 1.0, 2023-01-11 05:49:28
  */
 class AlipayOpenMiniMorphoApplistBatchqueryRequest
 {

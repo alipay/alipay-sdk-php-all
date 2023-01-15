@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.vehicleowner.blacklist.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 03:31:46
+ * @since 1.0, 2023-01-11 05:28:02
  */
 class AlipayCommerceTransportVehicleownerBlacklistSyncRequest
 {

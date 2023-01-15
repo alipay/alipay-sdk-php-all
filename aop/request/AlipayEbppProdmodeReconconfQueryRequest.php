@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.prodmode.reconconf.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 12:43:29
+ * @since 1.0, 2023-01-05 10:09:46
  */
 class AlipayEbppProdmodeReconconfQueryRequest
 {

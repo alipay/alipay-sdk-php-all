@@ -3,7 +3,7 @@
  * ALIPAY API: aft.aifin.fireeye.ocr.image.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 19:26:02
+ * @since 1.0, 2023-01-04 18:12:52
  */
 class AftAifinFireeyeOcrImageQueryRequest
 {

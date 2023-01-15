@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.live.channel.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-14 10:41:38
+ * @since 1.0, 2023-01-04 21:31:38
  */
 class AlipayMerchantLiveChannelQueryRequest
 {

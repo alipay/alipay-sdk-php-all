@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.fund.btoc.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 16:03:43
+ * @since 1.0, 2023-01-04 19:01:55
  */
 class AlipayFundJointaccountFundBtocTransferRequest
 {

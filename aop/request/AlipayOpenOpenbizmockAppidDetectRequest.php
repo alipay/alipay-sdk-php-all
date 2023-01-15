@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.openbizmock.appid.detect request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 16:26:41
+ * @since 1.0, 2023-01-11 02:06:46
  */
 class AlipayOpenOpenbizmockAppidDetectRequest
 {

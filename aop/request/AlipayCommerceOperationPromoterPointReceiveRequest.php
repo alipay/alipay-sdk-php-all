@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.promoter.point.receive request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 17:38:57
+ * @since 1.0, 2023-01-04 23:02:14
  */
 class AlipayCommerceOperationPromoterPointReceiveRequest
 {

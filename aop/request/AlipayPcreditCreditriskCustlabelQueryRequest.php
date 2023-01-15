@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.creditrisk.custlabel.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 13:21:13
+ * @since 1.0, 2023-01-11 04:45:13
  */
 class AlipayPcreditCreditriskCustlabelQueryRequest
 {

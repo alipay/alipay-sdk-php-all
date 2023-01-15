@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-06 16:36:39
+ * @since 1.0, 2023-01-12 19:01:40
  */
 class AlipayUserAgreementQueryRequest
 {

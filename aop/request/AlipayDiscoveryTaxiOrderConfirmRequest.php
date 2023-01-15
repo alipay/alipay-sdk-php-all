@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.discovery.taxi.order.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 06:01:55
+ * @since 1.0, 2023-01-05 09:59:14
  */
 class AlipayDiscoveryTaxiOrderConfirmRequest
 {

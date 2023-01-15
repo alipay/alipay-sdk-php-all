@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.oppor.detail.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-06 19:26:14
+ * @since 1.0, 2023-01-04 23:23:00
  */
 class AlipayOpenSpOpporDetailQueryRequest
 {
