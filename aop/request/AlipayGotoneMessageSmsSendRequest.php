@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.gotone.message.sms.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:24:42
+ * @since 1.0, 2023-02-13 17:01:37
  */
 class AlipayGotoneMessageSmsSendRequest
 {
@@ -16,6 +16,11 @@ class AlipayGotoneMessageSmsSendRequest
 	 * 接收短信手机号
 	 **/
 	private $mobile;
+	
+	/** 
+	 * 支付宝openId，用于支付宝用户在当前应用下的用户标识。
+	 **/
+	private $openId;
 	
 	/** 
 	 * 短信模板对应的serviceCode
@@ -57,6 +62,17 @@ class AlipayGotoneMessageSmsSendRequest
 	public function getMobile()
 	{
 		return $this->mobile;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setServiceCode($serviceCode)

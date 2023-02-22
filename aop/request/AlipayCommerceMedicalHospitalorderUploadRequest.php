@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.hospitalorder.upload request
  *
  * @author auto create
- * @since 1.0, 2022-03-23 15:31:38
+ * @since 1.0, 2023-02-07 16:36:38
  */
 class AlipayCommerceMedicalHospitalorderUploadRequest
 {

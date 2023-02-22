@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.orderprintreceipt.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 14:31:41
+ * @since 1.0, 2023-02-14 10:06:55
  */
 class AlipayOpenIotmbsOrderprintreceiptQueryRequest
 {
