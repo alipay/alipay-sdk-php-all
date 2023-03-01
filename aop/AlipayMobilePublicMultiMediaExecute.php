@@ -35,7 +35,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return text | bin
+     * @return int
      */
     public function getCode()
     {
@@ -44,7 +44,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return text | bin
+     * @return string
      */
     public function getMsg()
     {
@@ -71,7 +71,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return text | bin
+     * @return int
      */
     public function getContentLength()
     {
@@ -94,7 +94,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return text | bin
+     * @return string
      */
     public function getBody()
     {
@@ -104,7 +104,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      * 获取参数
-     * @return text | bin
+     * @return string
      */
     public function getParams()
     {

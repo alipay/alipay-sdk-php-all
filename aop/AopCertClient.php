@@ -92,7 +92,7 @@ class AopCertClient
             // 优先从Content字段获取内容, content 未设置内容则从文件路径中读取内容
             $alipayPublicContent = !$this->checkEmpty($config->getAlipayPublicCertContent())?$config->getAlipayPublicCertContent():file_get_contents($config->getAlipayPublicCertPath());
             $this->alipayrsaPublicKey = $this->getPublicKeyFromContent($alipayPublicContent);
-           
+
             $appCertContent = !$this->checkEmpty($config->getAppCertContent())?$config->getAppCertContent():file_get_contents($config->getAppCertPath());
             $this->appCertSN = $this->getCertSNFromContent($appCertContent);
 
@@ -548,7 +548,7 @@ class AopCertClient
     /**
      * 建立请求，以表单HTML形式构造（默认）
      * @param $para_temp 请求参数数组
-     * @return 提交表单HTML文本
+     * @return string
      */
     protected function buildRequestForm($para_temp) {
         $sHtml = "<form id='alipaysubmit' name='alipaysubmit' action='".$this->gatewayUrl."?charset=".trim($this->postCharset)."' method='POST'>";
@@ -1050,7 +1050,8 @@ class AopCertClient
      * @param $signData
      * @param $resp
      * @param $respObject
-     * @throws Exception
+     * @return false|void
+     * @throws \Exception
      */
     public function checkResponseSign($request, $signData, $resp, $respObject) {
         if (!$this->checkEmpty($this->alipayPublicKey) || !$this->checkEmpty($this->alipayrsaPublicKey)) {

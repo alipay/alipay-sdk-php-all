@@ -100,7 +100,9 @@ class AlipayMobilePublicMultiMediaClient
 
     /**
      *
-     * @param $request
+     * @param string $header
+     * @param string $body
+     * @param string $httpCode
      * @return text | bin
      */
     public function execute($header = '', $body = '', $httpCode = '')
