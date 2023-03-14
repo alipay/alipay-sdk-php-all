@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.cloudbus.schedualtasktime.add request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:03:20
+ * @since 1.0, 2023-03-12 18:30:59
  */
 class AlipayDataAiserviceCloudbusSchedualtasktimeAddRequest
 {

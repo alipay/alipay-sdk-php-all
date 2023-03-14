@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.contentlib.standardvideoaudit.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:15:56
+ * @since 1.0, 2023-03-12 22:35:54
  */
 class AlipaySocialBaseContentlibStandardvideoauditSendRequest
 {

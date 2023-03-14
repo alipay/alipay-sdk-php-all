@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.lottery.region.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:51:49
+ * @since 1.0, 2023-03-13 04:51:37
  */
 class AlipayOpenLotteryRegionModifyRequest
 {

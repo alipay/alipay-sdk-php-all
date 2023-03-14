@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.insserviceprod.serprogress.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:50:59
+ * @since 1.0, 2023-03-12 20:04:29
  */
 class AlipayInsSceneInsserviceprodSerprogressSyncRequest
 {

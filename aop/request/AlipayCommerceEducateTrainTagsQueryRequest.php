@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.train.tags.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:04:27
+ * @since 1.0, 2023-03-12 17:48:28
  */
 class AlipayCommerceEducateTrainTagsQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.service.open.analyze request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:15:03
+ * @since 1.0, 2023-03-12 18:42:21
  */
 class AlipayDataServiceOpenAnalyzeRequest
 {

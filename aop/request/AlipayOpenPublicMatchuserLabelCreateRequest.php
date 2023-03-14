@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.matchuser.label.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 20:48:46
+ * @since 1.0, 2023-03-13 05:26:05
  */
 class AlipayOpenPublicMatchuserLabelCreateRequest
 {

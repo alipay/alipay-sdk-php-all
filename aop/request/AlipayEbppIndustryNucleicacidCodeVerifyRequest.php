@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.nucleicacid.code.verify request
  *
  * @author auto create
- * @since 1.0, 2022-12-12 15:16:41
+ * @since 1.0, 2023-03-12 18:51:41
  */
 class AlipayEbppIndustryNucleicacidCodeVerifyRequest
 {

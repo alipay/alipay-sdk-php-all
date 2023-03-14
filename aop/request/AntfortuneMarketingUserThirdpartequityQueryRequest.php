@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.marketing.user.thirdpartequity.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-19 16:06:50
+ * @since 1.0, 2023-03-12 23:31:43
  */
 class AntfortuneMarketingUserThirdpartequityQueryRequest
 {

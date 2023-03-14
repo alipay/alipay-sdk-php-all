@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.bkruralindustry.track.add request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 16:49:28
+ * @since 1.0, 2023-03-13 00:18:35
  */
 class MybankCreditLoanapplyBkruralindustryTrackAddRequest
 {

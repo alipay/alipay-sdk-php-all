@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.prodmode.agreement.upload request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:39:09
+ * @since 1.0, 2023-03-12 19:07:30
  */
 class AlipayEbppProdmodeAgreementUploadRequest
 {

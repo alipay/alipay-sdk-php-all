@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.testplatform.task.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:15:50
+ * @since 1.0, 2023-03-13 07:02:40
  */
 class AnttechOceanbaseTestplatformTaskQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.my.test.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:44:39
+ * @since 1.0, 2023-03-13 01:17:48
  */
 class AlipayBossProdMyTestQueryRequest
 {

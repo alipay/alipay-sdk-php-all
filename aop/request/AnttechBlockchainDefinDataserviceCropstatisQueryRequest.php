@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.dataservice.cropstatis.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 10:16:39
+ * @since 1.0, 2023-03-12 23:36:40
  */
 class AnttechBlockchainDefinDataserviceCropstatisQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.shop.wxlogin.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:56:38
+ * @since 1.0, 2023-03-13 00:14:39
  */
 class KoubeiShopWxloginQueryRequest
 {

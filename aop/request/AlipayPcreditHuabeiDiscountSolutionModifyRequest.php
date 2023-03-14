@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.discount.solution.modify request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 18:24:58
+ * @since 1.0, 2023-03-13 05:48:51
  */
 class AlipayPcreditHuabeiDiscountSolutionModifyRequest
 {

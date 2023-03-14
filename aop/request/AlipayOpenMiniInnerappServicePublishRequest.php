@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerapp.service.publish request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:06:41
+ * @since 1.0, 2023-03-13 05:01:11
  */
 class AlipayOpenMiniInnerappServicePublishRequest
 {

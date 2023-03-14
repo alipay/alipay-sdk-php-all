@@ -3,7 +3,7 @@
  * ALIPAY API: huanxu.trade.order.refund request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:22:09
+ * @since 1.0, 2023-03-12 23:43:43
  */
 class HuanxuTradeOrderRefundRequest
 {

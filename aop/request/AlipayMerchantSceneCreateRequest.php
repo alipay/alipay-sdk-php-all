@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.scene.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:56:59
+ * @since 1.0, 2023-03-12 20:52:44
  */
 class AlipayMerchantSceneCreateRequest
 {

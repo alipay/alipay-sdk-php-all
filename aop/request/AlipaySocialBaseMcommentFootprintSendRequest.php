@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.mcomment.footprint.send request
  *
  * @author auto create
- * @since 1.0, 2023-02-13 14:53:35
+ * @since 1.0, 2023-03-09 21:51:38
  */
 class AlipaySocialBaseMcommentFootprintSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: ssdata.dataservice.dteval.identitycheck.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:39:25
+ * @since 1.0, 2023-03-13 00:36:46
  */
 class SsdataDataserviceDtevalIdentitycheckQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.charity.forestsendpic.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:59:54
+ * @since 1.0, 2023-03-12 22:59:43
  */
 class AlipayUserCharityForestsendpicSendRequest
 {

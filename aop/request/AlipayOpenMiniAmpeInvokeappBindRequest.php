@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.invokeapp.bind request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:38:13
+ * @since 1.0, 2023-03-12 21:22:16
  */
 class AlipayOpenMiniAmpeInvokeappBindRequest
 {

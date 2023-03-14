@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.promoter.exchange.submit request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:16:52
+ * @since 1.0, 2023-03-13 01:51:18
  */
 class AlipayCommerceOperationPromoterExchangeSubmitRequest
 {

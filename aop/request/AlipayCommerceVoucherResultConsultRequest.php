@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.voucher.result.consult request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:39:12
+ * @since 1.0, 2023-03-13 02:07:57
  */
 class AlipayCommerceVoucherResultConsultRequest
 {

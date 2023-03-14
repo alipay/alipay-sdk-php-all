@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.info.applycancel.certify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:17:37
+ * @since 1.0, 2023-03-12 17:36:47
  */
 class AlipayCommerceEducateInfoApplycancelCertifyRequest
 {

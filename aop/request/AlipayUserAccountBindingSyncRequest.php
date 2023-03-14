@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.binding.sync request
  *
  * @author auto create
- * @since 1.0, 2023-02-01 14:11:38
+ * @since 1.0, 2023-03-12 23:01:40
  */
 class AlipayUserAccountBindingSyncRequest
 {

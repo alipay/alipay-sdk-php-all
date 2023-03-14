@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.modellist.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:48:30
+ * @since 1.0, 2023-03-12 17:56:45
  */
 class AlipayCommerceIotModellistCreateRequest
 {

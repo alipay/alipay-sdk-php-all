@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.retail.mall.cdp.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:38:10
+ * @since 1.0, 2023-03-13 00:06:56
  */
 class KoubeiRetailMallCdpQueryRequest
 {

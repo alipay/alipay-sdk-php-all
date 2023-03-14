@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.sceneprod.drawdown.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:17:28
+ * @since 1.0, 2023-03-13 00:24:56
  */
 class MybankCreditSceneprodDrawdownConfirmRequest
 {

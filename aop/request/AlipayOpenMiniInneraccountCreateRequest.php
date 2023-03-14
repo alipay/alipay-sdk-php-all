@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.inneraccount.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:01:37
+ * @since 1.0, 2023-03-13 05:00:38
  */
 class AlipayOpenMiniInneraccountCreateRequest
 {

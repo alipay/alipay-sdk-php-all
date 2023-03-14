@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.scode.elede.unsign request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:45:59
+ * @since 1.0, 2023-03-13 06:45:45
  */
 class AntMerchantExpandScodeEledeUnsignRequest
 {

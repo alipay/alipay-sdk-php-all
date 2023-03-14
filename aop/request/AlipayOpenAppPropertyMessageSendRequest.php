@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.property.message.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:57:23
+ * @since 1.0, 2023-03-12 21:07:18
  */
 class AlipayOpenAppPropertyMessageSendRequest
 {

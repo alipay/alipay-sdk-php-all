@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.crossborder.merchant.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:31:41
+ * @since 1.0, 2023-03-13 03:04:44
  */
 class AlipayFincoreComplianceCrossborderMerchantBatchqueryRequest
 {

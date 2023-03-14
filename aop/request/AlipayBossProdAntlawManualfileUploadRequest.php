@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.antlaw.manualfile.upload request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:16:22
+ * @since 1.0, 2023-03-13 01:15:11
  */
 class AlipayBossProdAntlawManualfileUploadRequest
 {

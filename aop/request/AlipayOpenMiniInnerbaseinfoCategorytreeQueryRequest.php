@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerbaseinfo.categorytree.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:39:33
+ * @since 1.0, 2023-03-13 05:01:43
  */
 class AlipayOpenMiniInnerbaseinfoCategorytreeQueryRequest
 {

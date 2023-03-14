@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.rating.inner.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:48:12
+ * @since 1.0, 2023-03-13 08:11:38
  */
 class ZhimaCreditEpRatingInnerInitializeRequest
 {

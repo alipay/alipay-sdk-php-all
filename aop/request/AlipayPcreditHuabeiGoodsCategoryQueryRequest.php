@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.goods.category.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:59:01
+ * @since 1.0, 2023-03-13 05:49:24
  */
 class AlipayPcreditHuabeiGoodsCategoryQueryRequest
 {

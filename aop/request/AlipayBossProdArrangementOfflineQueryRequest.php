@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.arrangement.offline.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:46:17
+ * @since 1.0, 2023-03-12 17:06:33
  */
 class AlipayBossProdArrangementOfflineQueryRequest
 {

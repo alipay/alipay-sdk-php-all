@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.timescard.item.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:23:13
+ * @since 1.0, 2023-03-12 18:09:26
  */
 class AlipayCommerceOperationTimescardItemBatchqueryRequest
 {

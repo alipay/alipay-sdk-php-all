@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.showwindow.content.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:33:19
+ * @since 1.0, 2023-03-13 04:09:01
  */
 class AlipayMarketingShowwindowContentSyncRequest
 {

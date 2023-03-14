@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.consum.ratio.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:29:22
+ * @since 1.0, 2023-03-13 02:19:31
  */
 class AlipayDataDataserviceConsumRatioQueryRequest
 {

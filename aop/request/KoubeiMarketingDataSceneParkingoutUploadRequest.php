@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.data.scene.parkingout.upload request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:57:10
+ * @since 1.0, 2023-03-13 07:31:33
  */
 class KoubeiMarketingDataSceneParkingoutUploadRequest
 {

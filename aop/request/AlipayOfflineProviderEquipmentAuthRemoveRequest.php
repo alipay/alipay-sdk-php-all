@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.equipment.auth.remove request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 15:00:39
+ * @since 1.0, 2023-03-13 04:31:00
  */
 class AlipayOfflineProviderEquipmentAuthRemoveRequest
 {

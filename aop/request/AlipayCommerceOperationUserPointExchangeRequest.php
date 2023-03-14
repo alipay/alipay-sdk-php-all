@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.user.point.exchange request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 09:16:41
+ * @since 1.0, 2023-03-13 01:56:43
  */
 class AlipayCommerceOperationUserPointExchangeRequest
 {

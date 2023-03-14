@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.antlescenter.esignresult.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:54:44
+ * @since 1.0, 2023-03-12 17:06:20
  */
 class AlipayBossProdAntlescenterEsignresultQueryRequest
 {

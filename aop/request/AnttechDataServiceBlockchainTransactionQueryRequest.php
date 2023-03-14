@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.data.service.blockchain.transaction.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:50:32
+ * @since 1.0, 2023-03-12 23:37:17
  */
 class AnttechDataServiceBlockchainTransactionQueryRequest
 {

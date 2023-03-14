@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.ad.user.match request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:07:18
+ * @since 1.0, 2023-03-12 18:17:22
  */
 class AlipayCommerceTransportAdUserMatchRequest
 {

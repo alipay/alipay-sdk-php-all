@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.equity.instpoint.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:01:08
+ * @since 1.0, 2023-03-13 06:49:42
  */
 class AntfortuneEquityInstpointSendRequest
 {

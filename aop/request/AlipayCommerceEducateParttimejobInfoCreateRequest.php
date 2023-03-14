@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.parttimejob.info.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 19:25:41
+ * @since 1.0, 2023-03-13 01:32:51
  */
 class AlipayCommerceEducateParttimejobInfoCreateRequest
 {

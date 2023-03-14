@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.community.partner.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:30:20
+ * @since 1.0, 2023-03-13 04:34:39
  */
 class AlipayOpenAppCommunityPartnerSyncRequest
 {

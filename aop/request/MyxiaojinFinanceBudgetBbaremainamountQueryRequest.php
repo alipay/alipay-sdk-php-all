@@ -3,7 +3,7 @@
  * ALIPAY API: myxiaojin.finance.budget.bbaremainamount.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-13 14:41:37
+ * @since 1.0, 2023-03-13 00:36:40
  */
 class MyxiaojinFinanceBudgetBbaremainamountQueryRequest
 {

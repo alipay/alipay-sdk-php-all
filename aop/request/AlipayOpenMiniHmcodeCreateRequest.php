@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.hmcode.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:50:47
+ * @since 1.0, 2023-03-12 21:28:25
  */
 class AlipayOpenMiniHmcodeCreateRequest
 {

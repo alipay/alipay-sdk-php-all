@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.subaccount.balance.freeze request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:45:58
+ * @since 1.0, 2023-03-12 17:02:25
  */
 class AlipayBossFncSubaccountBalanceFreezeRequest
 {

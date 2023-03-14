@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.ipsponsor.consumegold.sign request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:08:34
+ * @since 1.0, 2023-03-12 21:19:10
  */
 class AlipayOpenIpsponsorConsumegoldSignRequest
 {

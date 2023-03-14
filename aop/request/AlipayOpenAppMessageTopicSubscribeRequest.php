@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.message.topic.subscribe request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:07:58
+ * @since 1.0, 2023-03-12 21:05:57
  */
 class AlipayOpenAppMessageTopicSubscribeRequest
 {

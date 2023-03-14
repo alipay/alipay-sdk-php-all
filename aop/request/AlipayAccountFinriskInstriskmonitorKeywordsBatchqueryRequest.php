@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.finrisk.instriskmonitor.keywords.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:19:12
+ * @since 1.0, 2023-03-13 01:01:48
  */
 class AlipayAccountFinriskInstriskmonitorKeywordsBatchqueryRequest
 {

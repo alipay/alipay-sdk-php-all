@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.pf.quota.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:41:19
+ * @since 1.0, 2023-03-13 06:58:48
  */
 class AnttechBlockchainFinancePfQuotaQueryRequest
 {

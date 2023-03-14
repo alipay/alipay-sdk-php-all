@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.sportshealth.account.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:56:42
+ * @since 1.0, 2023-03-13 06:41:44
  */
 class AlipayUserSportshealthAccountQueryRequest
 {

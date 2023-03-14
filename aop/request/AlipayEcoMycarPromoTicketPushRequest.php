@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.promo.ticket.push request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:01:39
+ * @since 1.0, 2023-03-12 19:23:45
  */
 class AlipayEcoMycarPromoTicketPushRequest
 {

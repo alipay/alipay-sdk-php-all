@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.jobworth.picture.upload request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:20:58
+ * @since 1.0, 2023-03-13 00:49:43
  */
 class ZhimaCustomerJobworthPictureUploadRequest
 {

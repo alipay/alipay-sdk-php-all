@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.tax.open.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:02:30
+ * @since 1.0, 2023-03-13 00:19:42
  */
 class MybankCreditLoanapplyTaxOpenSendRequest
 {

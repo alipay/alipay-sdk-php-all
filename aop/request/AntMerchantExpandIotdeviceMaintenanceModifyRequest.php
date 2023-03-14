@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.iotdevice.maintenance.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:33:15
+ * @since 1.0, 2023-03-13 06:41:43
  */
 class AntMerchantExpandIotdeviceMaintenanceModifyRequest
 {

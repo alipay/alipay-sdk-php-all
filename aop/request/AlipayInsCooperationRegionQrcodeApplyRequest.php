@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.cooperation.region.qrcode.apply request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:04:03
+ * @since 1.0, 2023-03-13 03:27:34
  */
 class AlipayInsCooperationRegionQrcodeApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.coupon.wufu.costassets.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 09:56:39
+ * @since 1.0, 2023-03-13 03:16:40
  */
 class AlipayFundCouponWufuCostassetsQueryRequest
 {

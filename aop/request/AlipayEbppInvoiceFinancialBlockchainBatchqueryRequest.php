@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.financial.blockchain.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:21:28
+ * @since 1.0, 2023-03-12 19:00:00
  */
 class AlipayEbppInvoiceFinancialBlockchainBatchqueryRequest
 {

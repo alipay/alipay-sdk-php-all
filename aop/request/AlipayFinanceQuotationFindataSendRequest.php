@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.quotation.findata.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:22:08
+ * @since 1.0, 2023-03-13 03:00:08
  */
 class AlipayFinanceQuotationFindataSendRequest
 {

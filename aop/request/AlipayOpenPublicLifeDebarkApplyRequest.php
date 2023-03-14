@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.life.debark.apply request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:01:31
+ * @since 1.0, 2023-03-12 21:52:31
  */
 class AlipayOpenPublicLifeDebarkApplyRequest
 {

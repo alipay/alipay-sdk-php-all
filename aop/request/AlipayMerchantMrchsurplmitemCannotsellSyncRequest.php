@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.mrchsurplmitem.cannotsell.sync request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 15:55:26
+ * @since 1.0, 2023-03-13 04:15:56
  */
 class AlipayMerchantMrchsurplmitemCannotsellSyncRequest
 {

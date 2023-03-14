@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.sales.kbasset.stuff.pagequerystuffinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:07:06
+ * @since 1.0, 2023-03-13 00:11:32
  */
 class KoubeiSalesKbassetStuffPagequerystuffinfoSyncRequest
 {

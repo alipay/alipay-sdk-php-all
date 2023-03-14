@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.instantdelivery.accountstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:40:21
+ * @since 1.0, 2023-03-13 04:43:02
  */
 class AlipayOpenInstantdeliveryAccountstatusModifyRequest
 {

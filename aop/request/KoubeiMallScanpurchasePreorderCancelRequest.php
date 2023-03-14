@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.mall.scanpurchase.preorder.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:49:50
+ * @since 1.0, 2023-03-12 23:57:17
  */
 class KoubeiMallScanpurchasePreorderCancelRequest
 {

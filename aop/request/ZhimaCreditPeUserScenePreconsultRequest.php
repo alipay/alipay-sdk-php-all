@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.user.scene.preconsult request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:01:38
+ * @since 1.0, 2023-03-13 00:51:39
  */
 class ZhimaCreditPeUserScenePreconsultRequest
 {

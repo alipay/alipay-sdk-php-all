@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.contentlib.datacollect.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:31:39
+ * @since 1.0, 2023-03-13 05:23:26
  */
 class AlipayOpenPublicContentlibDatacollectSendRequest
 {

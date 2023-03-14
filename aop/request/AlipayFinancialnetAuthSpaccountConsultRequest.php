@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.spaccount.consult request
  *
  * @author auto create
- * @since 1.0, 2023-01-13 09:58:14
+ * @since 1.0, 2023-03-12 19:30:27
  */
 class AlipayFinancialnetAuthSpaccountConsultRequest
 {

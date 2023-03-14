@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.morpho.appgray.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:48:56
+ * @since 1.0, 2023-03-12 21:40:54
  */
 class AlipayOpenMiniMorphoAppgrayCancelRequest
 {

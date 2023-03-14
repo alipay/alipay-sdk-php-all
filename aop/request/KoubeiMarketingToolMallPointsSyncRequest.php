@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.tool.mall.points.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:26:34
+ * @since 1.0, 2023-03-13 00:02:30
  */
 class KoubeiMarketingToolMallPointsSyncRequest
 {

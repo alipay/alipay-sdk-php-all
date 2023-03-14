@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.message.subscription.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:18:24
+ * @since 1.0, 2023-03-13 04:35:48
  */
 class AlipayOpenAppMessageSubscriptionModifyRequest
 {

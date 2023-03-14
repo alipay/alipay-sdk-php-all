@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.accountlist.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:19:20
+ * @since 1.0, 2023-03-13 03:01:25
  */
 class AlipayFinancialnetAccountlistQueryRequest
 {

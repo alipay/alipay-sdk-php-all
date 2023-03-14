@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotvsp.userfordevice.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:51:45
+ * @since 1.0, 2023-03-13 04:56:43
  */
 class AlipayOpenIotvspUserfordeviceCreateRequest
 {

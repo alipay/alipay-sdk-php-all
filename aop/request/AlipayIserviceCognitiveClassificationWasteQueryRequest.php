@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cognitive.classification.waste.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-18 17:06:37
+ * @since 1.0, 2023-03-12 20:15:34
  */
 class AlipayIserviceCognitiveClassificationWasteQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.auth.order.freeze request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:38:34
+ * @since 1.0, 2023-03-12 22:13:34
  */
 class AlipayPcreditHuabeiAuthOrderFreezeRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.autocheck.case.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:36:45
+ * @since 1.0, 2023-03-12 21:36:39
  */
 class AlipayOpenMiniAutocheckCaseCreateRequest
 {

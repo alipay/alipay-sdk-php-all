@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.auth.secondparty.token.verify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:26:43
+ * @since 1.0, 2023-03-12 22:55:40
  */
 class AlipayUserAuthSecondpartyTokenVerifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.mall.scanpurchase.discountdetail.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:32:20
+ * @since 1.0, 2023-03-13 07:26:59
  */
 class KoubeiMallScanpurchaseDiscountdetailModifyRequest
 {

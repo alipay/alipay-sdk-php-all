@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.smartwear.management.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:33:23
+ * @since 1.0, 2023-03-13 05:46:34
  */
 class AlipayPayAppSmartwearManagementSyncRequest
 {

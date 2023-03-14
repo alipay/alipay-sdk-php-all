@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.membercard.userinfo.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:29:34
+ * @since 1.0, 2023-03-13 06:44:59
  */
 class AntMerchantExpandMembercardUserinfoBatchqueryRequest
 {

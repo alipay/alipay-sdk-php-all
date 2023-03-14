@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.antdataassets.uploadjob.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:13:44
+ * @since 1.0, 2023-03-13 02:18:40
  */
 class AlipayDataDataserviceAntdataassetsUploadjobCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.craftsman.data.work.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:02:05
+ * @since 1.0, 2023-03-13 07:24:43
  */
 class KoubeiCraftsmanDataWorkBatchqueryRequest
 {

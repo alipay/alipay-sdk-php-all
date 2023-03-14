@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.hellobike.log.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-17 19:04:19
+ * @since 1.0, 2023-03-13 02:20:04
  */
 class AlipayDataDataserviceHellobikeLogSyncRequest
 {

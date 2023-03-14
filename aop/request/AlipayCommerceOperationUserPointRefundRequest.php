@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.user.point.refund request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 02:06:46
+ * @since 1.0, 2023-03-12 18:11:45
  */
 class AlipayCommerceOperationUserPointRefundRequest
 {

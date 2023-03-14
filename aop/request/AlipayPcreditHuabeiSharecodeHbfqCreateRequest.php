@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.sharecode.hbfq.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:19:16
+ * @since 1.0, 2023-03-13 05:52:30
  */
 class AlipayPcreditHuabeiSharecodeHbfqCreateRequest
 {

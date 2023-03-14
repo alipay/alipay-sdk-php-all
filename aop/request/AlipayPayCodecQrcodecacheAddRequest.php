@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.codec.qrcodecache.add request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:08:51
+ * @since 1.0, 2023-03-12 22:13:01
  */
 class AlipayPayCodecQrcodecacheAddRequest
 {

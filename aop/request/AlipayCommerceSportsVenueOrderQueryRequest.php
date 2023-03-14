@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.venue.order.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:15:47
+ * @since 1.0, 2023-03-13 19:54:30
  */
 class AlipayCommerceSportsVenueOrderQueryRequest
 {

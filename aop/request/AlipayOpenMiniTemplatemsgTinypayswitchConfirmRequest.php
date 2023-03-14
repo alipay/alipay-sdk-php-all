@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.templatemsg.tinypayswitch.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:42:01
+ * @since 1.0, 2023-03-12 21:44:21
  */
 class AlipayOpenMiniTemplatemsgTinypayswitchConfirmRequest
 {

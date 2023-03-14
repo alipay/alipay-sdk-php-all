@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.geofence.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:36:14
+ * @since 1.0, 2023-03-13 01:40:43
  */
 class AlipayCommerceIotDeviceGeofenceQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.contract.process.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 23:08:35
+ * @since 1.0, 2023-03-13 02:46:38
  */
 class AlipayEcoContractProcessDeleteRequest
 {

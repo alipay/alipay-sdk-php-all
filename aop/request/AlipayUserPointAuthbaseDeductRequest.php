@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.point.authbase.deduct request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 02:11:40
+ * @since 1.0, 2023-03-12 23:11:44
  */
 class AlipayUserPointAuthbaseDeductRequest
 {

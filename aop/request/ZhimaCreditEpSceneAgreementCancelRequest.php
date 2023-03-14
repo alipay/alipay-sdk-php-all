@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.scene.agreement.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:05:00
+ * @since 1.0, 2023-03-13 08:12:13
  */
 class ZhimaCreditEpSceneAgreementCancelRequest
 {

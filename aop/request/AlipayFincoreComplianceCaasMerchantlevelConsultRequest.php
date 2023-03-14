@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.caas.merchantlevel.consult request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:51:27
+ * @since 1.0, 2023-03-13 03:04:33
  */
 class AlipayFincoreComplianceCaasMerchantlevelConsultRequest
 {

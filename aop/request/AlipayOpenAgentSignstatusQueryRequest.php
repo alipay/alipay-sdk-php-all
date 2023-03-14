@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.signstatus.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:15:03
+ * @since 1.0, 2023-03-12 21:03:13
  */
 class AlipayOpenAgentSignstatusQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.facetoface.twostage.use request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:56:42
+ * @since 1.0, 2023-03-13 04:26:44
  */
 class AlipayMarketingFacetofaceTwostageUseRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.putplan.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:46:42
+ * @since 1.0, 2023-03-12 23:46:45
  */
 class DatadigitalFincloudFinsaasPutplanModifyRequest
 {

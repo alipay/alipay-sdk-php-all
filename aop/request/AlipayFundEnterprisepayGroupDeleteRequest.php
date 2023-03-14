@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.enterprisepay.group.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:24:07
+ * @since 1.0, 2023-03-13 03:13:50
  */
 class AlipayFundEnterprisepayGroupDeleteRequest
 {

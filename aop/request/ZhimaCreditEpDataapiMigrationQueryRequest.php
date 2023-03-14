@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.dataapi.migration.query request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 18:56:43
+ * @since 1.0, 2023-03-13 08:09:46
  */
 class ZhimaCreditEpDataapiMigrationQueryRequest
 {

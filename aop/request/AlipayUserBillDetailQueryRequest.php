@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.bill.detail.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-31 16:31:40
+ * @since 1.0, 2023-03-13 06:31:43
  */
 class AlipayUserBillDetailQueryRequest
 {

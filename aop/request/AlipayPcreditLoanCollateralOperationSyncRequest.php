@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.collateral.operation.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:47:26
+ * @since 1.0, 2023-03-12 22:19:07
  */
 class AlipayPcreditLoanCollateralOperationSyncRequest
 {

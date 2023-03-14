@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.order.item.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:23:13
+ * @since 1.0, 2023-03-12 19:06:12
  */
 class AlipayEbppOrderItemCancelRequest
 {

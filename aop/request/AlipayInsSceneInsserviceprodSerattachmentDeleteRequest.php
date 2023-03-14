@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.insserviceprod.serattachment.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 07:12:51
+ * @since 1.0, 2023-03-12 20:03:56
  */
 class AlipayInsSceneInsserviceprodSerattachmentDeleteRequest
 {

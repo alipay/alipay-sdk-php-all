@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antarchive.identityrelation.add request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:43:33
+ * @since 1.0, 2023-03-12 22:52:43
  */
 class AlipayUserAntarchiveIdentityrelationAddRequest
 {

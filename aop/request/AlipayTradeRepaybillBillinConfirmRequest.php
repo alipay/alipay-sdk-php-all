@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.repaybill.billin.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:02:32
+ * @since 1.0, 2023-03-12 22:46:28
  */
 class AlipayTradeRepaybillBillinConfirmRequest
 {

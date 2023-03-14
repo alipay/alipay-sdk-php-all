@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.keyword.identify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:17:43
+ * @since 1.0, 2023-03-12 19:30:05
  */
 class AlipayFinancialnetAuthKeywordIdentifyRequest
 {

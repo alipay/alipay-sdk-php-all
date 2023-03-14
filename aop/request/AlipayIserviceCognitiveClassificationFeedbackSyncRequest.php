@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cognitive.classification.feedback.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-10 22:23:21
+ * @since 1.0, 2023-03-13 03:43:15
  */
 class AlipayIserviceCognitiveClassificationFeedbackSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.memberwallet.product.create request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 20:00:30
+ * @since 1.0, 2023-03-12 23:23:36
  */
 class AntMerchantMemberwalletProductCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.shop.follow request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 02:11:40
+ * @since 1.0, 2023-03-13 05:46:42
  */
 class AlipayOverseasTravelShopFollowRequest
 {

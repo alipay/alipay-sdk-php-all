@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.privacy.systemfield.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:22:05
+ * @since 1.0, 2023-03-12 21:42:34
  */
 class AlipayOpenMiniPrivacySystemfieldQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.prodmode.tasknode.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:37:40
+ * @since 1.0, 2023-03-12 19:08:14
  */
 class AlipayEbppProdmodeTasknodeQueryRequest
 {

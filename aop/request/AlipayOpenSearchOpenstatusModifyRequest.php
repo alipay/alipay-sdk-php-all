@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.openstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:50:45
+ * @since 1.0, 2023-03-12 21:58:26
  */
 class AlipayOpenSearchOpenstatusModifyRequest
 {

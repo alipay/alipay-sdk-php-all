@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.authentication.match request
  *
  * @author auto create
- * @since 1.0, 2022-12-07 17:56:21
+ * @since 1.0, 2023-03-12 22:56:02
  */
 class AlipayUserAuthenticationMatchRequest
 {

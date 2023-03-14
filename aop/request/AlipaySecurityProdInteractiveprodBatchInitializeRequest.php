@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.interactiveprod.batch.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:31:47
+ * @since 1.0, 2023-03-13 19:51:14
  */
 class AlipaySecurityProdInteractiveprodBatchInitializeRequest
 {

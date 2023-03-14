@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.enterprise.delete request
  *
  * @author auto create
- * @since 1.0, 2023-02-06 11:21:39
+ * @since 1.0, 2023-03-12 17:36:39
  */
 class AlipayCommerceEcEnterpriseDeleteRequest
 {

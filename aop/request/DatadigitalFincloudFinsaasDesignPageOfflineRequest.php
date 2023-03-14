@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.design.page.offline request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:20:10
+ * @since 1.0, 2023-03-12 23:41:04
  */
 class DatadigitalFincloudFinsaasDesignPageOfflineRequest
 {

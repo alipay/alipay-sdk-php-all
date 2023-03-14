@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.user.campaign.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:56:40
+ * @since 1.0, 2023-03-12 19:56:45
  */
 class AlipayInsAutoUserCampaignQueryRequest
 {

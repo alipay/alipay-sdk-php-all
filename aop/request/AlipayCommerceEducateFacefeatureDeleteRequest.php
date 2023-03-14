@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.facefeature.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 00:05:40
+ * @since 1.0, 2023-03-12 17:35:27
  */
 class AlipayCommerceEducateFacefeatureDeleteRequest
 {

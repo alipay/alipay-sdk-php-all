@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.sales.leads.saleleads.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 22:06:50
+ * @since 1.0, 2023-03-13 07:40:51
  */
 class KoubeiSalesLeadsSaleleadsCreateRequest
 {

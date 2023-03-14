@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.clive.chat.send request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 19:03:04
+ * @since 1.0, 2023-03-12 20:14:05
  */
 class AlipayIserviceCliveChatSendRequest
 {

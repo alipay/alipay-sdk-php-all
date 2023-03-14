@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.operator.rolerelation.bind request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 10:43:34
+ * @since 1.0, 2023-03-13 07:34:17
  */
 class KoubeiMerchantOperatorRolerelationBindRequest
 {

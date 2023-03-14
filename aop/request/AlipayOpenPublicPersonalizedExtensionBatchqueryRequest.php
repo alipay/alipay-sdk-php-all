@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.personalized.extension.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 17:58:55
+ * @since 1.0, 2023-03-12 21:55:27
  */
 class AlipayOpenPublicPersonalizedExtensionBatchqueryRequest
 {

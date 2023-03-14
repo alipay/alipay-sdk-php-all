@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.aliyunbenefit.receive request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 09:11:41
+ * @since 1.0, 2023-03-13 06:31:45
  */
 class AlipayUserAliyunbenefitReceiveRequest
 {

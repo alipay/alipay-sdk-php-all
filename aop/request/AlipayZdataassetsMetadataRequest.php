@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.zdataassets.metadata request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:32:06
+ * @since 1.0, 2023-03-13 06:34:07
  */
 class AlipayZdataassetsMetadataRequest
 {

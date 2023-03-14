@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antpaas.token.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:27:55
+ * @since 1.0, 2023-03-12 22:53:48
  */
 class AlipayUserAntpaasTokenCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: monitor.heartbeat.syn request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:31:18
+ * @since 1.0, 2023-03-14 09:59:49
  */
 class MonitorHeartbeatSynRequest
 {

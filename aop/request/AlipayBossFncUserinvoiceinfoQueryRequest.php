@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.userinvoiceinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:01:17
+ * @since 1.0, 2023-03-12 17:03:18
  */
 class AlipayBossFncUserinvoiceinfoQueryRequest
 {

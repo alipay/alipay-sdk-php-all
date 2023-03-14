@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.rcsmart.rulemark.submit request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:51:44
+ * @since 1.0, 2023-03-12 19:36:44
  */
 class AlipayFincoreComplianceRcsmartRulemarkSubmitRequest
 {

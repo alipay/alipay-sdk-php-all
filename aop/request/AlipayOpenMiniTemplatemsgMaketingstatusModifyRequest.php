@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.templatemsg.maketingstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 00:46:46
+ * @since 1.0, 2023-03-13 05:16:48
  */
 class AlipayOpenMiniTemplatemsgMaketingstatusModifyRequest
 {

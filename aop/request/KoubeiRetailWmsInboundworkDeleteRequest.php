@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.retail.wms.inboundwork.delete request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:07:56
+ * @since 1.0, 2023-03-13 00:09:08
  */
 class KoubeiRetailWmsInboundworkDeleteRequest
 {

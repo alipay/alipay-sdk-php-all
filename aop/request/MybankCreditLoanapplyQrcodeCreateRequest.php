@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.qrcode.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:28:18
+ * @since 1.0, 2023-03-13 00:19:19
  */
 class MybankCreditLoanapplyQrcodeCreateRequest
 {

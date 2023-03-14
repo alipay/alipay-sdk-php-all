@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.afsrc.vul.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:42:14
+ * @since 1.0, 2023-03-12 22:21:03
  */
 class AlipaySecurityProdAfsrcVulCreateRequest
 {

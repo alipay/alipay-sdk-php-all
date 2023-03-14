@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.qipan.crowdwithtag.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-17 15:56:38
+ * @since 1.0, 2023-03-13 04:26:39
  */
 class AlipayMarketingQipanCrowdwithtagQueryRequest
 {

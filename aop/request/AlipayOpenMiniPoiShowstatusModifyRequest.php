@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.poi.showstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:47:56
+ * @since 1.0, 2023-03-13 05:12:14
  */
 class AlipayOpenMiniPoiShowstatusModifyRequest
 {

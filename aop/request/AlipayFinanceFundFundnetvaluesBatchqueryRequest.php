@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.fund.fundnetvalues.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:53:36
+ * @since 1.0, 2023-03-13 02:59:46
  */
 class AlipayFinanceFundFundnetvaluesBatchqueryRequest
 {

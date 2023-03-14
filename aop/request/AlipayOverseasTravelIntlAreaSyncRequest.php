@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.intl.area.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 08:51:44
+ * @since 1.0, 2023-03-12 22:11:45
  */
 class AlipayOverseasTravelIntlAreaSyncRequest
 {

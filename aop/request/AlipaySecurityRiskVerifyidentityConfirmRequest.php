@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.verifyidentity.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 05:20:47
+ * @since 1.0, 2023-03-12 22:31:14
  */
 class AlipaySecurityRiskVerifyidentityConfirmRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.parking.exitinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 23:31:05
+ * @since 1.0, 2023-03-13 02:54:36
  */
 class AlipayEcoMycarParkingExitinfoSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.invmode.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 06:48:55
+ * @since 1.0, 2023-03-13 01:12:34
  */
 class AlipayBossFncInvmodeCreateRequest
 {

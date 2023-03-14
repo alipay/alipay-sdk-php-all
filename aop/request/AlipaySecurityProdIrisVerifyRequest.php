@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.iris.verify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 03:32:28
+ * @since 1.0, 2023-03-12 22:24:20
  */
 class AlipaySecurityProdIrisVerifyRequest
 {

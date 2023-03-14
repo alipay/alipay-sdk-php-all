@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.shop.relation.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 18:47:01
+ * @since 1.0, 2023-03-12 21:43:44
  */
 class AlipayOpenMiniShopRelationQueryRequest
 {

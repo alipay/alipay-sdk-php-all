@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.finance.account.rysenterprise.query request
  *
  * @author auto create
- * @since 1.0, 2023-01-05 11:17:58
+ * @since 1.0, 2023-03-13 00:32:30
  */
 class MybankFinanceAccountRysenterpriseQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.selleradmit.realtime.certify request
  *
  * @author auto create
- * @since 1.0, 2023-02-13 15:00:31
+ * @since 1.0, 2023-03-12 22:18:11
  */
 class AlipayPcreditHuabeiSelleradmitRealtimeCertifyRequest
 {

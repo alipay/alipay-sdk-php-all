@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.operator.create request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 04:04:46
+ * @since 1.0, 2023-03-13 00:04:44
  */
 class KoubeiMerchantOperatorCreateRequest
 {

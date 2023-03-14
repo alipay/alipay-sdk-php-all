@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.isvdata.query request
  *
  * @author auto create
- * @since 1.0, 2023-02-13 17:46:37
+ * @since 1.0, 2023-03-13 04:51:39
  */
 class AlipayOpenIotmbsIsvdataQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.content.community.content.event.save request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 01:03:12
+ * @since 1.0, 2023-03-13 06:48:59
  */
 class AntfortuneContentCommunityContentEventSaveRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.itemorder.refund request
  *
  * @author auto create
- * @since 1.0, 2023-01-04 21:56:31
+ * @since 1.0, 2023-03-13 00:15:14
  */
 class KoubeiTradeItemorderRefundRequest
 {
