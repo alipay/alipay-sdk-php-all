@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.finlease.token.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:21:45
+ * @since 1.0, 2023-03-23 20:06:43
  */
 class MybankCreditLoanapplyFinleaseTokenQueryRequest
 {

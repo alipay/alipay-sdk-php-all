@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.auth.order.app.freeze request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:11:45
+ * @since 1.0, 2023-03-16 21:46:45
  */
 class AlipayFundAuthOrderAppFreezeRequest
 {

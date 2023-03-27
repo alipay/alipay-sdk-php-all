@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.insturl.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:46:34
+ * @since 1.0, 2023-03-23 21:52:16
  */
 class MybankCreditLoanapplyInsturlQueryRequest
 {

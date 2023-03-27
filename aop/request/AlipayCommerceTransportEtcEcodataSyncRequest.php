@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.ecodata.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:21:40
+ * @since 1.0, 2023-03-23 22:21:41
  */
 class AlipayCommerceTransportEtcEcodataSyncRequest
 {

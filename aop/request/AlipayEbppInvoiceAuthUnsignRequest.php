@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.auth.unsign request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:36:44
+ * @since 1.0, 2023-03-23 20:01:43
  */
 class AlipayEbppInvoiceAuthUnsignRequest
 {

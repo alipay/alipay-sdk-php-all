@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.pkgauthrelation.authtome.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:51:44
+ * @since 1.0, 2023-03-23 20:56:43
  */
 class AlipayCommerceLogisticsPkgauthrelationAuthtomeQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.certification.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:41:39
+ * @since 1.0, 2023-03-20 09:56:38
  */
 class ZhimaCreditEpCertificationQueryRequest
 {

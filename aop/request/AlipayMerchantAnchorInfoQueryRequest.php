@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.anchor.info.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 21:01:39
+ * @since 1.0, 2023-03-23 19:56:39
  */
 class AlipayMerchantAnchorInfoQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.yuntask.shopstatistics.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:31:45
+ * @since 1.0, 2023-03-23 22:36:42
  */
 class AlipayCommerceYuntaskShopstatisticsQueryRequest
 {

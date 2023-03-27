@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.order.orderinfo.hotel.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 17:21:39
+ * @since 1.0, 2023-03-23 21:06:39
  */
 class AlipayBusinessOrderOrderinfoHotelSyncRequest
 {

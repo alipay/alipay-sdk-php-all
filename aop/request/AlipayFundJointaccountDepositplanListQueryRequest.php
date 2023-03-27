@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.depositplan.list.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:46:40
+ * @since 1.0, 2023-03-23 20:41:40
  */
 class AlipayFundJointaccountDepositplanListQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.asset.card.depositback request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:06:44
+ * @since 1.0, 2023-03-23 20:46:43
  */
 class AlipayAssetCardDepositbackRequest
 {

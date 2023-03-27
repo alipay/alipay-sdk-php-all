@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.operator.bind.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:21:39
+ * @since 1.0, 2023-03-23 20:21:40
  */
 class AlipayFundTransOperatorBindQueryRequest
 {

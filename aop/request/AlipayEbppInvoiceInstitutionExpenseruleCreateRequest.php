@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.institution.expenserule.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:01:45
+ * @since 1.0, 2023-03-22 20:41:43
  */
 class AlipayEbppInvoiceInstitutionExpenseruleCreateRequest
 {

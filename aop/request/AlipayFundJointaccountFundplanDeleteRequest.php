@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.fundplan.delete request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:16:45
+ * @since 1.0, 2023-03-23 22:11:42
  */
 class AlipayFundJointaccountFundplanDeleteRequest
 {

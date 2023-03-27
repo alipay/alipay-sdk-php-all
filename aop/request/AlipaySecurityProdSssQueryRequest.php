@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.sss.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:26:41
+ * @since 1.0, 2023-03-23 21:01:42
  */
 class AlipaySecurityProdSssQueryRequest
 {

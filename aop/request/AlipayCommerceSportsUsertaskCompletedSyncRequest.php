@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.usertask.completed.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 19:56:39
+ * @since 1.0, 2023-03-20 23:16:43
  */
 class AlipayCommerceSportsUsertaskCompletedSyncRequest
 {

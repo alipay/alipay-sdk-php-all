@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.growthtask.send request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:21:40
+ * @since 1.0, 2023-03-23 20:41:39
  */
 class ZhimaCustomerGrowthtaskSendRequest
 {

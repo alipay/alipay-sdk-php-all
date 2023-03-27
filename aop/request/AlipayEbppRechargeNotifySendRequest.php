@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.recharge.notify.send request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:11:45
+ * @since 1.0, 2023-03-23 21:26:43
  */
 class AlipayEbppRechargeNotifySendRequest
 {

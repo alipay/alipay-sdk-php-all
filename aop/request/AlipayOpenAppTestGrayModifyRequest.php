@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.test.gray.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:51:44
+ * @since 1.0, 2023-03-23 19:56:42
  */
 class AlipayOpenAppTestGrayModifyRequest
 {

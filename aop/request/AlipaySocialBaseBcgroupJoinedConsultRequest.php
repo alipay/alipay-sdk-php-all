@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.bcgroup.joined.consult request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:36:41
+ * @since 1.0, 2023-03-23 20:41:43
  */
 class AlipaySocialBaseBcgroupJoinedConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.mpoint.refund request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:11:38
+ * @since 1.0, 2023-03-23 21:36:43
  */
 class AlipayUserMpointRefundRequest
 {

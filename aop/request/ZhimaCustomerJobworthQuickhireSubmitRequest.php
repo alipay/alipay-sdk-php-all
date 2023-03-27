@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.jobworth.quickhire.submit request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:51:41
+ * @since 1.0, 2023-03-23 20:51:42
  */
 class ZhimaCustomerJobworthQuickhireSubmitRequest
 {

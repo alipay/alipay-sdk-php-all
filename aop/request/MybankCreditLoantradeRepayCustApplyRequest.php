@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.repay.cust.apply request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:50:26
+ * @since 1.0, 2023-03-23 16:55:45
  */
 class MybankCreditLoantradeRepayCustApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certdoc.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:31:44
+ * @since 1.0, 2023-03-23 20:26:42
  */
 class AlipayUserCertdocSyncRequest
 {

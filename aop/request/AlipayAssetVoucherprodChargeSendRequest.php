@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.asset.voucherprod.charge.send request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 16:51:41
+ * @since 1.0, 2023-03-23 22:16:43
  */
 class AlipayAssetVoucherprodChargeSendRequest
 {
