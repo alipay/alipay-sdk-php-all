@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.data.feedbackurl.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:51:04
+ * @since 1.0, 2023-03-31 18:22:13
  */
 class ZhimaDataFeedbackurlQueryRequest
 {

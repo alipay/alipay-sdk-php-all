@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.remit.fxtradeorder.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:39:57
+ * @since 1.0, 2023-03-31 17:58:50
  */
 class AlipayOverseasRemitFxtradeorderCreateRequest
 {

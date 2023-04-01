@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.user.open.certify.certify request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:57:46
+ * @since 1.0, 2023-03-31 19:18:00
  */
 class MybankCreditUserOpenCertifyCertifyRequest
 {

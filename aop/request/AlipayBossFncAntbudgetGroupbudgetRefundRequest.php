@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.antbudget.groupbudget.refund request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:08:36
+ * @since 1.0, 2023-03-31 17:37:23
  */
 class AlipayBossFncAntbudgetGroupbudgetRefundRequest
 {

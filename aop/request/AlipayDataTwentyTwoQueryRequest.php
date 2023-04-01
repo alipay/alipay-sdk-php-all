@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.twenty.two.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-24 14:06:40
+ * @since 1.0, 2023-03-28 18:21:40
  */
 class AlipayDataTwentyTwoQueryRequest
 {

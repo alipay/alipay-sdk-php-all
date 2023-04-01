@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.machinegoods.add request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:27:02
+ * @since 1.0, 2023-03-31 17:49:38
  */
 class AlipayMsaasMediarecogMmtcaftscvMachinegoodsAddRequest
 {

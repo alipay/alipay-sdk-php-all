@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.account.balance.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:44:34
+ * @since 1.0, 2023-03-31 18:17:54
  */
 class AlipayEbppAccountBalanceQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.multi.audit.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 21:41:27
+ * @since 1.0, 2023-03-31 19:29:55
  */
 class AlipayOpenMiniMultiAuditModifyRequest
 {

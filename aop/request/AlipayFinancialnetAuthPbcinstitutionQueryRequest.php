@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.financialnet.auth.pbcinstitution.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:06:44
+ * @since 1.0, 2023-03-30 20:16:41
  */
 class AlipayFinancialnetAuthPbcinstitutionQueryRequest
 {
+	/** 
+	 * 联行号关联顶级机构查询
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayFinancialnetAuthPbcinstitutionQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.financialnet.auth.pbcinstitution.query";

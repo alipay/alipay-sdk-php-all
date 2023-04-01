@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.file.sync.retry request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 20:21:41
+ * @since 1.0, 2023-03-31 17:26:45
  */
 class AlipayEbppInvoiceFileSyncRetryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: ant.ocr.tes.consult request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:48:14
+ * @since 1.0, 2023-03-28 14:21:03
  */
 class AntOcrTesConsultRequest
 {

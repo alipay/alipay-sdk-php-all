@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.beikeaccount.interestfree.modify request
  *
  * @author auto create
- * @since 1.0, 2019-12-04 14:08:40
+ * @since 1.0, 2023-03-31 18:57:42
  */
 class AlipayPcreditLoanBeikeaccountInterestfreeModifyRequest
 {

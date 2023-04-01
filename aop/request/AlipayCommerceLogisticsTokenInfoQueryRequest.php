@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.token.info.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-21 17:56:23
+ * @since 1.0, 2023-03-30 16:26:39
  */
 class AlipayCommerceLogisticsTokenInfoQueryRequest
 {

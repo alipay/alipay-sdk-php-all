@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.rule.crowd.delete request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:58:41
+ * @since 1.0, 2023-03-31 19:16:39
  */
 class AlipayMarketingCampaignRuleCrowdDeleteRequest
 {

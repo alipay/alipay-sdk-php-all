@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.mmtcapi.vehiclelicense.identify request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:59:45
+ * @since 1.0, 2023-03-31 18:29:56
  */
 class AlipayMsaasMediarecogMmtcapiVehiclelicenseIdentifyRequest
 {

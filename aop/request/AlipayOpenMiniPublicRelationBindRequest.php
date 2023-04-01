@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.public.relation.bind request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:12:24
+ * @since 1.0, 2023-03-31 17:38:17
  */
 class AlipayOpenMiniPublicRelationBindRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.renthouse.ka.service.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:26:31
+ * @since 1.0, 2023-03-31 18:33:49
  */
 class AlipayEcoRenthouseKaServiceCreateRequest
 {

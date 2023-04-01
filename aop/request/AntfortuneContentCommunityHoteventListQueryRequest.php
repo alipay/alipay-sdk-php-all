@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.content.community.hotevent.list.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-18 11:25:00
+ * @since 1.0, 2023-03-31 18:53:47
  */
 class AntfortuneContentCommunityHoteventListQueryRequest
 {

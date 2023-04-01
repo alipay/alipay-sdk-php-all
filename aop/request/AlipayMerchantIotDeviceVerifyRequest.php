@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.iot.device.verify request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:14:58
+ * @since 1.0, 2023-03-31 18:47:37
  */
 class AlipayMerchantIotDeviceVerifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.iotdata.anomalydetection.bai.verify request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:40:10
+ * @since 1.0, 2023-03-31 18:18:20
  */
 class AlipayDataIotdataAnomalydetectionBaiVerifyRequest
 {

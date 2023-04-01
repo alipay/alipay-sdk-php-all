@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.dataservice.regioninfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:56:42
+ * @since 1.0, 2023-03-31 19:46:47
  */
 class AnttechBlockchainDefinDataserviceRegioninfoQueryRequest
 {

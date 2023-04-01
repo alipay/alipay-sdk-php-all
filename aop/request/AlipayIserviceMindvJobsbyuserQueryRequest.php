@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.mindv.jobsbyuser.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:45:50
+ * @since 1.0, 2023-03-31 19:24:53
  */
 class AlipayIserviceMindvJobsbyuserQueryRequest
 {

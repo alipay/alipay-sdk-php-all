@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.company.submit request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:55:10
+ * @since 1.0, 2023-03-31 17:54:52
  */
 class AlipayEbppInvoiceCompanySubmitRequest
 {
