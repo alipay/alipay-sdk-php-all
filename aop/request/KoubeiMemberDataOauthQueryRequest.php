@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.member.data.oauth.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:03:04
+ * @since 1.0, 2023-04-03 11:01:59
  */
 class KoubeiMemberDataOauthQueryRequest
 {

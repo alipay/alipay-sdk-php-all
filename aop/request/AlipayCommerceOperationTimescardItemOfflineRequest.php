@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.timescard.item.offline request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:52:53
+ * @since 1.0, 2023-04-03 17:35:04
  */
 class AlipayCommerceOperationTimescardItemOfflineRequest
 {

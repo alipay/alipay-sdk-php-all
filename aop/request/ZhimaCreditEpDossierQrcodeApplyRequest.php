@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.dossier.qrcode.apply request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:11:39
+ * @since 1.0, 2023-04-03 03:31:44
  */
 class ZhimaCreditEpDossierQrcodeApplyRequest
 {

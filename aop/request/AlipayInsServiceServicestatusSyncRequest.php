@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.service.servicestatus.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:07:50
+ * @since 1.0, 2023-04-03 07:51:28
  */
 class AlipayInsServiceServicestatusSyncRequest
 {

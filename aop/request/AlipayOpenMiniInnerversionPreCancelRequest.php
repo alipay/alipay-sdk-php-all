@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerversion.pre.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:06:48
+ * @since 1.0, 2023-04-03 05:54:42
  */
 class AlipayOpenMiniInnerversionPreCancelRequest
 {

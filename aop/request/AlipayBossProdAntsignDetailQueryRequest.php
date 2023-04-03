@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.antsign.detail.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:16:51
+ * @since 1.0, 2023-04-03 15:53:24
  */
 class AlipayBossProdAntsignDetailQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.ding.message.send request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:21:21
+ * @since 1.0, 2023-04-03 00:33:43
  */
 class AlipayDataDingMessageSendRequest
 {

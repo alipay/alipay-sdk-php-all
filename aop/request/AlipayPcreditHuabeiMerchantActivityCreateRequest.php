@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.merchant.activity.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:15:26
+ * @since 1.0, 2023-04-03 02:11:45
  */
 class AlipayPcreditHuabeiMerchantActivityCreateRequest
 {

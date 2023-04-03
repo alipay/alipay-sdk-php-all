@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.filetask.submit request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 21:01:40
+ * @since 1.0, 2023-04-03 07:51:42
  */
 class AlipayMerchantIndirectFiletaskSubmitRequest
 {

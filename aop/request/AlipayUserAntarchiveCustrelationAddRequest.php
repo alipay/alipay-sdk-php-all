@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antarchive.custrelation.add request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:52:32
+ * @since 1.0, 2023-04-03 06:02:06
  */
 class AlipayUserAntarchiveCustrelationAddRequest
 {

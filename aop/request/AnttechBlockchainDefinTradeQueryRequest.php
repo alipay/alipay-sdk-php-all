@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.trade.query request
  *
  * @author auto create
- * @since 1.0, 2020-05-27 11:40:10
+ * @since 1.0, 2023-04-03 01:25:50
  */
 class AnttechBlockchainDefinTradeQueryRequest
 {

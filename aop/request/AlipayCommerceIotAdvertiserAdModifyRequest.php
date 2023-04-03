@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.advertiser.ad.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 17:52:09
+ * @since 1.0, 2023-04-03 11:05:20
  */
 class AlipayCommerceIotAdvertiserAdModifyRequest
 {

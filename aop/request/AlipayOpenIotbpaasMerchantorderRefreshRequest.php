@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotbpaas.merchantorder.refresh request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 21:16:47
+ * @since 1.0, 2023-04-03 15:55:54
  */
 class AlipayOpenIotbpaasMerchantorderRefreshRequest
 {

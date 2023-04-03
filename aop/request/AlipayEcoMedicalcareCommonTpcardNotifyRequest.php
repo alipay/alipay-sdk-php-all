@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.medicalcare.common.tpcard.notify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:46:33
+ * @since 1.0, 2023-04-03 16:08:01
  */
 class AlipayEcoMedicalcareCommonTpcardNotifyRequest
 {

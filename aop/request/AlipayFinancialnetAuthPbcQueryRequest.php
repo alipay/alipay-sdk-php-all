@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.pbc.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-04 16:10:10
+ * @since 1.0, 2023-04-03 11:15:59
  */
 class AlipayFinancialnetAuthPbcQueryRequest
 {

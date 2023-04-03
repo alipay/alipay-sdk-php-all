@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.promoter.ranking.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:07:28
+ * @since 1.0, 2023-04-03 13:59:21
  */
 class AlipayCommerceOperationPromoterRankingQueryRequest
 {

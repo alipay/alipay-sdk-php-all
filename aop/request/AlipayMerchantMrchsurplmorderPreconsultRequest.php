@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.mrchsurplmorder.preconsult request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:16:50
+ * @since 1.0, 2023-04-03 07:46:38
  */
 class AlipayMerchantMrchsurplmorderPreconsultRequest
 {

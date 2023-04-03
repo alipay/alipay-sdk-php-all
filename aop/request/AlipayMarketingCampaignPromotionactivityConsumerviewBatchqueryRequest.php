@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.promotionactivity.consumerview.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:30:36
+ * @since 1.0, 2023-04-03 04:32:32
  */
 class AlipayMarketingCampaignPromotionactivityConsumerviewBatchqueryRequest
 {

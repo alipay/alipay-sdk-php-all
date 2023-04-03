@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.yep.model.consult request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 20:41:40
+ * @since 1.0, 2023-04-03 02:01:44
  */
 class AlipayFinancialnetAuthYepModelConsultRequest
 {

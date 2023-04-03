@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.marketing.campaign.bkpromoguardbase.lmitemmodify.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:01:39
+ * @since 1.0, 2023-04-03 10:46:44
  */
 class MybankMarketingCampaignBkpromoguardbaseLmitemmodifySyncRequest
 {

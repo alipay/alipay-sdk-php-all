@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.payforprivilege.profile.set request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:18:19
+ * @since 1.0, 2023-04-03 03:07:46
  */
 class AlipayMerchantPayforprivilegeProfileSetRequest
 {

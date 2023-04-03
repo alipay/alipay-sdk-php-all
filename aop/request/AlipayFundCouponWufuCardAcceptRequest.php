@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.coupon.wufu.card.accept request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:12:55
+ * @since 1.0, 2023-04-03 01:39:57
  */
 class AlipayFundCouponWufuCardAcceptRequest
 {

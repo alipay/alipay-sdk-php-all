@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.groupbuying.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:03:33
+ * @since 1.0, 2023-04-03 10:13:05
  */
 class AlipayUserGroupbuyingSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.payee.bind.delete request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:28:11
+ * @since 1.0, 2023-04-03 10:51:50
  */
 class AlipayOpenPublicPayeeBindDeleteRequest
 {

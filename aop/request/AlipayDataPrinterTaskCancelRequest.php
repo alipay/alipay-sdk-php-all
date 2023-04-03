@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.printer.task.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:22:48
+ * @since 1.0, 2023-04-03 03:53:04
  */
 class AlipayDataPrinterTaskCancelRequest
 {

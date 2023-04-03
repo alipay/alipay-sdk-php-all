@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.repay.detail.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:54:14
+ * @since 1.0, 2023-04-03 08:07:48
  */
 class AlipayPcreditLoanRepayDetailQueryRequest
 {

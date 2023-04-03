@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.brandsolution.merchantactivity.recover request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:05:36
+ * @since 1.0, 2023-04-03 06:46:53
  */
 class AlipayCommerceOperationBrandsolutionMerchantactivityRecoverRequest
 {

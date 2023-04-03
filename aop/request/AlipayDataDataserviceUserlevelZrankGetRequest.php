@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.userlevel.zrank.get request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:39:37
+ * @since 1.0, 2023-04-03 00:29:53
  */
 class AlipayDataDataserviceUserlevelZrankGetRequest
 {

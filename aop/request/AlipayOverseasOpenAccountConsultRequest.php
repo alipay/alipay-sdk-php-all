@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.open.account.consult request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:03:35
+ * @since 1.0, 2023-04-03 01:37:39
  */
 class AlipayOverseasOpenAccountConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.medicalcare.si.data.send request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 20:25:48
+ * @since 1.0, 2023-04-03 17:25:46
  */
 class AlipayEcoMedicalcareSiDataSendRequest
 {

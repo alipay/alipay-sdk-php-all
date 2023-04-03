@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.contract.record.sync request
  *
  * @author auto create
- * @since 1.0, 2019-06-21 14:07:19
+ * @since 1.0, 2023-04-03 03:24:45
  */
 class ZhimaCustomerContractRecordSyncRequest
 {

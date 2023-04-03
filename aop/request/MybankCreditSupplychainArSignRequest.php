@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.ar.sign request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:26:13
+ * @since 1.0, 2023-04-03 07:58:58
  */
 class MybankCreditSupplychainArSignRequest
 {

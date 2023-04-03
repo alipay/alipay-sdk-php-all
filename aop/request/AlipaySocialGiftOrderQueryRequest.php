@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.gift.order.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:06:13
+ * @since 1.0, 2023-04-03 00:16:42
  */
 class AlipaySocialGiftOrderQueryRequest
 {

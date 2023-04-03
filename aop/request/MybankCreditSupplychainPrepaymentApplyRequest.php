@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.prepayment.apply request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:55:44
+ * @since 1.0, 2023-04-03 05:39:47
  */
 class MybankCreditSupplychainPrepaymentApplyRequest
 {

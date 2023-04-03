@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.financialplatform.budget.return request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:01:38
+ * @since 1.0, 2023-04-03 00:36:42
  */
 class MybankFinancialplatformBudgetReturnRequest
 {

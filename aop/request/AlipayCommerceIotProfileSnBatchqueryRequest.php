@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.profile.sn.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 17:56:56
+ * @since 1.0, 2023-04-03 09:39:17
  */
 class AlipayCommerceIotProfileSnBatchqueryRequest
 {

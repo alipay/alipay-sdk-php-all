@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antfarm.projectinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:32:06
+ * @since 1.0, 2023-04-03 14:42:01
  */
 class AlipaySocialAntfarmProjectinfoQueryRequest
 {

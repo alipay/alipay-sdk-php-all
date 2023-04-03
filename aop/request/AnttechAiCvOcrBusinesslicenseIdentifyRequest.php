@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.ai.cv.ocr.businesslicense.identify request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:51:55
+ * @since 1.0, 2023-04-03 04:56:49
  */
 class AnttechAiCvOcrBusinesslicenseIdentifyRequest
 {

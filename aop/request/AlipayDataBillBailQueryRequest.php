@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.bill.bail.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-21 11:07:47
+ * @since 1.0, 2023-04-03 00:53:19
  */
 class AlipayDataBillBailQueryRequest
 {

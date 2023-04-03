@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.unicard.card.consult request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:31:43
+ * @since 1.0, 2023-04-03 13:57:23
  */
 class AlipayMarketingCampaignUnicardCardConsultRequest
 {

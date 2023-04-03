@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.user.role.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:31:01
+ * @since 1.0, 2023-04-03 11:34:18
  */
 class MybankCreditUserRoleQueryRequest
 {

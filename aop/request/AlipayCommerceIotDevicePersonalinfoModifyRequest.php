@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.personalinfo.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:42:48
+ * @since 1.0, 2023-04-03 08:00:53
  */
 class AlipayCommerceIotDevicePersonalinfoModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.trade.billrepaybudget.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:27:52
+ * @since 1.0, 2023-04-03 08:33:25
  */
 class MybankCreditSupplychainTradeBillrepaybudgetQueryRequest
 {

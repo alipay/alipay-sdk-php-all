@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.sceneprod.loan.asset.transfer request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:51:43
+ * @since 1.0, 2023-04-03 10:32:35
  */
 class MybankCreditSceneprodLoanAssetTransferRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.unicard.excode.rollback request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:01:12
+ * @since 1.0, 2023-04-03 04:30:01
  */
 class AlipayMarketingCampaignUnicardExcodeRollbackRequest
 {

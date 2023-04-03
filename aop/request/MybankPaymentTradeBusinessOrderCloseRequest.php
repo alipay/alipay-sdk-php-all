@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.business.order.close request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:02:22
+ * @since 1.0, 2023-04-03 06:11:38
  */
 class MybankPaymentTradeBusinessOrderCloseRequest
 {

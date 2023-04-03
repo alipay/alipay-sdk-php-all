@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.risktask.finishinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:26:45
+ * @since 1.0, 2023-04-03 15:41:47
  */
 class AlipaySecurityProdRisktaskFinishinfoQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.ticket.ticketcode.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:43:04
+ * @since 1.0, 2023-04-03 05:01:56
  */
 class KoubeiTradeTicketTicketcodeCancelRequest
 {

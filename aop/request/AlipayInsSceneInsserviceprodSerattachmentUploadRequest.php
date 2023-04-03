@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.insserviceprod.serattachment.upload request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:04:07
+ * @since 1.0, 2023-04-03 05:33:03
  */
 class AlipayInsSceneInsserviceprodSerattachmentUploadRequest
 {

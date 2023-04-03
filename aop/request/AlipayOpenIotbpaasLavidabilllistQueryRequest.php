@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotbpaas.lavidabilllist.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:45:26
+ * @since 1.0, 2023-04-03 12:03:45
  */
 class AlipayOpenIotbpaasLavidabilllistQueryRequest
 {

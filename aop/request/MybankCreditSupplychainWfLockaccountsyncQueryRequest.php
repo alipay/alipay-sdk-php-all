@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.lockaccountsync.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:56:38
+ * @since 1.0, 2023-04-03 06:02:46
  */
 class MybankCreditSupplychainWfLockaccountsyncQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.factoring.supplier.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:27:19
+ * @since 1.0, 2023-04-03 03:36:55
  */
 class MybankCreditSupplychainFactoringSupplierCreateRequest
 {

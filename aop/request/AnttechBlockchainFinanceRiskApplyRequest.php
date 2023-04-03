@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.risk.apply request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:35:59
+ * @since 1.0, 2023-04-03 12:46:43
  */
 class AnttechBlockchainFinanceRiskApplyRequest
 {

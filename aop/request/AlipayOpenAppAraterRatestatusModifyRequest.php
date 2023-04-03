@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.arater.ratestatus.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 21:04:49
+ * @since 1.0, 2023-04-03 00:18:31
  */
 class AlipayOpenAppAraterRatestatusModifyRequest
 {

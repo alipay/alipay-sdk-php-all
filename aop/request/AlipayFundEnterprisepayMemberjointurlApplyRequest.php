@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.enterprisepay.memberjointurl.apply request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:41:42
+ * @since 1.0, 2023-04-03 04:21:45
  */
 class AlipayFundEnterprisepayMemberjointurlApplyRequest
 {

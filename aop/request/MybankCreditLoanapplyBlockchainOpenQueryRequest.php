@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.blockchain.open.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:45:50
+ * @since 1.0, 2023-04-03 14:28:12
  */
 class MybankCreditLoanapplyBlockchainOpenQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.forest.certificate.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:37:46
+ * @since 1.0, 2023-04-03 01:44:59
  */
 class AlipaySocialForestCertificateQueryRequest
 {

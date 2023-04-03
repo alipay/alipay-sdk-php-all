@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.manjiangdstest.stop request
  *
  * @author auto create
- * @since 1.0, 2022-09-18 17:02:02
+ * @since 1.0, 2023-04-03 16:52:33
  */
 class AlipayBossProdManjiangdstestStopRequest
 {

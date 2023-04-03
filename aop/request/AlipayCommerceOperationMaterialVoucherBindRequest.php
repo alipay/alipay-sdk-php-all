@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.material.voucher.bind request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:06:54
+ * @since 1.0, 2023-04-03 11:35:03
  */
 class AlipayCommerceOperationMaterialVoucherBindRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.roomstate.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:48:10
+ * @since 1.0, 2023-04-03 10:31:55
  */
 class AlipayOpenIotmbsRoomstateSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.bail.order.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 22:11:42
+ * @since 1.0, 2023-04-03 02:51:43
  */
 class AlipayFundBailOrderBatchqueryRequest
 {

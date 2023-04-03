@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.frastress.querybusinessdomain.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 16:51:05
+ * @since 1.0, 2023-04-03 10:43:58
  */
 class AlipayBossBaseFrastressQuerybusinessdomainQueryRequest
 {

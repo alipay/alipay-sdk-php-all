@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.mdeviceprod.behaviorlog.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:42:11
+ * @since 1.0, 2023-04-03 14:43:45
  */
 class AlipayCommerceIotMdeviceprodBehaviorlogBatchqueryRequest
 {

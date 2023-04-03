@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.bpaas.push.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 21:13:47
+ * @since 1.0, 2023-04-03 12:20:46
  */
 class AlipayOpenBpaasPushSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.authorize.direct.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-17 16:06:39
+ * @since 1.0, 2023-04-03 13:21:43
  */
 class AlipayFundAuthorizeDirectCancelRequest
 {

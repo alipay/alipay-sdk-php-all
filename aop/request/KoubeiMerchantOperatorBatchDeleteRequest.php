@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.operator.batch.delete request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:33:34
+ * @since 1.0, 2023-04-03 13:17:25
  */
 class KoubeiMerchantOperatorBatchDeleteRequest
 {

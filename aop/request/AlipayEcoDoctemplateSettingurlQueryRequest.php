@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.doctemplate.settingurl.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:13:19
+ * @since 1.0, 2023-04-03 15:03:42
  */
 class AlipayEcoDoctemplateSettingurlQueryRequest
 {

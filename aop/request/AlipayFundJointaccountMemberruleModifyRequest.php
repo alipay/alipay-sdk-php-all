@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.memberrule.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 20:41:41
+ * @since 1.0, 2023-04-03 00:51:44
  */
 class AlipayFundJointaccountMemberruleModifyRequest
 {

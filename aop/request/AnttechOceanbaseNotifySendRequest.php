@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.notify.send request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:38:38
+ * @since 1.0, 2023-04-03 16:41:04
  */
 class AnttechOceanbaseNotifySendRequest
 {

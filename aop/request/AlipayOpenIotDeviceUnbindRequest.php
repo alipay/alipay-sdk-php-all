@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iot.device.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:45:04
+ * @since 1.0, 2023-04-03 07:19:43
  */
 class AlipayOpenIotDeviceUnbindRequest
 {

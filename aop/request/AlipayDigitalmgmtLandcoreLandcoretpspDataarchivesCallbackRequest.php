@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.landcore.landcoretpsp.dataarchives.callback request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:24:38
+ * @since 1.0, 2023-04-03 17:41:50
  */
 class AlipayDigitalmgmtLandcoreLandcoretpspDataarchivesCallbackRequest
 {

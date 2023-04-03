@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.settle.capture.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 17:01:19
+ * @since 1.0, 2023-04-03 16:49:36
  */
 class AlipayBossFncSettleCaptureCreateRequest
 {

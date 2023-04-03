@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.activity.merchant.unsign request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:51:44
+ * @since 1.0, 2023-04-03 08:56:46
  */
 class AlipayCommerceOperationActivityMerchantUnsignRequest
 {

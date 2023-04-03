@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.antdataassets.odpscolumn.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:18:29
+ * @since 1.0, 2023-04-03 17:24:40
  */
 class AlipayDataDataserviceAntdataassetsOdpscolumnQueryRequest
 {

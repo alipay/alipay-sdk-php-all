@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.voucher.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:36:39
+ * @since 1.0, 2023-04-03 06:21:43
  */
 class AlipayMarketingActivityVoucherModifyRequest
 {

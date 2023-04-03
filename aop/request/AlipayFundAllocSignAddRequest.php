@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.alloc.sign.add request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:36:40
+ * @since 1.0, 2023-04-03 05:56:42
  */
 class AlipayFundAllocSignAddRequest
 {

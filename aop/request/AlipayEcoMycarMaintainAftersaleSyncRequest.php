@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.maintain.aftersale.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:52:43
+ * @since 1.0, 2023-04-03 05:18:12
  */
 class AlipayEcoMycarMaintainAftersaleSyncRequest
 {

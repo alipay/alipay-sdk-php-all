@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.promotion.cpainfo.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:28:19
+ * @since 1.0, 2023-04-03 06:47:48
  */
 class AlipayMsaasPromotionCpainfoCreateRequest
 {

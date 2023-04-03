@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.business.order.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:02:33
+ * @since 1.0, 2023-04-03 10:29:16
  */
 class MybankPaymentTradeBusinessOrderCreateRequest
 {

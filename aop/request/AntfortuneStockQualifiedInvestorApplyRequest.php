@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.qualified.investor.apply request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:28:11
+ * @since 1.0, 2023-04-03 10:29:43
  */
 class AntfortuneStockQualifiedInvestorApplyRequest
 {

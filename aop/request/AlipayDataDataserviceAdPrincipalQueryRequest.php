@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.principal.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:17:21
+ * @since 1.0, 2023-04-03 16:25:11
  */
 class AlipayDataDataserviceAdPrincipalQueryRequest
 {

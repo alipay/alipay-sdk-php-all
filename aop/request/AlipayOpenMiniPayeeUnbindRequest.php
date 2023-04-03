@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.payee.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:11:08
+ * @since 1.0, 2023-04-03 13:41:55
  */
 class AlipayOpenMiniPayeeUnbindRequest
 {

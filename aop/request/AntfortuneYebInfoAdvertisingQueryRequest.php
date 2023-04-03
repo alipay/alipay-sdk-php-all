@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.yeb.info.advertising.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:28:55
+ * @since 1.0, 2023-04-03 05:43:19
  */
 class AntfortuneYebInfoAdvertisingQueryRequest
 {

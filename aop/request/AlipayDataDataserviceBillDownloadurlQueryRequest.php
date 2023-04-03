@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.bill.downloadurl.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:21:39
+ * @since 1.0, 2023-04-03 00:46:43
  */
 class AlipayDataDataserviceBillDownloadurlQueryRequest
 {

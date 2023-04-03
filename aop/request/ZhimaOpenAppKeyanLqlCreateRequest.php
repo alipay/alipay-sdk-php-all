@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.open.app.keyan.lql.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:49:59
+ * @since 1.0, 2023-04-03 13:36:13
  */
 class ZhimaOpenAppKeyanLqlCreateRequest
 {

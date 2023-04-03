@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.contract.download request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:17:13
+ * @since 1.0, 2023-04-03 03:31:50
  */
 class AlipayBossProdContractDownloadRequest
 {

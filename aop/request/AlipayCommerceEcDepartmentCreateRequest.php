@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.department.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 17:31:40
+ * @since 1.0, 2023-04-03 09:46:45
  */
 class AlipayCommerceEcDepartmentCreateRequest
 {

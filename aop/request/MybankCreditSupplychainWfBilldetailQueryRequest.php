@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.billdetail.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:28:59
+ * @since 1.0, 2023-04-03 06:29:33
  */
 class MybankCreditSupplychainWfBilldetailQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.applepay.merchantauthtoken.get request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:54:33
+ * @since 1.0, 2023-04-03 13:19:41
  */
 class AlipayUserApplepayMerchantauthtokenGetRequest
 {

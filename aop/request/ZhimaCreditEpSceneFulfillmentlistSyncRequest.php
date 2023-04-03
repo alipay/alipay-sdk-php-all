@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.scene.fulfillmentlist.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:42:11
+ * @since 1.0, 2023-04-03 13:38:29
  */
 class ZhimaCreditEpSceneFulfillmentlistSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.content.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:42:52
+ * @since 1.0, 2023-04-03 06:44:23
  */
 class AlipayOverseasTravelContentCancelRequest
 {

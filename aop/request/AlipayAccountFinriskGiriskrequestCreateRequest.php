@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.finrisk.giriskrequest.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 16:47:37
+ * @since 1.0, 2023-04-03 05:42:27
  */
 class AlipayAccountFinriskGiriskrequestCreateRequest
 {

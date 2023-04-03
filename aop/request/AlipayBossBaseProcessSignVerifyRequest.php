@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.process.sign.verify request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:06:01
+ * @since 1.0, 2023-04-03 04:11:23
  */
 class AlipayBossBaseProcessSignVerifyRequest
 {

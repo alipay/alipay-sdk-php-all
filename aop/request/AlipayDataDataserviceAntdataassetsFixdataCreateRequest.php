@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.antdataassets.fixdata.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:18:18
+ * @since 1.0, 2023-04-03 07:33:13
  */
 class AlipayDataDataserviceAntdataassetsFixdataCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.schoolcontent.offline request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 17:38:21
+ * @since 1.0, 2023-04-03 05:25:35
  */
 class AlipayCommerceEducateSchoolcontentOfflineRequest
 {

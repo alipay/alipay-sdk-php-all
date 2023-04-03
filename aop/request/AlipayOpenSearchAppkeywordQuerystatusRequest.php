@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.appkeyword.querystatus request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 21:56:46
+ * @since 1.0, 2023-04-03 11:56:45
  */
 class AlipayOpenSearchAppkeywordQuerystatusRequest
 {

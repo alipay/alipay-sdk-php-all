@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.ownercard.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 21:21:43
+ * @since 1.0, 2023-04-03 14:21:45
  */
 class AlipayEbppCommunityOwnercardCreateRequest
 {

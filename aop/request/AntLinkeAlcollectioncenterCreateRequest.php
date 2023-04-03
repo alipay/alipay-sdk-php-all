@@ -3,7 +3,7 @@
  * ALIPAY API: ant.linke.alcollectioncenter.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-21 20:46:39
+ * @since 1.0, 2023-04-03 00:26:43
  */
 class AntLinkeAlcollectioncenterCreateRequest
 {

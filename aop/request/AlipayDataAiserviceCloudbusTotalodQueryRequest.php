@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.cloudbus.totalod.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:12:31
+ * @since 1.0, 2023-04-03 01:54:15
  */
 class AlipayDataAiserviceCloudbusTotalodQueryRequest
 {

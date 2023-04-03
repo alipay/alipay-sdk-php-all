@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.identification.customer.enroll.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:58:06
+ * @since 1.0, 2023-04-03 14:30:10
  */
 class ZolozIdentificationCustomerEnrollCancelRequest
 {

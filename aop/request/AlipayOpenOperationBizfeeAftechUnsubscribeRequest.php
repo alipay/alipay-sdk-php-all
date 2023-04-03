@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.bizfee.aftech.unsubscribe request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:19:29
+ * @since 1.0, 2023-04-03 06:30:58
  */
 class AlipayOpenOperationBizfeeAftechUnsubscribeRequest
 {

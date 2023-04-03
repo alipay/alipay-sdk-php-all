@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.bail.agreement.upgrade request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:10:24
+ * @since 1.0, 2023-04-03 02:06:53
  */
 class AlipayFundBailAgreementUpgradeRequest
 {

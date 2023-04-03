@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.isv.signauth.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:37:27
+ * @since 1.0, 2023-04-03 00:14:28
  */
 class AlipayOpenSpIsvSignauthCreateRequest
 {

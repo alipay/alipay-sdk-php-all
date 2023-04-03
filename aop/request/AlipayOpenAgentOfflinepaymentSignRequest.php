@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.offlinepayment.sign request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:32:20
+ * @since 1.0, 2023-04-03 09:47:01
  */
 class AlipayOpenAgentOfflinepaymentSignRequest
 {

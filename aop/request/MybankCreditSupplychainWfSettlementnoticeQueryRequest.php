@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.settlementnotice.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:30:05
+ * @since 1.0, 2023-04-03 14:24:17
  */
 class MybankCreditSupplychainWfSettlementnoticeQueryRequest
 {

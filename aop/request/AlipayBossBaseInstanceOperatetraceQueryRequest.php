@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.instance.operatetrace.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:05:06
+ * @since 1.0, 2023-04-03 13:34:39
  */
 class AlipayBossBaseInstanceOperatetraceQueryRequest
 {

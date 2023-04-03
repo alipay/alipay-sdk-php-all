@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.merchant.tmall.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:49:21
+ * @since 1.0, 2023-04-03 16:46:10
  */
 class KoubeiCateringMerchantTmallSyncRequest
 {

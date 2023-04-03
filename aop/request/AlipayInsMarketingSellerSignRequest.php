@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.marketing.seller.sign request
  *
  * @author auto create
- * @since 1.0, 2019-08-26 16:45:15
+ * @since 1.0, 2023-04-03 06:27:59
  */
 class AlipayInsMarketingSellerSignRequest
 {

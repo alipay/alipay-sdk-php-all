@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.shopcode.applyorder.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:20:03
+ * @since 1.0, 2023-04-03 07:54:26
  */
 class AlipayMerchantShopcodeApplyorderBatchqueryRequest
 {

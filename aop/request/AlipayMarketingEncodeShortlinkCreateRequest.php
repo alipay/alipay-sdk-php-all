@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.encode.shortlink.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:06:22
+ * @since 1.0, 2023-04-03 13:10:33
  */
 class AlipayMarketingEncodeShortlinkCreateRequest
 {

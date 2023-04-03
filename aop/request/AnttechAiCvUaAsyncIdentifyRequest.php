@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.ai.cv.ua.async.identify request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:52:17
+ * @since 1.0, 2023-04-03 14:18:09
  */
 class AnttechAiCvUaAsyncIdentifyRequest
 {

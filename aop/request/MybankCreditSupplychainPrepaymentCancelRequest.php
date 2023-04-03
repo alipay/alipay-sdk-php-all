@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.prepayment.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:27:41
+ * @since 1.0, 2023-04-03 09:07:22
  */
 class MybankCreditSupplychainPrepaymentCancelRequest
 {

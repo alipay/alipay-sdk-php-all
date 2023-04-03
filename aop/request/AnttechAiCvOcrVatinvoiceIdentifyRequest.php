@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.ai.cv.ocr.vatinvoice.identify request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:29:17
+ * @since 1.0, 2023-04-03 06:49:39
  */
 class AnttechAiCvOcrVatinvoiceIdentifyRequest
 {

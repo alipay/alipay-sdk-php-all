@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.preorderquote.refresh request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 22:01:52
+ * @since 1.0, 2023-04-03 01:47:10
  */
 class AlipayInsSceneEcommercePreorderquoteRefreshRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.mindv.snapshot.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:17:47
+ * @since 1.0, 2023-04-03 16:31:24
  */
 class AlipayIserviceMindvSnapshotQueryRequest
 {

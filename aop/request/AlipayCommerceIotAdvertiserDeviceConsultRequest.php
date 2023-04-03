@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.advertiser.device.consult request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:38:10
+ * @since 1.0, 2023-04-03 14:25:43
  */
 class AlipayCommerceIotAdvertiserDeviceConsultRequest
 {

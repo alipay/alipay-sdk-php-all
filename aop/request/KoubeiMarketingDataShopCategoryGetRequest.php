@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.data.shop.category.get request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:01:57
+ * @since 1.0, 2023-04-03 04:50:11
  */
 class KoubeiMarketingDataShopCategoryGetRequest
 {

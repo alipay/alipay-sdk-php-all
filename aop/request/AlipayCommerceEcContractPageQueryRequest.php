@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.contract.page.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-28 17:51:41
+ * @since 1.0, 2023-04-03 03:16:42
  */
 class AlipayCommerceEcContractPageQueryRequest
 {

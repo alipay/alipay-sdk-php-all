@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.sales.kbasset.stuff.produceqrcode.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:40:18
+ * @since 1.0, 2023-04-03 15:12:24
  */
 class KoubeiSalesKbassetStuffProduceqrcodeBatchqueryRequest
 {

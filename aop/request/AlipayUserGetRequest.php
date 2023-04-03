@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.get request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 22:16:43
+ * @since 1.0, 2023-04-03 08:11:57
  */
 class AlipayUserGetRequest
 {

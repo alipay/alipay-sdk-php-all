@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.content.community.segment.realtime.save request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:49:20
+ * @since 1.0, 2023-04-03 03:57:55
  */
 class AntfortuneContentCommunitySegmentRealtimeSaveRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.product.sign.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 22:01:44
+ * @since 1.0, 2023-04-03 06:41:50
  */
 class AlipayInsSceneProductSignQueryRequest
 {

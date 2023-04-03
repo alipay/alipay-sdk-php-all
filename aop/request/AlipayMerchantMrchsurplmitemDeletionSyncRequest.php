@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.mrchsurplmitem.deletion.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:48:01
+ * @since 1.0, 2023-04-03 05:55:24
  */
 class AlipayMerchantMrchsurplmitemDeletionSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.antest.task.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 17:26:24
+ * @since 1.0, 2023-04-03 14:07:26
  */
 class AlipayCommerceAntestTaskCancelRequest
 {

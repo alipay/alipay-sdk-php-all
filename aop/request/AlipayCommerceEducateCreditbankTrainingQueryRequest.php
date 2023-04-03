@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.creditbank.training.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:31:10
+ * @since 1.0, 2023-04-03 14:40:26
  */
 class AlipayCommerceEducateCreditbankTrainingQueryRequest
 {

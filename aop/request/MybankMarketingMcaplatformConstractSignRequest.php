@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.marketing.mcaplatform.constract.sign request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:01:17
+ * @since 1.0, 2023-04-03 03:39:56
  */
 class MybankMarketingMcaplatformConstractSignRequest
 {

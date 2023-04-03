@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.caas.blacklist.consult request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:30:38
+ * @since 1.0, 2023-04-03 16:20:24
  */
 class AlipayFincoreComplianceCaasBlacklistConsultRequest
 {

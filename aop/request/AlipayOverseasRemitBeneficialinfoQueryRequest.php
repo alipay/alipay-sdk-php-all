@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.remit.beneficialinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:04:31
+ * @since 1.0, 2023-04-03 17:21:31
  */
 class AlipayOverseasRemitBeneficialinfoQueryRequest
 {

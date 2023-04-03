@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.lingbalingliu.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:35:20
+ * @since 1.0, 2023-04-03 07:34:26
  */
 class AlipayOpenAppLingbalingliuQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.agent.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:08:38
+ * @since 1.0, 2023-04-03 01:59:50
  */
 class AlipayIserviceCcmAgentQueryRequest
 {

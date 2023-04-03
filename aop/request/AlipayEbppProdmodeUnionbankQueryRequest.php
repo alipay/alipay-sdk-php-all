@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.prodmode.unionbank.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:43:17
+ * @since 1.0, 2023-04-03 10:38:44
  */
 class AlipayEbppProdmodeUnionbankQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.health.drugcatalogue.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:33:16
+ * @since 1.0, 2023-04-03 15:34:25
  */
 class AlipayInsSceneHealthDrugcatalogueBatchqueryRequest
 {

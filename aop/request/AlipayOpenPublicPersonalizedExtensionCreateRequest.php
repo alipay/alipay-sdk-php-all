@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.personalized.extension.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:28:23
+ * @since 1.0, 2023-04-03 10:14:55
  */
 class AlipayOpenPublicPersonalizedExtensionCreateRequest
 {

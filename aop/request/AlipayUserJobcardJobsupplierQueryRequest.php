@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.jobcard.jobsupplier.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:04:28
+ * @since 1.0, 2023-04-03 16:15:09
  */
 class AlipayUserJobcardJobsupplierQueryRequest
 {

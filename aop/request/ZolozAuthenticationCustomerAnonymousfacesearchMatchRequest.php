@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.authentication.customer.anonymousfacesearch.match request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:23:04
+ * @since 1.0, 2023-04-03 11:37:11
  */
 class ZolozAuthenticationCustomerAnonymousfacesearchMatchRequest
 {

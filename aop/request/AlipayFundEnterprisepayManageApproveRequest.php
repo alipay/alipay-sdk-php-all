@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.enterprisepay.manage.approve request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:41:42
+ * @since 1.0, 2023-04-03 09:16:45
  */
 class AlipayFundEnterprisepayManageApproveRequest
 {

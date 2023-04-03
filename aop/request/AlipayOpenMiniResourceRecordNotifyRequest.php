@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.resource.record.notify request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:13:53
+ * @since 1.0, 2023-04-03 05:30:29
  */
 class AlipayOpenMiniResourceRecordNotifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.eprint.printer.delete request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:15:48
+ * @since 1.0, 2023-04-03 05:41:06
  */
 class AlipayEcoEprintPrinterDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.content.analyze.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:01:41
+ * @since 1.0, 2023-04-03 00:26:46
  */
 class AlipaySecurityRiskContentAnalyzeSyncRequest
 {

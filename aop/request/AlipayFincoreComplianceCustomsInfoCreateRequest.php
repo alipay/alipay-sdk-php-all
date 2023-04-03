@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.customs.info.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 13:46:42
+ * @since 1.0, 2023-04-03 16:06:45
  */
 class AlipayFincoreComplianceCustomsInfoCreateRequest
 {

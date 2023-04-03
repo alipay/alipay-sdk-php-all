@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.jobworth.course.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-28 20:31:40
+ * @since 1.0, 2023-04-03 06:11:42
  */
 class ZhimaCustomerJobworthCourseCreateRequest
 {

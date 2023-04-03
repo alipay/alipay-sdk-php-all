@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.printer.token.get request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:41:59
+ * @since 1.0, 2023-04-03 05:57:37
  */
 class AlipayDataPrinterTokenGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trust.user.report.get request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:48:50
+ * @since 1.0, 2023-04-03 17:27:57
  */
 class AlipayTrustUserReportGetRequest
 {

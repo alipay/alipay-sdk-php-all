@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.price.task.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:14:27
+ * @since 1.0, 2023-04-03 10:11:03
  */
 class AlipayBossFncPriceTaskCreateRequest
 {

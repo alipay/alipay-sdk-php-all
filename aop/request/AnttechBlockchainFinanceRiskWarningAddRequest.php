@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.risk.warning.add request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:58:59
+ * @since 1.0, 2023-04-03 09:47:30
  */
 class AnttechBlockchainFinanceRiskWarningAddRequest
 {

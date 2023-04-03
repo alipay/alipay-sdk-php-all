@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.mall.circle.recommenditem.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:56:55
+ * @since 1.0, 2023-04-03 06:29:03
  */
 class KoubeiMallCircleRecommenditemQueryRequest
 {

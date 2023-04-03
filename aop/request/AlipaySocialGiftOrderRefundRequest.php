@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.gift.order.refund request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 22:38:08
+ * @since 1.0, 2023-04-03 03:23:59
  */
 class AlipaySocialGiftOrderRefundRequest
 {

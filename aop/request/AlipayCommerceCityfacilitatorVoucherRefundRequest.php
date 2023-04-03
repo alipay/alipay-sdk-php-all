@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.refund request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:24:00
+ * @since 1.0, 2023-04-03 00:30:47
  */
 class AlipayCommerceCityfacilitatorVoucherRefundRequest
 {

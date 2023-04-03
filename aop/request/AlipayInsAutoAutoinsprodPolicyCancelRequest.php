@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.autoinsprod.policy.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:52:14
+ * @since 1.0, 2023-04-03 07:20:25
  */
 class AlipayInsAutoAutoinsprodPolicyCancelRequest
 {

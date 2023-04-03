@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.inspect.notify request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 02:30:51
+ * @since 1.0, 2023-04-03 15:51:50
  */
 class AlipayEbppInspectNotifyRequest
 {

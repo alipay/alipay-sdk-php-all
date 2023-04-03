@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.hoteldevice.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:46:53
+ * @since 1.0, 2023-04-03 02:31:29
  */
 class AlipayOpenIotmbsHoteldeviceQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.limitamount.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:56:27
+ * @since 1.0, 2023-04-03 06:39:13
  */
 class MybankCreditSupplychainWfLimitamountQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.data.dashboard.apply request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 04:05:38
+ * @since 1.0, 2023-04-03 17:00:43
  */
 class AlipayMarketingDataDashboardApplyRequest
 {

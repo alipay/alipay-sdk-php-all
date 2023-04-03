@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antstarship.share.accept request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:31:39
+ * @since 1.0, 2023-04-03 04:26:43
  */
 class AlipayUserAntstarshipShareAcceptRequest
 {

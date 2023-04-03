@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.zmgo.template.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:56:12
+ * @since 1.0, 2023-04-03 14:01:12
  */
 class ZhimaMerchantZmgoTemplateQueryRequest
 {

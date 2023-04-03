@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.premium.pay.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:05:48
+ * @since 1.0, 2023-04-03 11:15:45
  */
 class AlipayInsScenePremiumPaySyncRequest
 {

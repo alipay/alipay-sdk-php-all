@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.pass.instance.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 20:38:43
+ * @since 1.0, 2023-04-03 12:37:47
  */
 class AlipayMarketingPassInstanceQueryRequest
 {

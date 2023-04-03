@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.relation.tradedetail.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:20:38
+ * @since 1.0, 2023-04-03 15:38:47
  */
 class AlipayBusinessRelationTradedetailBatchqueryRequest
 {

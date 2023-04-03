@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.pdeduct.sign.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 20:06:42
+ * @since 1.0, 2023-04-03 13:26:45
  */
 class AlipayEbppPdeductSignConfirmRequest
 {

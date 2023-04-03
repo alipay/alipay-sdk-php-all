@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.prizepool.prize.create request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:57:46
+ * @since 1.0, 2023-04-03 02:49:00
  */
 class AlipayMarketingCampaignPrizepoolPrizeCreateRequest
 {

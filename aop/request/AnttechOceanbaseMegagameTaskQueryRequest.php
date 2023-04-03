@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.megagame.task.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 07:02:18
+ * @since 1.0, 2023-04-03 09:48:57
  */
 class AnttechOceanbaseMegagameTaskQueryRequest
 {

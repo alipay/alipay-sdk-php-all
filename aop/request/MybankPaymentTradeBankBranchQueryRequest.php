@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.bank.branch.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:02:00
+ * @since 1.0, 2023-04-03 16:59:21
  */
 class MybankPaymentTradeBankBranchQueryRequest
 {

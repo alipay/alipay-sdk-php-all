@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.autocheck.task.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 21:36:44
+ * @since 1.0, 2023-04-03 16:21:50
  */
 class AlipayOpenMiniAutocheckTaskQueryRequest
 {

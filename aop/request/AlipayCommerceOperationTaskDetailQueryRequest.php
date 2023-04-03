@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.task.detail.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:51:54
+ * @since 1.0, 2023-04-03 07:28:03
  */
 class AlipayCommerceOperationTaskDetailQueryRequest
 {

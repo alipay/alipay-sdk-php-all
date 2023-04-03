@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.exrate.sentiment.data.send request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 16:46:58
+ * @since 1.0, 2023-04-03 06:56:06
  */
 class AlipayAccountExrateSentimentDataSendRequest
 {

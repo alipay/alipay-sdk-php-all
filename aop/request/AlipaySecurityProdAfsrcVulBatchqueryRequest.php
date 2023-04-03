@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.afsrc.vul.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:56:41
+ * @since 1.0, 2023-04-03 01:02:36
  */
 class AlipaySecurityProdAfsrcVulBatchqueryRequest
 {

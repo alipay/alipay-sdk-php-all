@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.order.refund.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:18:55
+ * @since 1.0, 2023-04-03 03:28:08
  */
 class AlipayBusinessOrderRefundQueryRequest
 {

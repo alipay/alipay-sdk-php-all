@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.jobcard.apply.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:04:05
+ * @since 1.0, 2023-04-03 15:37:32
  */
 class AlipayUserJobcardApplySyncRequest
 {

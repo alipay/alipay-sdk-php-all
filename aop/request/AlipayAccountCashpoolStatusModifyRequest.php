@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.cashpool.status.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 16:46:19
+ * @since 1.0, 2023-04-03 11:03:10
  */
 class AlipayAccountCashpoolStatusModifyRequest
 {

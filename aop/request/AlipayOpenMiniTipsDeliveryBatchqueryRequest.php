@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.tips.delivery.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 05:15:32
+ * @since 1.0, 2023-04-03 04:36:21
  */
 class AlipayOpenMiniTipsDeliveryBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.customer.mappedid.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 06:53:01
+ * @since 1.0, 2023-04-03 00:57:49
  */
 class AnttechBlockchainDefinCustomerMappedidQueryRequest
 {

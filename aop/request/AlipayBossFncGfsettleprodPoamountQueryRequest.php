@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.poamount.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:11:57
+ * @since 1.0, 2023-04-03 05:37:27
  */
 class AlipayBossFncGfsettleprodPoamountQueryRequest
 {

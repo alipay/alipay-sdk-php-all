@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.marketing.campaign.bkpromosceneorder.point.refund request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 08:00:55
+ * @since 1.0, 2023-04-03 00:36:57
  */
 class MybankMarketingCampaignBkpromosceneorderPointRefundRequest
 {

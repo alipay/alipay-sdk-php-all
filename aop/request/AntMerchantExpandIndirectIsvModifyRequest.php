@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.indirect.isv.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 23:14:59
+ * @since 1.0, 2023-04-03 07:42:06
  */
 class AntMerchantExpandIndirectIsvModifyRequest
 {

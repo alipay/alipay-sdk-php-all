@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.authenticate.campuscard.delete request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 17:33:16
+ * @since 1.0, 2023-04-03 11:27:06
  */
 class AlipayCommerceEducateAuthenticateCampuscardDeleteRequest
 {

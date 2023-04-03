@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.iotdata.textdifference.bai.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 18:41:26
+ * @since 1.0, 2023-04-03 13:03:32
  */
 class AlipayDataIotdataTextdifferenceBaiQueryRequest
 {

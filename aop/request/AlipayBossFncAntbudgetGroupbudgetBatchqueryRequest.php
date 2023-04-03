@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.antbudget.groupbudget.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 01:11:39
+ * @since 1.0, 2023-04-03 17:31:46
  */
 class AlipayBossFncAntbudgetGroupbudgetBatchqueryRequest
 {

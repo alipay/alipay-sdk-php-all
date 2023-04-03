@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.contract.common.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 00:52:02
+ * @since 1.0, 2023-04-03 14:50:33
  */
 class ZhimaMerchantContractCommonConfirmRequest
 {

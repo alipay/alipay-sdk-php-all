@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.promo.ticket.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-12 19:23:56
+ * @since 1.0, 2023-04-03 06:28:23
  */
 class AlipayEcoMycarPromoTicketSyncRequest
 {

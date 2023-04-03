@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.enterpriseconsume.consume.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 22:11:08
+ * @since 1.0, 2023-04-03 14:39:51
  */
 class AlipayEbppInvoiceEnterpriseconsumeConsumeBatchqueryRequest
 {

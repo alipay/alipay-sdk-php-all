@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.zcardprod.user.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-03-22 16:46:41
+ * @since 1.0, 2023-04-03 03:46:41
  */
 class AlipayFundZcardprodUserUnbindRequest
 {
