@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.open.app.item.delete request
+ * ALIPAY API: alipay.merchant.indirect.reward.apply request
  *
  * @author auto create
  * @since 1.0, 2023-04-04 13:46:43
  */
-class AlipayOpenAppItemDeleteRequest
+class AlipayMerchantIndirectRewardApplyRequest
 {
 	/** 
-	 * 小程序商品删除接口
+	 * 间连营销活动奖品申领
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOpenAppItemDeleteRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.open.app.item.delete";
+		return "alipay.merchant.indirect.reward.apply";
 	}
 
 	public function setNotifyUrl($notifyUrl)
