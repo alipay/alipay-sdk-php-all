@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.open.mini.order.delivery.send request
+ * ALIPAY API: alipay.open.mini.order.refund request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 17:31:42
+ * @since 1.0, 2023-04-06 21:06:43
  */
-class AlipayOpenMiniOrderDeliverySendRequest
+class AlipayOpenMiniOrderRefundRequest
 {
 	/** 
-	 * 订单发货
+	 * 交易组件订单退款接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOpenMiniOrderDeliverySendRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.open.mini.order.delivery.send";
+		return "alipay.open.mini.order.refund";
 	}
 
 	public function setNotifyUrl($notifyUrl)

@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.open.mini.order.delivery.send request
+ * ALIPAY API: alipay.open.app.openid.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 17:31:42
+ * @since 1.0, 2023-04-07 10:11:45
  */
-class AlipayOpenMiniOrderDeliverySendRequest
+class AlipayOpenAppOpenidBatchqueryRequest
 {
 	/** 
-	 * 订单发货
+	 * 根据支付宝用户ID批量获取用户OpenId和UnionId
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOpenMiniOrderDeliverySendRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.open.mini.order.delivery.send";
+		return "alipay.open.app.openid.batchquery";
 	}
 
 	public function setNotifyUrl($notifyUrl)

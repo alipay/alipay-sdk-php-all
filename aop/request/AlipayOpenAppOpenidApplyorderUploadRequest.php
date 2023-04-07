@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.open.mini.order.delivery.send request
+ * ALIPAY API: alipay.open.app.openid.applyorder.upload request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 17:31:42
+ * @since 1.0, 2023-04-07 10:16:43
  */
-class AlipayOpenMiniOrderDeliverySendRequest
+class AlipayOpenAppOpenidApplyorderUploadRequest
 {
 	/** 
-	 * 订单发货
+	 * 批量上传用户ID到OpenID转换工单
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOpenMiniOrderDeliverySendRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.open.mini.order.delivery.send";
+		return "alipay.open.app.openid.applyorder.upload";
 	}
 
 	public function setNotifyUrl($notifyUrl)

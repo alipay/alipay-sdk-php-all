@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.open.mini.order.delivery.send request
+ * ALIPAY API: alipay.commerce.bizinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 17:31:42
+ * @since 1.0, 2023-04-06 14:26:45
  */
-class AlipayOpenMiniOrderDeliverySendRequest
+class AlipayCommerceBizinfoSyncRequest
 {
 	/** 
-	 * 订单发货
+	 * 资讯同步接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOpenMiniOrderDeliverySendRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.open.mini.order.delivery.send";
+		return "alipay.commerce.bizinfo.sync";
 	}
 
 	public function setNotifyUrl($notifyUrl)

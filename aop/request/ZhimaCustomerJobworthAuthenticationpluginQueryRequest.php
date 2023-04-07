@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.open.mini.order.delivery.send request
+ * ALIPAY API: zhima.customer.jobworth.authenticationplugin.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 17:31:42
+ * @since 1.0, 2023-04-07 11:41:43
  */
-class AlipayOpenMiniOrderDeliverySendRequest
+class ZhimaCustomerJobworthAuthenticationpluginQueryRequest
 {
 	/** 
-	 * 订单发货
+	 * 职业身份验真插件初始化
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOpenMiniOrderDeliverySendRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.open.mini.order.delivery.send";
+		return "zhima.customer.jobworth.authenticationplugin.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

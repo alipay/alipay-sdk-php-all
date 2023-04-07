@@ -1,16 +1,12 @@
 <?php
 /**
- * ALIPAY API: alipay.open.mini.order.delivery.send request
+ * ALIPAY API: alipay.data.mda.maptorchroute.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 17:31:42
+ * @since 1.0, 2023-04-07 11:51:42
  */
-class AlipayOpenMiniOrderDeliverySendRequest
+class AlipayDataMdaMaptorchrouteQueryRequest
 {
-	/** 
-	 * 订单发货
-	 **/
-	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -22,20 +18,9 @@ class AlipayOpenMiniOrderDeliverySendRequest
     private $needEncrypt=false;
 
 	
-	public function setBizContent($bizContent)
-	{
-		$this->bizContent = $bizContent;
-		$this->apiParas["biz_content"] = $bizContent;
-	}
-
-	public function getBizContent()
-	{
-		return $this->bizContent;
-	}
-
 	public function getApiMethodName()
 	{
-		return "alipay.open.mini.order.delivery.send";
+		return "alipay.data.mda.maptorchroute.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

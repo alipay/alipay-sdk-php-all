@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.open.mini.order.delivery.send request
+ * ALIPAY API: alipay.ins.scene.ecommerce.homedeliverylink.auth request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 17:31:42
+ * @since 1.0, 2023-04-06 16:06:42
  */
-class AlipayOpenMiniOrderDeliverySendRequest
+class AlipayInsSceneEcommerceHomedeliverylinkAuthRequest
 {
 	/** 
-	 * 订单发货
+	 * 获取上门寄件链接接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOpenMiniOrderDeliverySendRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.open.mini.order.delivery.send";
+		return "alipay.ins.scene.ecommerce.homedeliverylink.auth";
 	}
 
 	public function setNotifyUrl($notifyUrl)

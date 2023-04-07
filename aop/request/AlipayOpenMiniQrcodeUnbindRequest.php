@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.qrcode.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:24:04
+ * @since 1.0, 2023-04-06 19:41:43
  */
 class AlipayOpenMiniQrcodeUnbindRequest
 {

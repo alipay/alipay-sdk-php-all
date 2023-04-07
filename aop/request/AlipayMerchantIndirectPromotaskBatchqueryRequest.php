@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.open.mini.order.delivery.send request
+ * ALIPAY API: alipay.merchant.indirect.promotask.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 17:31:42
+ * @since 1.0, 2023-04-06 13:41:43
  */
-class AlipayOpenMiniOrderDeliverySendRequest
+class AlipayMerchantIndirectPromotaskBatchqueryRequest
 {
 	/** 
-	 * 订单发货
+	 * 间连营销任务列表查询
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOpenMiniOrderDeliverySendRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.open.mini.order.delivery.send";
+		return "alipay.merchant.indirect.promotask.batchquery";
 	}
 
 	public function setNotifyUrl($notifyUrl)
