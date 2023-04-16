@@ -1,6 +1,6 @@
 # 支付宝开放平台服务端SDK FOR PHP
 
-Alipay SDK for PHP，SDK可以自动帮您满足能力调用过程中所需的证书校验、加签、验签、发送HTTP请求等非功能性要求。
+Alipay SDK for PHP SDK可以自动帮您满足能力调用过程中所需的证书校验、加签、验签、发送HTTP请求等非功能性要求。
 
 支付宝目前提供 [v2](v2/README.md)、[v3](v3/README.md) 两个版本SDK，根据您的习惯自由选择。
 
