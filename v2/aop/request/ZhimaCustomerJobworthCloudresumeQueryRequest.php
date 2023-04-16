@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.jobworth.cloudresume.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 18:28:18
+ * @since 1.0, 2023-04-12 14:12:47
  */
 class ZhimaCustomerJobworthCloudresumeQueryRequest
 {

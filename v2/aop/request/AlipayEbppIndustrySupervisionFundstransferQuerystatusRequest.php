@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.supervision.fundstransfer.querystatus request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:46:45
+ * @since 1.0, 2023-04-07 21:56:42
  */
 class AlipayEbppIndustrySupervisionFundstransferQuerystatusRequest
 {

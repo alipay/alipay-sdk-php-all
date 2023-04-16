@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.campus.institutions.add request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:09:21
+ * @since 1.0, 2023-04-12 10:57:53
  */
 class AlipayCommerceEducateCampusInstitutionsAddRequest
 {

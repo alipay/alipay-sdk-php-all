@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.permission.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-07 11:49:47
+ * @since 1.0, 2023-04-07 21:11:42
  */
 class AlipayUserAgreementPermissionCreateRequest
 {

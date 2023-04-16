@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.pay.ar.sign request
  *
  * @author auto create
- * @since 1.0, 2023-01-12 14:24:25
+ * @since 1.0, 2023-04-11 17:41:46
  */
 class MybankCreditLoantradePayArSignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.mda.maplineinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 16:46:44
+ * @since 1.0, 2023-04-11 15:00:54
  */
 class AlipayDataMdaMaplineinfoQueryRequest
 {

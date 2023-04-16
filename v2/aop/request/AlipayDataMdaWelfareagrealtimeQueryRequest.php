@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.mda.welfareagrealtime.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 16:41:43
+ * @since 1.0, 2023-04-11 15:01:33
  */
 class AlipayDataMdaWelfareagrealtimeQueryRequest
 {
