@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.setintentiondata.set request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 11:53:38
+ * @since 1.0, 2023-05-04 19:59:51
  */
 class AlipayOpenMiniSetintentiondataSetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.cloudbus.resource.upload request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:02:32
+ * @since 1.0, 2023-05-04 19:16:05
  */
 class AlipayDataAiserviceCloudbusResourceUploadRequest
 {

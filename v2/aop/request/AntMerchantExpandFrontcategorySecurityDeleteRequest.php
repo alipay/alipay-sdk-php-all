@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.frontcategory.security.delete request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:50:28
+ * @since 1.0, 2023-05-05 03:04:47
  */
 class AntMerchantExpandFrontcategorySecurityDeleteRequest
 {

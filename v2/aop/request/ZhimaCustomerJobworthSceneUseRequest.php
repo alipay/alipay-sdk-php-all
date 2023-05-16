@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.jobworth.scene.use request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:34:13
+ * @since 1.0, 2023-05-05 09:19:27
  */
 class ZhimaCustomerJobworthSceneUseRequest
 {

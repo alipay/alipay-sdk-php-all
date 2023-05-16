@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.order.bill.apply request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:57:31
+ * @since 1.0, 2023-05-04 20:22:57
  */
 class KoubeiCateringOrderBillApplyRequest
 {

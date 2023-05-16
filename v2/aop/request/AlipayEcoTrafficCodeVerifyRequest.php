@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.traffic.code.verify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 15:52:15
+ * @since 1.0, 2023-05-04 21:40:34
  */
 class AlipayEcoTrafficCodeVerifyRequest
 {

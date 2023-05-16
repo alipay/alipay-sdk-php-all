@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.codec.acode.decode.use request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:46:10
+ * @since 1.0, 2023-05-05 03:59:36
  */
 class AlipayPayCodecAcodeDecodeUseRequest
 {

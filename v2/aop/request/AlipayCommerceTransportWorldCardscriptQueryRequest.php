@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.world.cardscript.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:14:13
+ * @since 1.0, 2023-05-04 22:19:50
  */
 class AlipayCommerceTransportWorldCardscriptQueryRequest
 {

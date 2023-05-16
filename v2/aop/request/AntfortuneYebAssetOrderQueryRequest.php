@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.yeb.asset.order.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 15:06:45
+ * @since 1.0, 2023-05-04 17:11:49
  */
 class AntfortuneYebAssetOrderQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.isv.order.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 11:06:47
+ * @since 1.0, 2023-05-05 03:41:56
  */
 class AlipayCommerceOperationIsvOrderSyncRequest
 {

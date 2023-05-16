@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.promotepage.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 11:22:02
+ * @since 1.0, 2023-05-04 15:46:52
  */
 class AlipayDataDataserviceAdPromotepageBatchqueryRequest
 {

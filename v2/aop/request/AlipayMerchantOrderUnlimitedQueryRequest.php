@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.order.unlimited.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:54:38
+ * @since 1.0, 2023-05-04 22:15:15
  */
 class AlipayMerchantOrderUnlimitedQueryRequest
 {

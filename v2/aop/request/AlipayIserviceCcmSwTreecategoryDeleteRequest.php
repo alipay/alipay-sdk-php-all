@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.sw.treecategory.delete request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 18:46:48
+ * @since 1.0, 2023-05-04 19:47:00
  */
 class AlipayIserviceCcmSwTreecategoryDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.rate.currency.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:38:44
+ * @since 1.0, 2023-05-05 09:06:10
  */
 class AlipayOverseasTravelRateCurrencyBatchqueryRequest
 {

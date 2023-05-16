@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.process.instance.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:03:29
+ * @since 1.0, 2023-05-04 23:16:21
  */
 class AlipayBossBaseProcessInstanceCancelRequest
 {

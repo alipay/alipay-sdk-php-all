@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.open.school.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 10:41:02
+ * @since 1.0, 2023-05-04 19:19:53
  */
 class AlipayOverseasOpenSchoolQueryRequest
 {

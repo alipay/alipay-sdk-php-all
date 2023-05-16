@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.subsidiaries.apply request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 18:31:55
+ * @since 1.0, 2023-05-04 17:06:56
  */
 class ZhimaMerchantSubsidiariesApplyRequest
 {

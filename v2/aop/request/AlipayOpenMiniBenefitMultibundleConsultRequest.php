@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.benefit.multibundle.consult request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 06:22:53
+ * @since 1.0, 2023-05-05 08:01:11
  */
 class AlipayOpenMiniBenefitMultibundleConsultRequest
 {

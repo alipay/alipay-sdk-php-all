@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.mylogisticfinsys.contract.apply request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:11:56
+ * @since 1.0, 2023-05-05 03:43:02
  */
 class AnttechBlockchainFinanceMylogisticfinsysContractApplyRequest
 {

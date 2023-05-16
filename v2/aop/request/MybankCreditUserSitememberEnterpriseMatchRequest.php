@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.user.sitemember.enterprise.match request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 00:31:28
+ * @since 1.0, 2023-05-05 05:18:04
  */
 class MybankCreditUserSitememberEnterpriseMatchRequest
 {

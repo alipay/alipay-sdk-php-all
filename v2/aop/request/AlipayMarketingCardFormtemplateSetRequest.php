@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.card.formtemplate.set request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 01:41:43
+ * @since 1.0, 2023-05-16 13:53:35
  */
 class AlipayMarketingCardFormtemplateSetRequest
 {

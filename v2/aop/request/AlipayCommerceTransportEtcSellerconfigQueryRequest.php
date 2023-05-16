@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.sellerconfig.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:26:44
+ * @since 1.0, 2023-05-05 04:06:52
  */
 class AlipayCommerceTransportEtcSellerconfigQueryRequest
 {

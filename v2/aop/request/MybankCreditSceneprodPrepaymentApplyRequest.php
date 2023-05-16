@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.sceneprod.prepayment.apply request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 07:07:46
+ * @since 1.0, 2023-05-04 22:23:38
  */
 class MybankCreditSceneprodPrepaymentApplyRequest
 {

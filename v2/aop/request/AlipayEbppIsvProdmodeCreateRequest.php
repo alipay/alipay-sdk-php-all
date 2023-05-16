@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.isv.prodmode.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:04:10
+ * @since 1.0, 2023-05-04 23:26:58
  */
 class AlipayEbppIsvProdmodeCreateRequest
 {

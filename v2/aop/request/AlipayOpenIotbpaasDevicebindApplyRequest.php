@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotbpaas.devicebind.apply request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:59:08
+ * @since 1.0, 2023-05-04 23:37:18
  */
 class AlipayOpenIotbpaasDevicebindApplyRequest
 {

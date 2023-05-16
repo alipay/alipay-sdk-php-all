@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.logistics.express.nonservice.modify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 11:08:12
+ * @since 1.0, 2023-05-04 15:19:38
  */
 class AlipayEcoLogisticsExpressNonserviceModifyRequest
 {

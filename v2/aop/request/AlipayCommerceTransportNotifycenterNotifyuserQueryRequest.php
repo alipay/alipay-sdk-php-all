@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.notifycenter.notifyuser.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:11:48
+ * @since 1.0, 2023-05-04 22:46:59
  */
 class AlipayCommerceTransportNotifycenterNotifyuserQueryRequest
 {

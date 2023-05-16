@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.onecodepass.order.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 10:26:43
+ * @since 1.0, 2023-05-04 20:11:57
  */
 class AlipayEbppIndustryOnecodepassOrderQueryRequest
 {

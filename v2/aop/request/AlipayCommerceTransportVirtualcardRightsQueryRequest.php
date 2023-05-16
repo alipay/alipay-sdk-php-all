@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.virtualcard.rights.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-11 11:11:46
+ * @since 1.0, 2023-05-04 15:31:57
  */
 class AlipayCommerceTransportVirtualcardRightsQueryRequest
 {

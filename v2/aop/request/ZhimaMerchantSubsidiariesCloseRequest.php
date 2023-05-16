@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.subsidiaries.close request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:06:47
+ * @since 1.0, 2023-05-05 03:01:49
  */
 class ZhimaMerchantSubsidiariesCloseRequest
 {

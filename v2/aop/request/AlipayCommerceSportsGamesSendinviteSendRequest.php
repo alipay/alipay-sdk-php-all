@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.games.sendinvite.send request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:31:45
+ * @since 1.0, 2023-05-05 04:26:53
  */
 class AlipayCommerceSportsGamesSendinviteSendRequest
 {

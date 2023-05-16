@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.contract.management.identify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:00:20
+ * @since 1.0, 2023-05-05 00:12:01
  */
 class AlipayBossContractManagementIdentifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.inspetprod.hasprofile.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 07:30:07
+ * @since 1.0, 2023-05-04 17:34:59
  */
 class AlipayInsSceneInspetprodHasprofileBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.service.bundle.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 09:17:44
+ * @since 1.0, 2023-05-05 04:28:34
  */
 class AlipayOpenMiniServiceBundleQueryRequest
 {

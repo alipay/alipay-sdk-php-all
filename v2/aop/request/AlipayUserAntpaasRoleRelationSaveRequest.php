@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antpaas.role.relation.save request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 15:42:14
+ * @since 1.0, 2023-05-04 21:15:50
  */
 class AlipayUserAntpaasRoleRelationSaveRequest
 {

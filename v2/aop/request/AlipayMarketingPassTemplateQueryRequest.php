@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.pass.template.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:19:40
+ * @since 1.0, 2023-05-05 00:52:23
  */
 class AlipayMarketingPassTemplateQueryRequest
 {

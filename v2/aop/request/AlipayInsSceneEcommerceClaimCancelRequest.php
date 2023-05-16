@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.claim.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 06:50:19
+ * @since 1.0, 2023-05-04 17:06:42
  */
 class AlipayInsSceneEcommerceClaimCancelRequest
 {

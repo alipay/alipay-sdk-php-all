@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.address.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:04:00
+ * @since 1.0, 2023-05-05 08:25:29
  */
 class AlipayCommerceIotDeviceAddressQueryRequest
 {

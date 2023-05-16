@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.signatory.info.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:48:06
+ * @since 1.0, 2023-05-04 22:35:15
  */
 class AlipayUserSignatoryInfoQueryRequest
 {

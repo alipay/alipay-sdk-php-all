@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.mall.scanpurchase.preorder.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:01:10
+ * @since 1.0, 2023-05-04 21:06:32
  */
 class KoubeiMallScanpurchasePreorderQueryRequest
 {

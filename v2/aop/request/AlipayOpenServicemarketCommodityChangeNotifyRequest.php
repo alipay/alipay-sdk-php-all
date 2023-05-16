@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.commodity.change.notify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 00:50:34
+ * @since 1.0, 2023-05-04 18:30:17
  */
 class AlipayOpenServicemarketCommodityChangeNotifyRequest
 {

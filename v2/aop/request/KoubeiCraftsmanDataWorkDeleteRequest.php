@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.craftsman.data.work.delete request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:19:39
+ * @since 1.0, 2023-05-05 03:28:14
  */
 class KoubeiCraftsmanDataWorkDeleteRequest
 {

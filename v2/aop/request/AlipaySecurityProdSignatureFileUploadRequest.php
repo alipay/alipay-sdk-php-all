@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.signature.file.upload request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:44:24
+ * @since 1.0, 2023-05-05 06:48:48
  */
 class AlipaySecurityProdSignatureFileUploadRequest
 {

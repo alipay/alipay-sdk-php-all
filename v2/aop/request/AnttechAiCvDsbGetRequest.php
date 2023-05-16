@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.ai.cv.dsb.get request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:48:55
+ * @since 1.0, 2023-05-04 21:52:48
  */
 class AnttechAiCvDsbGetRequest
 {

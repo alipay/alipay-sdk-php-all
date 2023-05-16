@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.identification.customer.blacklist.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:08:21
+ * @since 1.0, 2023-05-04 15:12:37
  */
 class ZolozIdentificationCustomerBlacklistQueryRequest
 {

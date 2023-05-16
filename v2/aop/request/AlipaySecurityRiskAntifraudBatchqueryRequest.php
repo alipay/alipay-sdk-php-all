@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.antifraud.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:58:47
+ * @since 1.0, 2023-05-04 16:37:58
  */
 class AlipaySecurityRiskAntifraudBatchqueryRequest
 {

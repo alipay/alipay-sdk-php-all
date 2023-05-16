@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.employment.event.send request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 11:50:48
+ * @since 1.0, 2023-04-25 08:33:17
  */
 class AlipayInsSceneEmploymentEventSendRequest
 {

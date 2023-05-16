@@ -3,7 +3,7 @@
  * ALIPAY API: ssdata.dataservice.testaaa.send request
  *
  * @author auto create
- * @since 1.0, 2023-04-04 14:24:21
+ * @since 1.0, 2023-04-28 10:23:49
  */
 class SsdataDataserviceTestaaaSendRequest
 {

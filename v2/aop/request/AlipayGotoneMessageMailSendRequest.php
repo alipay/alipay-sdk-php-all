@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.gotone.message.mail.send request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:36:44
+ * @since 1.0, 2023-05-04 22:26:49
  */
 class AlipayGotoneMessageMailSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.ordervoucher.invalid request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:32:28
+ * @since 1.0, 2023-05-05 03:53:57
  */
 class AlipayMarketingActivityOrdervoucherInvalidRequest
 {

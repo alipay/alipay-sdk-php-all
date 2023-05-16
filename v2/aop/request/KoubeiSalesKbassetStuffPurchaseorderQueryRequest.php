@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.sales.kbasset.stuff.purchaseorder.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:06:18
+ * @since 1.0, 2023-05-04 17:51:41
  */
 class KoubeiSalesKbassetStuffPurchaseorderQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.approval.modify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:51:46
+ * @since 1.0, 2023-05-09 14:21:54
  */
 class AlipayCommerceEcApprovalModifyRequest
 {

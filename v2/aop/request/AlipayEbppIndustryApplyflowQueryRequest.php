@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.applyflow.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:39:53
+ * @since 1.0, 2023-05-04 21:55:18
  */
 class AlipayEbppIndustryApplyflowQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.content.publish request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:25:33
+ * @since 1.0, 2023-05-04 16:34:48
  */
 class AlipayOpenPublicContentPublishRequest
 {

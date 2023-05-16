@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.shift.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 06:03:12
+ * @since 1.0, 2023-05-04 13:57:38
  */
 class KoubeiCateringPosShiftQueryRequest
 {

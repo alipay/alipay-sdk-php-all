@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.card.auth.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-10 15:16:33
+ * @since 1.0, 2023-05-04 15:35:48
  */
 class AlipayCommerceMedicalCardAuthQueryRequest
 {

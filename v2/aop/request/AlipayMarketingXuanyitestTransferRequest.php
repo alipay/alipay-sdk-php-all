@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.xuanyitest.transfer request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:09:22
+ * @since 1.0, 2023-05-04 15:06:10
  */
 class AlipayMarketingXuanyitestTransferRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.cloud.app.sec.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-06 16:56:41
+ * @since 1.0, 2023-05-05 04:06:51
  */
 class AlipayOpenCloudAppSecCreateRequest
 {

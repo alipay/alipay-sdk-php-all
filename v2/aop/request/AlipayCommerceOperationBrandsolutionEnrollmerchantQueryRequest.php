@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.brandsolution.enrollmerchant.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-12 11:29:46
+ * @since 1.0, 2023-05-04 14:05:26
  */
 class AlipayCommerceOperationBrandsolutionEnrollmerchantQueryRequest
 {

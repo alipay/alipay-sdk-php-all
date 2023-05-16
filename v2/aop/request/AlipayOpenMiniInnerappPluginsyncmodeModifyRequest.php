@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerapp.pluginsyncmode.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:29:42
+ * @since 1.0, 2023-05-05 05:52:22
  */
 class AlipayOpenMiniInnerappPluginsyncmodeModifyRequest
 {

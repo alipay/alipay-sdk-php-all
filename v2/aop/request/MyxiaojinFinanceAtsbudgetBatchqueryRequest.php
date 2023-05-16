@@ -3,7 +3,7 @@
  * ALIPAY API: myxiaojin.finance.atsbudget.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-11 09:46:44
+ * @since 1.0, 2023-05-04 21:41:46
  */
 class MyxiaojinFinanceAtsbudgetBatchqueryRequest
 {

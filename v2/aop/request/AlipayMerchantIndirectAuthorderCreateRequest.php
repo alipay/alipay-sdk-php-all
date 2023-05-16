@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.authorder.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 00:26:43
+ * @since 1.0, 2023-05-04 22:41:46
  */
 class AlipayMerchantIndirectAuthorderCreateRequest
 {

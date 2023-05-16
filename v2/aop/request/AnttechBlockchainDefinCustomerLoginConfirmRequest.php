@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.customer.login.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:17:17
+ * @since 1.0, 2023-05-05 03:16:47
  */
 class AnttechBlockchainDefinCustomerLoginConfirmRequest
 {

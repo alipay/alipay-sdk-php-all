@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.marketing.crowd.wshop.match request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:01:42
+ * @since 1.0, 2023-05-05 00:03:04
  */
 class AntfortuneMarketingCrowdWshopMatchRequest
 {

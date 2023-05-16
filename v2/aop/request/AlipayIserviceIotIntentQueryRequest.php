@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.iot.intent.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:22:53
+ * @since 1.0, 2023-05-04 23:40:25
  */
 class AlipayIserviceIotIntentQueryRequest
 {

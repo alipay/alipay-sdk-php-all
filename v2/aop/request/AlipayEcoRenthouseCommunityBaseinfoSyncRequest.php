@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.renthouse.community.baseinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:23:31
+ * @since 1.0, 2023-05-04 16:52:59
  */
 class AlipayEcoRenthouseCommunityBaseinfoSyncRequest
 {

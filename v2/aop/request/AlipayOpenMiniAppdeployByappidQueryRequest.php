@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.appdeploy.byappid.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 07:57:34
+ * @since 1.0, 2023-05-05 03:33:56
  */
 class AlipayOpenMiniAppdeployByappidQueryRequest
 {

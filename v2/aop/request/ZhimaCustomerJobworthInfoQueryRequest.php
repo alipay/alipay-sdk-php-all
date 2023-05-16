@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.jobworth.info.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:11:44
+ * @since 1.0, 2023-05-05 05:41:49
  */
 class ZhimaCustomerJobworthInfoQueryRequest
 {

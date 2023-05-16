@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.asset.qrcode.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:14:00
+ * @since 1.0, 2023-05-05 02:00:22
  */
 class AntMerchantExpandAssetQrcodeQueryRequest
 {

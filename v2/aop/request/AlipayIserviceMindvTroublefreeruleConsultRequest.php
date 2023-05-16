@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.mindv.troublefreerule.consult request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:58:33
+ * @since 1.0, 2023-05-04 22:07:50
  */
 class AlipayIserviceMindvTroublefreeruleConsultRequest
 {

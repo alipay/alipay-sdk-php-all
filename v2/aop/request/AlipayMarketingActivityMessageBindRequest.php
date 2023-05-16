@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.message.bind request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 10:01:43
+ * @since 1.0, 2023-05-05 04:36:50
  */
 class AlipayMarketingActivityMessageBindRequest
 {

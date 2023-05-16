@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.prizepool.prize.delete request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:01:50
+ * @since 1.0, 2023-05-04 20:13:44
  */
 class AlipayMarketingCampaignPrizepoolPrizeDeleteRequest
 {

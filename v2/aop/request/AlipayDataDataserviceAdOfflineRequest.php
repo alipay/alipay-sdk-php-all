@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.offline request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 10:31:23
+ * @since 1.0, 2023-05-05 07:16:23
  */
 class AlipayDataDataserviceAdOfflineRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.identification.user.web.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 15:26:47
+ * @since 1.0, 2023-05-04 20:56:58
  */
 class ZolozIdentificationUserWebInitializeRequest
 {

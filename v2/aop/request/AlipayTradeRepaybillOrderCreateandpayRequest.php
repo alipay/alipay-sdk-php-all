@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.repaybill.order.createandpay request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:06:43
+ * @since 1.0, 2023-05-05 00:56:58
  */
 class AlipayTradeRepaybillOrderCreateandpayRequest
 {

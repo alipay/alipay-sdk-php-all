@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.schoolservice.bind request
  *
  * @author auto create
- * @since 1.0, 2023-04-12 11:03:18
+ * @since 1.0, 2023-05-05 00:46:31
  */
 class AlipayCommerceEducateSchoolserviceBindRequest
 {

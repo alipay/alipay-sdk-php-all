@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.enterprise.reimburse.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 06:19:45
+ * @since 1.0, 2023-05-05 05:36:27
  */
 class AlipayPcreditHuabeiEnterpriseReimburseQueryRequest
 {

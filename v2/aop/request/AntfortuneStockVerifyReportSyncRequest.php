@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.verify.report.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:19:09
+ * @since 1.0, 2023-05-04 18:02:24
  */
 class AntfortuneStockVerifyReportSyncRequest
 {

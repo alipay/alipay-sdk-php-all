@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.benefitbudget.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 07:41:47
+ * @since 1.0, 2023-05-05 05:26:57
  */
 class AlipayOverseasTravelBenefitbudgetQueryRequest
 {

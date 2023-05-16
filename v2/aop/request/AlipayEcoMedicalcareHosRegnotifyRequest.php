@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.medicalcare.hos.regnotify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 04:42:44
+ * @since 1.0, 2023-05-05 08:53:43
  */
 class AlipayEcoMedicalcareHosRegnotifyRequest
 {

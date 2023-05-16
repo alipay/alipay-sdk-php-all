@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.querycondition.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:28:33
+ * @since 1.0, 2023-05-05 09:09:22
  */
 class AnttechBlockchainQueryconditionQueryRequest
 {

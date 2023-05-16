@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.creditpay.amount.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-11 17:41:47
+ * @since 1.0, 2023-05-05 07:41:57
  */
 class MybankCreditSupplychainCreditpayAmountQueryRequest
 {

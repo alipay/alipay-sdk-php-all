@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.command.receive request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 10:23:03
+ * @since 1.0, 2023-05-04 19:37:22
  */
 class AlipayInsSceneCommandReceiveRequest
 {

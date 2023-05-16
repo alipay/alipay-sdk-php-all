@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.discount.operate request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:33:13
+ * @since 1.0, 2023-05-04 21:00:06
  */
 class AlipayMarketingCampaignDiscountOperateRequest
 {

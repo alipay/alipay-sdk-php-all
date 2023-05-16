@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.zmscore.zrank.get request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 04:01:05
+ * @since 1.0, 2023-05-05 02:08:30
  */
 class AlipayZmscoreZrankGetRequest
 {

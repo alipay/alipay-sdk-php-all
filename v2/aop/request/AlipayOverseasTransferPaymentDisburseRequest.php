@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.transfer.payment.disburse request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 04:49:01
+ * @since 1.0, 2023-05-05 07:29:48
  */
 class AlipayOverseasTransferPaymentDisburseRequest
 {

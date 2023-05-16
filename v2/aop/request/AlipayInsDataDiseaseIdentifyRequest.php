@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.disease.identify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:59:06
+ * @since 1.0, 2023-05-04 23:35:30
  */
 class AlipayInsDataDiseaseIdentifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.operationtask.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:31:50
+ * @since 1.0, 2023-05-05 14:17:50
  */
 class DatadigitalFincloudFinsaasOperationtaskBatchqueryRequest
 {

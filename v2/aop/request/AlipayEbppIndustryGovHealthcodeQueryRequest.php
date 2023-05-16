@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.gov.healthcode.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:01:38
+ * @since 1.0, 2023-05-04 23:19:42
  */
 class AlipayEbppIndustryGovHealthcodeQueryRequest
 {

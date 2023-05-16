@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.miniapp.serviceconfig.modify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 09:57:54
+ * @since 1.0, 2023-05-04 17:06:57
  */
 class AlipayOpenMiniMiniappServiceconfigModifyRequest
 {

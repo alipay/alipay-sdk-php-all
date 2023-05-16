@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.mrchsurplmitem.modification.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:50:37
+ * @since 1.0, 2023-05-04 20:02:07
  */
 class AlipayMerchantMrchsurplmitemModificationSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.rcsmart.qtdialogue.check request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 06:19:31
+ * @since 1.0, 2023-05-05 08:06:30
  */
 class AlipayFincoreComplianceRcsmartQtdialogueCheckRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.institution.scope.modify request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 17:51:45
+ * @since 1.0, 2023-05-10 15:31:47
  */
 class AlipayEbppInvoiceInstitutionScopeModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.order.info.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:15:59
+ * @since 1.0, 2023-05-05 08:25:16
  */
 class KoubeiCateringOrderInfoCreateRequest
 {

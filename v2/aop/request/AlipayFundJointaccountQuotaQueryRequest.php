@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.quota.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:18:45
+ * @since 1.0, 2023-05-05 08:58:31
  */
 class AlipayFundJointaccountQuotaQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.instantdelivery.merchantagreement.sign request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:51:46
+ * @since 1.0, 2023-05-04 21:06:50
  */
 class AlipayOpenInstantdeliveryMerchantagreementSignRequest
 {

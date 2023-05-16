@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.risk.httpproxy.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:47:48
+ * @since 1.0, 2023-05-04 23:20:21
  */
 class AnttechBlockchainRiskHttpproxyQueryRequest
 {

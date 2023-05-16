@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.guarletter.apply.refund request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:40:12
+ * @since 1.0, 2023-05-05 08:41:12
  */
 class MybankCreditLoantradeGuarletterApplyRefundRequest
 {

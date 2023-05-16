@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.zhima.preorder.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:26:45
+ * @since 1.0, 2023-05-05 02:46:53
  */
 class AlipayCommerceZhimaPreorderCreateRequest
 {

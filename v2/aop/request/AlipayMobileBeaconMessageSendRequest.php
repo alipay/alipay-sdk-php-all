@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.beacon.message.send request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 15:26:35
+ * @since 1.0, 2023-05-04 22:45:50
  */
 class AlipayMobileBeaconMessageSendRequest
 {

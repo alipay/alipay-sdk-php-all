@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.autocheck.task.trigger request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:02:01
+ * @since 1.0, 2023-05-04 23:19:16
  */
 class AlipayOpenMiniAutocheckTaskTriggerRequest
 {

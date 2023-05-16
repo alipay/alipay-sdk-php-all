@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.carrental.service.submit request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 06:26:25
+ * @since 1.0, 2023-05-04 19:12:14
  */
 class AlipayCommerceTransportCarrentalServiceSubmitRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.cloud.aoshint.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:31:45
+ * @since 1.0, 2023-05-05 06:06:57
  */
 class AlipayOpenMiniCloudAoshintQueryRequest
 {

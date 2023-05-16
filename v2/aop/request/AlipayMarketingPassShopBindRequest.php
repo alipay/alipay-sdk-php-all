@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.pass.shop.bind request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 09:00:36
+ * @since 1.0, 2023-05-04 14:38:12
  */
 class AlipayMarketingPassShopBindRequest
 {

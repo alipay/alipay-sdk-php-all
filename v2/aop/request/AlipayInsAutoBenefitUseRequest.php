@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.benefit.use request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:26:44
+ * @since 1.0, 2023-05-04 18:46:49
  */
 class AlipayInsAutoBenefitUseRequest
 {

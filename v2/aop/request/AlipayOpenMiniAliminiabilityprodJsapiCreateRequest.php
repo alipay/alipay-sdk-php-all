@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.aliminiabilityprod.jsapi.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:07:53
+ * @since 1.0, 2023-05-04 23:23:05
  */
 class AlipayOpenMiniAliminiabilityprodJsapiCreateRequest
 {

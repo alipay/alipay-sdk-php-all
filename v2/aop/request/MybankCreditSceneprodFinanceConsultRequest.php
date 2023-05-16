@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.sceneprod.finance.consult request
  *
  * @author auto create
- * @since 1.0, 2022-12-08 08:40:01
+ * @since 1.0, 2023-04-27 10:08:58
  */
 class MybankCreditSceneprodFinanceConsultRequest
 {

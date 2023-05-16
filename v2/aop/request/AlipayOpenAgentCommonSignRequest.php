@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.common.sign request
  *
  * @author auto create
- * @since 1.0, 2023-04-12 16:20:56
+ * @since 1.0, 2023-05-09 16:56:48
  */
 class AlipayOpenAgentCommonSignRequest
 {
@@ -48,6 +48,11 @@ class AlipayOpenAgentCommonSignRequest
 	private $dateLimitation;
 	
 	/** 
+	 * 请输入被签约商户的支付宝生活号ID编号
+	 **/
+	private $lifeAppId;
+	
+	/** 
 	 * 营业期限是否长期有效
 	 **/
 	private $longTerm;
@@ -58,9 +63,25 @@ class AlipayOpenAgentCommonSignRequest
 	private $mccCode;
 	
 	/** 
+	 * 请输入被签约商家下任意小程序APPID ID编号
+	 **/
+	private $miniAppId;
+	
+	/** 
+	 * 请上传商家小程序截图信息，最小5KB ，最大5M（暂不限制图片宽高），图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $miniAppScreenshot;
+	
+	/** 
 	 * isv要代商户签约产品码，产品码是支付宝内部对产品的唯一标识
 	 **/
 	private $productCode;
+	
+	/** 
+	 * 服务费率（%），例如：请输入0.38~0.6 之间（小数点后两位，可取0.38%及0.6%），直播买卖通涉及JSAPI支付产品，交易手续费为 0.38%-0.6%，后续费率变化可参考支付宝标准服务费。
+当签约且授权标识 sign_and_auth=true 时，该费率信息必填。
+	 **/
+	private $rate;
 	
 	/** 
 	 * 店铺内景图片，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg。
@@ -77,6 +98,11 @@ class AlipayOpenAgentCommonSignRequest
 <a href="https://opendocs.alipay.com/common/02khjv">商家经营类目</a> 中的“需要的特殊资质证书”。文件最小为 5KB，最大为5M，图片格式必须为：png、bmp、gif、jpg、jpeg。
 	 **/
 	private $specialLicensePic;
+	
+	/** 
+	 * 合约特殊资质的类型，不传默认99
+	 **/
+	private $specialLicenseType;
 	
 	/** 
 	 * 网站首页截图，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg
@@ -221,6 +247,17 @@ class AlipayOpenAgentCommonSignRequest
 		return $this->dateLimitation;
 	}
 
+	public function setLifeAppId($lifeAppId)
+	{
+		$this->lifeAppId = $lifeAppId;
+		$this->apiParas["life_app_id"] = $lifeAppId;
+	}
+
+	public function getLifeAppId()
+	{
+		return $this->lifeAppId;
+	}
+
 	public function setLongTerm($longTerm)
 	{
 		$this->longTerm = $longTerm;
@@ -243,6 +280,28 @@ class AlipayOpenAgentCommonSignRequest
 		return $this->mccCode;
 	}
 
+	public function setMiniAppId($miniAppId)
+	{
+		$this->miniAppId = $miniAppId;
+		$this->apiParas["mini_app_id"] = $miniAppId;
+	}
+
+	public function getMiniAppId()
+	{
+		return $this->miniAppId;
+	}
+
+	public function setMiniAppScreenshot($miniAppScreenshot)
+	{
+		$this->miniAppScreenshot = $miniAppScreenshot;
+		$this->apiParas["mini_app_screenshot"] = $miniAppScreenshot;
+	}
+
+	public function getMiniAppScreenshot()
+	{
+		return $this->miniAppScreenshot;
+	}
+
 	public function setProductCode($productCode)
 	{
 		$this->productCode = $productCode;
@@ -252,6 +311,17 @@ class AlipayOpenAgentCommonSignRequest
 	public function getProductCode()
 	{
 		return $this->productCode;
+	}
+
+	public function setRate($rate)
+	{
+		$this->rate = $rate;
+		$this->apiParas["rate"] = $rate;
+	}
+
+	public function getRate()
+	{
+		return $this->rate;
 	}
 
 	public function setShopScenePic($shopScenePic)
@@ -285,6 +355,17 @@ class AlipayOpenAgentCommonSignRequest
 	public function getSpecialLicensePic()
 	{
 		return $this->specialLicensePic;
+	}
+
+	public function setSpecialLicenseType($specialLicenseType)
+	{
+		$this->specialLicenseType = $specialLicenseType;
+		$this->apiParas["special_license_type"] = $specialLicenseType;
+	}
+
+	public function getSpecialLicenseType()
+	{
+		return $this->specialLicenseType;
 	}
 
 	public function setWebHomeScreenshot($webHomeScreenshot)

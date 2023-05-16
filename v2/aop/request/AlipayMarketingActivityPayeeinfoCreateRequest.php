@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.payeeinfo.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:31:16
+ * @since 1.0, 2023-05-15 14:40:30
  */
 class AlipayMarketingActivityPayeeinfoCreateRequest
 {

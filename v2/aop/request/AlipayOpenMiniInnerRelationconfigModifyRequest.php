@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.inner.relationconfig.modify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:45:38
+ * @since 1.0, 2023-05-05 00:42:55
  */
 class AlipayOpenMiniInnerRelationconfigModifyRequest
 {

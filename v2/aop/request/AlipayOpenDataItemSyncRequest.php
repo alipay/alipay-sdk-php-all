@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.data.item.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:59:54
+ * @since 1.0, 2023-05-04 20:07:53
  */
 class AlipayOpenDataItemSyncRequest
 {

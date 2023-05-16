@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.edumigrate.migrateservice.modify request
  *
  * @author auto create
- * @since 1.0, 2023-04-14 10:13:05
+ * @since 1.0, 2023-05-09 16:11:03
  */
 class AlipayFundTransEdumigrateMigrateserviceModifyRequest
 {

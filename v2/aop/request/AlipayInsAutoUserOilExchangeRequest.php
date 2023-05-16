@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.user.oil.exchange request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:01:25
+ * @since 1.0, 2023-05-04 22:12:05
  */
 class AlipayInsAutoUserOilExchangeRequest
 {

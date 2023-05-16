@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.exrate.advice.accept request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:51:36
+ * @since 1.0, 2023-05-05 04:02:25
  */
 class AlipayAccountExrateAdviceAcceptRequest
 {

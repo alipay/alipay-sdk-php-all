@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.sportshealth.account.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:21:47
+ * @since 1.0, 2023-05-04 14:46:52
  */
 class AlipayUserSportshealthAccountConfirmRequest
 {

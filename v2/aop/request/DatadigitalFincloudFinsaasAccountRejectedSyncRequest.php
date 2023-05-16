@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.account.rejected.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:16:27
+ * @since 1.0, 2023-05-05 05:07:18
  */
 class DatadigitalFincloudFinsaasAccountRejectedSyncRequest
 {

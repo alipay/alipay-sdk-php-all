@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.partner.privilege.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:47:09
+ * @since 1.0, 2023-05-04 18:38:18
  */
 class AlipayUserPartnerPrivilegeSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.data.scenic.mapping.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:35:17
+ * @since 1.0, 2023-05-04 19:46:58
  */
 class AlipayCommerceDataScenicMappingQueryRequest
 {

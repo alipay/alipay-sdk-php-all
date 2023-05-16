@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.user.oil.refund request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 18:56:47
+ * @since 1.0, 2023-05-05 07:51:52
  */
 class AlipayInsAutoUserOilRefundRequest
 {

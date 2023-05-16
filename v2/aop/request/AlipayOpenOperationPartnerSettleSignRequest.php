@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.partner.settle.sign request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:51:44
+ * @since 1.0, 2023-05-05 00:37:21
  */
 class AlipayOpenOperationPartnerSettleSignRequest
 {

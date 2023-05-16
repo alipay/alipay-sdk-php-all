@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.veh.order.refund request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:21:46
+ * @since 1.0, 2023-05-04 21:56:56
  */
 class AlipayCommerceTransportVehOrderRefundRequest
 {

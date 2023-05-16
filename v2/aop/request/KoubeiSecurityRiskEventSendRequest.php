@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.security.risk.event.send request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 18:22:26
+ * @since 1.0, 2023-05-04 20:02:20
  */
 class KoubeiSecurityRiskEventSendRequest
 {

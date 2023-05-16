@@ -3,7 +3,7 @@
  * ALIPAY API: myxiaojin.finance.atsbudget.apply request
  *
  * @author auto create
- * @since 1.0, 2023-04-11 09:46:44
+ * @since 1.0, 2023-05-04 19:25:16
  */
 class MyxiaojinFinanceAtsbudgetApplyRequest
 {

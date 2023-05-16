@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.codec.applepay.establish.set request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 01:07:18
+ * @since 1.0, 2023-05-04 19:20:32
  */
 class AlipayPayCodecApplepayEstablishSetRequest
 {

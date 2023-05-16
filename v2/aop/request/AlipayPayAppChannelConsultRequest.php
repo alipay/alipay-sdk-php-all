@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.channel.consult request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:36:43
+ * @since 1.0, 2023-05-11 14:19:58
  */
 class AlipayPayAppChannelConsultRequest
 {

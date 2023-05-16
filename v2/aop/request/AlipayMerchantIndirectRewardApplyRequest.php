@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.reward.apply request
  *
  * @author auto create
- * @since 1.0, 2023-04-04 13:46:43
+ * @since 1.0, 2023-05-05 08:46:46
  */
 class AlipayMerchantIndirectRewardApplyRequest
 {

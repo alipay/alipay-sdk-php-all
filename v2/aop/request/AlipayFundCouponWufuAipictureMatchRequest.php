@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.coupon.wufu.aipicture.match request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:36:43
+ * @since 1.0, 2023-05-04 14:01:58
  */
 class AlipayFundCouponWufuAipictureMatchRequest
 {

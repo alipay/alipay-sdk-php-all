@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.qrcode.delete request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 06:10:29
+ * @since 1.0, 2023-05-04 13:56:58
  */
 class MybankPaymentTradeQrcodeDeleteRequest
 {

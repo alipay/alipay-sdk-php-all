@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.remit.fund.transfer request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:59:43
+ * @since 1.0, 2023-05-04 15:36:30
  */
 class AlipayOverseasRemitFundTransferRequest
 {

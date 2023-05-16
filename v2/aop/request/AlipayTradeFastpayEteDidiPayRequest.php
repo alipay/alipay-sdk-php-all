@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.fastpay.ete.didi.pay request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:04:19
+ * @since 1.0, 2023-05-04 19:28:24
  */
 class AlipayTradeFastpayEteDidiPayRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.retail.wms.supplierreport.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 11:01:15
+ * @since 1.0, 2023-05-04 15:22:23
  */
 class KoubeiRetailWmsSupplierreportQueryRequest
 {

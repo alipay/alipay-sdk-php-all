@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.renthouse.ka.baseinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:59:50
+ * @since 1.0, 2023-05-04 16:59:00
  */
 class AlipayEcoRenthouseKaBaseinfoQueryRequest
 {

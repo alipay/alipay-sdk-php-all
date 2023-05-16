@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.reservation.shop.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 07:35:44
+ * @since 1.0, 2023-05-04 18:02:10
  */
 class KoubeiServindustryReservationShopUnbindRequest
 {

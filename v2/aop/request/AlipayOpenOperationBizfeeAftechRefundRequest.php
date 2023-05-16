@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.bizfee.aftech.refund request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:29:46
+ * @since 1.0, 2023-05-05 02:11:28
  */
 class AlipayOpenOperationBizfeeAftechRefundRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.afts.cert.identify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:26:47
+ * @since 1.0, 2023-05-05 02:26:56
  */
 class AlipayMsaasMediarecogAftsCertIdentifyRequest
 {

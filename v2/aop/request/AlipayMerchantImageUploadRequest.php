@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.image.upload request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:37:44
+ * @since 1.0, 2023-05-05 01:44:33
  */
 class AlipayMerchantImageUploadRequest
 {

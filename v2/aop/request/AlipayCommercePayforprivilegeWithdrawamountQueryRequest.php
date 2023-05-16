@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.payforprivilege.withdrawamount.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:56:48
+ * @since 1.0, 2023-05-04 18:51:50
  */
 class AlipayCommercePayforprivilegeWithdrawamountQueryRequest
 {

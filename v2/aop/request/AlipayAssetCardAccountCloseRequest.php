@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.asset.card.account.close request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:36:46
+ * @since 1.0, 2023-05-04 22:36:50
  */
 class AlipayAssetCardAccountCloseRequest
 {

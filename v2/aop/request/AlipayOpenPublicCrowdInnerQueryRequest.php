@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.crowd.inner.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 01:33:49
+ * @since 1.0, 2023-05-05 04:29:39
  */
 class AlipayOpenPublicCrowdInnerQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.literesult.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:56:52
+ * @since 1.0, 2023-05-04 19:01:52
  */
 class AlipayMsaasMediarecogMmtcaftscvLiteresultSyncRequest
 {

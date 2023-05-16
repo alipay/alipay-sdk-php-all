@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.mobileapp.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:23:31
+ * @since 1.0, 2023-05-04 17:03:07
  */
 class AlipayOpenMiniAmpeMobileappUnbindRequest
 {

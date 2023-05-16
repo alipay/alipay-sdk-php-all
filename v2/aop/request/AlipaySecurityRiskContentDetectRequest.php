@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.content.detect request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:30:58
+ * @since 1.0, 2023-05-04 18:36:39
  */
 class AlipaySecurityRiskContentDetectRequest
 {

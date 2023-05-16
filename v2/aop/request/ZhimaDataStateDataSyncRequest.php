@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.data.state.data.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:11:45
+ * @since 1.0, 2023-05-04 20:16:58
  */
 class ZhimaDataStateDataSyncRequest
 {

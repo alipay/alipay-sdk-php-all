@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.promotask.take request
  *
  * @author auto create
- * @since 1.0, 2022-11-24 15:21:41
+ * @since 1.0, 2023-05-05 09:01:47
  */
 class AlipayMerchantIndirectPromotaskTakeRequest
 {

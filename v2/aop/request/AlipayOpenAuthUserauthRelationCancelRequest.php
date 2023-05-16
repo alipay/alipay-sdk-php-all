@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.auth.userauth.relation.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 00:16:56
+ * @since 1.0, 2023-05-04 14:45:21
  */
 class AlipayOpenAuthUserauthRelationCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.cashticket.template.modify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:26:32
+ * @since 1.0, 2023-05-04 21:32:36
  */
 class AlipayMarketingCashticketTemplateModifyRequest
 {

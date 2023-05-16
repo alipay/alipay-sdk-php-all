@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.yfx.detail.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-13 03:41:39
+ * @since 1.0, 2023-04-25 20:16:49
  */
 class AlipayInsSceneYfxDetailQueryRequest
 {

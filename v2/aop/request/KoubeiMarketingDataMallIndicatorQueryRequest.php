@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.data.mall.indicator.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 09:21:56
+ * @since 1.0, 2023-05-05 08:09:03
  */
 class KoubeiMarketingDataMallIndicatorQueryRequest
 {

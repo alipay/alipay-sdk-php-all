@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.template.message.get request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:54:56
+ * @since 1.0, 2023-05-04 21:33:08
  */
 class AlipayMobilePublicTemplateMessageGetRequest
 {

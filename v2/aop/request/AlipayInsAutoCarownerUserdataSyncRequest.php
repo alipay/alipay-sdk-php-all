@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.carowner.userdata.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:14:06
+ * @since 1.0, 2023-05-05 04:06:58
  */
 class AlipayInsAutoCarownerUserdataSyncRequest
 {

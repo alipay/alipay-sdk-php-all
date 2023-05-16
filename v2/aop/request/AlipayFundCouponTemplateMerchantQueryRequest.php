@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.coupon.template.merchant.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:11:46
+ * @since 1.0, 2023-05-05 09:22:04
  */
 class AlipayFundCouponTemplateMerchantQueryRequest
 {

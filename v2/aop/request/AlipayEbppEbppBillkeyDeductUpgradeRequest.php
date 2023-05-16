@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.ebpp.billkey.deduct.upgrade request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:11:45
+ * @since 1.0, 2023-05-05 02:06:53
  */
 class AlipayEbppEbppBillkeyDeductUpgradeRequest
 {

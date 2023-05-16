@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.app.upload request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:36:47
+ * @since 1.0, 2023-05-05 01:41:58
  */
 class AlipayCommerceAppUploadRequest
 {

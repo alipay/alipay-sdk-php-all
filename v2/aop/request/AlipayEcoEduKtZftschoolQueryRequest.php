@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.edu.kt.zftschool.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-14 10:13:50
+ * @since 1.0, 2023-05-08 17:46:58
  */
 class AlipayEcoEduKtZftschoolQueryRequest
 {

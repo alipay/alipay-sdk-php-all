@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.questionnare.task.finish request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:59:33
+ * @since 1.0, 2023-05-04 20:20:35
  */
 class AlipaySocialQuestionnareTaskFinishRequest
 {

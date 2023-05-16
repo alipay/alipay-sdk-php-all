@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.antlegalchain.multiparty.apply request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 12:51:25
+ * @since 1.0, 2023-05-05 07:14:59
  */
 class AlipayBossProdAntlegalchainMultipartyApplyRequest
 {

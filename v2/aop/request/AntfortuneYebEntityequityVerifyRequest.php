@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.yeb.entityequity.verify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 07:19:30
+ * @since 1.0, 2023-05-05 06:51:55
  */
 class AntfortuneYebEntityequityVerifyRequest
 {

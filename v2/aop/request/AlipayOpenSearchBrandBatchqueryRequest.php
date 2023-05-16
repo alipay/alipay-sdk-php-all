@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.brand.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:18:16
+ * @since 1.0, 2023-05-04 14:50:21
  */
 class AlipayOpenSearchBrandBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.login.code.get request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 10:21:46
+ * @since 1.0, 2023-05-05 07:12:01
  */
 class AlipayUserLoginCodeGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.usermessage.subscription.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:51:43
+ * @since 1.0, 2023-05-05 07:26:56
  */
 class AlipayCommerceMedicalUsermessageSubscriptionQueryRequest
 {

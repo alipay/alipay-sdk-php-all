@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.data.item.recommend.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:33:37
+ * @since 1.0, 2023-05-04 20:31:45
  */
 class AlipayOpenDataItemRecommendBatchqueryRequest
 {

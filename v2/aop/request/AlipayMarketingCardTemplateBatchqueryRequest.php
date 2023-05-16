@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.card.template.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:08:48
+ * @since 1.0, 2023-05-16 13:54:40
  */
 class AlipayMarketingCardTemplateBatchqueryRequest
 {

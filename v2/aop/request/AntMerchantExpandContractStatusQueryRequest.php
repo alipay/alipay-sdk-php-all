@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.contract.status.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 15:13:33
+ * @since 1.0, 2023-05-05 04:11:27
  */
 class AntMerchantExpandContractStatusQueryRequest
 {

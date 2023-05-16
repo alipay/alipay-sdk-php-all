@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.closeloop.data.upload request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:08:59
+ * @since 1.0, 2023-05-05 07:08:55
  */
 class ZhimaMerchantCloseloopDataUploadRequest
 {

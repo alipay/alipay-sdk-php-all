@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.inneraccount.pid.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 02:41:25
+ * @since 1.0, 2023-05-04 15:07:08
  */
 class AlipayOpenMiniInneraccountPidQueryRequest
 {

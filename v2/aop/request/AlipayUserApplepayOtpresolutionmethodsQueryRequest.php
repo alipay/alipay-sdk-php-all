@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.applepay.otpresolutionmethods.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 09:36:58
+ * @since 1.0, 2023-05-05 09:52:51
  */
 class AlipayUserApplepayOtpresolutionmethodsQueryRequest
 {

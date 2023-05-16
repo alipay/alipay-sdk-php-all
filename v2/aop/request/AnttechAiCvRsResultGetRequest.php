@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.ai.cv.rs.result.get request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:26:45
+ * @since 1.0, 2023-05-04 18:36:57
  */
 class AnttechAiCvRsResultGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.cloud.app.product.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-11 21:16:45
+ * @since 1.0, 2023-05-05 10:06:57
  */
 class AlipayOpenCloudAppProductQueryRequest
 {

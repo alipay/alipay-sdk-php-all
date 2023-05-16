@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.userclassification.createormodify request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 17:51:44
+ * @since 1.0, 2023-05-05 08:56:56
  */
 class MybankPaymentTradeUserclassificationCreateormodifyRequest
 {

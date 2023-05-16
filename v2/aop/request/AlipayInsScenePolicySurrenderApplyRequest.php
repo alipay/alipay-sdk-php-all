@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.policy.surrender.apply request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:41:24
+ * @since 1.0, 2023-05-05 06:13:45
  */
 class AlipayInsScenePolicySurrenderApplyRequest
 {

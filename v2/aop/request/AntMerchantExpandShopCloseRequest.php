@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.shop.close request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:51:43
+ * @since 1.0, 2023-05-04 19:31:48
  */
 class AntMerchantExpandShopCloseRequest
 {

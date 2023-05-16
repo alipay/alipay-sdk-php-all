@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.data.nearmall.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 07:33:40
+ * @since 1.0, 2023-05-04 18:08:09
  */
 class KoubeiMarketingDataNearmallQueryRequest
 {

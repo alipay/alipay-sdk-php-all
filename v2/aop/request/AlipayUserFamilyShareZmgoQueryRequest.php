@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.family.share.zmgo.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:54:47
+ * @since 1.0, 2023-05-04 23:39:19
  */
 class AlipayUserFamilyShareZmgoQueryRequest
 {

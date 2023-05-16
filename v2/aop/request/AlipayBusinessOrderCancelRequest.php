@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.order.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 19:00:24
+ * @since 1.0, 2023-05-04 22:20:56
  */
 class AlipayBusinessOrderCancelRequest
 {

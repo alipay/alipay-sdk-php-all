@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.commonsign.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:37:27
+ * @since 1.0, 2023-05-09 16:56:47
  */
 class AlipayOpenAgentCommonsignConfirmRequest
 {

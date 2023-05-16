@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.property.auth.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 05:08:06
+ * @since 1.0, 2023-05-04 18:46:33
  */
 class AlipayOpenAppPropertyAuthSyncRequest
 {

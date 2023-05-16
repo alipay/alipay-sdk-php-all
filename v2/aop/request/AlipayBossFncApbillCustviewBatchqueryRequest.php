@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.apbill.custview.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 00:32:09
+ * @since 1.0, 2023-05-05 00:47:24
  */
 class AlipayBossFncApbillCustviewBatchqueryRequest
 {

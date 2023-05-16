@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.dataservice.file.submit request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 03:27:14
+ * @since 1.0, 2023-05-05 06:30:43
  */
 class AnttechBlockchainDefinDataserviceFileSubmitRequest
 {

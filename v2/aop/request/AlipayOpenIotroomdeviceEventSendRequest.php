@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotroomdevice.event.send request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 01:59:36
+ * @since 1.0, 2023-05-04 22:52:24
  */
 class AlipayOpenIotroomdeviceEventSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.auth.agreement.close request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 10:01:44
+ * @since 1.0, 2023-05-05 08:46:50
  */
 class AlipayPcreditHuabeiAuthAgreementCloseRequest
 {

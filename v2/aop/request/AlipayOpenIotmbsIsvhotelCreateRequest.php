@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.isvhotel.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 14:21:43
+ * @since 1.0, 2023-05-04 22:31:57
  */
 class AlipayOpenIotmbsIsvhotelCreateRequest
 {

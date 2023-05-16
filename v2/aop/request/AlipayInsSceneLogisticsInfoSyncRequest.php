@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.logistics.info.sync request
  *
  * @author auto create
- * @since 1.0, 2023-04-11 14:44:33
+ * @since 1.0, 2023-05-04 18:26:54
  */
 class AlipayInsSceneLogisticsInfoSyncRequest
 {

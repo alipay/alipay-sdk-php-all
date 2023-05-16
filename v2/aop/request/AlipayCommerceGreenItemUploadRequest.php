@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.green.item.upload request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 00:46:44
+ * @since 1.0, 2023-05-04 18:56:50
  */
 class AlipayCommerceGreenItemUploadRequest
 {

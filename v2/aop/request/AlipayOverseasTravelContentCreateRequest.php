@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.content.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:24:04
+ * @since 1.0, 2023-05-04 23:53:56
  */
 class AlipayOverseasTravelContentCreateRequest
 {

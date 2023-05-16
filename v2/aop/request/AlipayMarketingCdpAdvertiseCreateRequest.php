@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.cdp.advertise.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 13:46:14
+ * @since 1.0, 2023-05-04 14:46:17
  */
 class AlipayMarketingCdpAdvertiseCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.life.label.modify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 09:51:52
+ * @since 1.0, 2023-05-04 16:41:13
  */
 class AlipayOpenPublicLifeLabelModifyRequest
 {

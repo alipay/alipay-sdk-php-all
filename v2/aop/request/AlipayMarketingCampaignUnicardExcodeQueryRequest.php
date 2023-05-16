@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.unicard.excode.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:17:44
+ * @since 1.0, 2023-05-05 03:04:07
  */
 class AlipayMarketingCampaignUnicardExcodeQueryRequest
 {

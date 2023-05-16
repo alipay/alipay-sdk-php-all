@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.flexiblestaffing.riskconsult.apply request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 08:56:43
+ * @since 1.0, 2023-05-04 22:21:48
  */
 class AlipayUserFlexiblestaffingRiskconsultApplyRequest
 {

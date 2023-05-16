@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.alloc.reverse.transfer request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 09:46:42
+ * @since 1.0, 2023-05-05 08:36:55
  */
 class AlipayFundAllocReverseTransferRequest
 {
