@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `batchquery()`
 
 ```php
-batchquery($enterpriseId, $bizScene, $userId, $openId, $employeeId, $pageNum, $pageSize, $startDate, $endDate): \Alipay\OpenAPISDK\Model\AlipayCommerceEcJointaccountbillDetailBatchqueryResponseModel
+batchquery($enterpriseId, $bizScene, $userId, $openId, $pageNum, $pageSize, $startDate, $endDate): \Alipay\OpenAPISDK\Model\AlipayCommerceEcJointaccountbillDetailBatchqueryResponseModel
 ```
 
 企业账单批量分页查询
@@ -49,14 +49,13 @@ $enterpriseId = 2088123456789000; // string | 企业ID
 $bizScene = ISV_DEFAULT; // string | 业务场景。不传默认为ISV_DEFAULT
 $userId = 2088123456789000; // string | 员工支付宝UID
 $openId = 074a1CcTG1LelxKe4xQC0zgNdId0nxi95b5lsNpazWYoCo5; // string | 员工支付宝UID
-$employeeId = 2288029541813166; // string | 员工id
-$pageNum = 1; // string | 页码
-$pageSize = 20; // string | 每页大小
-$startDate = yyyy-MM-dd HH:mm:ss; // string | 起始日期
-$endDate = yyyy-MM-dd HH:mm:ss; // string | 截止日期
+$pageNum = 1; // string | 页数。本参数为空或小于1默认显示第一页；如果输入的值大于总页数，则返回最后一页数据。
+$pageSize = 20; // string | 每页大小。本参数为空或小于1默认20条；超过20条默认按20条查询；不足20条则按实际记录数返回。
+$startDate = yyyy-MM-dd HH:mm:ss; // string | 起始日期。支持yyyy-MM-dd和yyyy-MM-dd HH:mm:ss两种格式
+$endDate = yyyy-MM-dd HH:mm:ss; // string | 截止日期。支持yyyy-MM-dd和yyyy-MM-dd HH:mm:ss两种格式
 
 try {
-    $result = $apiInstance->batchquery($enterpriseId, $bizScene, $userId, $openId, $employeeId, $pageNum, $pageSize, $startDate, $endDate);
+    $result = $apiInstance->batchquery($enterpriseId, $bizScene, $userId, $openId, $pageNum, $pageSize, $startDate, $endDate);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayCommerceEcJointaccountbillDetailApi->batchquery: ', $e->getMessage(), PHP_EOL;
@@ -71,11 +70,10 @@ Name | Type | Description  | Notes
  **bizScene** | **string**| 业务场景。不传默认为ISV_DEFAULT | [optional]
  **userId** | **string**| 员工支付宝UID | [optional]
  **openId** | **string**| 员工支付宝UID | [optional]
- **employeeId** | **string**| 员工id | [optional]
- **pageNum** | **string**| 页码 | [optional]
- **pageSize** | **string**| 每页大小 | [optional]
- **startDate** | **string**| 起始日期 | [optional]
- **endDate** | **string**| 截止日期 | [optional]
+ **pageNum** | **string**| 页数。本参数为空或小于1默认显示第一页；如果输入的值大于总页数，则返回最后一页数据。 | [optional]
+ **pageSize** | **string**| 每页大小。本参数为空或小于1默认20条；超过20条默认按20条查询；不足20条则按实际记录数返回。 | [optional]
+ **startDate** | **string**| 起始日期。支持yyyy-MM-dd和yyyy-MM-dd HH:mm:ss两种格式 | [optional]
+ **endDate** | **string**| 截止日期。支持yyyy-MM-dd和yyyy-MM-dd HH:mm:ss两种格式 | [optional]
 
 ### Return type
 

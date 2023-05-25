@@ -173,7 +173,9 @@ class AlipayConfigUtil
             $res = openssl_get_privatekey($priKey);
         }
 
-        ($res) or die('您使用的私钥格式错误，请检查RSA私钥配置');
+        if (!$res) {
+            throw new ApiException('您使用的私钥格式错误，请检查RSA私钥配置', 400);
+        }
         //只支持RSA2
         openssl_sign($content, $sign, $res, OPENSSL_ALGO_SHA256);
         if (!$this->checkEmpty($this->privateKeyFilePath)) {
@@ -205,7 +207,9 @@ class AlipayConfigUtil
             $res = openssl_get_publickey($pubKey);
         }
 
-        ($res) or die('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
+        if (!$res) {
+            throw new ApiException('支付宝RSA公钥错误。请检查公钥文件格式是否正确', 400);
+        }
 
         $content = $timestamp . "\n"
             . $nonce . "\n"
