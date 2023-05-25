@@ -46,8 +46,8 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $enterpriseId = 2088501296144291; // string | 企业ID
-$accountId = 2088000000000000; // string | 共同账户ID，有企业ID可不传
-$agreementNo = 20200000000000000000; // string | 授权签约协议号，有企业ID可不传
+$accountId = 2088000000000000; // string | 共同账户ID
+$agreementNo = 20200000000000000000; // string | 授权签约协议号
 $orderId = 2020103022000000000000000000; // string | 订单ID
 $orderType = METRO; // string | 订单类型
 
@@ -64,8 +64,8 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **enterpriseId** | **string**| 企业ID | [optional]
- **accountId** | **string**| 共同账户ID，有企业ID可不传 | [optional]
- **agreementNo** | **string**| 授权签约协议号，有企业ID可不传 | [optional]
+ **accountId** | **string**| 共同账户ID | [optional]
+ **agreementNo** | **string**| 授权签约协议号 | [optional]
  **orderId** | **string**| 订单ID | [optional]
  **orderType** | **string**| 订单类型 | [optional]
 

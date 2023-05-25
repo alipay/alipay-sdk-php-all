@@ -17,7 +17,7 @@ create($alipayEbppInvoiceInstitutionCreateModel): \Alipay\OpenAPISDK\Model\Alipa
 
 制度新增
 
-制度新增
+制度新增，包含制度下使用规则列表和发放规则列表的新增。
 
 ### Example
 
@@ -82,7 +82,7 @@ No authorization required
 ## `delete()`
 
 ```php
-delete($accountId, $agreementNo, $enterpriseId, $institutionId): object
+delete($accountId, $agreementNo, $enterpriseId, $institutionId): \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceInstitutionDeleteResponseModel
 ```
 
 制度删除
@@ -117,9 +117,9 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$accountId = 2088000194958956; // string | 企业共同账户id（条件必填）
-$agreementNo = 1234; // string | 授权签约协议号（条件必填）
-$enterpriseId = 2088123412341234; // string | 企业id（条件必填）
+$accountId = 2088000194958956; // string | 企业共同账户id
+$agreementNo = 20215425001181407500; // string | 授权签约协议号
+$enterpriseId = 2088123412341234; // string | 企业id
 $institutionId = 2022031000152617000000000001; // string | 制度id
 
 try {
@@ -134,14 +134,14 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **accountId** | **string**| 企业共同账户id（条件必填） | [optional]
- **agreementNo** | **string**| 授权签约协议号（条件必填） | [optional]
- **enterpriseId** | **string**| 企业id（条件必填） | [optional]
+ **accountId** | **string**| 企业共同账户id | [optional]
+ **agreementNo** | **string**| 授权签约协议号 | [optional]
+ **enterpriseId** | **string**| 企业id | [optional]
  **institutionId** | **string**| 制度id | [optional]
 
 ### Return type
 
-**object**
+**\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceInstitutionDeleteResponseModel**
 
 ### Authorization
 
@@ -158,7 +158,7 @@ No authorization required
 ## `modify()`
 
 ```php
-modify($alipayEbppInvoiceInstitutionModifyModel): object
+modify($alipayEbppInvoiceInstitutionModifyModel): \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceInstitutionModifyResponseModel
 ```
 
 制度编辑
@@ -211,7 +211,7 @@ Name | Type | Description  | Notes
 
 ### Return type
 
-**object**
+**\Alipay\OpenAPISDK\Model\AlipayEbppInvoiceInstitutionModifyResponseModel**
 
 ### Authorization
 

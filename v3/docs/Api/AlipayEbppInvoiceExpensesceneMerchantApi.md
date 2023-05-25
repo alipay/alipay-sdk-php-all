@@ -46,7 +46,7 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $accountId = 2088xxx; // string | 共同账户ID
-$agreementNo = 1234; // string | 授权签约协议号
+$agreementNo = 20215713002876184996; // string | 授权签约协议号
 $enterpriseId = 2088xxx; // string | 企业ID
 $roleId = 2088xxx; // string | 商户ID
 $pid = 2088xxx; // string | 商户ID

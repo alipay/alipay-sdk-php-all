@@ -187,10 +187,10 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$enterpriseId = 2088000000000; // string | 企业id
+$enterpriseId = 2088000194958955; // string | 企业ID
 $invoiceRuleId = 2021032900152710950000000001; // string | 开票规则ID
-$accountId = 2088000194958956; // string | 共同账户id
-$agreementNo = 20215425001112341234; // string | 授权签约协议号（仅使用account_id时必传）
+$accountId = 2088000194958956; // string | 共同账户ID
+$agreementNo = 20215425001112341234; // string | 授权签约协议号
 
 try {
     $result = $apiInstance->query($enterpriseId, $invoiceRuleId, $accountId, $agreementNo);
@@ -204,10 +204,10 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **enterpriseId** | **string**| 企业id | [optional]
+ **enterpriseId** | **string**| 企业ID | [optional]
  **invoiceRuleId** | **string**| 开票规则ID | [optional]
- **accountId** | **string**| 共同账户id | [optional]
- **agreementNo** | **string**| 授权签约协议号（仅使用account_id时必传） | [optional]
+ **accountId** | **string**| 共同账户ID | [optional]
+ **agreementNo** | **string**| 授权签约协议号 | [optional]
 
 ### Return type
 

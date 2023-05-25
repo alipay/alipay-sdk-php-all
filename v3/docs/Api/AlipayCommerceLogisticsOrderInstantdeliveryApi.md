@@ -12,7 +12,7 @@ Method | HTTP request | Description
 ## `cancel()`
 
 ```php
-cancel($alipayCommerceLogisticsOrderInstantdeliveryCancelModel): object
+cancel($alipayCommerceLogisticsOrderInstantdeliveryCancelModel): \Alipay\OpenAPISDK\Model\AlipayCommerceLogisticsOrderInstantdeliveryCancelResponseModel
 ```
 
 取消即时配送订单
@@ -65,7 +65,7 @@ Name | Type | Description  | Notes
 
 ### Return type
 
-**object**
+**\Alipay\OpenAPISDK\Model\AlipayCommerceLogisticsOrderInstantdeliveryCancelResponseModel**
 
 ### Authorization
 

@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `sign()`
 
 ```php
-sign($appDemo, $businessLicenseAuthPic, $businessLicensePic, $data, $shopScenePic, $shopSignBoardPic, $specialLicensePic, $webHomeScreenshot, $webItemScreenshot, $webPayScreenshot, $webSitesLoa): object
+sign($appDemo, $businessLicenseAuthPic, $businessLicensePic, $data, $miniAppScreenshot, $shopScenePic, $shopSignBoardPic, $specialLicensePic, $webHomeScreenshot, $webItemScreenshot, $webPayScreenshot, $webSitesLoa): object
 ```
 
 代签约产品通用接口
@@ -49,6 +49,7 @@ $appDemo = "/path/to/file.txt"; // \SplFileObject
 $businessLicenseAuthPic = "/path/to/file.txt"; // \SplFileObject
 $businessLicensePic = "/path/to/file.txt"; // \SplFileObject
 $data = new \Alipay\OpenAPISDK\Model\AlipayOpenAgentCommonSignModel(); // \Alipay\OpenAPISDK\Model\AlipayOpenAgentCommonSignModel
+$miniAppScreenshot = "/path/to/file.txt"; // \SplFileObject
 $shopScenePic = "/path/to/file.txt"; // \SplFileObject
 $shopSignBoardPic = "/path/to/file.txt"; // \SplFileObject
 $specialLicensePic = "/path/to/file.txt"; // \SplFileObject
@@ -58,7 +59,7 @@ $webPayScreenshot = "/path/to/file.txt"; // \SplFileObject
 $webSitesLoa = "/path/to/file.txt"; // \SplFileObject
 
 try {
-    $result = $apiInstance->sign($appDemo, $businessLicenseAuthPic, $businessLicensePic, $data, $shopScenePic, $shopSignBoardPic, $specialLicensePic, $webHomeScreenshot, $webItemScreenshot, $webPayScreenshot, $webSitesLoa);
+    $result = $apiInstance->sign($appDemo, $businessLicenseAuthPic, $businessLicensePic, $data, $miniAppScreenshot, $shopScenePic, $shopSignBoardPic, $specialLicensePic, $webHomeScreenshot, $webItemScreenshot, $webPayScreenshot, $webSitesLoa);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayOpenAgentCommonApi->sign: ', $e->getMessage(), PHP_EOL;
@@ -73,6 +74,7 @@ Name | Type | Description  | Notes
  **businessLicenseAuthPic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **businessLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **data** | **\Alipay\OpenAPISDK\Model\AlipayOpenAgentCommonSignModel**|  | [optional]
+ **miniAppScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
  **shopScenePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **shopSignBoardPic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **specialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]

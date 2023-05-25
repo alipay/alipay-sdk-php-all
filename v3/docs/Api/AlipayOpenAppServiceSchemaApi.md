@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `query()`
 
 ```php
-query($categoryId): \Alipay\OpenAPISDK\Model\AlipayOpenAppServiceSchemaQueryResponseModel
+query($categoryId, $templateType): \Alipay\OpenAPISDK\Model\AlipayOpenAppServiceSchemaQueryResponseModel
 ```
 
 服务schema下发
@@ -46,9 +46,10 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $categoryId = c11111; // string | 类目id
+$templateType = DEFAULT; // string | 服务模版类型。若当前服务类目只有一个服务模版，可不填。
 
 try {
-    $result = $apiInstance->query($categoryId);
+    $result = $apiInstance->query($categoryId, $templateType);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayOpenAppServiceSchemaApi->query: ', $e->getMessage(), PHP_EOL;
@@ -60,6 +61,7 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **categoryId** | **string**| 类目id | [optional]
+ **templateType** | **string**| 服务模版类型。若当前服务类目只有一个服务模版，可不填。 | [optional]
 
 ### Return type
 

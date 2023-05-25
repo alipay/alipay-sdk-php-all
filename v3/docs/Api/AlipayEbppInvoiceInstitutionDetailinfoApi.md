@@ -45,8 +45,8 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$accountId = 2088000194958956; // string | 企业共同账户id，和授权签约协议号共同使用。
-$agreementNo = 20215425001112341234; // string | 授权签约协议号，可通过签约消息获取。配合企业共同账户id使用，当填写企业共同账户id时，此字段必填。
+$accountId = 2088000194958956; // string | 企业共同账户id
+$agreementNo = 20215425001112341234; // string | 授权签约协议号
 $enterpriseId = 2088000194958956; // string | 企业ID
 $institutionId = 2022071800152609780000004052; // string | 制度id
 
@@ -62,8 +62,8 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **accountId** | **string**| 企业共同账户id，和授权签约协议号共同使用。 | [optional]
- **agreementNo** | **string**| 授权签约协议号，可通过签约消息获取。配合企业共同账户id使用，当填写企业共同账户id时，此字段必填。 | [optional]
+ **accountId** | **string**| 企业共同账户id | [optional]
+ **agreementNo** | **string**| 授权签约协议号 | [optional]
  **enterpriseId** | **string**| 企业ID | [optional]
  **institutionId** | **string**| 制度id | [optional]
 

@@ -45,11 +45,11 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$enterpriseId = 100000000000001000921; // string | 企业ID
-$accountId = 2088000295356628; // string | 共同账户ID，没有企业ID可以用此ID查询
-$agreementNo = 20205820659822371223; // string | 授权签约协议号，以共同账户ID查询时必传
-$billType = enterprisetrade; // string | 账单类型，商户通过接口或商户经开放平台授权后其所属服务商通过接口可以获取以下账单类型，支持： enterprisetrade：商户基于企业码交易收单的业务账单;
-$billDate = 2022-06-22; // string | 账单时间： 日账单格式为yyyy-MM-dd，最早可下载2016年1月1日开始的日账单。不支持下载当日账单，只能下载前一日24点前的账单数据（T+1），当日数据一般于次日 9 点前生成，特殊情况可能延迟。 月账单格式为yyyy-MM，最早可下载2016年1月开始的月账单。不支持下载当月账单，只能下载上一月账单数据，当月账单一般在次月 3 日生成，特殊情况可能延迟。
+$enterpriseId = 2088123456789000; // string | 企业ID
+$accountId = 2088000295356628; // string | 共同账户ID
+$agreementNo = 20205820659822371223; // string | 授权签约协议号
+$billType = enterprisetrade; // string | 账单类型
+$billDate = yyyy-MM-dd; // string | 账单时间
 
 try {
     $result = $apiInstance->query($enterpriseId, $accountId, $agreementNo, $billType, $billDate);
@@ -64,10 +64,10 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **enterpriseId** | **string**| 企业ID | [optional]
- **accountId** | **string**| 共同账户ID，没有企业ID可以用此ID查询 | [optional]
- **agreementNo** | **string**| 授权签约协议号，以共同账户ID查询时必传 | [optional]
- **billType** | **string**| 账单类型，商户通过接口或商户经开放平台授权后其所属服务商通过接口可以获取以下账单类型，支持： enterprisetrade：商户基于企业码交易收单的业务账单; | [optional]
- **billDate** | **string**| 账单时间： 日账单格式为yyyy-MM-dd，最早可下载2016年1月1日开始的日账单。不支持下载当日账单，只能下载前一日24点前的账单数据（T+1），当日数据一般于次日 9 点前生成，特殊情况可能延迟。 月账单格式为yyyy-MM，最早可下载2016年1月开始的月账单。不支持下载当月账单，只能下载上一月账单数据，当月账单一般在次月 3 日生成，特殊情况可能延迟。 | [optional]
+ **accountId** | **string**| 共同账户ID | [optional]
+ **agreementNo** | **string**| 授权签约协议号 | [optional]
+ **billType** | **string**| 账单类型 | [optional]
+ **billDate** | **string**| 账单时间 | [optional]
 
 ### Return type
 

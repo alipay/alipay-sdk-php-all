@@ -117,7 +117,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$deliveryId = 20121231231242353; // string | 投放计划id
+$deliveryId = 20121231231242353; // string | 推广计划id
 $alipayMarketingActivityDeliveryQueryModel = new \Alipay\OpenAPISDK\Model\AlipayMarketingActivityDeliveryQueryModel(); // \Alipay\OpenAPISDK\Model\AlipayMarketingActivityDeliveryQueryModel
 
 try {
@@ -132,7 +132,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **deliveryId** | **string**| 投放计划id |
+ **deliveryId** | **string**| 推广计划id |
  **alipayMarketingActivityDeliveryQueryModel** | **\Alipay\OpenAPISDK\Model\AlipayMarketingActivityDeliveryQueryModel**|  | [optional]
 
 ### Return type
