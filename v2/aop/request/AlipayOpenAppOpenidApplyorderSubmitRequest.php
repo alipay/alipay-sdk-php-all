@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.openid.applyorder.submit request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:21:46
+ * @since 1.0, 2023-05-29 19:36:50
  */
 class AlipayOpenAppOpenidApplyorderSubmitRequest
 {

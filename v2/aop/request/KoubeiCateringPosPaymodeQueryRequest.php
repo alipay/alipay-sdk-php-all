@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.paymode.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:01:40
+ * @since 1.0, 2023-05-29 21:50:51
  */
 class KoubeiCateringPosPaymodeQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.dataservice.violationinfo.share request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 10:09:37
+ * @since 1.0, 2023-05-29 21:09:11
  */
 class AlipayEcoMycarDataserviceViolationinfoShareRequest
 {

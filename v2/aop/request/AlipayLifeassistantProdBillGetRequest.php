@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.lifeassistant.prod.bill.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 02:16:53
+ * @since 1.0, 2023-05-29 19:56:58
  */
 class AlipayLifeassistantProdBillGetRequest
 {

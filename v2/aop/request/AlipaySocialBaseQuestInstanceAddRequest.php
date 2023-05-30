@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.quest.instance.add request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:40:54
+ * @since 1.0, 2023-05-29 22:56:13
  */
 class AlipaySocialBaseQuestInstanceAddRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.face.certify.verify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:30:25
+ * @since 1.0, 2023-05-19 18:17:45
  */
 class DatadigitalFincloudGeneralsaasFaceCertifyVerifyRequest
 {

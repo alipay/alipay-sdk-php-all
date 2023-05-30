@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.serviceconsult.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 04:28:21
+ * @since 1.0, 2023-05-29 22:37:39
  */
 class AlipayMerchantServiceconsultQueryRequest
 {

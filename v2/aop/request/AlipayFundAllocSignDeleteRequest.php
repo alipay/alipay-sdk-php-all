@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.alloc.sign.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:26:48
+ * @since 1.0, 2023-05-19 15:46:49
  */
 class AlipayFundAllocSignDeleteRequest
 {

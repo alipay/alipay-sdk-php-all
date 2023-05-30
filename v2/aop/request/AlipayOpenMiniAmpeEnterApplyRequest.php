@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.enter.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 16:39:08
+ * @since 1.0, 2023-05-29 23:12:42
  */
 class AlipayOpenMiniAmpeEnterApplyRequest
 {

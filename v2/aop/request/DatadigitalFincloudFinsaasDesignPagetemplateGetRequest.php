@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.design.pagetemplate.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:33:28
+ * @since 1.0, 2023-05-29 23:55:58
  */
 class DatadigitalFincloudFinsaasDesignPagetemplateGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.invoice.linkamt.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:43:51
+ * @since 1.0, 2023-05-29 20:26:56
  */
 class AlipayBossFncInvoiceLinkamtBatchqueryRequest
 {

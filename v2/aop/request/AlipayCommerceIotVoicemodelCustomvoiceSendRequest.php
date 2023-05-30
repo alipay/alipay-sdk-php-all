@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.voicemodel.customvoice.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:14:40
+ * @since 1.0, 2023-05-29 20:11:15
  */
 class AlipayCommerceIotVoicemodelCustomvoiceSendRequest
 {

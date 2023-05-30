@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.digitalidentity.healthcard.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:29:08
+ * @since 1.0, 2023-05-29 19:48:41
  */
 class AlipayUserDigitalidentityHealthcardQueryRequest
 {

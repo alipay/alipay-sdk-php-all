@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.iris.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 07:38:51
+ * @since 1.0, 2023-05-29 22:45:43
  */
 class AlipaySecurityProdIrisCreateRequest
 {

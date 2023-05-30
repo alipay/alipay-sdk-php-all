@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.face.fee.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 06:11:48
+ * @since 1.0, 2023-05-19 19:11:59
  */
 class DatadigitalFincloudGeneralsaasFaceFeeQueryRequest
 {

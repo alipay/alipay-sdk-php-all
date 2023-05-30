@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.goods.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:10:51
+ * @since 1.0, 2023-05-19 16:06:58
  */
 class AlipayMarketingActivityGoodsBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pai.partner.result.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:47:09
+ * @since 1.0, 2023-05-29 19:38:36
  */
 class AlipayPaiPartnerResultGetRequest
 {

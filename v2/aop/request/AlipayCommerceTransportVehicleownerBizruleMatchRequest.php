@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.vehicleowner.bizrule.match request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:53:42
+ * @since 1.0, 2023-05-29 20:00:50
  */
 class AlipayCommerceTransportVehicleownerBizruleMatchRequest
 {

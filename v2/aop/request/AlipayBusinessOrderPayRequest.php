@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.order.pay request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 04:40:42
+ * @since 1.0, 2023-05-29 20:45:20
  */
 class AlipayBusinessOrderPayRequest
 {

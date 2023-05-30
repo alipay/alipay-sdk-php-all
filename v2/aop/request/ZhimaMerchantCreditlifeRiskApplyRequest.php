@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.creditlife.risk.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 06:45:28
+ * @since 1.0, 2023-05-29 20:03:09
  */
 class ZhimaMerchantCreditlifeRiskApplyRequest
 {

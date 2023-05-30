@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.enterprise.auth.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:16:56
+ * @since 1.0, 2023-05-30 10:51:48
  */
 class AlipayCommerceEcEnterpriseAuthApplyRequest
 {
@@ -28,7 +28,9 @@ class AlipayCommerceEcEnterpriseAuthApplyRequest
 	private $fileId;
 	
 	/** 
-	 * 法人身份证号
+	 * 法人身份证号：
+快速创建，小二代入驻非必填。
+普通创建，企业自入驻必填。
 	 **/
 	private $legalIdNumber;
 	

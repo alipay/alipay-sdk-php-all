@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.individual.business.certify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:02:00
+ * @since 1.0, 2023-05-19 19:16:59
  */
 class AlipayOpenMiniIndividualBusinessCertifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.institution.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-10 15:31:47
+ * @since 1.0, 2023-05-19 15:31:48
  */
 class AlipayEbppInvoiceInstitutionDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.discount.bill.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:10:45
+ * @since 1.0, 2023-05-29 19:59:44
  */
 class AlipayPcreditHuabeiDiscountBillQueryRequest
 {

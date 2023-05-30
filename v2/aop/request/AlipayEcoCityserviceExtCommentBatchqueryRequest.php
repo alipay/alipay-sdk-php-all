@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cityservice.ext.comment.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:31:57
+ * @since 1.0, 2023-05-29 20:06:51
  */
 class AlipayEcoCityserviceExtCommentBatchqueryRequest
 {

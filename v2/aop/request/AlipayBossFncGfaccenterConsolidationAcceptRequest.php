@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfaccenter.consolidation.accept request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 01:40:07
+ * @since 1.0, 2023-05-29 22:29:14
  */
 class AlipayBossFncGfaccenterConsolidationAcceptRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: amap.map.yierlingsan.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 01:16:30
+ * @since 1.0, 2023-05-29 22:46:15
  */
 class AmapMapYierlingsanQueryRequest
 {

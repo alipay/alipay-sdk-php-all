@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.weike.bill.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:47:45
+ * @since 1.0, 2023-05-29 22:21:30
  */
 class AlipayMerchantWeikeBillModifyRequest
 {

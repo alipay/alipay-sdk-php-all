@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.template.template.preview request
  *
  * @author auto create
- * @since 1.0, 2023-05-08 14:56:56
+ * @since 1.0, 2023-05-29 20:06:50
  */
 class AlipayFincoreComplianceTemplateTemplatePreviewRequest
 {

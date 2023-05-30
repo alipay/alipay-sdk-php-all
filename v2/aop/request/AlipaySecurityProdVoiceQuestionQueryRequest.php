@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.voice.question.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 07:39:46
+ * @since 1.0, 2023-05-29 21:27:33
  */
 class AlipaySecurityProdVoiceQuestionQueryRequest
 {

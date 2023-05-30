@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.resouce.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:01:58
+ * @since 1.0, 2023-05-29 19:26:59
  */
 class AlipayCommerceTransportEtcResouceGetRequest
 {

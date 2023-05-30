@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.sgx.gateway.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:04:31
+ * @since 1.0, 2023-05-29 19:32:54
  */
 class AlipayDataAiserviceSgxGatewayQueryRequest
 {

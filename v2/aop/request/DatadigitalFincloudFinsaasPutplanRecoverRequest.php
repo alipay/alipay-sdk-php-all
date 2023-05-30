@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.putplan.recover request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 03:49:42
+ * @since 1.0, 2023-05-29 22:04:56
  */
 class DatadigitalFincloudFinsaasPutplanRecoverRequest
 {

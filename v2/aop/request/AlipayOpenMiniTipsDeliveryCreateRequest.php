@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.tips.delivery.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 01:38:47
+ * @since 1.0, 2023-05-19 17:21:45
  */
 class AlipayOpenMiniTipsDeliveryCreateRequest
 {

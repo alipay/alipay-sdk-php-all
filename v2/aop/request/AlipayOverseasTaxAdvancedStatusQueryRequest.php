@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.tax.advanced.status.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:56:52
+ * @since 1.0, 2023-05-22 17:33:12
  */
 class AlipayOverseasTaxAdvancedStatusQueryRequest
 {

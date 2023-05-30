@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.scene.rating.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:04:37
+ * @since 1.0, 2023-05-29 19:56:22
  */
 class ZhimaCreditEpSceneRatingQueryRequest
 {

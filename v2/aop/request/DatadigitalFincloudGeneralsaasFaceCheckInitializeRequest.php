@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.face.check.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:00:22
+ * @since 1.0, 2023-05-24 19:11:47
  */
 class DatadigitalFincloudGeneralsaasFaceCheckInitializeRequest
 {

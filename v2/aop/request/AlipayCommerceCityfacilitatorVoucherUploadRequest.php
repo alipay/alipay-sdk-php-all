@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 07:47:14
+ * @since 1.0, 2023-05-29 21:59:15
  */
 class AlipayCommerceCityfacilitatorVoucherUploadRequest
 {

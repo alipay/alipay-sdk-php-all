@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.ai.cv.ua.async.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 04:50:34
+ * @since 1.0, 2023-05-29 20:17:30
  */
 class AnttechAiCvUaAsyncQueryRequest
 {

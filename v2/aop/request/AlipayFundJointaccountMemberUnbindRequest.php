@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.member.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:26:27
+ * @since 1.0, 2023-05-19 15:52:50
  */
 class AlipayFundJointaccountMemberUnbindRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.order.detail.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:26:52
+ * @since 1.0, 2023-05-25 16:56:52
  */
 class AlipayCommerceAcommunicationOrderDetailQueryRequest
 {

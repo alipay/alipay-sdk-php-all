@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.jf.userinstinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 17:54:37
+ * @since 1.0, 2023-05-29 20:33:55
  */
 class AlipayEbppJfUserinstinfoQueryRequest
 {

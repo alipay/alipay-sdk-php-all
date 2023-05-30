@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.member.bind request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:16:56
+ * @since 1.0, 2023-05-19 15:56:49
  */
 class AlipayFundJointaccountMemberBindRequest
 {

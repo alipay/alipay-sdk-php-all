@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.kms.baking.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:14:16
+ * @since 1.0, 2023-05-29 19:24:29
  */
 class KoubeiCateringKmsBakingSyncRequest
 {

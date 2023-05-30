@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.collectreceipt.receipt.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:32:34
+ * @since 1.0, 2023-05-29 20:16:57
  */
 class AlipayBossFncCollectreceiptReceiptQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.mpoint.authbase.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:17:33
+ * @since 1.0, 2023-05-29 23:02:58
  */
 class AlipayUserMpointAuthbaseQueryRequest
 {

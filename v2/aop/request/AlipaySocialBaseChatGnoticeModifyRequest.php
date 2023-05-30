@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.chat.gnotice.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:27:25
+ * @since 1.0, 2023-05-29 21:17:19
  */
 class AlipaySocialBaseChatGnoticeModifyRequest
 {

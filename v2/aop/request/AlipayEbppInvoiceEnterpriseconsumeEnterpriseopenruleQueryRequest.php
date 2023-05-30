@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.enterpriseconsume.enterpriseopenrule.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:36:55
+ * @since 1.0, 2023-05-19 15:26:59
  */
 class AlipayEbppInvoiceEnterpriseconsumeEnterpriseopenruleQueryRequest
 {

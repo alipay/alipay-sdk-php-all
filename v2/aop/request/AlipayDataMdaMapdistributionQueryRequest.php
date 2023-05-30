@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.mda.mapdistribution.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-11 15:01:04
+ * @since 1.0, 2023-05-18 13:56:56
  */
 class AlipayDataMdaMapdistributionQueryRequest
 {

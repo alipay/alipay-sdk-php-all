@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.xwbtest.ret.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:32:23
+ * @since 1.0, 2023-05-29 23:22:25
  */
 class AlipayBossFncXwbtestRetModifyRequest
 {

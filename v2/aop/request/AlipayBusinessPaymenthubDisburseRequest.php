@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.paymenthub.disburse request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:46:29
+ * @since 1.0, 2023-05-29 23:18:16
  */
 class AlipayBusinessPaymenthubDisburseRequest
 {

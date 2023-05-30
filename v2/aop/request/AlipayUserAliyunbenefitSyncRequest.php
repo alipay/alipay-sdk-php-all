@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.aliyunbenefit.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:25:35
+ * @since 1.0, 2023-05-29 21:31:53
  */
 class AlipayUserAliyunbenefitSyncRequest
 {

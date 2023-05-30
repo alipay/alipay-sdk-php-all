@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.order.instantdelivery.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 02:15:53
+ * @since 1.0, 2023-05-18 20:46:52
  */
 class AlipayCommerceLogisticsOrderInstantdeliveryCancelRequest
 {
