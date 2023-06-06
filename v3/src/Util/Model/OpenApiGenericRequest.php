@@ -20,7 +20,12 @@ class OpenApiGenericRequest
     private $queryParams;
 
     /**
-     * 业务参数
+     * body参数
+     */
+    private $bodyParams;
+
+    /**
+     * 业务参数（废弃，请使用$bodyParams）
      */
     private $bizParams;
 
@@ -80,6 +85,22 @@ class OpenApiGenericRequest
     public function setQueryParams($queryParams): void
     {
         $this->queryParams = $queryParams;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getBodyParams()
+    {
+        return $this->bodyParams;
+    }
+
+    /**
+     * @param mixed $bodyParams
+     */
+    public function setBodyParams($bodyParams): void
+    {
+        $this->bodyParams = $bodyParams;
     }
 
     /**

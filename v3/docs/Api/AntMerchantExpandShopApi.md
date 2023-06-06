@@ -294,7 +294,7 @@ No authorization required
 ## `query()`
 
 ```php
-query($shopId, $storeId, $ipRoleId, $addressVersion): \Alipay\OpenAPISDK\Model\AntMerchantExpandShopQueryResponseModel
+query($shopId, $storeId, $ipRoleId, $addressVersion, $needRecommend): \Alipay\OpenAPISDK\Model\AntMerchantExpandShopQueryResponseModel
 ```
 
 店铺查询接口
@@ -333,9 +333,10 @@ $shopId = 2018011900502000000005124744; // string | 蚂蚁店铺id。填写本�
 $storeId = NO0001; // string | 门店编号，表示该门店在该商户角色id(直连pid，间连smid)下，由商户自己定义的外部门店编号。关店接口中，如果没传shop_id，则本字段与ip_role_id均必填
 $ipRoleId = 2088301155943087; // string | 商户角色id，表示将要开的店属于哪个商户角色。对于直连开店场景，填写商户pid；对于间连开店场景（线上、线下、直付通），填写商户smid。本接口中，如果没传shop_id，则本字段与store_id均必填
 $addressVersion = 2022Q2; // string | 行政区划版本，当前可传空值(取默认版本)、2022Q2、UPTODATE(取最新版本)，其中空值默认为：2020Q1版本（ address_version=''或null），想要查看版本是2022年2季度版本则传入:(address_version='2022Q2')，想要获取最新版本则传入:(address_version  ='UPTODATE')
+$needRecommend = 1-需要，0-不需要; // string | 门店不置信时，是否需要返回shop_recommend_info
 
 try {
-    $result = $apiInstance->query($shopId, $storeId, $ipRoleId, $addressVersion);
+    $result = $apiInstance->query($shopId, $storeId, $ipRoleId, $addressVersion, $needRecommend);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AntMerchantExpandShopApi->query: ', $e->getMessage(), PHP_EOL;
@@ -350,6 +351,7 @@ Name | Type | Description  | Notes
  **storeId** | **string**| 门店编号，表示该门店在该商户角色id(直连pid，间连smid)下，由商户自己定义的外部门店编号。关店接口中，如果没传shop_id，则本字段与ip_role_id均必填 | [optional]
  **ipRoleId** | **string**| 商户角色id，表示将要开的店属于哪个商户角色。对于直连开店场景，填写商户pid；对于间连开店场景（线上、线下、直付通），填写商户smid。本接口中，如果没传shop_id，则本字段与store_id均必填 | [optional]
  **addressVersion** | **string**| 行政区划版本，当前可传空值(取默认版本)、2022Q2、UPTODATE(取最新版本)，其中空值默认为：2020Q1版本（ address_version&#x3D;&#39;&#39;或null），想要查看版本是2022年2季度版本则传入:(address_version&#x3D;&#39;2022Q2&#39;)，想要获取最新版本则传入:(address_version  &#x3D;&#39;UPTODATE&#39;) | [optional]
+ **needRecommend** | **string**| 门店不置信时，是否需要返回shop_recommend_info | [optional]
 
 ### Return type
 

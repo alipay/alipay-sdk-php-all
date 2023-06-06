@@ -1,6 +1,6 @@
 {
     "name": "alipaysdk/openapi",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "支付宝开放平台v3协议文档",
     "keywords": [
         "openapitools",
