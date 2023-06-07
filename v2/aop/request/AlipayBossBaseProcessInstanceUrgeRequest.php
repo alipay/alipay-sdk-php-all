@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.process.instance.urge request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 01:07:14
+ * @since 1.0, 2023-05-31 03:11:33
  */
 class AlipayBossBaseProcessInstanceUrgeRequest
 {

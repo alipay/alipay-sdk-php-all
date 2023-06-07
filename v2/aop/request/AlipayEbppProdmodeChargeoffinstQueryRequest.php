@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.prodmode.chargeoffinst.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:44:58
+ * @since 1.0, 2023-05-31 04:14:09
  */
 class AlipayEbppProdmodeChargeoffinstQueryRequest
 {

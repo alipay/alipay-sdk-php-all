@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.tax.order.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-22 17:32:37
+ * @since 1.0, 2023-05-30 23:28:59
  */
 class AlipayOverseasTaxOrderQueryRequest
 {

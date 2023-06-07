@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.haiguan.nolabel.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:04:26
+ * @since 1.0, 2023-05-30 19:50:51
  */
 class AlipaySecurityProdHaiguanNolabelCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.bail.collection.finish request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 17:21:50
+ * @since 1.0, 2023-05-31 03:26:56
  */
 class AlipayFundBailCollectionFinishRequest
 {

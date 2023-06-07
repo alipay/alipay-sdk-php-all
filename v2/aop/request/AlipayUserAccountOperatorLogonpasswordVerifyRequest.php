@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.operator.logonpassword.verify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:51:56
+ * @since 1.0, 2023-05-31 05:16:55
  */
 class AlipayUserAccountOperatorLogonpasswordVerifyRequest
 {

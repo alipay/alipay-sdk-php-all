@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.yuntask.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:46:59
+ * @since 1.0, 2023-05-31 08:26:52
  */
 class AlipayCommerceYuntaskDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.family.share.zmgo.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 04:41:36
+ * @since 1.0, 2023-05-30 20:09:24
  */
 class AlipayUserFamilyShareZmgoInitializeRequest
 {

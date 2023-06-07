@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.competition.errorresult.notify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:06:56
+ * @since 1.0, 2023-05-31 09:22:02
  */
 class AlipayCommerceEducateCompetitionErrorresultNotifyRequest
 {

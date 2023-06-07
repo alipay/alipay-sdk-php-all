@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.bizfee.aftech.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:14:09
+ * @since 1.0, 2023-05-31 01:26:39
  */
 class AlipayOpenOperationBizfeeAftechApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.lottery.region.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:46:08
+ * @since 1.0, 2023-05-30 20:17:27
  */
 class AlipayOpenLotteryRegionBatchqueryRequest
 {

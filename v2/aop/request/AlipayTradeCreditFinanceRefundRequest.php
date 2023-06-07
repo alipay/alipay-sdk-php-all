@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.credit.finance.refund request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:19:59
+ * @since 1.0, 2023-05-31 02:42:45
  */
 class AlipayTradeCreditFinanceRefundRequest
 {

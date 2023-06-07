@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.auth.zhimaorg.identity.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 17:47:51
+ * @since 1.0, 2023-05-30 21:42:13
  */
 class AlipayUserAuthZhimaorgIdentityApplyRequest
 {

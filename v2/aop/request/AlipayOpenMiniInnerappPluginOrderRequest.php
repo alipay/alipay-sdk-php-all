@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerapp.plugin.order request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 10:11:35
+ * @since 1.0, 2023-05-30 21:18:16
  */
 class AlipayOpenMiniInnerappPluginOrderRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.clive.connect.close request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 06:57:54
+ * @since 1.0, 2023-05-31 10:21:03
  */
 class AlipayIserviceCliveConnectCloseRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.enterprisepay.traderule.set request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:51:10
+ * @since 1.0, 2023-05-31 08:40:18
  */
 class AlipayFundEnterprisepayTraderuleSetRequest
 {

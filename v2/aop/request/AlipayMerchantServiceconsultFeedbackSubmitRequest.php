@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.serviceconsult.feedback.submit request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:09:30
+ * @since 1.0, 2023-05-30 20:34:40
  */
 class AlipayMerchantServiceconsultFeedbackSubmitRequest
 {

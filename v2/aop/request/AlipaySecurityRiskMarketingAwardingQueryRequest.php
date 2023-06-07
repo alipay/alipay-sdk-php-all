@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.marketing.awarding.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-09 16:11:58
+ * @since 1.0, 2023-05-31 15:46:55
  */
 class AlipaySecurityRiskMarketingAwardingQueryRequest
 {

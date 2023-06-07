@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.settle.efund.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 19:06:52
+ * @since 1.0, 2023-05-31 23:11:50
  */
 class AlipayTradeSettleEfundUnfreezeRequest
 {

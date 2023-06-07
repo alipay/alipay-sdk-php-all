@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cityservice.ext.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:30:42
+ * @since 1.0, 2023-05-31 21:17:22
  */
 class AlipayEcoCityserviceExtSyncRequest
 {

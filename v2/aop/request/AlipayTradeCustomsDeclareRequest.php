@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.customs.declare request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:06:54
+ * @since 1.0, 2023-05-31 21:46:59
  */
 class AlipayTradeCustomsDeclareRequest
 {

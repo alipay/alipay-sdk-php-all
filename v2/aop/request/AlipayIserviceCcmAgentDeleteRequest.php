@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.agent.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 06:14:12
+ * @since 1.0, 2023-05-31 21:57:06
  */
 class AlipayIserviceCcmAgentDeleteRequest
 {

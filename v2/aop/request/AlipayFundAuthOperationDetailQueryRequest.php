@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.auth.operation.detail.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 15:46:52
+ * @since 1.0, 2023-05-31 04:56:56
  */
 class AlipayFundAuthOperationDetailQueryRequest
 {

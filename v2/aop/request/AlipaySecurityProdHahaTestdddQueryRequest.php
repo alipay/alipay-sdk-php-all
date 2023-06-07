@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.haha.testddd.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:40:12
+ * @since 1.0, 2023-05-31 04:11:00
  */
 class AlipaySecurityProdHahaTestdddQueryRequest
 {

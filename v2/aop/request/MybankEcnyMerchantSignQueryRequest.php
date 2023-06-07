@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.ecny.merchant.sign.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:09:58
+ * @since 1.0, 2023-05-31 06:52:18
  */
 class MybankEcnyMerchantSignQueryRequest
 {

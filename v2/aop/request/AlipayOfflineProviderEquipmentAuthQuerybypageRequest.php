@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.equipment.auth.querybypage request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:58:34
+ * @since 1.0, 2023-05-31 09:43:38
  */
 class AlipayOfflineProviderEquipmentAuthQuerybypageRequest
 {

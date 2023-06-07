@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.item.greenenergy.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 07:51:51
+ * @since 1.0, 2023-05-30 22:51:57
  */
 class AlipayCommerceItemGreenenergyBatchqueryRequest
 {

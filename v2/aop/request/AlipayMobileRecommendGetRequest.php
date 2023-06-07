@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.recommend.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 01:54:04
+ * @since 1.0, 2023-05-31 09:46:11
  */
 class AlipayMobileRecommendGetRequest
 {

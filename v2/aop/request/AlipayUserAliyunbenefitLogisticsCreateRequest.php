@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.aliyunbenefit.logistics.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:41:58
+ * @since 1.0, 2023-05-31 09:07:04
  */
 class AlipayUserAliyunbenefitLogisticsCreateRequest
 {

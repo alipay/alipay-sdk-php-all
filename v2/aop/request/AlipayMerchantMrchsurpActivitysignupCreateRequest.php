@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.mrchsurp.activitysignup.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:45:22
+ * @since 1.0, 2023-05-30 19:42:25
  */
 class AlipayMerchantMrchsurpActivitysignupCreateRequest
 {

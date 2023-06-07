@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.serviceorder.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 16:47:53
+ * @since 1.0, 2023-05-30 23:40:51
  */
 class AlipayOpenSearchServiceorderModifyRequest
 {

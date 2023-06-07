@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.reservation.payshop.identify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:40:21
+ * @since 1.0, 2023-05-31 23:01:56
  */
 class KoubeiServindustryReservationPayshopIdentifyRequest
 {

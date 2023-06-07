@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.ecsign.dataprepare.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:46:59
+ * @since 1.0, 2023-05-31 20:37:00
  */
 class AlipayFinancialnetAuthEcsignDataprepareCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.inventory.out.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:23:57
+ * @since 1.0, 2023-05-31 22:30:52
  */
 class MybankCreditSupplychainInventoryOutApplyRequest
 {

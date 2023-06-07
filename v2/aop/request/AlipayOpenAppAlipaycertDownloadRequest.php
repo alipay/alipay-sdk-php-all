@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.alipaycert.download request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 01:49:51
+ * @since 1.0, 2023-05-31 06:12:07
  */
 class AlipayOpenAppAlipaycertDownloadRequest
 {

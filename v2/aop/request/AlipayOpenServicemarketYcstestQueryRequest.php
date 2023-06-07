@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.ycstest.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:54:24
+ * @since 1.0, 2023-05-30 23:22:25
  */
 class AlipayOpenServicemarketYcstestQueryRequest
 {

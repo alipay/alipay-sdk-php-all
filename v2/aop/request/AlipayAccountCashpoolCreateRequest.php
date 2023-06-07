@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.cashpool.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 08:58:45
+ * @since 1.0, 2023-05-31 01:11:45
  */
 class AlipayAccountCashpoolCreateRequest
 {

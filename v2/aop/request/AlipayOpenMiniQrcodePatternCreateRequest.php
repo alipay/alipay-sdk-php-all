@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.qrcode.pattern.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 18:01:51
+ * @since 1.0, 2023-05-31 02:31:50
  */
 class AlipayOpenMiniQrcodePatternCreateRequest
 {

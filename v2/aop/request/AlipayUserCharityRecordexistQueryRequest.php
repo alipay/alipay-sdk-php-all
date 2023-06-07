@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.charity.recordexist.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 02:41:58
+ * @since 1.0, 2023-05-31 08:47:00
  */
 class AlipayUserCharityRecordexistQueryRequest
 {

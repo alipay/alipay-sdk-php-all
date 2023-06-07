@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.session.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 10:49:55
+ * @since 1.0, 2023-05-31 02:56:56
  */
 class AlipayUserSessionGetRequest
 {

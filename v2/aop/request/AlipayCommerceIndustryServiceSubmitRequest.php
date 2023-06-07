@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.industry.service.submit request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:34:53
+ * @since 1.0, 2023-05-31 22:02:51
  */
 class AlipayCommerceIndustryServiceSubmitRequest
 {

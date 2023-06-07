@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.hide.deviceid.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:40:10
+ * @since 1.0, 2023-05-31 06:35:40
  */
 class AlipaySecurityRiskHideDeviceidQueryRequest
 {

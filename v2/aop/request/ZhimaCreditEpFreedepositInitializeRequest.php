@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.freedeposit.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:05:30
+ * @since 1.0, 2023-05-30 21:15:53
  */
 class ZhimaCreditEpFreedepositInitializeRequest
 {

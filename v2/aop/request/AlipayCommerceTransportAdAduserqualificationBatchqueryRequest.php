@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.ad.aduserqualification.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:17:13
+ * @since 1.0, 2023-05-31 08:41:35
  */
 class AlipayCommerceTransportAdAduserqualificationBatchqueryRequest
 {

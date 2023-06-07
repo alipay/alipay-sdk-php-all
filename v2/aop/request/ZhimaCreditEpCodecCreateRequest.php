@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.codec.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:54:53
+ * @since 1.0, 2023-05-31 04:43:40
  */
 class ZhimaCreditEpCodecCreateRequest
 {

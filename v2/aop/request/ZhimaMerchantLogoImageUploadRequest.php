@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.logo.image.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 04:39:51
+ * @since 1.0, 2023-05-30 21:40:18
  */
 class ZhimaMerchantLogoImageUploadRequest
 {

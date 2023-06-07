@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.fee.adjust.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 06:01:58
+ * @since 1.0, 2023-05-31 09:06:14
  */
 class AlipayOpenFeeAdjustApplyRequest
 {

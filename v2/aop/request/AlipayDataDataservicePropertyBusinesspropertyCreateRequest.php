@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.property.businessproperty.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 02:30:59
+ * @since 1.0, 2023-05-31 09:30:36
  */
 class AlipayDataDataservicePropertyBusinesspropertyCreateRequest
 {

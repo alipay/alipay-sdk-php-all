@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.quotation.quotetrade.nimitzdata.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:57:03
+ * @since 1.0, 2023-05-31 21:06:58
  */
 class AlipayFinanceQuotationQuotetradeNimitzdataQueryRequest
 {

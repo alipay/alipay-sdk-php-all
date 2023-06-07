@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.parking.spaceinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:29:46
+ * @since 1.0, 2023-05-31 00:45:26
  */
 class AlipayEcoMycarParkingSpaceinfoSyncRequest
 {

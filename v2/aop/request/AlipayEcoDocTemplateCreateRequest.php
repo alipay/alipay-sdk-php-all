@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.doc.template.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:56:50
+ * @since 1.0, 2023-05-31 04:17:49
  */
 class AlipayEcoDocTemplateCreateRequest
 {

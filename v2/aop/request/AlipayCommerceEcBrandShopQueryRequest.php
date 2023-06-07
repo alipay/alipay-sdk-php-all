@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.brand.shop.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-08 18:41:54
+ * @since 1.0, 2023-06-06 10:52:37
  */
 class AlipayCommerceEcBrandShopQueryRequest
 {

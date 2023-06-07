@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.content.contentinfo.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:07:10
+ * @since 1.0, 2023-05-31 22:42:24
  */
 class KoubeiContentContentinfoCreateRequest
 {

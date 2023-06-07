@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.iotdata.point.device.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:12:19
+ * @since 1.0, 2023-05-31 08:17:42
  */
 class AlipayDataIotdataPointDeviceUnbindRequest
 {

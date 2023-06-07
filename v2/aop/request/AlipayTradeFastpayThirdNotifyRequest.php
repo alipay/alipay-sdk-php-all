@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.fastpay.third.notify request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 03:33:17
+ * @since 1.0, 2023-05-31 00:00:45
  */
 class AlipayTradeFastpayThirdNotifyRequest
 {

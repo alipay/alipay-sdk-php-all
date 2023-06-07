@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.order.upgrade request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:51:49
+ * @since 1.0, 2023-05-31 19:41:56
  */
 class AlipayOpenServicemarketOrderUpgradeRequest
 {

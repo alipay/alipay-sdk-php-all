@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.code.reco request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 17:10:43
+ * @since 1.0, 2023-05-30 21:49:48
  */
 class AlipayDataDataserviceCodeRecoRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.yuqing.brm.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:34:49
+ * @since 1.0, 2023-05-30 21:56:47
  */
 class ZhimaCreditEpYuqingBrmQueryRequest
 {

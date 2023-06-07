@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.family.relation.valid.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:16:57
+ * @since 1.0, 2023-05-30 23:57:11
  */
 class AlipayUserFamilyRelationValidQueryRequest
 {

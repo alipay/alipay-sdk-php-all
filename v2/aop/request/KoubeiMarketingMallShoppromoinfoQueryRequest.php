@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.mall.shoppromoinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:53:57
+ * @since 1.0, 2023-05-30 22:28:14
  */
 class KoubeiMarketingMallShoppromoinfoQueryRequest
 {

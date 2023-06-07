@@ -3,7 +3,7 @@
  * ALIPAY API: techrisk.innovate.mpcpromo.scene.add request
  *
  * @author auto create
- * @since 1.0, 2023-05-24 09:16:48
+ * @since 1.0, 2023-05-31 20:10:02
  */
 class TechriskInnovateMpcpromoSceneAddRequest
 {

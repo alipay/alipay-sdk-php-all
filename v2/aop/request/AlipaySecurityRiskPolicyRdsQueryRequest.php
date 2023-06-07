@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.policy.rds.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 03:36:58
+ * @since 1.0, 2023-05-30 23:02:03
  */
 class AlipaySecurityRiskPolicyRdsQueryRequest
 {

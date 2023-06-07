@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.ctid.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:28:47
+ * @since 1.0, 2023-05-31 22:08:20
  */
 class AlipaySecurityProdCtidInitializeRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.sportshealth.account.freeze request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:21:56
+ * @since 1.0, 2023-05-31 03:36:58
  */
 class AlipayUserSportshealthAccountFreezeRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.industry.scalper.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-09 16:16:47
+ * @since 1.0, 2023-06-06 14:26:49
  */
 class AlipaySecurityRiskIndustryScalperQueryRequest
 {

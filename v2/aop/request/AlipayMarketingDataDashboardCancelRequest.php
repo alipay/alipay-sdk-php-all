@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.data.dashboard.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:02:09
+ * @since 1.0, 2023-05-31 02:50:29
  */
 class AlipayMarketingDataDashboardCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.industry.purchase request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 03:46:51
+ * @since 1.0, 2023-05-30 23:11:49
  */
 class AlipayFundIndustryPurchaseRequest
 {

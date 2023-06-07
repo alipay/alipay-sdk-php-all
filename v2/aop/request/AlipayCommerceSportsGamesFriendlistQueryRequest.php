@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.games.friendlist.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:31:48
+ * @since 1.0, 2023-05-31 21:02:00
  */
 class AlipayCommerceSportsGamesFriendlistQueryRequest
 {

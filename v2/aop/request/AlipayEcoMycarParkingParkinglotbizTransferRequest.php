@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.parking.parkinglotbiz.transfer request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:46:19
+ * @since 1.0, 2023-05-31 20:09:18
  */
 class AlipayEcoMycarParkingParkinglotbizTransferRequest
 {

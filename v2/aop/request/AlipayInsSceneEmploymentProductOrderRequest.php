@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.employment.product.order request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:09:40
+ * @since 1.0, 2023-05-31 05:52:45
  */
 class AlipayInsSceneEmploymentProductOrderRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.mindv.answers.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:52:21
+ * @since 1.0, 2023-05-31 08:56:19
  */
 class AlipayIserviceMindvAnswersBatchqueryRequest
 {

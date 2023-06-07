@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.close request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 17:51:01
+ * @since 1.0, 2023-05-31 15:49:00
  */
 class AlipayTradeCloseRequest
 {

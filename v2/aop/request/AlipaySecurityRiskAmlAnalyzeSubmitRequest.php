@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.aml.analyze.submit request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:21:44
+ * @since 1.0, 2023-05-30 21:04:55
  */
 class AlipaySecurityRiskAmlAnalyzeSubmitRequest
 {

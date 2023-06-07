@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.marketing.equitycode.discrypt.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:08:31
+ * @since 1.0, 2023-05-31 07:32:04
  */
 class AntfortuneMarketingEquitycodeDiscryptGetRequest
 {

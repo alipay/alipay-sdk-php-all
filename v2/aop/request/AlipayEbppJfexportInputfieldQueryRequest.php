@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.jfexport.inputfield.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 08:13:48
+ * @since 1.0, 2023-05-30 21:16:25
  */
 class AlipayEbppJfexportInputfieldQueryRequest
 {

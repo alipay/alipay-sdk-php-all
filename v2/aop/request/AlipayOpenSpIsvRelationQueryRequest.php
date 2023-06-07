@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.isv.relation.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 02:26:02
+ * @since 1.0, 2023-05-31 21:07:07
  */
 class AlipayOpenSpIsvRelationQueryRequest
 {

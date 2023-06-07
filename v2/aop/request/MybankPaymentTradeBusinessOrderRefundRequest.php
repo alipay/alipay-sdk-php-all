@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.business.order.refund request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 13:54:57
+ * @since 1.0, 2023-05-31 05:16:03
  */
 class MybankPaymentTradeBusinessOrderRefundRequest
 {

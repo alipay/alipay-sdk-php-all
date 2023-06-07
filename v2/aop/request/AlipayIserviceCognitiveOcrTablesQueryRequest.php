@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cognitive.ocr.tables.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:05:49
+ * @since 1.0, 2023-05-31 10:25:35
  */
 class AlipayIserviceCognitiveOcrTablesQueryRequest
 {

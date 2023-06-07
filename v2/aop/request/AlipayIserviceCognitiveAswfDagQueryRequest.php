@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cognitive.aswf.dag.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:01:00
+ * @since 1.0, 2023-05-31 02:41:26
  */
 class AlipayIserviceCognitiveAswfDagQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.iotcover.bind request
  *
  * @author auto create
- * @since 1.0, 2023-05-15 09:51:48
+ * @since 1.0, 2023-05-31 19:31:56
  */
 class AlipayMerchantIndirectIotcoverBindRequest
 {

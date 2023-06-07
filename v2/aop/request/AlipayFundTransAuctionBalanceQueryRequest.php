@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.auction.balance.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 02:28:32
+ * @since 1.0, 2023-05-31 19:17:22
  */
 class AlipayFundTransAuctionBalanceQueryRequest
 {

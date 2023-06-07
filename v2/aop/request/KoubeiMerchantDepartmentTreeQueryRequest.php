@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.department.tree.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:39:18
+ * @since 1.0, 2023-05-30 23:26:21
  */
 class KoubeiMerchantDepartmentTreeQueryRequest
 {

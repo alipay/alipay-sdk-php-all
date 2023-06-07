@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cognitive.ocr.imageclassify.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:01:42
+ * @since 1.0, 2023-05-31 09:51:04
  */
 class AlipayIserviceCognitiveOcrImageclassifyQueryRequest
 {

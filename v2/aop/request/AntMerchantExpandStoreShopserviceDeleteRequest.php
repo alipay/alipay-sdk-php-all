@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.store.shopservice.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:07:09
+ * @since 1.0, 2023-05-31 09:37:15
  */
 class AntMerchantExpandStoreShopserviceDeleteRequest
 {

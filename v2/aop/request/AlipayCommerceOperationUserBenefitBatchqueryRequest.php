@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.user.benefit.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 01:56:51
+ * @since 1.0, 2023-05-31 04:16:59
  */
 class AlipayCommerceOperationUserBenefitBatchqueryRequest
 {

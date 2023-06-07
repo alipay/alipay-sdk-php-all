@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.antlegalchain.ndapress.urge request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:26:49
+ * @since 1.0, 2023-05-31 06:21:58
  */
 class AlipayBossProdAntlegalchainNdapressUrgeRequest
 {

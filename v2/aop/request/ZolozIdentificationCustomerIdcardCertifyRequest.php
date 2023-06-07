@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.identification.customer.idcard.certify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:49:51
+ * @since 1.0, 2023-05-31 07:06:16
  */
 class ZolozIdentificationCustomerIdcardCertifyRequest
 {

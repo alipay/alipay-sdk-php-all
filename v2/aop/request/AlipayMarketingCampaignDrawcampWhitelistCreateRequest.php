@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.drawcamp.whitelist.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:42:01
+ * @since 1.0, 2023-05-30 22:30:41
  */
 class AlipayMarketingCampaignDrawcampWhitelistCreateRequest
 {

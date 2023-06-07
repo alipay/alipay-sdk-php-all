@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.memberwallet.balancedetails.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:03:57
+ * @since 1.0, 2023-05-31 07:37:53
  */
 class AntMerchantMemberwalletBalancedetailsQueryRequest
 {

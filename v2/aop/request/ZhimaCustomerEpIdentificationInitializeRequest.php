@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.ep.identification.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:25:55
+ * @since 1.0, 2023-05-31 08:55:15
  */
 class ZhimaCustomerEpIdentificationInitializeRequest
 {

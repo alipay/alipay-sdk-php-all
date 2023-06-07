@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:35:22
+ * @since 1.0, 2023-05-31 09:18:11
  */
 class AlipayCommerceIotDeviceDeleteRequest
 {

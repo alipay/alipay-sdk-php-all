@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.bill.freezebalance.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:25:10
+ * @since 1.0, 2023-05-31 08:15:38
  */
 class AlipayDataBillFreezebalanceQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 17:42:49
+ * @since 1.0, 2023-05-30 21:59:05
  */
 class AlipayCommerceCityfacilitatorVoucherConfirmRequest
 {

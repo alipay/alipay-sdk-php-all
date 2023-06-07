@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.gov.fastmode.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 16:56:51
+ * @since 1.0, 2023-05-30 23:16:59
  */
 class AlipayEbppIndustryGovFastmodeSyncRequest
 {

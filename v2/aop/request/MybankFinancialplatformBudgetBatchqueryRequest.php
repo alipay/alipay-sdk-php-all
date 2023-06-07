@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.financialplatform.budget.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 03:26:51
+ * @since 1.0, 2023-05-31 01:11:50
  */
 class MybankFinancialplatformBudgetBatchqueryRequest
 {

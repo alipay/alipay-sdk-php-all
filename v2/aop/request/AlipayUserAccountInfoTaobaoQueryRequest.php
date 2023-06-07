@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.info.taobao.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:34:19
+ * @since 1.0, 2023-05-30 23:21:40
  */
 class AlipayUserAccountInfoTaobaoQueryRequest
 {

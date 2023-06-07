@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.openbizmock.pidwhite.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:46:52
+ * @since 1.0, 2023-05-30 21:16:53
  */
 class AlipayOpenOpenbizmockPidwhiteModifyRequest
 {

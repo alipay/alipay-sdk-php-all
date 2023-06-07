@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.desk.transfer request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 10:06:58
+ * @since 1.0, 2023-05-31 02:49:11
  */
 class KoubeiCateringPosDeskTransferRequest
 {

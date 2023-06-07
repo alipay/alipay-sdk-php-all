@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.dedf.dd.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:05:32
+ * @since 1.0, 2023-05-31 22:33:55
  */
 class AlipayOpenAppDedfDdQueryRequest
 {

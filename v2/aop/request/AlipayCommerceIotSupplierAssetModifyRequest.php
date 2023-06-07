@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.supplier.asset.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:32:40
+ * @since 1.0, 2023-05-31 09:43:54
  */
 class AlipayCommerceIotSupplierAssetModifyRequest
 {

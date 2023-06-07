@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.unicard.card.refund request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:50:05
+ * @since 1.0, 2023-05-31 01:10:43
  */
 class AlipayMarketingCampaignUnicardCardRefundRequest
 {

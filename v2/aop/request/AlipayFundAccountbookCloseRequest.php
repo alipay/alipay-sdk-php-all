@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.accountbook.close request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 15:41:50
+ * @since 1.0, 2023-05-31 22:26:49
  */
 class AlipayFundAccountbookCloseRequest
 {

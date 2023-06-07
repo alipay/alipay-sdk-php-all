@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.brandsolution.merchantactivity.pause request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:45:23
+ * @since 1.0, 2023-05-31 07:33:38
  */
 class AlipayCommerceOperationBrandsolutionMerchantactivityPauseRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.collectreceipt.refund request
  *
  * @author auto create
- * @since 1.0, 2023-05-09 11:41:56
+ * @since 1.0, 2023-05-31 06:31:49
  */
 class AlipayBossFncGfsettleprodCollectreceiptRefundRequest
 {

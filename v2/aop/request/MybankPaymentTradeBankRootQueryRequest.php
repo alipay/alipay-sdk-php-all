@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.bank.root.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:25:46
+ * @since 1.0, 2023-05-31 23:09:01
  */
 class MybankPaymentTradeBankRootQueryRequest
 {

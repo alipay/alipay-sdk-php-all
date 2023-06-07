@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.data.info.ipaddrinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 10:03:19
+ * @since 1.0, 2023-05-31 00:51:15
  */
 class AlipaySecurityDataInfoIpaddrinfoQueryRequest
 {

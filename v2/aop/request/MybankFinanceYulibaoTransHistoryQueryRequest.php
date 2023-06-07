@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.finance.yulibao.trans.history.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:15:45
+ * @since 1.0, 2023-05-31 03:58:13
  */
 class MybankFinanceYulibaoTransHistoryQueryRequest
 {

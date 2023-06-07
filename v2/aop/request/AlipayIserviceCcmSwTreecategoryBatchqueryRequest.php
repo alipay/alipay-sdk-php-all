@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.sw.treecategory.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:21:51
+ * @since 1.0, 2023-05-30 23:16:59
  */
 class AlipayIserviceCcmSwTreecategoryBatchqueryRequest
 {

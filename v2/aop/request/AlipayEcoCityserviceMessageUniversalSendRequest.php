@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cityservice.message.universal.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:18:18
+ * @since 1.0, 2023-05-31 02:42:29
  */
 class AlipayEcoCityserviceMessageUniversalSendRequest
 {

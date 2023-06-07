@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.verificationcode.verify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:57:21
+ * @since 1.0, 2023-05-31 07:10:23
  */
 class AnttechOceanbaseVerificationcodeVerifyRequest
 {

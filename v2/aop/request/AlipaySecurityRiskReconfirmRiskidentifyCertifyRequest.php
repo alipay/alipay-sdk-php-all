@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.reconfirm.riskidentify.certify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 16:38:25
+ * @since 1.0, 2023-05-30 20:36:13
  */
 class AlipaySecurityRiskReconfirmRiskidentifyCertifyRequest
 {

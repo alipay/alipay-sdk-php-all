@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.tokeninvalidstatus.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:35:43
+ * @since 1.0, 2023-05-31 07:10:38
  */
 class MybankCreditSupplychainWfTokeninvalidstatusQueryRequest
 {

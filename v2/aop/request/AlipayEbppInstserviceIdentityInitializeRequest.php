@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.instservice.identity.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:32:02
+ * @since 1.0, 2023-05-31 10:31:55
  */
 class AlipayEbppInstserviceIdentityInitializeRequest
 {

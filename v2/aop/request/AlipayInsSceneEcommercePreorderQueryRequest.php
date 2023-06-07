@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.preorder.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:55:41
+ * @since 1.0, 2023-05-31 08:36:19
  */
 class AlipayInsSceneEcommercePreorderQueryRequest
 {

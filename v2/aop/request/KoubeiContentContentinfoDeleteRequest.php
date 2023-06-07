@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.content.contentinfo.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:20:03
+ * @since 1.0, 2023-05-31 07:40:13
  */
 class KoubeiContentContentinfoDeleteRequest
 {

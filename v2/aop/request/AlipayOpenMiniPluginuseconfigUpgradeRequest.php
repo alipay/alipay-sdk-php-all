@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.pluginuseconfig.upgrade request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 17:15:56
+ * @since 1.0, 2023-06-02 14:17:34
  */
 class AlipayOpenMiniPluginuseconfigUpgradeRequest
 {

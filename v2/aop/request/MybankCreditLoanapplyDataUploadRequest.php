@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.data.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:47:22
+ * @since 1.0, 2023-05-31 21:43:05
  */
 class MybankCreditLoanapplyDataUploadRequest
 {

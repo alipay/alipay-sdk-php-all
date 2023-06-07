@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.contract.management.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:20:19
+ * @since 1.0, 2023-05-31 21:50:56
  */
 class AlipayBossContractManagementCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.chat.ginv.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:27:14
+ * @since 1.0, 2023-05-31 20:53:17
  */
 class AlipaySocialBaseChatGinvSendRequest
 {

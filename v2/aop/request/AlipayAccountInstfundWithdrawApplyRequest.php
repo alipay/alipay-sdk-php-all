@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.instfund.withdraw.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:43:22
+ * @since 1.0, 2023-05-30 19:55:59
  */
 class AlipayAccountInstfundWithdrawApplyRequest
 {

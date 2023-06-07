@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.charity.forest.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:46:55
+ * @since 1.0, 2023-05-31 06:26:57
  */
 class AlipayUserCharityForestQueryRequest
 {

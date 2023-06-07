@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.inner.safedomain.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:26:47
+ * @since 1.0, 2023-05-31 07:57:28
  */
 class AlipayOpenMiniInnerSafedomainQueryRequest
 {

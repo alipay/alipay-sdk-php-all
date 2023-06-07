@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cplife.basicservice.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 16:45:11
+ * @since 1.0, 2023-05-30 22:15:23
  */
 class AlipayEcoCplifeBasicserviceInitializeRequest
 {

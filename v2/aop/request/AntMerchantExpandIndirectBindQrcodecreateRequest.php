@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.indirect.bind.qrcodecreate request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:11:20
+ * @since 1.0, 2023-05-31 08:07:45
  */
 class AntMerchantExpandIndirectBindQrcodecreateRequest
 {

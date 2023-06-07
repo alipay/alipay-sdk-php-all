@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.venue.order.refund request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:02:47
+ * @since 1.0, 2023-05-30 21:42:45
  */
 class AlipayCommerceSportsVenueOrderRefundRequest
 {

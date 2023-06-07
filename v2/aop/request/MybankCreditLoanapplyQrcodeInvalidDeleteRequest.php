@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.qrcode.invalid.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:48:31
+ * @since 1.0, 2023-05-31 08:30:57
  */
 class MybankCreditLoanapplyQrcodeInvalidDeleteRequest
 {

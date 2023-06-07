@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.dapply.order.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 22:10:17
+ * @since 1.0, 2023-05-31 23:03:29
  */
 class AlipayCommerceIotDapplyOrderCancelRequest
 {

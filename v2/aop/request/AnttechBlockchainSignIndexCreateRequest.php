@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.sign.index.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:46:57
+ * @since 1.0, 2023-05-31 01:51:56
  */
 class AnttechBlockchainSignIndexCreateRequest
 {

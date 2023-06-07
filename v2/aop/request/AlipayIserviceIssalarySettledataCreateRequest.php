@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.issalary.settledata.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:33:34
+ * @since 1.0, 2023-05-31 19:30:16
  */
 class AlipayIserviceIssalarySettledataCreateRequest
 {

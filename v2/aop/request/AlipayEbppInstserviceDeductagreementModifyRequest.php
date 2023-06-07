@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.instservice.deductagreement.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:59:12
+ * @since 1.0, 2023-05-30 20:28:55
  */
 class AlipayEbppInstserviceDeductagreementModifyRequest
 {

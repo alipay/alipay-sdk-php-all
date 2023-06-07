@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.account.add request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:31:49
+ * @since 1.0, 2023-05-30 23:06:50
  */
 class AlipayMobilePublicAccountAddRequest
 {

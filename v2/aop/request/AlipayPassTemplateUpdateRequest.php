@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pass.template.update request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:36:47
+ * @since 1.0, 2023-05-31 06:51:55
  */
 class AlipayPassTemplateUpdateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antiep.scene.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:55:59
+ * @since 1.0, 2023-05-31 22:08:35
  */
 class AlipaySocialAntiepSceneSendRequest
 {

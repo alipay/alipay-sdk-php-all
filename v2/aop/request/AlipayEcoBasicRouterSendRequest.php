@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.basic.router.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:52:09
+ * @since 1.0, 2023-05-30 21:18:47
  */
 class AlipayEcoBasicRouterSendRequest
 {

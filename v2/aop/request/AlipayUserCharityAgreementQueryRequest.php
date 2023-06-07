@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.charity.agreement.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 01:56:32
+ * @since 1.0, 2023-05-31 05:38:09
  */
 class AlipayUserCharityAgreementQueryRequest
 {

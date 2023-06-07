@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.kbdevice.devices.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 10:15:22
+ * @since 1.0, 2023-05-30 20:37:02
  */
 class KoubeiMerchantKbdeviceDevicesBatchqueryRequest
 {

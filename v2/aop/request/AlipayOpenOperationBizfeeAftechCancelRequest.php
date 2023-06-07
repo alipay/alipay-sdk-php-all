@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.bizfee.aftech.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 13:56:18
+ * @since 1.0, 2023-05-31 05:20:15
  */
 class AlipayOpenOperationBizfeeAftechCancelRequest
 {

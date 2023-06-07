@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.cook.condition.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:25:48
+ * @since 1.0, 2023-05-30 23:47:36
  */
 class KoubeiCateringCookConditionBatchqueryRequest
 {

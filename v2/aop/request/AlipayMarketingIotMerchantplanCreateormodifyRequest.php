@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.iot.merchantplan.createormodify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:36:51
+ * @since 1.0, 2023-05-31 22:09:30
  */
 class AlipayMarketingIotMerchantplanCreateormodifyRequest
 {

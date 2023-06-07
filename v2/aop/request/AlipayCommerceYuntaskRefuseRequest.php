@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.yuntask.refuse request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:16:59
+ * @since 1.0, 2023-05-31 20:07:01
  */
 class AlipayCommerceYuntaskRefuseRequest
 {

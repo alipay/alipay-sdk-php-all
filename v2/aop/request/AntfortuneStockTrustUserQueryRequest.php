@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.trust.user.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 15:26:58
+ * @since 1.0, 2023-05-31 03:51:54
  */
 class AntfortuneStockTrustUserQueryRequest
 {

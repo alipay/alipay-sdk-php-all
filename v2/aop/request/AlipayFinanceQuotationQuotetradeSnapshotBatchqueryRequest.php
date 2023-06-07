@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.quotation.quotetrade.snapshot.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:21:32
+ * @since 1.0, 2023-05-31 06:48:21
  */
 class AlipayFinanceQuotationQuotetradeSnapshotBatchqueryRequest
 {

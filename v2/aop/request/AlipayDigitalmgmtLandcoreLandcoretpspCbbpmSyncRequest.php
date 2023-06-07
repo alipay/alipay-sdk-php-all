@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.landcore.landcoretpsp.cbbpm.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 06:50:08
+ * @since 1.0, 2023-05-31 08:14:06
  */
 class AlipayDigitalmgmtLandcoreLandcoretpspCbbpmSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cityservice.pushmsg.permit.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 06:06:46
+ * @since 1.0, 2023-05-31 04:25:05
  */
 class AlipayEcoCityservicePushmsgPermitQueryRequest
 {

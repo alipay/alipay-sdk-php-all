@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.autodamage.image.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 02:35:46
+ * @since 1.0, 2023-05-31 05:16:18
  */
 class AlipayInsDataAutodamageImageUploadRequest
 {

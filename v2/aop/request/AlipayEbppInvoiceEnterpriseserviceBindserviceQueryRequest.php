@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.enterpriseservice.bindservice.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 15:27:01
+ * @since 1.0, 2023-05-31 19:21:58
  */
 class AlipayEbppInvoiceEnterpriseserviceBindserviceQueryRequest
 {

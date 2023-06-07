@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.invoice.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 06:28:03
+ * @since 1.0, 2023-05-31 10:19:22
  */
 class AlipayBossFncGfsettleprodInvoiceCancelRequest
 {

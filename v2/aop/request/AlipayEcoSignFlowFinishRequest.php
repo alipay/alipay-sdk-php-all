@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.sign.flow.finish request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 07:20:45
+ * @since 1.0, 2023-05-31 10:20:46
  */
 class AlipayEcoSignFlowFinishRequest
 {

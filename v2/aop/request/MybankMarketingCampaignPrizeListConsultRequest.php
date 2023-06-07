@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.marketing.campaign.prize.list.consult request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 06:13:58
+ * @since 1.0, 2023-05-31 06:10:29
  */
 class MybankMarketingCampaignPrizeListConsultRequest
 {

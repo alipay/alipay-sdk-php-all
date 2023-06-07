@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.rule.crowd.count request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:21:59
+ * @since 1.0, 2023-05-31 10:31:16
  */
 class AlipayMarketingCampaignRuleCrowdCountRequest
 {

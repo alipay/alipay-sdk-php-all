@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.isv.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:44:03
+ * @since 1.0, 2023-05-31 01:06:33
  */
 class AlipayEbppCommunityIsvCreateRequest
 {

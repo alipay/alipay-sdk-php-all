@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.sportshealth.account.rollback request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:46:55
+ * @since 1.0, 2023-05-31 05:41:56
  */
 class AlipayUserSportshealthAccountRollbackRequest
 {

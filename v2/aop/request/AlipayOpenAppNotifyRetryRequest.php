@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.notify.retry request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 05:03:39
+ * @since 1.0, 2023-05-30 22:34:06
  */
 class AlipayOpenAppNotifyRetryRequest
 {

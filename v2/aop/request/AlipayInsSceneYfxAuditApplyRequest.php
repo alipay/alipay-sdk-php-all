@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.yfx.audit.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:26:49
+ * @since 1.0, 2023-05-31 07:36:50
  */
 class AlipayInsSceneYfxAuditApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antcommonweal.donate.consume.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:17:01
+ * @since 1.0, 2023-05-31 02:31:56
  */
 class AlipaySocialAntcommonwealDonateConsumeSyncRequest
 {

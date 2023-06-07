@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.advertiser.ad.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:51:04
+ * @since 1.0, 2023-05-31 10:27:16
  */
 class AlipayCommerceIotAdvertiserAdCancelRequest
 {

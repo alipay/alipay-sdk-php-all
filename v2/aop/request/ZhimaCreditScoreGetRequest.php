@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.score.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:01:36
+ * @since 1.0, 2023-05-31 21:00:55
  */
 class ZhimaCreditScoreGetRequest
 {

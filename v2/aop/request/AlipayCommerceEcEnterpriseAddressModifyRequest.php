@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.enterprise.address.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 15:07:00
+ * @since 1.0, 2023-06-01 14:21:57
  */
 class AlipayCommerceEcEnterpriseAddressModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.approval.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-09 14:21:54
+ * @since 1.0, 2023-05-31 21:16:55
  */
 class AlipayCommerceEcApprovalCancelRequest
 {

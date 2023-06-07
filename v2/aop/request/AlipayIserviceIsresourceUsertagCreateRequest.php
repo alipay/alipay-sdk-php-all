@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.isresource.usertag.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-17 15:11:47
+ * @since 1.0, 2023-05-31 02:41:53
  */
 class AlipayIserviceIsresourceUsertagCreateRequest
 {

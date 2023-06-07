@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.kbpayment.payorder.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:51:22
+ * @since 1.0, 2023-05-31 22:01:17
  */
 class KoubeiTradeKbpaymentPayorderSyncRequest
 {

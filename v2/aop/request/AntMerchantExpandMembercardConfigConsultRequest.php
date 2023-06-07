@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.membercard.config.consult request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 08:24:34
+ * @since 1.0, 2023-05-30 22:35:12
  */
 class AntMerchantExpandMembercardConfigConsultRequest
 {

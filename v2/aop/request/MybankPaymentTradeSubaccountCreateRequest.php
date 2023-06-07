@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.subaccount.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 08:56:26
+ * @since 1.0, 2023-05-30 19:53:52
  */
 class MybankPaymentTradeSubaccountCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.ecny.file.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 07:09:08
+ * @since 1.0, 2023-05-31 06:35:55
  */
 class MybankEcnyFileUploadRequest
 {

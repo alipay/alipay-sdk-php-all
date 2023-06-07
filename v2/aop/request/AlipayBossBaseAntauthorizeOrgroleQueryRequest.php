@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.antauthorize.orgrole.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:40:16
+ * @since 1.0, 2023-05-30 20:47:25
  */
 class AlipayBossBaseAntauthorizeOrgroleQueryRequest
 {

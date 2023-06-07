@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.zbdm.lineage.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:53:01
+ * @since 1.0, 2023-05-31 19:34:15
  */
 class AlipayDataZbdmLineageQueryRequest
 {

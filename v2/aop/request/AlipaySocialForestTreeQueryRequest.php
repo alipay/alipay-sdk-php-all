@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.forest.tree.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 03:06:59
+ * @since 1.0, 2023-05-31 08:42:00
  */
 class AlipaySocialForestTreeQueryRequest
 {

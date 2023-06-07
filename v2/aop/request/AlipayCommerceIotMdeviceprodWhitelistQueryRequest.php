@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.mdeviceprod.whitelist.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 14:51:01
+ * @since 1.0, 2023-05-31 10:09:50
  */
 class AlipayCommerceIotMdeviceprodWhitelistQueryRequest
 {

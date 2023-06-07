@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.paymenthub.close request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:06:00
+ * @since 1.0, 2023-05-31 05:41:05
  */
 class AlipayBusinessPaymenthubCloseRequest
 {

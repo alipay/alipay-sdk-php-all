@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.auth.binding.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:47:31
+ * @since 1.0, 2023-05-30 21:51:06
  */
 class AlipayCommerceTransportAuthBindingSyncRequest
 {

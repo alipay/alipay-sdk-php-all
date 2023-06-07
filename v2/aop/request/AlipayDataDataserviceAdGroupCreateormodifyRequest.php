@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.group.createormodify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 23:24:39
+ * @since 1.0, 2023-05-31 07:00:29
  */
 class AlipayDataDataserviceAdGroupCreateormodifyRequest
 {

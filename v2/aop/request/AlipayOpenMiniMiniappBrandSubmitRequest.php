@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.miniapp.brand.submit request
  *
  * @author auto create
- * @since 1.0, 2023-05-19 17:11:47
+ * @since 1.0, 2023-05-31 11:51:02
  */
 class AlipayOpenMiniMiniappBrandSubmitRequest
 {

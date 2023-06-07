@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.cloudbus.schedualconfig.set request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:26:05
+ * @since 1.0, 2023-05-30 21:06:15
  */
 class AlipayDataAiserviceCloudbusSchedualconfigSetRequest
 {

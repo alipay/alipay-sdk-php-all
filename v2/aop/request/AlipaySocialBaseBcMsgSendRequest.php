@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.bc.msg.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 15:22:50
+ * @since 1.0, 2023-05-30 23:12:49
  */
 class AlipaySocialBaseBcMsgSendRequest
 {

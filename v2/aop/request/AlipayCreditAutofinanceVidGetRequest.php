@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.credit.autofinance.vid.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 10:03:05
+ * @since 1.0, 2023-05-30 23:49:24
  */
 class AlipayCreditAutofinanceVidGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.exrate.pricing.notify request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:53:06
+ * @since 1.0, 2023-05-31 07:18:41
  */
 class AlipayAccountExratePricingNotifyRequest
 {

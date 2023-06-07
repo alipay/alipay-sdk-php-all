@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.scene.config.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 18:56:48
+ * @since 1.0, 2023-05-31 08:26:49
  */
 class AlipayCommerceEducateSceneConfigCreateRequest
 {

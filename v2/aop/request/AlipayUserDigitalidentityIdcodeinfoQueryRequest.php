@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.digitalidentity.idcodeinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 09:15:20
+ * @since 1.0, 2023-05-30 21:22:27
  */
 class AlipayUserDigitalidentityIdcodeinfoQueryRequest
 {

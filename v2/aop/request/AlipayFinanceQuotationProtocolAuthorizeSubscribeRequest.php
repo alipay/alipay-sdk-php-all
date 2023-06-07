@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.quotation.protocol.authorize.subscribe request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 21:46:59
+ * @since 1.0, 2023-05-31 19:26:59
  */
 class AlipayFinanceQuotationProtocolAuthorizeSubscribeRequest
 {

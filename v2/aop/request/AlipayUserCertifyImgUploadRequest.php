@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certify.img.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:11:47
+ * @since 1.0, 2023-05-31 07:59:18
  */
 class AlipayUserCertifyImgUploadRequest
 {

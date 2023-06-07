@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.advertiser.material.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 19:52:05
+ * @since 1.0, 2023-05-31 05:21:33
  */
 class AlipayCommerceIotAdvertiserMaterialCreateRequest
 {

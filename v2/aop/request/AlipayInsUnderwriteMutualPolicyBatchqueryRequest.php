@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.underwrite.mutual.policy.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 00:13:14
+ * @since 1.0, 2023-05-31 04:34:36
  */
 class AlipayInsUnderwriteMutualPolicyBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.userpermission.identify request
  *
  * @author auto create
- * @since 1.0, 2023-05-25 14:21:47
+ * @since 1.0, 2023-05-30 21:26:57
  */
 class AlipayOpenIotmbsUserpermissionIdentifyRequest
 {

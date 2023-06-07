@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.zavatar.ownedassets.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-05 08:52:03
+ * @since 1.0, 2023-05-30 20:36:51
  */
 class AlipayUserAccountZavatarOwnedassetsQueryRequest
 {

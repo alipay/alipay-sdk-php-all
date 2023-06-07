@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.autoinsprod.quote.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-04 20:19:12
+ * @since 1.0, 2023-05-31 09:30:01
  */
 class AlipayInsAutoAutoinsprodQuoteApplyRequest
 {
