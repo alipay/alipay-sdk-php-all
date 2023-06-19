@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.flexiblestaffing.employeehome.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 23:16:48
+ * @since 1.0, 2023-06-12 11:24:57
  */
 class AlipayFundFlexiblestaffingEmployeehomeApplyRequest
 {

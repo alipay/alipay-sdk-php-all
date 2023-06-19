@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.bizinfo.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-14 17:27:27
+ * @since 1.0, 2023-06-07 11:49:23
  */
 class AlipayEbppIndustryBizinfoQueryRequest
 {

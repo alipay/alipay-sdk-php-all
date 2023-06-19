@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.data.mda.miniappoffline.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 20:41:48
+ * @since 1.0, 2023-06-14 12:16:56
  */
 class AlipayDataMdaMiniappofflineQueryRequest
 {
+	/** 
+	 * 杭州亚运大屏-左屏-一站通离线指标监控指标
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayDataMdaMiniappofflineQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.data.mda.miniappoffline.query";

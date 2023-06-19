@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.benefit.status.callback request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:16:54
+ * @since 1.0, 2023-06-16 15:06:50
  */
 class AlipayCommerceOperationBenefitStatusCallbackRequest
 {

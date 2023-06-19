@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.gravity.workflow.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-22 19:36:49
+ * @since 1.0, 2023-06-12 12:06:56
  */
 class AlipaySecurityRiskGravityWorkflowCreateRequest
 {

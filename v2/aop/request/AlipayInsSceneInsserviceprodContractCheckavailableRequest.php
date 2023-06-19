@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.insserviceprod.contract.checkavailable request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 19:59:06
+ * @since 1.0, 2023-06-09 18:03:34
  */
 class AlipayInsSceneInsserviceprodContractCheckavailableRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.searchbox.downgrade.save request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 14:01:56
+ * @since 1.0, 2023-06-12 16:43:43
  */
 class AlipayOpenSearchboxDowngradeSaveRequest
 {

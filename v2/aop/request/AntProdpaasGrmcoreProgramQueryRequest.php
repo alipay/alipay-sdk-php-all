@@ -3,7 +3,7 @@
  * ALIPAY API: ant.prodpaas.grmcore.program.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:14:39
+ * @since 1.0, 2023-06-14 15:31:57
  */
 class AntProdpaasGrmcoreProgramQueryRequest
 {

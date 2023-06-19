@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:46:47
+ * @since 1.0, 2023-06-14 21:51:57
  */
 class AlipayTradeCreateRequest
 {

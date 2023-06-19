@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotvsp.logicgroupid.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:29:15
+ * @since 1.0, 2023-06-08 15:42:55
  */
 class AlipayOpenIotvspLogicgroupidQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.schoolcontent.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:57:56
+ * @since 1.0, 2023-06-12 14:29:13
  */
 class AlipayCommerceEducateSchoolcontentModifyRequest
 {

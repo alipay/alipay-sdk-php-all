@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.applycompetition.works.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:46:13
+ * @since 1.0, 2023-06-12 14:31:57
  */
 class AlipayCommerceEducateApplycompetitionWorksSyncRequest
 {
