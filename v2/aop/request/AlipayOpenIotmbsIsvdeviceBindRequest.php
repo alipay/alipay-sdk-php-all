@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.isvdevice.bind request
  *
  * @author auto create
- * @since 1.0, 2023-06-01 15:06:54
+ * @since 1.0, 2023-06-27 16:56:53
  */
 class AlipayOpenIotmbsIsvdeviceBindRequest
 {

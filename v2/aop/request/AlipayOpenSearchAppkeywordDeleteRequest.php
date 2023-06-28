@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.appkeyword.delete request
  *
  * @author auto create
- * @since 1.0, 2023-06-12 16:29:26
+ * @since 1.0, 2023-06-28 15:07:06
  */
 class AlipayOpenSearchAppkeywordDeleteRequest
 {

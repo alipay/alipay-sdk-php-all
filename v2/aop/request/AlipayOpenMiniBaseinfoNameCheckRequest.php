@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.baseinfo.name.check request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:56:49
+ * @since 1.0, 2023-06-20 17:21:52
  */
 class AlipayOpenMiniBaseinfoNameCheckRequest
 {

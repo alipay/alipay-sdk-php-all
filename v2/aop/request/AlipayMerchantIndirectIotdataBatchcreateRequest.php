@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.iotdata.batchcreate request
  *
  * @author auto create
- * @since 1.0, 2023-06-07 20:11:49
+ * @since 1.0, 2023-06-21 11:06:43
  */
 class AlipayMerchantIndirectIotdataBatchcreateRequest
 {

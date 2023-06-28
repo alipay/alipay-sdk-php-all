@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.material.image.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 16:19:00
+ * @since 1.0, 2023-06-28 20:57:03
  */
 class AlipayMarketingMaterialImageUploadRequest
 {
@@ -36,10 +36,6 @@ voucher_display_info.voucher_image字段,file_key=PROMO_VOUCHER_IMAGE,上传图�
 	
 	/** 
 	 * 商户接入模式
-
-枚举值
-SELF_MODE 商户自接入模式
-AGENCY_MODE 服务商代接入模式
 	 **/
 	private $merchantAccessMode;
 

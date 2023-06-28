@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.creditbank.studyprofile.modify request
  *
  * @author auto create
- * @since 1.0, 2023-06-12 14:23:03
+ * @since 1.0, 2023-06-19 20:51:54
  */
 class AlipayCommerceEducateCreditbankStudyprofileModifyRequest
 {

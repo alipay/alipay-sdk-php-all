@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.life.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-20 15:46:44
+ * @since 1.0, 2023-06-21 14:03:54
  */
 class AlipaySecurityLifeQueryRequest
 {
