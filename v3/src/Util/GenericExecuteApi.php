@@ -464,7 +464,10 @@ class GenericExecuteApi
             $appParams['biz_content'] = $this->alipayConfigUtil->encrypt($bizContent, $headerParams);
         }
         $totalParams = $appParams + $systemParams;
-        $totalParams['sign'] = $this->alipayConfigUtil->generateSign($this->getSignContent($totalParams));
+
+        if ($this->alipayConfigUtil->isNeedSign()) {
+            $totalParams['sign'] = $this->alipayConfigUtil->generateSign($this->getSignContent($totalParams));
+        }
         if ($this->loadTest) {
             $totalParams['app_id'] = $this->alipayConfigUtil->getAppId() . '_TEST_1A';
         }

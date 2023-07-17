@@ -160,7 +160,11 @@ class AlipayConfigUtil
             . ($this->checkEmpty($httpRequestBody) ? '' : $httpRequestBody) . "\n"
             . ($this->checkEmpty($appAuthToken) ? '' : $appAuthToken . "\n");
 
-        $headerParams['Authorization'] = 'ALIPAY-SHA256withRSA' . ' ' . $authString . ',sign=' . $this->generateSign($content);
+        if ($this->isNeedSign()) {
+            $headerParams['Authorization'] = 'ALIPAY-SHA256withRSA' . ' ' . $authString . ',sign=' . $this->generateSign($content);
+        } else {
+            $headerParams['Authorization'] = 'ALIPAY-SHA256withRSA' . ' ' . $authString;
+        }
     }
 
     public function generateSign($content)
@@ -208,6 +212,9 @@ class AlipayConfigUtil
         }
 
         if (!$res) {
+            if (!$this->isNeedSign()) {
+                return true;
+            }
             throw new ApiException('支付宝RSA公钥错误。请检查公钥文件格式是否正确', 400);
         }
 
@@ -222,6 +229,19 @@ class AlipayConfigUtil
             openssl_free_key($res);
         }
         return $result;
+    }
+
+    /**
+     * 是否需要携带签名参数（未配置私钥参数时则不需要携带）
+     *
+     * @return bool
+     */
+    public function isNeedSign()
+    {
+        if ($this->checkEmpty($this->privateKey) && $this->checkEmpty($this->privateKeyFilePath)) {
+            return false;
+        }
+        return true;
     }
 
     /**

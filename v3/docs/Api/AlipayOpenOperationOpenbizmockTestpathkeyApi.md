@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `query()`
 
 ```php
-query($keykey, $a, $b, $c, $alipayOpenOperationOpenbizmockTestpathkeyQueryModel): \Alipay\OpenAPISDK\Model\AlipayOpenOperationOpenbizmockTestpathkeyQueryResponseModel
+query($keykey, $a, $b, $c, $data, $f): \Alipay\OpenAPISDK\Model\AlipayOpenOperationOpenbizmockTestpathkeyQueryResponseModel
 ```
 
 测试网关协议3.0key和path
@@ -49,10 +49,11 @@ $keykey = keykey; // string | ceshi
 $a = a; // string | 测试
 $b = b; // string | ceshi
 $c = c; // string | 测试
-$alipayOpenOperationOpenbizmockTestpathkeyQueryModel = new \Alipay\OpenAPISDK\Model\AlipayOpenOperationOpenbizmockTestpathkeyQueryModel(); // \Alipay\OpenAPISDK\Model\AlipayOpenOperationOpenbizmockTestpathkeyQueryModel
+$data = new \Alipay\OpenAPISDK\Model\AlipayOpenOperationOpenbizmockTestpathkeyQueryModel(); // \Alipay\OpenAPISDK\Model\AlipayOpenOperationOpenbizmockTestpathkeyQueryModel
+$f = "/path/to/file.txt"; // \SplFileObject
 
 try {
-    $result = $apiInstance->query($keykey, $a, $b, $c, $alipayOpenOperationOpenbizmockTestpathkeyQueryModel);
+    $result = $apiInstance->query($keykey, $a, $b, $c, $data, $f);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayOpenOperationOpenbizmockTestpathkeyApi->query: ', $e->getMessage(), PHP_EOL;
@@ -67,7 +68,8 @@ Name | Type | Description  | Notes
  **a** | **string**| 测试 |
  **b** | **string**| ceshi | [optional]
  **c** | **string**| 测试 | [optional]
- **alipayOpenOperationOpenbizmockTestpathkeyQueryModel** | **\Alipay\OpenAPISDK\Model\AlipayOpenOperationOpenbizmockTestpathkeyQueryModel**|  | [optional]
+ **data** | **\Alipay\OpenAPISDK\Model\AlipayOpenOperationOpenbizmockTestpathkeyQueryModel**|  | [optional]
+ **f** | **\SplFileObject****\SplFileObject**|  | [optional]
 
 ### Return type
 
@@ -79,7 +81,7 @@ No authorization required
 
 ### HTTP request headers
 
-- **Content-Type**: `application/json`
+- **Content-Type**: `multipart/form-data`
 - **Accept**: `application/json`
 
 [[Back to top]](#) [[Back to API list]](../../README.md#api-endpoints)

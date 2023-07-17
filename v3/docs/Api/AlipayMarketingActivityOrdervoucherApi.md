@@ -272,7 +272,7 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $activityId = 2016042700826004508401111111; // string | 活动id
-$merchantAccessMode = SELF_MODE; // string | 商户接入模式  枚举值 SELF_MODE 商户自接入模式 AGENCY_MODE 服务商代接入模式
+$merchantAccessMode = SELF_MODE; // string | 商户接入模式
 
 try {
     $result = $apiInstance->codecount($activityId, $merchantAccessMode);
@@ -287,7 +287,7 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **activityId** | **string**| 活动id |
- **merchantAccessMode** | **string**| 商户接入模式  枚举值 SELF_MODE 商户自接入模式 AGENCY_MODE 服务商代接入模式 | [optional]
+ **merchantAccessMode** | **string**| 商户接入模式 | [optional]
 
 ### Return type
 

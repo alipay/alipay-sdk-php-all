@@ -46,7 +46,7 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $settleNo = 20210706002530020036530021395831; // string | 支付宝分账请求单号，传入该字段，无需再传外部请求号和支付宝交易号
-$outRequestNo = 20210727001; // string | 外部请求号，需要和支付宝交易号一起传入
+$outRequestNo = 20210727001; // string | 调用分账接口时指定的外部请求号。分账查询时需要和支付宝交易号一起传入
 $tradeNo = 2021112611001004680 073956707; // string | 支付宝交易号，传入该字段，需要和外部请求号一起传入
 
 try {
@@ -62,7 +62,7 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **settleNo** | **string**| 支付宝分账请求单号，传入该字段，无需再传外部请求号和支付宝交易号 | [optional]
- **outRequestNo** | **string**| 外部请求号，需要和支付宝交易号一起传入 | [optional]
+ **outRequestNo** | **string**| 调用分账接口时指定的外部请求号。分账查询时需要和支付宝交易号一起传入 | [optional]
  **tradeNo** | **string**| 支付宝交易号，传入该字段，需要和外部请求号一起传入 | [optional]
 
 ### Return type

@@ -46,7 +46,7 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $bundleId = com.alipay.alipaywallet; // string | 端参数，用于查询多端版本，不传默认为支付宝端。 高德端：com.amap.app
-$versionStatus = AUDITING; // string | 版本状态列表，用英文逗号\",\"分割，可选；不填默认不返回，状态可选值以及说明如下-INIT: 开发中, AUDITING: 审核中, AUDIT_REJECT: 审核驳回, WAIT_RELEASE: 待上架, BASE_AUDIT_PASS: 准入不可营销, GRAY: 灰度中, RELEASE: 已上架, OFFLINE: 已下架, AUDIT_OFFLINE: 已下架;
+$versionStatus = AUDITING; // string | 版本状态列表，用英文逗号\",\"分割，可选；不填默认不返回。
 
 try {
     $result = $apiInstance->query($bundleId, $versionStatus);
@@ -61,7 +61,7 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **bundleId** | **string**| 端参数，用于查询多端版本，不传默认为支付宝端。 高德端：com.amap.app | [optional]
- **versionStatus** | **string**| 版本状态列表，用英文逗号\&quot;,\&quot;分割，可选；不填默认不返回，状态可选值以及说明如下-INIT: 开发中, AUDITING: 审核中, AUDIT_REJECT: 审核驳回, WAIT_RELEASE: 待上架, BASE_AUDIT_PASS: 准入不可营销, GRAY: 灰度中, RELEASE: 已上架, OFFLINE: 已下架, AUDIT_OFFLINE: 已下架; | [optional]
+ **versionStatus** | **string**| 版本状态列表，用英文逗号\&quot;,\&quot;分割，可选；不填默认不返回。 | [optional]
 
 ### Return type
 
