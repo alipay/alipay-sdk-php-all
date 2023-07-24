@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.tag.dist.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:35:28
+ * @since 1.0, 2023-07-18 21:46:52
  */
 class DatadigitalFincloudFinsaasTagDistQueryRequest
 {

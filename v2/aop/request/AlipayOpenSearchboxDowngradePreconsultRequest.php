@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.searchbox.downgrade.preconsult request
  *
  * @author auto create
- * @since 1.0, 2023-06-12 16:19:22
+ * @since 1.0, 2023-07-11 22:07:05
  */
 class AlipayOpenSearchboxDowngradePreconsultRequest
 {

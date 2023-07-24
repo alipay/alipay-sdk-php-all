@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.zmgo.settle.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 07:36:48
+ * @since 1.0, 2023-07-11 16:34:03
  */
 class ZhimaCreditPeZmgoSettleApplyRequest
 {

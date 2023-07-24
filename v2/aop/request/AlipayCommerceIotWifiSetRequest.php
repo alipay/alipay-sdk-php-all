@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.wifi.set request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 09:38:19
+ * @since 1.0, 2023-07-05 14:51:05
  */
 class AlipayCommerceIotWifiSetRequest
 {

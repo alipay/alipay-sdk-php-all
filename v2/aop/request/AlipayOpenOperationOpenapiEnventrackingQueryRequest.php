@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.openapi.enventracking.query request
  *
  * @author auto create
- * @since 1.0, 2023-04-21 21:56:45
+ * @since 1.0, 2023-07-12 19:29:22
  */
 class AlipayOpenOperationOpenapiEnventrackingQueryRequest
 {

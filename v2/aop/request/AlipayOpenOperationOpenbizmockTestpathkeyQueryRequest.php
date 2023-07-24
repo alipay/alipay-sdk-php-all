@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.openbizmock.testpathkey.query request
  *
  * @author auto create
- * @since 1.0, 2023-06-27 17:01:56
+ * @since 1.0, 2023-07-07 11:31:56
  */
 class AlipayOpenOperationOpenbizmockTestpathkeyQueryRequest
 {
@@ -26,6 +26,16 @@ class AlipayOpenOperationOpenbizmockTestpathkeyQueryRequest
 	 * 4
 	 **/
 	private $d;
+	
+	/** 
+	 * 1
+	 **/
+	private $e;
+	
+	/** 
+	 * 1
+	 **/
+	private $f;
 	
 	/** 
 	 * ceshi
@@ -84,6 +94,28 @@ class AlipayOpenOperationOpenbizmockTestpathkeyQueryRequest
 	public function getD()
 	{
 		return $this->d;
+	}
+
+	public function setE($e)
+	{
+		$this->e = $e;
+		$this->apiParas["e"] = $e;
+	}
+
+	public function getE()
+	{
+		return $this->e;
+	}
+
+	public function setF($f)
+	{
+		$this->f = $f;
+		$this->apiParas["f"] = $f;
+	}
+
+	public function getF()
+	{
+		return $this->f;
 	}
 
 	public function setKeykey($keykey)

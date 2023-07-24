@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.trace.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:51:21
+ * @since 1.0, 2023-07-05 14:50:04
  */
 class AlipayCommerceIotDeviceTraceQueryRequest
 {

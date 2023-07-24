@@ -3,7 +3,7 @@
  * ALIPAY API: techrisk.innovate.mpcpromo.data.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 20:09:40
+ * @since 1.0, 2023-07-13 09:36:54
  */
 class TechriskInnovateMpcpromoDataDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.deduct.consult request
  *
  * @author auto create
- * @since 1.0, 2023-06-05 13:59:38
+ * @since 1.0, 2023-07-18 22:36:56
  */
 class AlipayMarketingActivityDeductConsultRequest
 {

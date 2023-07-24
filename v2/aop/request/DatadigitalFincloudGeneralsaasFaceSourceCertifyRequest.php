@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.face.source.certify request
  *
  * @author auto create
- * @since 1.0, 2023-06-15 17:42:20
+ * @since 1.0, 2023-07-20 16:22:04
  */
 class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 {
@@ -26,6 +26,14 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	 * 二进制流图片，大小限制1M
 	 **/
 	private $fileContent;
+	
+	/** 
+	 * 活体检测类型，当前枚举支持：
+OFF：关闭活体检测；
+CHECK：正常活体检测。
+不传默认CHECK。
+	 **/
+	private $livenessStrategy;
 	
 	/** 
 	 * 客户业务单据号
@@ -94,6 +102,17 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	public function getFileContent()
 	{
 		return $this->fileContent;
+	}
+
+	public function setLivenessStrategy($livenessStrategy)
+	{
+		$this->livenessStrategy = $livenessStrategy;
+		$this->apiParas["liveness_strategy"] = $livenessStrategy;
+	}
+
+	public function getLivenessStrategy()
+	{
+		return $this->livenessStrategy;
 	}
 
 	public function setOuterBizNo($outerBizNo)

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.tasktemplate.publish request
  *
  * @author auto create
- * @since 1.0, 2023-06-20 14:36:51
+ * @since 1.0, 2023-07-06 14:47:01
  */
 class AlipayCommerceCommonTasktemplatePublishRequest
 {

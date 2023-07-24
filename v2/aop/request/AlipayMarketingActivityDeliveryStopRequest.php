@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.delivery.stop request
  *
  * @author auto create
- * @since 1.0, 2023-06-28 20:26:25
+ * @since 1.0, 2023-07-18 22:32:01
  */
 class AlipayMarketingActivityDeliveryStopRequest
 {

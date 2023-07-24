@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.fqqrcode.hbfq.bind request
  *
  * @author auto create
- * @since 1.0, 2023-06-28 15:56:53
+ * @since 1.0, 2023-07-12 11:56:59
  */
 class AlipayPcreditHuabeiFqqrcodeHbfqBindRequest
 {

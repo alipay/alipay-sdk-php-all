@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.isresource.userpermissiongrant.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 03:41:53
+ * @since 1.0, 2023-07-10 10:04:45
  */
 class AlipayIserviceIsresourceUserpermissiongrantModifyRequest
 {

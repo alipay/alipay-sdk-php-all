@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.arbill.monthstatementbill.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:16:24
+ * @since 1.0, 2023-07-18 14:43:31
  */
 class AlipayBossFncArbillMonthstatementbillQueryRequest
 {

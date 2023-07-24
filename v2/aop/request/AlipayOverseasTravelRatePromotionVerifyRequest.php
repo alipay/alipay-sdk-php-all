@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.rate.promotion.verify request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 19:41:51
+ * @since 1.0, 2023-07-14 10:47:29
  */
 class AlipayOverseasTravelRatePromotionVerifyRequest
 {

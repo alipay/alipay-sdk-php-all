@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.balance.period.modify request
  *
  * @author auto create
- * @since 1.0, 2023-06-25 16:46:52
+ * @since 1.0, 2023-07-03 15:31:59
  */
 class AlipayCommerceEcBalancePeriodModifyRequest
 {
