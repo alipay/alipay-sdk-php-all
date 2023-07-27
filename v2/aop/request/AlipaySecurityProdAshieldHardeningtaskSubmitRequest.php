@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.ashield.hardeningtask.submit request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:26:56
+ * @since 1.0, 2023-07-26 14:36:52
  */
 class AlipaySecurityProdAshieldHardeningtaskSubmitRequest
 {
