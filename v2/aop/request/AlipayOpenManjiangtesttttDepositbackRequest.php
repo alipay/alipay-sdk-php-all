@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.manjiangtestttt.depositback request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 09:16:59
+ * @since 1.0, 2023-07-27 20:51:57
  */
 class AlipayOpenManjiangtesttttDepositbackRequest
 {

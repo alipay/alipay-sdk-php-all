@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.intelligentize.servicetask.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 21:08:41
+ * @since 1.0, 2023-08-07 10:39:52
  */
 class AlipayCommerceTransportIntelligentizeServicetaskQueryRequest
 {

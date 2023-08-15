@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.face.source.certify request
  *
  * @author auto create
- * @since 1.0, 2023-07-20 16:22:04
+ * @since 1.0, 2023-08-11 10:06:40
  */
 class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 {
@@ -49,6 +49,11 @@ CHECK：正常活体检测。
 	 * true：需要留底；false：无需留底。默认留底
 	 **/
 	private $reserved;
+	
+	/** 
+	 * ON：开启安全拦截。OFF：关闭安全拦截。建议开启，能够有效防御攻击，默认取值为ON。
+	 **/
+	private $securityStrategy;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -146,6 +151,17 @@ CHECK：正常活体检测。
 	public function getReserved()
 	{
 		return $this->reserved;
+	}
+
+	public function setSecurityStrategy($securityStrategy)
+	{
+		$this->securityStrategy = $securityStrategy;
+		$this->apiParas["security_strategy"] = $securityStrategy;
+	}
+
+	public function getSecurityStrategy()
+	{
+		return $this->securityStrategy;
 	}
 
 	public function getApiMethodName()

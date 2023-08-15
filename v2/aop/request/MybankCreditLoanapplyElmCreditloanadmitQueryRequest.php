@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loanapply.elm.creditloanadmit.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 17:41:58
+ * @since 1.0, 2023-08-10 10:25:07
  */
 class MybankCreditLoanapplyElmCreditloanadmitQueryRequest
 {

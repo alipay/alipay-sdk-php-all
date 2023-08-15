@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalop.ucdp.apecreative.pictaskresult.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-27 10:42:00
+ * @since 1.0, 2023-07-27 21:21:59
  */
 class AlipayDigitalopUcdpApecreativePictaskresultQueryRequest
 {

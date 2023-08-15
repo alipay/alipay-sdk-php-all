@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.job.sync request
  *
  * @author auto create
- * @since 1.0, 2023-07-21 15:31:56
+ * @since 1.0, 2023-08-08 17:51:39
  */
 class AlipayEbppIndustryJobSyncRequest
 {

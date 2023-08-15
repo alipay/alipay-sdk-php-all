@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.ashield.hardeninglog.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:26:56
+ * @since 1.0, 2023-08-10 14:01:38
  */
 class AlipaySecurityProdAshieldHardeninglogGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innercontent.sign request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:15:23
+ * @since 1.0, 2023-07-28 10:31:35
  */
 class AlipayOpenMiniInnercontentSignRequest
 {

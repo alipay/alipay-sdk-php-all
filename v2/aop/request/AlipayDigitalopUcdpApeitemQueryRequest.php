@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalop.ucdp.apeitem.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 20:36:57
+ * @since 1.0, 2023-08-01 20:42:03
  */
 class AlipayDigitalopUcdpApeitemQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.objectstorage.uploadurl.get request
  *
  * @author auto create
- * @since 1.0, 2023-06-28 10:16:56
+ * @since 1.0, 2023-08-01 16:21:53
  */
 class AlipayCloudCloudrunObjectstorageUploadurlGetRequest
 {

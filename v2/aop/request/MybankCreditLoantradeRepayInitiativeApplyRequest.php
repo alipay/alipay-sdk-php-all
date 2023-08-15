@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.repay.initiative.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:07:29
+ * @since 1.0, 2023-08-10 10:17:07
  */
 class MybankCreditLoantradeRepayInitiativeApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.water.usertask.modify request
  *
  * @author auto create
- * @since 1.0, 2023-07-27 09:51:52
+ * @since 1.0, 2023-08-03 10:57:08
  */
 class AlipayCommerceWaterUsertaskModifyRequest
 {
