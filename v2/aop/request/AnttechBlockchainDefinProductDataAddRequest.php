@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.product.data.add request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:58:18
+ * @since 1.0, 2023-08-21 04:27:20
  */
 class AnttechBlockchainDefinProductDataAddRequest
 {

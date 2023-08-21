@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.clive.connect.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:01:17
+ * @since 1.0, 2023-08-21 01:31:50
  */
 class AlipayIserviceCliveConnectCreateRequest
 {

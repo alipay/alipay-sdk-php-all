@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.sms.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:26:24
+ * @since 1.0, 2023-08-21 01:27:21
  */
 class AlipayEcoSmsSendRequest
 {

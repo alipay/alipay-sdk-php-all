@@ -3,7 +3,7 @@
  * ALIPAY API: ssdata.dataservice.risk.audio.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:36:16
+ * @since 1.0, 2023-08-20 16:43:48
  */
 class SsdataDataserviceRiskAudioQueryRequest
 {

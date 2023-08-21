@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.terminal.powerbankorder.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:21:56
+ * @since 1.0, 2023-08-21 01:16:46
  */
 class AlipayCommerceOperationTerminalPowerbankorderInitializeRequest
 {

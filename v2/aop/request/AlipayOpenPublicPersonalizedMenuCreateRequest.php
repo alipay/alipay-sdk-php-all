@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.personalized.menu.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:02:36
+ * @since 1.0, 2023-08-21 02:20:55
  */
 class AlipayOpenPublicPersonalizedMenuCreateRequest
 {

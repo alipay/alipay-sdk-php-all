@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.accountbinding.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:19:38
+ * @since 1.0, 2023-08-21 02:18:46
  */
 class AlipayCommerceIotAccountbindingCreateRequest
 {

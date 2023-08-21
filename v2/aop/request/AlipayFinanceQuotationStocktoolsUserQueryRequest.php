@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.quotation.stocktools.user.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:16:50
+ * @since 1.0, 2023-08-20 17:51:46
  */
 class AlipayFinanceQuotationStocktoolsUserQueryRequest
 {

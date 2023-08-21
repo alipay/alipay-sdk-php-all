@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.income.lease.submit request
  *
  * @author auto create
- * @since 1.0, 2023-06-28 19:31:55
+ * @since 1.0, 2023-08-21 01:06:43
  */
 class AnttechBlockchainFinanceIncomeLeaseSubmitRequest
 {

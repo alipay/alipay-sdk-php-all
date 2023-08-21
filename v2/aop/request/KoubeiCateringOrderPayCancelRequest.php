@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.order.pay.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:01:27
+ * @since 1.0, 2023-08-21 02:47:29
  */
 class KoubeiCateringOrderPayCancelRequest
 {

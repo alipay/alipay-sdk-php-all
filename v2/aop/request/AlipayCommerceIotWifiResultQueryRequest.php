@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.wifi.result.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-05 14:50:22
+ * @since 1.0, 2023-08-21 04:31:27
  */
 class AlipayCommerceIotWifiResultQueryRequest
 {

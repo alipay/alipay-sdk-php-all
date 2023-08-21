@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.cloud.app.permission.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:21:49
+ * @since 1.0, 2023-08-20 16:41:44
  */
 class AlipayOpenCloudAppPermissionSyncRequest
 {

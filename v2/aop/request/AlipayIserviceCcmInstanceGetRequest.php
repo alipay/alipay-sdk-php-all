@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.instance.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 20:38:44
+ * @since 1.0, 2023-08-21 04:11:46
  */
 class AlipayIserviceCcmInstanceGetRequest
 {

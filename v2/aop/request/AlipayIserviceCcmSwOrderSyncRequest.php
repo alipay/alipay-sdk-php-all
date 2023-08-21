@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.sw.order.sync request
  *
  * @author auto create
- * @since 1.0, 2023-06-08 11:36:54
+ * @since 1.0, 2023-08-21 04:11:46
  */
 class AlipayIserviceCcmSwOrderSyncRequest
 {

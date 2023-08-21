@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.verifyidentity.common.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 20:53:28
+ * @since 1.0, 2023-08-21 01:53:39
  */
 class AlipaySecurityRiskVerifyidentityCommonQueryRequest
 {

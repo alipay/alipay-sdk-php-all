@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.order.itembill.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-08-09 16:49:59
+ * @since 1.0, 2023-08-18 17:01:42
  */
 class AlipayOpenMiniOrderItembillBatchqueryRequest
 {

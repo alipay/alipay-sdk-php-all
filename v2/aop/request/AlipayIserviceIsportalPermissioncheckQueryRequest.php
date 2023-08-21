@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.isportal.permissioncheck.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-10 10:04:54
+ * @since 1.0, 2023-08-21 01:31:42
  */
 class AlipayIserviceIsportalPermissioncheckQueryRequest
 {

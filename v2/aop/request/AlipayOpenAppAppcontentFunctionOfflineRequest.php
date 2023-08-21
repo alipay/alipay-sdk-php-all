@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.appcontent.function.offline request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:15:55
+ * @since 1.0, 2023-08-21 05:35:09
  */
 class AlipayOpenAppAppcontentFunctionOfflineRequest
 {

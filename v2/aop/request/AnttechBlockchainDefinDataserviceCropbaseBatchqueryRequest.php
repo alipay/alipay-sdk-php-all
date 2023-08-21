@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.dataservice.cropbase.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:51:50
+ * @since 1.0, 2023-08-21 04:01:45
  */
 class AnttechBlockchainDefinDataserviceCropbaseBatchqueryRequest
 {

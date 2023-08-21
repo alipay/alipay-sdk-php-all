@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.entertainment.order.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:54:14
+ * @since 1.0, 2023-08-20 18:06:36
  */
 class AlipayEcoEntertainmentOrderUploadRequest
 {

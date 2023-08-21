@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.mall.trade.subscribe request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:28:12
+ * @since 1.0, 2023-08-21 03:47:24
  */
 class KoubeiMarketingMallTradeSubscribeRequest
 {

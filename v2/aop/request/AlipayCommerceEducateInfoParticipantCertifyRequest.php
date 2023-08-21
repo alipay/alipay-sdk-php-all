@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.info.participant.certify request
  *
  * @author auto create
- * @since 1.0, 2023-06-19 20:50:49
+ * @since 1.0, 2023-08-20 16:39:05
  */
 class AlipayCommerceEducateInfoParticipantCertifyRequest
 {

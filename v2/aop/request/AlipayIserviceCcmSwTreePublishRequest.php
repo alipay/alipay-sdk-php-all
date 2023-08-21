@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.sw.tree.publish request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 22:36:57
+ * @since 1.0, 2023-08-21 05:46:47
  */
 class AlipayIserviceCcmSwTreePublishRequest
 {

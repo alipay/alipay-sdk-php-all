@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.complain.government.finish request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 06:10:45
+ * @since 1.0, 2023-08-21 05:23:13
  */
 class AlipayMerchantComplainGovernmentFinishRequest
 {

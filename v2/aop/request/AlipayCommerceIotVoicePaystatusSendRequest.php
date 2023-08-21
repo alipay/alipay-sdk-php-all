@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.voice.paystatus.send request
  *
  * @author auto create
- * @since 1.0, 2023-07-05 14:52:05
+ * @since 1.0, 2023-08-21 05:56:43
  */
 class AlipayCommerceIotVoicePaystatusSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.order.refundconfirmcommit request
  *
  * @author auto create
- * @since 1.0, 2023-07-18 22:32:05
+ * @since 1.0, 2023-08-20 17:26:46
  */
 class AlipayMarketingActivityOrderRefundconfirmcommitRequest
 {

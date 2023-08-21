@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.ropgn.risktask.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:04:42
+ * @since 1.0, 2023-08-20 17:59:52
  */
 class AlipaySecurityRopgnRisktaskCreateRequest
 {

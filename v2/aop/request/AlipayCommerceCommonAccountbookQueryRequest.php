@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.accountbook.query request
  *
  * @author auto create
- * @since 1.0, 2023-06-20 14:31:59
+ * @since 1.0, 2023-08-20 17:01:42
  */
 class AlipayCommerceCommonAccountbookQueryRequest
 {

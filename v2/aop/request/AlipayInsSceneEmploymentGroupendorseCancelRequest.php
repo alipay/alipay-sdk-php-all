@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.employment.groupendorse.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 18:56:52
+ * @since 1.0, 2023-08-21 04:46:41
  */
 class AlipayInsSceneEmploymentGroupendorseCancelRequest
 {

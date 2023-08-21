@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.indirectisv.activity.effect request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:40:16
+ * @since 1.0, 2023-08-21 05:07:31
  */
 class AlipayOfflineProviderIndirectisvActivityEffectRequest
 {

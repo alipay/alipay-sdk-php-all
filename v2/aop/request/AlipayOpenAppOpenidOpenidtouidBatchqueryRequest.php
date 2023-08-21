@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.openid.openidtouid.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-07-14 16:11:53
+ * @since 1.0, 2023-08-20 18:46:42
  */
 class AlipayOpenAppOpenidOpenidtouidBatchqueryRequest
 {

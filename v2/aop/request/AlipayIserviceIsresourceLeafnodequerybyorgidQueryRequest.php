@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.isresource.leafnodequerybyorgid.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-10 10:02:34
+ * @since 1.0, 2023-08-21 04:36:42
  */
 class AlipayIserviceIsresourceLeafnodequerybyorgidQueryRequest
 {

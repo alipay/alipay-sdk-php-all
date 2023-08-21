@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.air.xfg.dsg.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:00:35
+ * @since 1.0, 2023-08-20 17:38:54
  */
 class AlipayCommerceAirXfgDsgModifyRequest
 {

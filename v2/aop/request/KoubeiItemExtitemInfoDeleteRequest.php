@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.item.extitem.info.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:31:33
+ * @since 1.0, 2023-08-20 18:28:37
  */
 class KoubeiItemExtitemInfoDeleteRequest
 {

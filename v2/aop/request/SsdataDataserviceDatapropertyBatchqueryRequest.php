@@ -3,7 +3,7 @@
  * ALIPAY API: ssdata.dataservice.dataproperty.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:03:14
+ * @since 1.0, 2023-08-20 18:04:12
  */
 class SsdataDataserviceDatapropertyBatchqueryRequest
 {

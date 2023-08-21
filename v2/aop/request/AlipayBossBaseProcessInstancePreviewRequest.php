@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.process.instance.preview request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:23:51
+ * @since 1.0, 2023-08-21 03:12:49
  */
 class AlipayBossBaseProcessInstancePreviewRequest
 {

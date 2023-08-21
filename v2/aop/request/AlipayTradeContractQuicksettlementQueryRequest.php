@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.contract.quicksettlement.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:44:45
+ * @since 1.0, 2023-08-21 02:28:00
  */
 class AlipayTradeContractQuicksettlementQueryRequest
 {

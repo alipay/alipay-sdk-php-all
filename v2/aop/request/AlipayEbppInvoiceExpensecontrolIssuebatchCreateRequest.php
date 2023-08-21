@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expensecontrol.issuebatch.create request
  *
  * @author auto create
- * @since 1.0, 2023-06-21 17:26:50
+ * @since 1.0, 2023-08-21 03:01:41
  */
 class AlipayEbppInvoiceExpensecontrolIssuebatchCreateRequest
 {

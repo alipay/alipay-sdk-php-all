@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.contract.facetoface.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:32:18
+ * @since 1.0, 2023-08-20 17:01:33
  */
 class AntMerchantExpandContractFacetofaceQueryRequest
 {

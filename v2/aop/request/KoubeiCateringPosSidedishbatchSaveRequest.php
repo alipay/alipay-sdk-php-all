@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.sidedishbatch.save request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:02:07
+ * @since 1.0, 2023-08-21 03:24:18
  */
 class KoubeiCateringPosSidedishbatchSaveRequest
 {

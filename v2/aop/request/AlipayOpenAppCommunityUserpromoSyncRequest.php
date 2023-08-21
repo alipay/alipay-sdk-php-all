@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.community.userpromo.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:51:47
+ * @since 1.0, 2023-08-21 01:34:28
  */
 class AlipayOpenAppCommunityUserpromoSyncRequest
 {

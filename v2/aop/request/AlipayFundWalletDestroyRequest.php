@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.destroy request
  *
  * @author auto create
- * @since 1.0, 2023-06-26 14:46:58
+ * @since 1.0, 2023-08-17 20:59:52
  */
 class AlipayFundWalletDestroyRequest
 {

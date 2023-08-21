@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.commercialization.certificate.freeze request
  *
  * @author auto create
- * @since 1.0, 2023-08-15 11:01:41
+ * @since 1.0, 2023-08-16 11:21:40
  */
 class AlipayEcoMycarCommercializationCertificateFreezeRequest
 {

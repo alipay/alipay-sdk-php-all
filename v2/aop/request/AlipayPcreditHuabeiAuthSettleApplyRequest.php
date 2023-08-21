@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.auth.settle.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:56:49
+ * @since 1.0, 2023-08-20 17:41:46
  */
 class AlipayPcreditHuabeiAuthSettleApplyRequest
 {

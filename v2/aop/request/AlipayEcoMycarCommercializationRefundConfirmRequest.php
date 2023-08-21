@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.commercialization.refund.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-08-04 10:01:54
+ * @since 1.0, 2023-08-17 17:06:54
  */
 class AlipayEcoMycarCommercializationRefundConfirmRequest
 {

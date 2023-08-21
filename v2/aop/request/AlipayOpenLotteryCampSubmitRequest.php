@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.lottery.camp.submit request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 00:01:00
+ * @since 1.0, 2023-08-21 03:35:10
  */
 class AlipayOpenLotteryCampSubmitRequest
 {

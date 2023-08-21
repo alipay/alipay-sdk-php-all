@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lease.enroll.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 11:07:41
+ * @since 1.0, 2023-08-21 03:36:42
  */
 class AlipayCommerceLeaseEnrollQueryRequest
 {

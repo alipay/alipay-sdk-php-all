@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.rcservsmart.customizerule.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:16:50
+ * @since 1.0, 2023-08-21 02:16:45
  */
 class AlipayFincoreComplianceRcservsmartCustomizeruleModifyRequest
 {

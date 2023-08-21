@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.activity.merchant.sign request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 20:12:02
+ * @since 1.0, 2023-08-21 06:26:48
  */
 class AlipayCommerceOperationActivityMerchantSignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.invoicemailinfo.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:26:51
+ * @since 1.0, 2023-08-20 16:45:52
  */
 class AlipayBossFncGfsettleprodInvoicemailinfoCreateRequest
 {

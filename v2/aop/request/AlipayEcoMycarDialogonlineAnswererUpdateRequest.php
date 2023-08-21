@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.dialogonline.answerer.update request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 09:30:51
+ * @since 1.0, 2023-08-21 05:30:00
  */
 class AlipayEcoMycarDialogonlineAnswererUpdateRequest
 {

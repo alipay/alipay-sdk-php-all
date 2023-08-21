@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.welfarefoundation.volunteers.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-06-16 11:22:35
+ * @since 1.0, 2023-08-21 01:56:42
  */
 class AlipayDigitalmgmtWelfarefoundationVolunteersBatchqueryRequest
 {

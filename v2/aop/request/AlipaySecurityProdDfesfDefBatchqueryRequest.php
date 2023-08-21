@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.dfesf.def.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:14:31
+ * @since 1.0, 2023-08-20 16:44:20
  */
 class AlipaySecurityProdDfesfDefBatchqueryRequest
 {

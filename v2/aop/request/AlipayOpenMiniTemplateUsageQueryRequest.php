@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.template.usage.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 22:17:03
+ * @since 1.0, 2023-08-21 05:26:46
  */
 class AlipayOpenMiniTemplateUsageQueryRequest
 {

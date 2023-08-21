@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.transfer.payment.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:14:47
+ * @since 1.0, 2023-08-21 02:34:04
  */
 class AlipayOverseasTransferPaymentCancelRequest
 {

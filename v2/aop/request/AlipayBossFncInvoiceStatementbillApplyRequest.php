@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.invoice.statementbill.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:46:08
+ * @since 1.0, 2023-08-21 03:35:43
  */
 class AlipayBossFncInvoiceStatementbillApplyRequest
 {

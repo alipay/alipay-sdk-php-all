@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.vehicle.servicenotify.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:46:59
+ * @since 1.0, 2023-08-21 03:51:47
  */
 class AlipayEcoMycarVehicleServicenotifySendRequest
 {

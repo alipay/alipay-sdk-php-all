@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.httpaccess.cors.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-08 23:41:39
+ * @since 1.0, 2023-08-17 21:06:18
  */
 class AlipayCloudCloudbaseHttpaccessCorsQueryRequest
 {

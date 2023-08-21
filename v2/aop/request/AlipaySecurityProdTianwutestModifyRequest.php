@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.tianwutest.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:59:27
+ * @since 1.0, 2023-08-21 05:59:23
  */
 class AlipaySecurityProdTianwutestModifyRequest
 {

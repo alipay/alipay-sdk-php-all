@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.data.upload.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 20:12:45
+ * @since 1.0, 2023-08-21 05:41:03
  */
 class ZhimaMerchantDataUploadInitializeRequest
 {

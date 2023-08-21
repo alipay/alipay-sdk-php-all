@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.complaint.process.finish request
  *
  * @author auto create
- * @since 1.0, 2023-07-19 16:12:12
+ * @since 1.0, 2023-08-21 02:16:43
  */
 class AlipaySecurityRiskComplaintProcessFinishRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expensecomsue.outsource.notify request
  *
  * @author auto create
- * @since 1.0, 2023-08-09 11:31:39
+ * @since 1.0, 2023-08-17 16:06:42
  */
 class AlipayEbppInvoiceExpensecomsueOutsourceNotifyRequest
 {

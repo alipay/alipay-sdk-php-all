@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.ecsign.seal.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:06:49
+ * @since 1.0, 2023-08-21 05:26:43
  */
 class AlipayFinancialnetAuthEcsignSealBatchqueryRequest
 {

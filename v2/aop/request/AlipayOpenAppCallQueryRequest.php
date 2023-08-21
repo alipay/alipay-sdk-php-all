@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.call.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:53:20
+ * @since 1.0, 2023-08-21 01:04:19
  */
 class AlipayOpenAppCallQueryRequest
 {

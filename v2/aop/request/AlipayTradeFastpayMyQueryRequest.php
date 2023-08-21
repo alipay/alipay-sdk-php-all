@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.fastpay.my.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:46:52
+ * @since 1.0, 2023-08-21 04:27:34
  */
 class AlipayTradeFastpayMyQueryRequest
 {

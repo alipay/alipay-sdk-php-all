@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.edge.colorfeedback.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 20:23:07
+ * @since 1.0, 2023-08-20 18:15:29
  */
 class AlipaySecurityProdEdgeColorfeedbackCreateRequest
 {

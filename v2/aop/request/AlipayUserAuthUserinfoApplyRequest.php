@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.auth.userinfo.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:36:59
+ * @since 1.0, 2023-08-21 04:51:47
  */
 class AlipayUserAuthUserinfoApplyRequest
 {

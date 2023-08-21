@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.morse.marketing.rta.merchant.callback request
  *
  * @author auto create
- * @since 1.0, 2023-08-15 19:06:45
+ * @since 1.0, 2023-08-16 10:21:40
  */
 class AnttechMorseMarketingRtaMerchantCallbackRequest
 {

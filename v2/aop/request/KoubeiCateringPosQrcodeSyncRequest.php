@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.qrcode.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:56:56
+ * @since 1.0, 2023-08-21 04:20:49
  */
 class KoubeiCateringPosQrcodeSyncRequest
 {

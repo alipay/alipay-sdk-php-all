@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.yuebaoasset.detail.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:05:26
+ * @since 1.0, 2023-08-21 01:41:40
  */
 class AlipayDataDataserviceYuebaoassetDetailSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.promotion.recommend.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 20:12:03
+ * @since 1.0, 2023-08-20 18:06:48
  */
 class AlipayCommerceTransportPromotionRecommendQueryRequest
 {

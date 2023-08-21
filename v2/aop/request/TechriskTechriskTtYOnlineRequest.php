@@ -3,7 +3,7 @@
  * ALIPAY API: techrisk.techrisk.tt.y.online request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:37:00
+ * @since 1.0, 2023-08-20 18:06:49
  */
 class TechriskTechriskTtYOnlineRequest
 {

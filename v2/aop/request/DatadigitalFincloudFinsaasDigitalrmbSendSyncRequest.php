@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.digitalrmb.send.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:46:55
+ * @since 1.0, 2023-08-21 04:26:43
  */
 class DatadigitalFincloudFinsaasDigitalrmbSendSyncRequest
 {

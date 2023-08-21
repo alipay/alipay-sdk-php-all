@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.flashsales.stock.sync.update request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:39:28
+ * @since 1.0, 2023-08-20 16:48:26
  */
 class AlipayFlashsalesStockSyncUpdateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.authentication.smileface.sendme.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:11:00
+ * @since 1.0, 2023-08-21 03:02:40
  */
 class ZolozAuthenticationSmilefaceSendmeSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.beacon.device.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:01:49
+ * @since 1.0, 2023-08-21 02:42:02
  */
 class AlipayMobileBeaconDeviceDeleteRequest
 {

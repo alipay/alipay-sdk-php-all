@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.order.digest.consumer.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:20:24
+ * @since 1.0, 2023-08-21 02:02:34
  */
 class AlipayMerchantOrderDigestConsumerBatchqueryRequest
 {

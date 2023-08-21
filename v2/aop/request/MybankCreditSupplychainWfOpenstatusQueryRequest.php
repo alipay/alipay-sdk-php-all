@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.openstatus.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:39:13
+ * @since 1.0, 2023-08-21 01:34:39
  */
 class MybankCreditSupplychainWfOpenstatusQueryRequest
 {

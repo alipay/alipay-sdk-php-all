@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.contract.risk.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:53:15
+ * @since 1.0, 2023-08-20 17:57:25
  */
 class AlipayBossProdContractRiskCreateRequest
 {

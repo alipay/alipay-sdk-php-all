@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.database.task.retry request
  *
  * @author auto create
- * @since 1.0, 2023-08-08 23:41:39
+ * @since 1.0, 2023-08-18 14:13:00
  */
 class AlipayCloudCloudbaseDatabaseTaskRetryRequest
 {

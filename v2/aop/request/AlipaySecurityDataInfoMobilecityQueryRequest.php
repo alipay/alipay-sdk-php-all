@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.data.info.mobilecity.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:56:30
+ * @since 1.0, 2023-08-21 02:02:23
  */
 class AlipaySecurityDataInfoMobilecityQueryRequest
 {

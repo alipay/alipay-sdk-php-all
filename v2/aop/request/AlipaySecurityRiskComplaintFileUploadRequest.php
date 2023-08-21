@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.complaint.file.upload request
  *
  * @author auto create
- * @since 1.0, 2023-07-19 16:12:20
+ * @since 1.0, 2023-08-20 18:11:42
  */
 class AlipaySecurityRiskComplaintFileUploadRequest
 {

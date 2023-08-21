@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.open.status.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:06:48
+ * @since 1.0, 2023-08-20 17:46:42
  */
 class AntfortuneStockOpenStatusQueryRequest
 {

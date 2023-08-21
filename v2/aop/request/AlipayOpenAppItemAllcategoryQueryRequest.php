@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.open.app.item.allcategory.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-01 15:21:55
+ * @since 1.0, 2023-08-18 17:56:42
  */
 class AlipayOpenAppItemAllcategoryQueryRequest
 {
+	/** 
+	 * 获取普通商品类目接口
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayOpenAppItemAllcategoryQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.open.app.item.allcategory.query";

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.mda.torchreplayequity.query request
  *
  * @author auto create
- * @since 1.0, 2023-06-13 15:06:52
+ * @since 1.0, 2023-08-21 03:21:42
  */
 class AlipayDataMdaTorchreplayequityQueryRequest
 {

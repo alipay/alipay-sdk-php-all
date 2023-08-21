@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.face.pay request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:19:34
+ * @since 1.0, 2023-08-21 03:06:32
  */
 class AlipaySecurityProdFacePayRequest
 {

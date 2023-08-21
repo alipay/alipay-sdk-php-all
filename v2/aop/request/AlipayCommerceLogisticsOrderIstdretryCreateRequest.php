@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.order.istdretry.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 03:36:55
+ * @since 1.0, 2023-08-21 01:31:44
  */
 class AlipayCommerceLogisticsOrderIstdretryCreateRequest
 {

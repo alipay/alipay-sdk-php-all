@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.order.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-10 15:16:39
+ * @since 1.0, 2023-08-21 05:01:43
  */
 class AlipayCommerceEducateOrderCreateRequest
 {

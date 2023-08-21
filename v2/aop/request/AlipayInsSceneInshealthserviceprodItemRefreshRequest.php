@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.inshealthserviceprod.item.refresh request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:49:39
+ * @since 1.0, 2023-08-20 17:47:25
  */
 class AlipayInsSceneInshealthserviceprodItemRefreshRequest
 {

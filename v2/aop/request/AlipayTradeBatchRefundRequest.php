@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.batch.refund request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:48:12
+ * @since 1.0, 2023-08-20 18:36:25
  */
 class AlipayTradeBatchRefundRequest
 {

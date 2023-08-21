@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.writeofforder.verify request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:09:55
+ * @since 1.0, 2023-08-21 01:27:33
  */
 class AlipayBossFncGfsettleprodWriteofforderVerifyRequest
 {

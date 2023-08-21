@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.marketing.discount.preuse request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:08:21
+ * @since 1.0, 2023-08-20 17:51:34
  */
 class AlipayInsMarketingDiscountPreuseRequest
 {

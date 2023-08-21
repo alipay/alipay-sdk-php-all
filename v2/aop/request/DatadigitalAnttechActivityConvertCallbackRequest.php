@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.anttech.activity.convert.callback request
  *
  * @author auto create
- * @since 1.0, 2023-08-01 10:27:03
+ * @since 1.0, 2023-08-21 02:21:42
  */
 class DatadigitalAnttechActivityConvertCallbackRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.user.oil.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:33:06
+ * @since 1.0, 2023-08-21 01:26:00
  */
 class AlipayInsAutoUserOilQueryRequest
 {

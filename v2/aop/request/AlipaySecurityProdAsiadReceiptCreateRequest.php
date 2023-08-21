@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.asiad.receipt.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:16:50
+ * @since 1.0, 2023-08-21 03:46:45
  */
 class AlipaySecurityProdAsiadReceiptCreateRequest
 {

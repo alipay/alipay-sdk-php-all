@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.campus.schoolcard.sign request
  *
  * @author auto create
- * @since 1.0, 2023-06-12 14:32:31
+ * @since 1.0, 2023-08-21 01:21:48
  */
 class AlipayCommerceEducateCampusSchoolcardSignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.eprint.order.notify request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:46:54
+ * @since 1.0, 2023-08-20 18:00:07
  */
 class AlipayEcoEprintOrderNotifyRequest
 {

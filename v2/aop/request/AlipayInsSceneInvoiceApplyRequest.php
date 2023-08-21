@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.invoice.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 19:50:36
+ * @since 1.0, 2023-08-21 01:34:50
  */
 class AlipayInsSceneInvoiceApplyRequest
 {

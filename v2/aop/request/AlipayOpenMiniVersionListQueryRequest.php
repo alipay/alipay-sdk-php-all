@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.list.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 23:01:52
+ * @since 1.0, 2023-08-21 02:16:42
  */
 class AlipayOpenMiniVersionListQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.renthouse.renter.zhima.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:58:27
+ * @since 1.0, 2023-08-21 05:41:52
  */
 class AlipayEcoRenthouseRenterZhimaQueryRequest
 {

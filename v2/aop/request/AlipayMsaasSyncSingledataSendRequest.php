@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.sync.singledata.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 07:11:56
+ * @since 1.0, 2023-08-21 05:56:44
  */
 class AlipayMsaasSyncSingledataSendRequest
 {

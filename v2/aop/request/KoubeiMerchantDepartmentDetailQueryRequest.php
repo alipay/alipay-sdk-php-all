@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.department.detail.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:57:54
+ * @since 1.0, 2023-08-21 04:01:07
  */
 class KoubeiMerchantDepartmentDetailQueryRequest
 {

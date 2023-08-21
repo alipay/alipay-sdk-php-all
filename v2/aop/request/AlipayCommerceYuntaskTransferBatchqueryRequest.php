@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.yuntask.transfer.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:56:49
+ * @since 1.0, 2023-08-20 16:43:32
  */
 class AlipayCommerceYuntaskTransferBatchqueryRequest
 {

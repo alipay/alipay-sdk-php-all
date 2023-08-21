@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.monitor.log.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:31:18
+ * @since 1.0, 2023-08-20 18:44:12
  */
 class AlipayOfflineProviderMonitorLogSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.aeprepay.order.prepay request
  *
  * @author auto create
- * @since 1.0, 2023-08-03 19:47:01
+ * @since 1.0, 2023-08-16 19:16:41
  */
 class ZhimaCreditEpAeprepayOrderPrepayRequest
 {

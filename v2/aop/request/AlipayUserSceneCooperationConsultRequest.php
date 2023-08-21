@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.scene.cooperation.consult request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:49:00
+ * @since 1.0, 2023-08-20 17:42:20
  */
 class AlipayUserSceneCooperationConsultRequest
 {

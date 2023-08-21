@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.commodity.order.buy request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:18:08
+ * @since 1.0, 2023-08-21 01:50:13
  */
 class KoubeiCateringCommodityOrderBuyRequest
 {

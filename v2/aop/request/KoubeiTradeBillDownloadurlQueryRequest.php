@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.bill.downloadurl.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:19:04
+ * @since 1.0, 2023-08-21 02:24:19
  */
 class KoubeiTradeBillDownloadurlQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.ebpp.pdeduct.czsign.upgrade request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:02:04
+ * @since 1.0, 2023-08-21 03:17:10
  */
 class AlipayEbppEbppPdeductCzsignUpgradeRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.ownercard.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:51:51
+ * @since 1.0, 2023-08-21 05:01:48
  */
 class AlipayEbppCommunityOwnercardSyncRequest
 {

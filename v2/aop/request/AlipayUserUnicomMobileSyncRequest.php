@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.unicom.mobile.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:47:37
+ * @since 1.0, 2023-08-21 04:27:46
  */
 class AlipayUserUnicomMobileSyncRequest
 {

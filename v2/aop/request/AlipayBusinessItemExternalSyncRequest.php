@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.business.item.external.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:35:21
+ * @since 1.0, 2023-08-21 05:54:02
  */
 class AlipayBusinessItemExternalSyncRequest
 {

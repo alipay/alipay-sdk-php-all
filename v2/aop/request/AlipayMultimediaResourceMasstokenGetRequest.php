@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.multimedia.resource.masstoken.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:23:10
+ * @since 1.0, 2023-08-21 02:28:22
  */
 class AlipayMultimediaResourceMasstokenGetRequest
 {

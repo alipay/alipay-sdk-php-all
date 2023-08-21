@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.bs.enrollableplan.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 02:46:54
+ * @since 1.0, 2023-08-21 03:16:43
  */
 class AlipayCommerceOperationBsEnrollableplanQueryRequest
 {

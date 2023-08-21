@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.authentication.consistency.check request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:43:14
+ * @since 1.0, 2023-08-20 17:48:27
  */
 class AlipayUserAuthenticationConsistencyCheckRequest
 {
