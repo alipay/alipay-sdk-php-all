@@ -3,7 +3,7 @@
  * ALIPAY API: techrisk.innovate.mpcpromo.item.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:56:44
+ * @since 1.0, 2023-08-22 14:31:19
  */
 class TechriskInnovateMpcpromoItemQueryRequest
 {

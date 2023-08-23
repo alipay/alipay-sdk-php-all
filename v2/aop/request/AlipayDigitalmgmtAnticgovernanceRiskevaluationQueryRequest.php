@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.anticgovernance.riskevaluation.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-07 10:40:04
+ * @since 1.0, 2023-08-22 19:36:43
  */
 class AlipayDigitalmgmtAnticgovernanceRiskevaluationQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.claim.apply request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:41:46
+ * @since 1.0, 2023-08-23 10:51:07
  */
 class AlipayInsSceneEcommerceClaimApplyRequest
 {

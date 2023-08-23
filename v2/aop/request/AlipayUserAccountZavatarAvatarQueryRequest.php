@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.zavatar.avatar.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-16 15:53:15
+ * @since 1.0, 2023-08-22 21:16:40
  */
 class AlipayUserAccountZavatarAvatarQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.function.trigger.set request
  *
  * @author auto create
- * @since 1.0, 2023-08-08 22:46:42
+ * @since 1.0, 2023-08-21 20:51:41
  */
 class AlipayCloudCloudbaseFunctionTriggerSetRequest
 {
