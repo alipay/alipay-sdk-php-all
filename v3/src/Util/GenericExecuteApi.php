@@ -520,7 +520,7 @@ class GenericExecuteApi
         }
 
         //submit按钮控件请不要含有name属性
-        $sHtml = $sHtml . "<input type='submit' value='ok' style='display:none;''></form>";
+        $sHtml = $sHtml . "<input type='submit' value='ok' style='display:none;'></form>";
 
         return $sHtml . "<script>document.forms['alipaysubmit'].submit();</script>";
     }

@@ -46,7 +46,7 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $deliveryId = 20220308000000934758; // string | 收藏引导投放活动ID，供查询收藏引导活动配置接口调用 ，当以小程序维度查询数据（query_type为app）时delivery_id为空
-$queryType = app; // string | 查询类型，表示以当前维度进行数据聚合。 app：小程序维度；activity：活动维度；
+$queryType = app; // string | 查询类型，表示以当前维度进行数据聚合。
 $startDate = 20220322; // string | 查询开始日期，精度为天
 $endDate = 20220328; // string | 查询截止日期，精度为天
 
@@ -63,7 +63,7 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **deliveryId** | **string**| 收藏引导投放活动ID，供查询收藏引导活动配置接口调用 ，当以小程序维度查询数据（query_type为app）时delivery_id为空 | [optional]
- **queryType** | **string**| 查询类型，表示以当前维度进行数据聚合。 app：小程序维度；activity：活动维度； | [optional]
+ **queryType** | **string**| 查询类型，表示以当前维度进行数据聚合。 | [optional]
  **startDate** | **string**| 查询开始日期，精度为天 | [optional]
  **endDate** | **string**| 查询截止日期，精度为天 | [optional]
 

@@ -45,8 +45,8 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$connKey = uuid; // string | 长效的认证令牌
-$onceToken = uuid; // string | 交换云简历的单次token
+$connKey = uuid; // string | 长效的认证令牌：zhima.credit.payafteruse.creditagreement.sign 的out_agreement_no
+$onceToken = uuid; // string | 交换云简历的单次token：zhima.credit.payafteruse.creditagreement.sign 的  extra_param入参onceToken（授权后5分钟内，单次有效
 
 try {
     $result = $apiInstance->query($connKey, $onceToken);
@@ -60,8 +60,8 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **connKey** | **string**| 长效的认证令牌 | [optional]
- **onceToken** | **string**| 交换云简历的单次token | [optional]
+ **connKey** | **string**| 长效的认证令牌：zhima.credit.payafteruse.creditagreement.sign 的out_agreement_no | [optional]
+ **onceToken** | **string**| 交换云简历的单次token：zhima.credit.payafteruse.creditagreement.sign 的  extra_param入参onceToken（授权后5分钟内，单次有效 | [optional]
 
 ### Return type
 
