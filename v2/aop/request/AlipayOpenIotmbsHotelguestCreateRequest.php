@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.hotelguest.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 07:46:58
+ * @since 1.0, 2023-09-04 01:26:45
  */
 class AlipayOpenIotmbsHotelguestCreateRequest
 {

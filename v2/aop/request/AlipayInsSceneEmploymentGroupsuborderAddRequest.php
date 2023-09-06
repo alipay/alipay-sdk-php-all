@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.employment.groupsuborder.add request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 20:16:58
+ * @since 1.0, 2023-09-04 01:46:45
  */
 class AlipayInsSceneEmploymentGroupsuborderAddRequest
 {

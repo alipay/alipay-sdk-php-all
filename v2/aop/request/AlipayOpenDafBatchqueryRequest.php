@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.daf.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:03:48
+ * @since 1.0, 2023-08-23 21:24:33
  */
 class AlipayOpenDafBatchqueryRequest
 {

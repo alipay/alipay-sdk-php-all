@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.bill.msg.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:06:50
+ * @since 1.0, 2023-08-24 22:06:46
  */
 class AlipayCommerceBillMsgApplyRequest
 {

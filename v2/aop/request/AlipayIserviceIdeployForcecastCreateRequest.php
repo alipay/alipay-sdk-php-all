@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ideploy.forcecast.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 21:12:03
+ * @since 1.0, 2023-08-24 21:26:49
  */
 class AlipayIserviceIdeployForcecastCreateRequest
 {

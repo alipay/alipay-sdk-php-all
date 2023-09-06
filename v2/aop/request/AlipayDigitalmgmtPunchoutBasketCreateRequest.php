@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.punchout.basket.create request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 11:11:53
+ * @since 1.0, 2023-09-03 23:46:43
  */
 class AlipayDigitalmgmtPunchoutBasketCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.warehouse.order.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 22:17:24
+ * @since 1.0, 2023-08-23 20:34:19
  */
 class AntMerchantExpandWarehouseOrderSyncRequest
 {

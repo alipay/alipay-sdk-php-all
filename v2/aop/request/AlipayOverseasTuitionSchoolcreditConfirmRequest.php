@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.tuition.schoolcredit.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 07:30:14
+ * @since 1.0, 2023-08-23 21:19:19
  */
 class AlipayOverseasTuitionSchoolcreditConfirmRequest
 {

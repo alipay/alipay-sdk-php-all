@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.hrcominsu.insuclaim.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-07-28 17:47:02
+ * @since 1.0, 2023-08-23 20:01:43
  */
 class AlipayDigitalmgmtHrcominsuInsuclaimBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.sdarttool.message.query request
  *
  * @author auto create
- * @since 1.0, 2023-06-01 16:31:05
+ * @since 1.0, 2023-08-23 20:44:09
  */
 class AlipayCommerceIotSdarttoolMessageQueryRequest
 {

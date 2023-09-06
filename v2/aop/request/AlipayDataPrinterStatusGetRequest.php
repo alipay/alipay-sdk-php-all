@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.printer.status.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 19:38:42
+ * @since 1.0, 2023-09-04 02:09:19
  */
 class AlipayDataPrinterStatusGetRequest
 {

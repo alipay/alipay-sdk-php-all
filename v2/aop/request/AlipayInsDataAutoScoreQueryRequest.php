@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.auto.score.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 22:55:22
+ * @since 1.0, 2023-09-04 00:04:20
  */
 class AlipayInsDataAutoScoreQueryRequest
 {

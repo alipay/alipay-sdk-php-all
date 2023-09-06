@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.room.bind request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 22:00:16
+ * @since 1.0, 2023-08-23 21:14:01
  */
 class AlipayOpenIotmbsRoomBindRequest
 {

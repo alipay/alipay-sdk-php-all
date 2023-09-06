@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.poi.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 06:22:28
+ * @since 1.0, 2023-08-23 21:23:12
  */
 class AlipayOverseasTravelPoiQueryRequest
 {

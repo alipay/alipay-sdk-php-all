@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.search request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 10:01:41
+ * @since 1.0, 2023-09-03 23:01:54
  */
 class AlipayUserAccountSearchRequest
 {

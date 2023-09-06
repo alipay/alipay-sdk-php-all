@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.benefit.receive.consult request
  *
  * @author auto create
- * @since 1.0, 2023-06-28 14:21:57
+ * @since 1.0, 2023-09-04 00:56:43
  */
 class AlipayCommerceOperationBenefitReceiveConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.antdataassets.cloudjobstatus.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 22:18:13
+ * @since 1.0, 2023-09-04 01:16:12
  */
 class AlipayDataDataserviceAntdataassetsCloudjobstatusQueryRequest
 {

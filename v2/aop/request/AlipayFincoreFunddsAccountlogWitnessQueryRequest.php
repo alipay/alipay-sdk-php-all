@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.fundds.accountlog.witness.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 01:07:47
+ * @since 1.0, 2023-09-06 20:27:42
  */
 class AlipayFincoreFunddsAccountlogWitnessQueryRequest
 {

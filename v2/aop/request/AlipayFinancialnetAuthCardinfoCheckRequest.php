@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.cardinfo.check request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 09:51:59
+ * @since 1.0, 2023-09-04 02:11:47
  */
 class AlipayFinancialnetAuthCardinfoCheckRequest
 {

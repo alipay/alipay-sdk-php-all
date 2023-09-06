@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.exrate.allclientrate.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:18:43
+ * @since 1.0, 2023-09-04 00:07:45
  */
 class AlipayAccountExrateAllclientrateQueryRequest
 {

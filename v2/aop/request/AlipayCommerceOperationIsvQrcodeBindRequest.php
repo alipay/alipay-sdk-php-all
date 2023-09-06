@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.isv.qrcode.bind request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 10:24:12
+ * @since 1.0, 2023-09-04 00:29:50
  */
 class AlipayCommerceOperationIsvQrcodeBindRequest
 {

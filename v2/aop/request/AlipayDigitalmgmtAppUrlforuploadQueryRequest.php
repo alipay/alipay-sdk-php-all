@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.app.urlforupload.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-17 19:32:00
+ * @since 1.0, 2023-09-04 00:31:43
  */
 class AlipayDigitalmgmtAppUrlforuploadQueryRequest
 {

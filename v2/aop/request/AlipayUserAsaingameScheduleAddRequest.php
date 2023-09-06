@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.asaingame.schedule.add request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 21:42:49
+ * @since 1.0, 2023-08-23 19:46:03
  */
 class AlipayUserAsaingameScheduleAddRequest
 {

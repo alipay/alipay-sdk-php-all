@@ -3,7 +3,7 @@
  * ALIPAY API: alios.open.auto.info.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 21:06:57
+ * @since 1.0, 2023-08-23 21:56:47
  */
 class AliosOpenAutoInfoQueryRequest
 {

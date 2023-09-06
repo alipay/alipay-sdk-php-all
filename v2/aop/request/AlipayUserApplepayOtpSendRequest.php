@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.applepay.otp.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 09:23:21
+ * @since 1.0, 2023-09-03 23:44:08
  */
 class AlipayUserApplepayOtpSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.process.instance.addmemo request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 19:39:13
+ * @since 1.0, 2023-09-03 23:10:57
  */
 class AlipayBossBaseProcessInstanceAddmemoRequest
 {

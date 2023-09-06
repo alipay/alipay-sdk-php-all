@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.pluginuseconfig.upgrade.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 23:15:40
+ * @since 1.0, 2023-08-23 20:18:02
  */
 class AlipayOpenMiniPluginuseconfigUpgradeCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.content.iot.coupon.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:51:11
+ * @since 1.0, 2023-08-23 20:41:42
  */
 class AlipayOpenContentIotCouponQueryRequest
 {

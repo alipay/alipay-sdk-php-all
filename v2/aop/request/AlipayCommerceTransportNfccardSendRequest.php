@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.nfccard.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 19:28:43
+ * @since 1.0, 2023-08-23 21:44:57
  */
 class AlipayCommerceTransportNfccardSendRequest
 {

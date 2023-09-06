@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.dishstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 20:43:14
+ * @since 1.0, 2023-08-23 19:59:09
  */
 class KoubeiCateringPosDishstatusModifyRequest
 {

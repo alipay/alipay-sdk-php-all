@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.quality.test.shield.result.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:40:01
+ * @since 1.0, 2023-08-24 22:47:03
  */
 class KoubeiQualityTestShieldResultSyncRequest
 {

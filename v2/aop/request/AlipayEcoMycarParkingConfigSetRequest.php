@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.parking.config.set request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 07:08:05
+ * @since 1.0, 2023-09-04 01:13:05
  */
 class AlipayEcoMycarParkingConfigSetRequest
 {

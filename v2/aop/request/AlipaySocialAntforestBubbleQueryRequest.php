@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antforest.bubble.query request
  *
  * @author auto create
- * @since 1.0, 2023-06-19 12:16:58
+ * @since 1.0, 2023-09-04 01:16:44
  */
 class AlipaySocialAntforestBubbleQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.punchout.pr.create request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 11:11:53
+ * @since 1.0, 2023-09-04 00:26:43
  */
 class AlipayDigitalmgmtPunchoutPrCreateRequest
 {

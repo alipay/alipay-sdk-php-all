@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.hufu.auth.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 21:01:10
+ * @since 1.0, 2023-08-23 21:02:02
  */
 class AlipaySecurityRiskHufuAuthQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.payforprivilege.userrelation.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:41:57
+ * @since 1.0, 2023-09-03 23:11:48
  */
 class AlipayMerchantPayforprivilegeUserrelationCreateRequest
 {

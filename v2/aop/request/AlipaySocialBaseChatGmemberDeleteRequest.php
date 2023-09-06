@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.chat.gmember.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 07:10:53
+ * @since 1.0, 2023-09-04 00:53:15
  */
 class AlipaySocialBaseChatGmemberDeleteRequest
 {

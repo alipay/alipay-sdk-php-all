@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.logistics.express.order.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:21:03
+ * @since 1.0, 2023-08-24 21:24:51
  */
 class AlipayEcoLogisticsExpressOrderQueryRequest
 {

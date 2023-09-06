@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.guidedcode.receive request
  *
  * @author auto create
- * @since 1.0, 2023-07-06 14:47:00
+ * @since 1.0, 2023-09-04 00:41:45
  */
 class AlipayCommerceCommonGuidedcodeReceiveRequest
 {

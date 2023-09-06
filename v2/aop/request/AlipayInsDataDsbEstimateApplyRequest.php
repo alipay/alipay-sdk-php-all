@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.dsb.estimate.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 22:45:42
+ * @since 1.0, 2023-09-04 01:22:59
  */
 class AlipayInsDataDsbEstimateApplyRequest
 {

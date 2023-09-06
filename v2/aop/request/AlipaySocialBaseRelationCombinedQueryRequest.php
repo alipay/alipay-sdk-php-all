@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.relation.combined.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 22:08:05
+ * @since 1.0, 2023-09-04 02:01:05
  */
 class AlipaySocialBaseRelationCombinedQueryRequest
 {

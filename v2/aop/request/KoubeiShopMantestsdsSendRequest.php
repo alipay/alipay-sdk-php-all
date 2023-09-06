@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.shop.mantestsds.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 20:36:30
+ * @since 1.0, 2023-08-23 20:10:52
  */
 class KoubeiShopMantestsdsSendRequest
 {

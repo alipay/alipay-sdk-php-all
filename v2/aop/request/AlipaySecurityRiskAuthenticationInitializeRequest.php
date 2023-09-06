@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.authentication.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 21:12:19
+ * @since 1.0, 2023-08-24 22:06:24
  */
 class AlipaySecurityRiskAuthenticationInitializeRequest
 {

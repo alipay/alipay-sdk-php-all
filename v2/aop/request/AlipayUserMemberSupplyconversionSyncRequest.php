@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.member.supplyconversion.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-14 15:14:16
+ * @since 1.0, 2023-08-31 19:31:46
  */
 class AlipayUserMemberSupplyconversionSyncRequest
 {

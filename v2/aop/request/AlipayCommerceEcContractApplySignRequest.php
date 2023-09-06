@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.contract.apply.sign request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:41:50
+ * @since 1.0, 2023-08-24 22:41:45
  */
 class AlipayCommerceEcContractApplySignRequest
 {

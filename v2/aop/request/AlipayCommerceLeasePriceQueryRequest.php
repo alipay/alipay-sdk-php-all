@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lease.price.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 10:21:57
+ * @since 1.0, 2023-08-24 22:06:43
  */
 class AlipayCommerceLeasePriceQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.shop.report.callback request
  *
  * @author auto create
- * @since 1.0, 2023-07-13 11:20:49
+ * @since 1.0, 2023-08-23 20:26:46
  */
 class AlipayOverseasTravelShopReportCallbackRequest
 {

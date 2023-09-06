@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.memberwallet.withdraw.consult request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:24:57
+ * @since 1.0, 2023-08-23 21:52:57
  */
 class AntMerchantMemberwalletWithdrawConsultRequest
 {

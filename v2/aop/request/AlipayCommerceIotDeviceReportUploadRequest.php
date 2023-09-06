@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.report.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:16:25
+ * @since 1.0, 2023-08-23 19:50:40
  */
 class AlipayCommerceIotDeviceReportUploadRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.mda.maptorchrelay.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 03:46:52
+ * @since 1.0, 2023-09-03 23:16:44
  */
 class AlipayDataMdaMaptorchrelayQueryRequest
 {

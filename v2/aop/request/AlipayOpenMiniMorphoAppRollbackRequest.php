@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.morpho.app.rollback request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 07:50:37
+ * @since 1.0, 2023-08-24 21:47:38
  */
 class AlipayOpenMiniMorphoAppRollbackRequest
 {

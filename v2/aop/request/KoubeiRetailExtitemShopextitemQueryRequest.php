@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.retail.extitem.shopextitem.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 11:14:29
+ * @since 1.0, 2023-09-04 01:46:10
  */
 class KoubeiRetailExtitemShopextitemQueryRequest
 {

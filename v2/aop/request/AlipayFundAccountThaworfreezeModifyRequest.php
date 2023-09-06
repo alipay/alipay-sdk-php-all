@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.account.thaworfreeze.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 03:56:55
+ * @since 1.0, 2023-08-23 20:31:43
  */
 class AlipayFundAccountThaworfreezeModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.searchcode.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:29:29
+ * @since 1.0, 2023-08-24 21:50:12
  */
 class AlipayMarketingSearchcodeCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.ad.stocktask.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 10:09:20
+ * @since 1.0, 2023-08-24 22:32:32
  */
 class AlipayCommerceTransportAdStocktaskBatchqueryRequest
 {

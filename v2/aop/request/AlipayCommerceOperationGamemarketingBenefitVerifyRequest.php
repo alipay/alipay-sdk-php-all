@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.gamemarketing.benefit.verify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 10:33:20
+ * @since 1.0, 2023-08-23 20:55:12
  */
 class AlipayCommerceOperationGamemarketingBenefitVerifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.scene.photoremote.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 22:52:01
+ * @since 1.0, 2023-09-04 02:14:17
  */
 class AlipayCommerceEducateScenePhotoremoteApplyRequest
 {

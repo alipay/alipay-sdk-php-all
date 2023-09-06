@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.authentication.customer.facemanage.delete request
  *
  * @author auto create
- * @since 1.0, 2023-06-14 14:31:50
+ * @since 1.0, 2023-09-04 02:01:43
  */
 class ZolozAuthenticationCustomerFacemanageDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.sales.kbasset.stuff.cancelstockoutorder.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:53:11
+ * @since 1.0, 2023-08-24 22:18:02
  */
 class KoubeiSalesKbassetStuffCancelstockoutorderQueryRequest
 {

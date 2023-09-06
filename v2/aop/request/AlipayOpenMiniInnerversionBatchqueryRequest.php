@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerversion.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 09:02:46
+ * @since 1.0, 2023-09-04 01:11:22
  */
 class AlipayOpenMiniInnerversionBatchqueryRequest
 {

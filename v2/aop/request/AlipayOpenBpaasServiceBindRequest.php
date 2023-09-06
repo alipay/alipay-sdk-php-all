@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.bpaas.service.bind request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:47:28
+ * @since 1.0, 2023-09-04 01:10:22
  */
 class AlipayOpenBpaasServiceBindRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.application.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:23:22
+ * @since 1.0, 2023-09-03 23:23:18
  */
 class AlipayInsSceneApplicationBatchqueryRequest
 {

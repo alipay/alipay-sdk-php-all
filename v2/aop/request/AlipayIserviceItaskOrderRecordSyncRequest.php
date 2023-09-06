@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.itask.order.record.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 19:34:30
+ * @since 1.0, 2023-08-24 22:32:47
  */
 class AlipayIserviceItaskOrderRecordSyncRequest
 {

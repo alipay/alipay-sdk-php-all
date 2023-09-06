@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.ededuct.forecast.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 06:01:00
+ * @since 1.0, 2023-09-03 23:49:58
  */
 class AlipayEbppEdeductForecastQueryRequest
 {

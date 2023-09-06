@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.edumigrate.migrateservice.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:37:24
+ * @since 1.0, 2023-09-04 00:38:29
  */
 class AlipayCommerceEducateEdumigrateMigrateserviceModifyRequest
 {

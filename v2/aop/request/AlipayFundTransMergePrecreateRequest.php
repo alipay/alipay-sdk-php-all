@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.merge.precreate request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:24:35
+ * @since 1.0, 2023-08-24 22:23:52
  */
 class AlipayFundTransMergePrecreateRequest
 {

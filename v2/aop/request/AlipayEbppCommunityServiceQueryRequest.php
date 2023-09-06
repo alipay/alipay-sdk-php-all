@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.service.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 22:29:49
+ * @since 1.0, 2023-09-04 01:14:29
  */
 class AlipayEbppCommunityServiceQueryRequest
 {

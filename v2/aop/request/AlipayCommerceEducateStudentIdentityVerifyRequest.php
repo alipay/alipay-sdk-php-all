@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.student.identity.verify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 21:14:44
+ * @since 1.0, 2023-09-04 01:52:24
  */
 class AlipayCommerceEducateStudentIdentityVerifyRequest
 {

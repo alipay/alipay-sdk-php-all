@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.miniprogram.verifyidentity.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-06-30 10:21:52
+ * @since 1.0, 2023-09-04 10:25:25
  */
 class AlipaySecurityRiskMiniprogramVerifyidentityInitializeRequest
 {

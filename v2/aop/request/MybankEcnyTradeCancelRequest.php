@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.ecny.trade.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:43:26
+ * @since 1.0, 2023-08-23 21:28:51
  */
 class MybankEcnyTradeCancelRequest
 {

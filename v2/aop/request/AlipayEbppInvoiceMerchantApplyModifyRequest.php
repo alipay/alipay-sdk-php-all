@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.merchant.apply.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 06:11:52
+ * @since 1.0, 2023-08-24 21:11:44
  */
 class AlipayEbppInvoiceMerchantApplyModifyRequest
 {

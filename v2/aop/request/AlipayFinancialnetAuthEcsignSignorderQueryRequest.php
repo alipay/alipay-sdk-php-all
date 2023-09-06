@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.ecsign.signorder.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:01:59
+ * @since 1.0, 2023-09-04 02:36:47
  */
 class AlipayFinancialnetAuthEcsignSignorderQueryRequest
 {

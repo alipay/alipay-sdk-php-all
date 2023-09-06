@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.ipsponsor.consumegold.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:51:53
+ * @since 1.0, 2023-09-03 23:15:55
  */
 class AlipayOpenIpsponsorConsumegoldModifyRequest
 {

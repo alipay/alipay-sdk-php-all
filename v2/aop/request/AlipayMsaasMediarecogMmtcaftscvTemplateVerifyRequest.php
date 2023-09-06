@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.template.verify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 10:28:50
+ * @since 1.0, 2023-09-04 00:50:42
  */
 class AlipayMsaasMediarecogMmtcaftscvTemplateVerifyRequest
 {

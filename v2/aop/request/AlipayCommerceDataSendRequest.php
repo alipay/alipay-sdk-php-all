@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.data.send request
  *
  * @author auto create
- * @since 1.0, 2023-07-24 10:30:37
+ * @since 1.0, 2023-09-04 02:07:46
  */
 class AlipayCommerceDataSendRequest
 {

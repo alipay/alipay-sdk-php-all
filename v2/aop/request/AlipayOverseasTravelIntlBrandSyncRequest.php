@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.intl.brand.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:26:58
+ * @since 1.0, 2023-08-23 21:21:21
  */
 class AlipayOverseasTravelIntlBrandSyncRequest
 {

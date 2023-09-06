@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.isv.importedbill.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 19:35:26
+ * @since 1.0, 2023-09-04 00:00:53
  */
 class AlipayEbppIsvImportedbillQueryRequest
 {

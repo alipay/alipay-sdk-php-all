@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.taskcenter.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 20:16:58
+ * @since 1.0, 2023-08-24 22:21:42
  */
 class AlipayCommerceSportsTaskcenterBatchqueryRequest
 {

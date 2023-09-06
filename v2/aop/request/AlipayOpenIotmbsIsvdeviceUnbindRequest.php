@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.isvdevice.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 09:11:57
+ * @since 1.0, 2023-08-23 21:26:45
  */
 class AlipayOpenIotmbsIsvdeviceUnbindRequest
 {

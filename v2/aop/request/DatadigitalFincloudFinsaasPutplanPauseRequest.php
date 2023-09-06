@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.putplan.pause request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 09:17:40
+ * @since 1.0, 2023-08-23 20:54:22
  */
 class DatadigitalFincloudFinsaasPutplanPauseRequest
 {

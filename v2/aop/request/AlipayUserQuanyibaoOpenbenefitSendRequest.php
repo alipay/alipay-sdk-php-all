@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.quanyibao.openbenefit.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 23:21:51
+ * @since 1.0, 2023-08-24 21:56:47
  */
 class AlipayUserQuanyibaoOpenbenefitSendRequest
 {

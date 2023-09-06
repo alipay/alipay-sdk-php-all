@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.contract.offer.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 10:30:41
+ * @since 1.0, 2023-09-04 00:37:54
  */
 class ZhimaMerchantContractOfferModifyRequest
 {

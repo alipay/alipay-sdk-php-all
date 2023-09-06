@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.card.instance.invalid request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:11:58
+ * @since 1.0, 2023-09-03 23:10:32
  */
 class AlipayUserCardInstanceInvalidRequest
 {

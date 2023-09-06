@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.tam.get request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 19:49:47
+ * @since 1.0, 2023-09-04 02:11:29
  */
 class AlipaySecurityProdTamGetRequest
 {

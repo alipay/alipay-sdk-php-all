@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.brand.asset.auth request
  *
  * @author auto create
- * @since 1.0, 2023-06-01 11:41:55
+ * @since 1.0, 2023-08-24 22:11:42
  */
 class AntMerchantExpandBrandAssetAuthRequest
 {

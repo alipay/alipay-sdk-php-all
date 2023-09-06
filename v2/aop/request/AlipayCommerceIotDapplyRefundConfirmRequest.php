@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.dapply.refund.confirm request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 20:27:06
+ * @since 1.0, 2023-09-04 01:02:06
  */
 class AlipayCommerceIotDapplyRefundConfirmRequest
 {

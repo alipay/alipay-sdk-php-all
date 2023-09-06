@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.biz.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-10 20:34:41
+ * @since 1.0, 2023-09-04 01:44:01
  */
 class AlipayOpenBizCreateRequest
 {

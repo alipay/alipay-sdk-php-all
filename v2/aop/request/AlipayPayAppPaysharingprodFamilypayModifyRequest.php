@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.paysharingprod.familypay.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 03:51:54
+ * @since 1.0, 2023-08-24 22:16:42
  */
 class AlipayPayAppPaysharingprodFamilypayModifyRequest
 {

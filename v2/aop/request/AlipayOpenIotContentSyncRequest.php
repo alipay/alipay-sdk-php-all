@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iot.content.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 19:32:03
+ * @since 1.0, 2023-09-04 00:14:33
  */
 class AlipayOpenIotContentSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.bs.invite.consult request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 19:31:59
+ * @since 1.0, 2023-09-03 23:11:47
  */
 class AlipayCommerceOperationBsInviteConsultRequest
 {

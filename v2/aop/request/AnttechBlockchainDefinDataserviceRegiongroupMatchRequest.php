@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.dataservice.regiongroup.match request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:06:50
+ * @since 1.0, 2023-08-23 19:51:46
  */
 class AnttechBlockchainDefinDataserviceRegiongroupMatchRequest
 {

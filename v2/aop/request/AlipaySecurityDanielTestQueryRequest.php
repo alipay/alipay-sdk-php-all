@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.daniel.test.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 08:25:35
+ * @since 1.0, 2023-08-24 23:05:54
  */
 class AlipaySecurityDanielTestQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.common.sign request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:16:43
+ * @since 1.0, 2023-09-05 16:05:55
  */
 class AlipayOpenAgentCommonSignRequest
 {
@@ -82,6 +82,26 @@ class AlipayOpenAgentCommonSignRequest
 当签约且授权标识 sign_and_auth=true 时，该费率信息必填。
 	 **/
 	private $rate;
+	
+	/** 
+	 * 门店所在城市
+	 **/
+	private $shopCityCode;
+	
+	/** 
+	 * 门店详细地址
+	 **/
+	private $shopDetailAddress;
+	
+	/** 
+	 * 门店所在区/县
+	 **/
+	private $shopDistrictCode;
+	
+	/** 
+	 * 门店所在省份
+	 **/
+	private $shopProvinceCode;
 	
 	/** 
 	 * 店铺内景图片，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg。
@@ -322,6 +342,50 @@ class AlipayOpenAgentCommonSignRequest
 	public function getRate()
 	{
 		return $this->rate;
+	}
+
+	public function setShopCityCode($shopCityCode)
+	{
+		$this->shopCityCode = $shopCityCode;
+		$this->apiParas["shop_city_code"] = $shopCityCode;
+	}
+
+	public function getShopCityCode()
+	{
+		return $this->shopCityCode;
+	}
+
+	public function setShopDetailAddress($shopDetailAddress)
+	{
+		$this->shopDetailAddress = $shopDetailAddress;
+		$this->apiParas["shop_detail_address"] = $shopDetailAddress;
+	}
+
+	public function getShopDetailAddress()
+	{
+		return $this->shopDetailAddress;
+	}
+
+	public function setShopDistrictCode($shopDistrictCode)
+	{
+		$this->shopDistrictCode = $shopDistrictCode;
+		$this->apiParas["shop_district_code"] = $shopDistrictCode;
+	}
+
+	public function getShopDistrictCode()
+	{
+		return $this->shopDistrictCode;
+	}
+
+	public function setShopProvinceCode($shopProvinceCode)
+	{
+		$this->shopProvinceCode = $shopProvinceCode;
+		$this->apiParas["shop_province_code"] = $shopProvinceCode;
+	}
+
+	public function getShopProvinceCode()
+	{
+		return $this->shopProvinceCode;
 	}
 
 	public function setShopScenePic($shopScenePic)

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.ebpp.instotherconfig.use request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 09:14:13
+ * @since 1.0, 2023-09-04 00:52:30
  */
 class AlipayEbppEbppInstotherconfigUseRequest
 {

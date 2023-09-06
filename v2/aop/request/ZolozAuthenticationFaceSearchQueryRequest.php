@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.authentication.face.search.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 06:15:33
+ * @since 1.0, 2023-08-24 21:41:11
  */
 class ZolozAuthenticationFaceSearchQueryRequest
 {

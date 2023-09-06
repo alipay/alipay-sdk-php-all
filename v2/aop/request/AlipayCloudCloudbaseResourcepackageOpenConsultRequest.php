@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.resourcepackage.open.consult request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 19:21:43
+ * @since 1.0, 2023-09-05 15:36:43
  */
 class AlipayCloudCloudbaseResourcepackageOpenConsultRequest
 {
