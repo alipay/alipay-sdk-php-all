@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.applystatus.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:31:46
+ * @since 1.0, 2023-09-11 20:21:49
  */
 class AlipayEbppInvoiceApplystatusQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.widget.goods.modify request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:11:46
+ * @since 1.0, 2023-09-11 16:11:48
  */
 class AlipayOpenMiniWidgetGoodsModifyRequest
 {

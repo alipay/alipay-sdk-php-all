@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expensescene.merchant.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:21:42
+ * @since 1.0, 2023-09-11 18:06:45
  */
 class AlipayEbppInvoiceExpensesceneMerchantQueryRequest
 {

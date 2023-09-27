@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.onelogin.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:36:42
+ * @since 1.0, 2023-09-13 15:31:45
  */
 class DatadigitalFincloudGeneralsaasOneloginInitializeRequest
 {

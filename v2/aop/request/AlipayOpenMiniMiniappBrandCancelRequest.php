@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.miniapp.brand.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-07-11 22:46:33
+ * @since 1.0, 2023-09-11 19:53:03
  */
 class AlipayOpenMiniMiniappBrandCancelRequest
 {

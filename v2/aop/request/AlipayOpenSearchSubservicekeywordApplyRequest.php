@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.subservicekeyword.apply request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:01:41
+ * @since 1.0, 2023-09-19 10:47:49
  */
 class AlipayOpenSearchSubservicekeywordApplyRequest
 {

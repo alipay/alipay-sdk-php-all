@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.bill.bizfundagent.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:11:16
+ * @since 1.0, 2023-09-11 18:24:32
  */
 class AlipayDataBillBizfundagentQueryRequest
 {

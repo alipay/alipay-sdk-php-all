@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.material.image.upload request
  *
  * @author auto create
- * @since 1.0, 2023-08-15 19:11:42
+ * @since 1.0, 2023-09-26 11:38:54
  */
 class AlipayMarketingMaterialImageUploadRequest
 {

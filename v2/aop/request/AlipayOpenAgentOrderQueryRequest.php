@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.order.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-03 23:33:37
+ * @since 1.0, 2023-09-11 19:44:48
  */
 class AlipayOpenAgentOrderQueryRequest
 {

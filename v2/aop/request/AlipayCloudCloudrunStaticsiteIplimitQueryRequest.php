@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.staticsite.iplimit.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-03 16:06:54
+ * @since 1.0, 2023-09-19 10:20:07
  */
 class AlipayCloudCloudrunStaticsiteIplimitQueryRequest
 {

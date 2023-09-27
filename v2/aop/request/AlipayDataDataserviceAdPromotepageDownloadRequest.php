@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.promotepage.download request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:20:13
+ * @since 1.0, 2023-09-11 19:48:02
  */
 class AlipayDataDataserviceAdPromotepageDownloadRequest
 {

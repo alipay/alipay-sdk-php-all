@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.objectstorage.cacherule.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-08-02 19:01:54
+ * @since 1.0, 2023-09-22 09:56:44
  */
 class AlipayCloudCloudrunObjectstorageCacheruleBatchqueryRequest
 {

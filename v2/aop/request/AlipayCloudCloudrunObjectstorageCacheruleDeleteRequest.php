@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.objectstorage.cacherule.delete request
  *
  * @author auto create
- * @since 1.0, 2023-08-03 16:41:57
+ * @since 1.0, 2023-09-21 14:36:44
  */
 class AlipayCloudCloudrunObjectstorageCacheruleDeleteRequest
 {

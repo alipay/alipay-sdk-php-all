@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.parking.paymentinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:41:43
+ * @since 1.0, 2023-09-11 16:41:46
  */
 class AlipayCommerceTransportParkingPaymentinfoSyncRequest
 {

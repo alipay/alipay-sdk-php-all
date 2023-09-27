@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.leads.expand.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:34:37
+ * @since 1.0, 2023-09-11 16:38:25
  */
 class AlipayOpenSpLeadsExpandCreateRequest
 {

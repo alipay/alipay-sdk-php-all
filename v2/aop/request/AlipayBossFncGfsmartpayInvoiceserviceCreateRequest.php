@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfsmartpay.invoiceservice.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-25 16:46:44
+ * @since 1.0, 2023-09-11 18:06:43
  */
 class AlipayBossFncGfsmartpayInvoiceserviceCreateRequest
 {

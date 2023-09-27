@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.transfer request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 21:11:43
+ * @since 1.0, 2023-09-11 19:36:44
  */
 class AlipayUserAgreementTransferRequest
 {

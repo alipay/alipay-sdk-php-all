@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.oppor.feedback.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:25:08
+ * @since 1.0, 2023-09-11 17:15:51
  */
 class AlipayOpenSpOpporFeedbackModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.image.upload request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 20:20:58
+ * @since 1.0, 2023-09-11 19:08:25
  */
 class AlipayOpenSpImageUploadRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.innerversion.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 16:38:50
+ * @since 1.0, 2023-09-11 19:21:35
  */
 class AlipayOpenMiniInnerversionSyncRequest
 {

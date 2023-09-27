@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.objectstorage.directory.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-02 19:01:54
+ * @since 1.0, 2023-09-21 11:26:43
  */
 class AlipayCloudCloudrunObjectstorageDirectoryCreateRequest
 {

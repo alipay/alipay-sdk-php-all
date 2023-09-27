@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.guarletter.reencrypt.apply request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 01:49:27
+ * @since 1.0, 2023-09-18 20:02:29
  */
 class MybankCreditLoantradeGuarletterReencryptApplyRequest
 {

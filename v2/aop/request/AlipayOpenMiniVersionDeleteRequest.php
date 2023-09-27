@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.delete request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:22:30
+ * @since 1.0, 2023-09-11 18:11:04
  */
 class AlipayOpenMiniVersionDeleteRequest
 {

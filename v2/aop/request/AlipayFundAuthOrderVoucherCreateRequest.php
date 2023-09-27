@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.auth.order.voucher.create request
  *
  * @author auto create
- * @since 1.0, 2023-09-01 15:51:42
+ * @since 1.0, 2023-09-21 16:23:25
  */
 class AlipayFundAuthOrderVoucherCreateRequest
 {

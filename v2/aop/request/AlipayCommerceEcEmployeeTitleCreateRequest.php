@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.employee.title.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-25 14:06:44
+ * @since 1.0, 2023-09-11 19:11:44
  */
 class AlipayCommerceEcEmployeeTitleCreateRequest
 {
