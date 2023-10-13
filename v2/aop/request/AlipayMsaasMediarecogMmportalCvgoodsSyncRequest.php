@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.mmportal.cvgoods.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:36:45
+ * @since 1.0, 2023-10-09 20:21:46
  */
 class AlipayMsaasMediarecogMmportalCvgoodsSyncRequest
 {

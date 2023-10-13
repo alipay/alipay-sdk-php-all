@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.objectstorage.securedomain.delete request
  *
  * @author auto create
- * @since 1.0, 2023-08-02 18:57:03
+ * @since 1.0, 2023-10-12 17:16:45
  */
 class AlipayCloudCloudrunObjectstorageSecuredomainDeleteRequest
 {

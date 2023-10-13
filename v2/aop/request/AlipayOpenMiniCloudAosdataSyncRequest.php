@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.cloud.aosdata.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 15:19:34
+ * @since 1.0, 2023-10-11 18:36:45
  */
 class AlipayOpenMiniCloudAosdataSyncRequest
 {

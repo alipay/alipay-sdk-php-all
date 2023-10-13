@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.aligroup.productopen.apply request
  *
  * @author auto create
- * @since 1.0, 2023-09-03 23:26:46
+ * @since 1.0, 2023-10-13 17:16:45
  */
 class AlipayOpenAligroupProductopenApplyRequest
 {

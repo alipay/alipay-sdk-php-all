@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.lesson.userlessonrecord.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:51:46
+ * @since 1.0, 2023-10-11 21:26:45
  */
 class AlipayCommerceSportsLessonUserlessonrecordSyncRequest
 {

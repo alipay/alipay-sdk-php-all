@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.asset.authorize.apply request
  *
  * @author auto create
- * @since 1.0, 2023-09-13 21:26:42
+ * @since 1.0, 2023-10-10 15:06:45
  */
 class AlipayCommerceEcAssetAuthorizeApplyRequest
 {

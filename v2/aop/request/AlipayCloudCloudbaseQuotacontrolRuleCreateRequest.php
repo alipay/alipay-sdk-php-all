@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.quotacontrol.rule.create request
  *
  * @author auto create
- * @since 1.0, 2023-09-19 14:41:43
+ * @since 1.0, 2023-10-10 17:06:45
  */
 class AlipayCloudCloudbaseQuotacontrolRuleCreateRequest
 {

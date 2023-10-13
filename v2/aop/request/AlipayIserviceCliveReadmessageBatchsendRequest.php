@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.clive.readmessage.batchsend request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:56:43
+ * @since 1.0, 2023-10-07 15:25:02
  */
 class AlipayIserviceCliveReadmessageBatchsendRequest
 {
