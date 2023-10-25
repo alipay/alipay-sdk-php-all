@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `sign()`
 
 ```php
-sign($appAuthPic, $appDemo, $businessLicenseAuthPic, $businessLicensePic, $data, $homeScreenshot, $inAppScreenshot, $payScreenshot, $specialLicensePic): object
+sign($appAuthPic, $appDemo, $appHomeScreenshot, $appItemScreenshot, $appPayScreenshot, $businessLicenseAuthPic, $businessLicensePic, $data, $homeScreenshot, $inAppScreenshot, $payScreenshot, $specialLicensePic): object
 ```
 
 代签约APP支付产品
@@ -47,6 +47,9 @@ $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $appAuthPic = "/path/to/file.txt"; // \SplFileObject
 $appDemo = "/path/to/file.txt"; // \SplFileObject
+$appHomeScreenshot = "/path/to/file.txt"; // \SplFileObject
+$appItemScreenshot = "/path/to/file.txt"; // \SplFileObject
+$appPayScreenshot = "/path/to/file.txt"; // \SplFileObject
 $businessLicenseAuthPic = "/path/to/file.txt"; // \SplFileObject
 $businessLicensePic = "/path/to/file.txt"; // \SplFileObject
 $data = new \Alipay\OpenAPISDK\Model\AlipayOpenAgentMobilepaySignModel(); // \Alipay\OpenAPISDK\Model\AlipayOpenAgentMobilepaySignModel
@@ -56,7 +59,7 @@ $payScreenshot = "/path/to/file.txt"; // \SplFileObject
 $specialLicensePic = "/path/to/file.txt"; // \SplFileObject
 
 try {
-    $result = $apiInstance->sign($appAuthPic, $appDemo, $businessLicenseAuthPic, $businessLicensePic, $data, $homeScreenshot, $inAppScreenshot, $payScreenshot, $specialLicensePic);
+    $result = $apiInstance->sign($appAuthPic, $appDemo, $appHomeScreenshot, $appItemScreenshot, $appPayScreenshot, $businessLicenseAuthPic, $businessLicensePic, $data, $homeScreenshot, $inAppScreenshot, $payScreenshot, $specialLicensePic);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayOpenAgentMobilepayApi->sign: ', $e->getMessage(), PHP_EOL;
@@ -69,6 +72,9 @@ Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **appAuthPic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **appDemo** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **appHomeScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **appItemScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **appPayScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
  **businessLicenseAuthPic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **businessLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **data** | **\Alipay\OpenAPISDK\Model\AlipayOpenAgentMobilepaySignModel**|  | [optional]

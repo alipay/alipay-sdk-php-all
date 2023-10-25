@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `query()`
 
 ```php
-query($accountId, $agreementNo, $enterpriseId, $institutionId): \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceInstitutionDetailinfoQueryResponseModel
+query($accountId, $agreementNo, $enterpriseId, $institutionId, $outerSourceId, $ownerType): \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceInstitutionDetailinfoQueryResponseModel
 ```
 
 制度详情查询
@@ -49,9 +49,11 @@ $accountId = 2088000194958956; // string | 企业共同账户id
 $agreementNo = 20215425001112341234; // string | 授权签约协议号
 $enterpriseId = 2088000194958956; // string | 企业ID
 $institutionId = 2022071800152609780000004052; // string | 制度id
+$outerSourceId = 0b249cd916969304726395528e002c; // string | 外部唯一标识
+$ownerType = PHONE; // string | 适配id类型
 
 try {
-    $result = $apiInstance->query($accountId, $agreementNo, $enterpriseId, $institutionId);
+    $result = $apiInstance->query($accountId, $agreementNo, $enterpriseId, $institutionId, $outerSourceId, $ownerType);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayEbppInvoiceInstitutionDetailinfoApi->query: ', $e->getMessage(), PHP_EOL;
@@ -66,6 +68,8 @@ Name | Type | Description  | Notes
  **agreementNo** | **string**| 授权签约协议号 | [optional]
  **enterpriseId** | **string**| 企业ID | [optional]
  **institutionId** | **string**| 制度id | [optional]
+ **outerSourceId** | **string**| 外部唯一标识 | [optional]
+ **ownerType** | **string**| 适配id类型 | [optional]
 
 ### Return type
 

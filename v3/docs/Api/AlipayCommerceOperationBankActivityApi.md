@@ -45,8 +45,8 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$openId = 021xxxx; // string | 支付宝openId
-$userId = 2088xxxx; // string | 蚂蚁统一会员ID
+$openId = 074a1CcTG1LelxKe4xQC0zgNdId0nxi95b5lsNpazWYoCo5; // string | 支付宝openId
+$userId = 208822294389xxxx; // string | 蚂蚁统一会员ID
 
 try {
     $result = $apiInstance->query($openId, $userId);

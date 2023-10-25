@@ -45,7 +45,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$mccCodeList = B0001,B0002; // string | 传入需要查询的code列表，以分号分隔；注：如果需要查询完整类目树，可以传入ROOT
+$mccCodeList = B0001,B0002; // string | 传入需要查询的code列表，以英文逗号分隔
 
 try {
     $result = $apiInstance->query($mccCodeList);
@@ -59,7 +59,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **mccCodeList** | **string**| 传入需要查询的code列表，以分号分隔；注：如果需要查询完整类目树，可以传入ROOT | [optional]
+ **mccCodeList** | **string**| 传入需要查询的code列表，以英文逗号分隔 | [optional]
 
 ### Return type
 

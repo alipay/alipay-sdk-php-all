@@ -45,7 +45,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$violationRecordId = 202205240010200000000000000; // string | 支付宝侧生成的违规记录唯一标识
+$violationRecordId = 20220524001020000000000001; // string | 支付宝侧生成的违规记录唯一标识
 
 try {
     $result = $apiInstance->query($violationRecordId);

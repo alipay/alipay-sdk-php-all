@@ -117,9 +117,9 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$userId = 2088222943898172; // string | 被删除成员的支付宝账户唯一标识，以2088开头。
+$userId = 208822294389xxxx; // string | 被删除成员的支付宝账户唯一标识，以2088开头。
 $openId = 074a1CcTG1LelxKe4xQC0zgNdId0nxi95b5lsNpazWYoCo5; // string | 被删除成员的openId。
-$role = DEVELOPER; // string | 被删除成员的角色类型，枚举支持： DEVELOPER：开发者。 EXPERIENCER：体验者。
+$role = DEVELOPER; // string | 被删除成员的角色类型
 
 try {
     $result = $apiInstance->delete($userId, $openId, $role);
@@ -135,7 +135,7 @@ Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **userId** | **string**| 被删除成员的支付宝账户唯一标识，以2088开头。 | [optional]
  **openId** | **string**| 被删除成员的openId。 | [optional]
- **role** | **string**| 被删除成员的角色类型，枚举支持： DEVELOPER：开发者。 EXPERIENCER：体验者。 | [optional]
+ **role** | **string**| 被删除成员的角色类型 | [optional]
 
 ### Return type
 
@@ -191,7 +191,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$role = DEVELOPER; // string | 查询的成员角色类型。 枚举支持： DEVELOPER：开发者； EXPERIENCER：体验者。 请选择其一传入
+$role = DEVELOPER; // string | 查询的成员角色类型
 
 try {
     $result = $apiInstance->query($role);
@@ -205,7 +205,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **role** | **string**| 查询的成员角色类型。 枚举支持： DEVELOPER：开发者； EXPERIENCER：体验者。 请选择其一传入 | [optional]
+ **role** | **string**| 查询的成员角色类型 | [optional]
 
 ### Return type
 

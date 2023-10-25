@@ -197,7 +197,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$activityId = 2016042700826004508401111111; // string | 优惠券活动id
+$activityId = 2016042700826004508401111111; // string | 活动id
 $voucherCode = ABE44; // string | 待核销的券码。
 $alipayMarketingActivityOrdervoucherUseModel = new \Alipay\OpenAPISDK\Model\AlipayMarketingActivityOrdervoucherUseModel(); // \Alipay\OpenAPISDK\Model\AlipayMarketingActivityOrdervoucherUseModel
 
@@ -213,7 +213,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **activityId** | **string**| 优惠券活动id |
+ **activityId** | **string**| 活动id |
  **voucherCode** | **string**| 待核销的券码。 |
  **alipayMarketingActivityOrdervoucherUseModel** | **\Alipay\OpenAPISDK\Model\AlipayMarketingActivityOrdervoucherUseModel**|  | [optional]
 
@@ -272,7 +272,7 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $activityId = 2016042700826004508401111111; // string | 活动id
-$merchantAccessMode = SELF_MODE; // string | 商户接入模式
+$merchantAccessMode = AGENCY_MODE; // string | 商户接入模式
 
 try {
     $result = $apiInstance->codecount($activityId, $merchantAccessMode);
@@ -343,7 +343,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$activityId = 2016042700826004508401111111; // string | 活动id  限制 请在接收alipay.marketing.activity.message.created消息后，再进行调用。
+$activityId = 2016042700826004508401111111; // string | 活动id
 $alipayMarketingActivityOrdervoucherCodedepositModel = new \Alipay\OpenAPISDK\Model\AlipayMarketingActivityOrdervoucherCodedepositModel(); // \Alipay\OpenAPISDK\Model\AlipayMarketingActivityOrdervoucherCodedepositModel
 
 try {
@@ -358,7 +358,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **activityId** | **string**| 活动id  限制 请在接收alipay.marketing.activity.message.created消息后，再进行调用。 |
+ **activityId** | **string**| 活动id |
  **alipayMarketingActivityOrdervoucherCodedepositModel** | **\Alipay\OpenAPISDK\Model\AlipayMarketingActivityOrdervoucherCodedepositModel**|  | [optional]
 
 ### Return type
@@ -699,7 +699,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$activityId = 2016042700826004508401111111; // string | 优惠券活动id
+$activityId = 2016042700826004508401111111; // string | 活动id
 $voucherCode = ABE44; // string | 已核销待退券的券码
 $alipayMarketingActivityOrdervoucherRefundModel = new \Alipay\OpenAPISDK\Model\AlipayMarketingActivityOrdervoucherRefundModel(); // \Alipay\OpenAPISDK\Model\AlipayMarketingActivityOrdervoucherRefundModel
 
@@ -715,7 +715,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **activityId** | **string**| 优惠券活动id |
+ **activityId** | **string**| 活动id |
  **voucherCode** | **string**| 已核销待退券的券码 |
  **alipayMarketingActivityOrdervoucherRefundModel** | **\Alipay\OpenAPISDK\Model\AlipayMarketingActivityOrdervoucherRefundModel**|  | [optional]
 

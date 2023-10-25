@@ -331,7 +331,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$activityId = 2016042700826004508401111111; // string | 活动 id
+$activityId = 2016042700826004508401111111; // string | 活动id
 $merchantAccessMode = AGENCY_MODE; // string | 商户接入模式。
 
 try {
@@ -346,7 +346,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **activityId** | **string**| 活动 id | [optional]
+ **activityId** | **string**| 活动id | [optional]
  **merchantAccessMode** | **string**| 商户接入模式。 | [optional]
 
 ### Return type

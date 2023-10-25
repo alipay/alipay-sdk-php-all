@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `sign()`
 
 ```php
-sign($appDemo, $businessLicenseAuthPic, $businessLicensePic, $data, $miniAppScreenshot, $shopScenePic, $shopSignBoardPic, $specialLicensePic, $webHomeScreenshot, $webItemScreenshot, $webPayScreenshot, $webSitesLoa): object
+sign($appAuthPic, $appDemo, $appHomeScreenshot, $appItemScreenshot, $appPayScreenshot, $businessLicenseAuthPic, $businessLicensePic, $data, $h5ExtraPic, $h5HomeScreenshot, $h5ItemScreenshot, $h5PayScreenshot, $h5SitesLoa, $miniAppScreenshot, $shopScenePic, $shopSignBoardPic, $specialLicensePic, $webHomeScreenshot, $webItemScreenshot, $webPayScreenshot, $webSitesLoa): object
 ```
 
 代签约产品通用接口
@@ -45,10 +45,19 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
+$appAuthPic = "/path/to/file.txt"; // \SplFileObject
 $appDemo = "/path/to/file.txt"; // \SplFileObject
+$appHomeScreenshot = "/path/to/file.txt"; // \SplFileObject
+$appItemScreenshot = "/path/to/file.txt"; // \SplFileObject
+$appPayScreenshot = "/path/to/file.txt"; // \SplFileObject
 $businessLicenseAuthPic = "/path/to/file.txt"; // \SplFileObject
 $businessLicensePic = "/path/to/file.txt"; // \SplFileObject
 $data = new \Alipay\OpenAPISDK\Model\AlipayOpenAgentCommonSignModel(); // \Alipay\OpenAPISDK\Model\AlipayOpenAgentCommonSignModel
+$h5ExtraPic = "/path/to/file.txt"; // \SplFileObject
+$h5HomeScreenshot = "/path/to/file.txt"; // \SplFileObject
+$h5ItemScreenshot = "/path/to/file.txt"; // \SplFileObject
+$h5PayScreenshot = "/path/to/file.txt"; // \SplFileObject
+$h5SitesLoa = "/path/to/file.txt"; // \SplFileObject
 $miniAppScreenshot = "/path/to/file.txt"; // \SplFileObject
 $shopScenePic = "/path/to/file.txt"; // \SplFileObject
 $shopSignBoardPic = "/path/to/file.txt"; // \SplFileObject
@@ -59,7 +68,7 @@ $webPayScreenshot = "/path/to/file.txt"; // \SplFileObject
 $webSitesLoa = "/path/to/file.txt"; // \SplFileObject
 
 try {
-    $result = $apiInstance->sign($appDemo, $businessLicenseAuthPic, $businessLicensePic, $data, $miniAppScreenshot, $shopScenePic, $shopSignBoardPic, $specialLicensePic, $webHomeScreenshot, $webItemScreenshot, $webPayScreenshot, $webSitesLoa);
+    $result = $apiInstance->sign($appAuthPic, $appDemo, $appHomeScreenshot, $appItemScreenshot, $appPayScreenshot, $businessLicenseAuthPic, $businessLicensePic, $data, $h5ExtraPic, $h5HomeScreenshot, $h5ItemScreenshot, $h5PayScreenshot, $h5SitesLoa, $miniAppScreenshot, $shopScenePic, $shopSignBoardPic, $specialLicensePic, $webHomeScreenshot, $webItemScreenshot, $webPayScreenshot, $webSitesLoa);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayOpenAgentCommonApi->sign: ', $e->getMessage(), PHP_EOL;
@@ -70,10 +79,19 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
+ **appAuthPic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **appDemo** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **appHomeScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **appItemScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **appPayScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
  **businessLicenseAuthPic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **businessLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **data** | **\Alipay\OpenAPISDK\Model\AlipayOpenAgentCommonSignModel**|  | [optional]
+ **h5ExtraPic** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **h5HomeScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **h5ItemScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **h5PayScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **h5SitesLoa** | **\SplFileObject****\SplFileObject**|  | [optional]
  **miniAppScreenshot** | **\SplFileObject****\SplFileObject**|  | [optional]
  **shopScenePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **shopSignBoardPic** | **\SplFileObject****\SplFileObject**|  | [optional]
