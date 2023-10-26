@@ -69,14 +69,14 @@ class GenericExecuteApi
     /**
      * @param string $path The sub-path of the HTTP URL
      * @param string $method The request method, one of "GET", "HEAD", "OPTIONS", "POST", "PUT", "PATCH" and "DELETE"
-     * @param OpenApiGenericRequest $request openApiGenericRequest
+     * @param OpenApiGenericRequest $apiGenericRequest openApiGenericRequest
      * @return array
      * @throws ApiException
      * @throws \GuzzleHttp\Exception\GuzzleException
      */
-    public function execute($path, $method, OpenApiGenericRequest $request)
+    public function execute($path, $method, OpenApiGenericRequest $apiGenericRequest)
     {
-        $request = $this->executeRequest($path, $method, $request);
+        $request = $this->executeRequest($path, $method, $apiGenericRequest);
 
         try {
             $options = $this->createHttpClientOption();
@@ -223,6 +223,10 @@ class GenericExecuteApi
         $signContent = '';
         $isEncrypt = $this->alipayConfigUtil->isEncrypt();
 
+        if ($request->getBodyParams() == null) {
+            $request->setBodyParams($request->getBizParams());
+        }
+
         if (is_array($request->getFileParams()) && count($request->getFileParams()) >= 0) {
             $multipart = true;
         }
@@ -261,8 +265,8 @@ class GenericExecuteApi
         }
 
         if ($multipart) {
-            if ($request->getBizParams() != null) {
-                $formParams['data'] = \GuzzleHttp\json_encode(ObjectSerializer::sanitizeForSerialization($request->getBizParams()), JSON_UNESCAPED_UNICODE);
+            if ($request->getBodyParams() != null) {
+                $formParams['data'] = \GuzzleHttp\json_encode(ObjectSerializer::sanitizeForSerialization($request->getBodyParams()), JSON_UNESCAPED_UNICODE);
             }
 
             if (is_array($request->getFileParams()) && count($request->getFileParams()) >= 0) {
@@ -289,13 +293,13 @@ class GenericExecuteApi
             );
         }
 
-        if (!$multipart && $request->getBizParams() != null) {
-            $signContent = \GuzzleHttp\json_encode(ObjectSerializer::sanitizeForSerialization($request->getBizParams()), JSON_UNESCAPED_UNICODE);
+        if (!$multipart && $request->getBodyParams() != null) {
+            $signContent = \GuzzleHttp\json_encode(ObjectSerializer::sanitizeForSerialization($request->getBodyParams()), JSON_UNESCAPED_UNICODE);
             if ($headers['Content-Type'] === 'application/json' || $isEncrypt) {
                 $signContent = $this->alipayConfigUtil->encrypt($signContent, $headers, $multipart);
                 $httpBody = $signContent;
             } else {
-                $httpBody = $request->getBizParams();
+                $httpBody = $request->getBodyParams();
             }
         } elseif (count($formParams) > 0) {
             if ($multipart) {
@@ -460,7 +464,10 @@ class GenericExecuteApi
             $appParams['biz_content'] = $this->alipayConfigUtil->encrypt($bizContent, $headerParams);
         }
         $totalParams = $appParams + $systemParams;
-        $totalParams['sign'] = $this->alipayConfigUtil->generateSign($this->getSignContent($totalParams));
+
+        if ($this->alipayConfigUtil->isNeedSign()) {
+            $totalParams['sign'] = $this->alipayConfigUtil->generateSign($this->getSignContent($totalParams));
+        }
         if ($this->loadTest) {
             $totalParams['app_id'] = $this->alipayConfigUtil->getAppId() . '_TEST_1A';
         }
@@ -513,7 +520,7 @@ class GenericExecuteApi
         }
 
         //submit按钮控件请不要含有name属性
-        $sHtml = $sHtml . "<input type='submit' value='ok' style='display:none;''></form>";
+        $sHtml = $sHtml . "<input type='submit' value='ok' style='display:none;'></form>";
 
         return $sHtml . "<script>document.forms['alipaysubmit'].submit();</script>";
     }
