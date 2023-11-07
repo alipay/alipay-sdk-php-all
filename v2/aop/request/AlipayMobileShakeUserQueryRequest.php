@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.shake.user.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:56:56
+ * @since 1.0, 2023-11-01 14:32:28
  */
 class AlipayMobileShakeUserQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.taskreward.settle request
  *
  * @author auto create
- * @since 1.0, 2023-09-18 16:51:43
+ * @since 1.0, 2023-11-03 15:36:49
  */
 class AlipayCommerceCommonTaskrewardSettleRequest
 {

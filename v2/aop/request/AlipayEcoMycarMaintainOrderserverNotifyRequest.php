@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.maintain.orderserver.notify request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:35:21
+ * @since 1.0, 2023-11-06 11:01:44
  */
 class AlipayEcoMycarMaintainOrderserverNotifyRequest
 {

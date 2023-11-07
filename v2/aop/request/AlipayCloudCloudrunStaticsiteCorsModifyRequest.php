@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.staticsite.cors.modify request
  *
  * @author auto create
- * @since 1.0, 2023-10-12 17:16:45
+ * @since 1.0, 2023-10-16 13:56:46
  */
 class AlipayCloudCloudrunStaticsiteCorsModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.common.groupendorse.submit request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:46:42
+ * @since 1.0, 2023-10-25 16:35:31
  */
 class AlipayInsSceneCommonGroupendorseSubmitRequest
 {

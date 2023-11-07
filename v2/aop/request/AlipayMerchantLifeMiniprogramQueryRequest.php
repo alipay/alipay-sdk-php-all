@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.life.miniprogram.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 20:51:42
+ * @since 1.0, 2023-11-02 14:16:49
  */
 class AlipayMerchantLifeMiniprogramQueryRequest
 {

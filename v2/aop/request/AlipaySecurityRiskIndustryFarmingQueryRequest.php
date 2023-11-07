@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.industry.farming.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 22:31:43
+ * @since 1.0, 2023-10-30 11:52:12
  */
 class AlipaySecurityRiskIndustryFarmingQueryRequest
 {

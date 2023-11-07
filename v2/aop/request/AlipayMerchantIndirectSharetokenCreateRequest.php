@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.sharetoken.create request
  *
  * @author auto create
- * @since 1.0, 2023-10-07 13:16:44
+ * @since 1.0, 2023-10-20 14:16:48
  */
 class AlipayMerchantIndirectSharetokenCreateRequest
 {

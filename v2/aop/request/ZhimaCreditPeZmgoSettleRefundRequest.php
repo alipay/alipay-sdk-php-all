@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.zmgo.settle.refund request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 18:51:49
+ * @since 1.0, 2023-11-03 17:26:58
  */
 class ZhimaCreditPeZmgoSettleRefundRequest
 {

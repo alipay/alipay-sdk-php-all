@@ -3,14 +3,19 @@
  * ALIPAY API: alipay.open.agent.common.sign request
  *
  * @author auto create
- * @since 1.0, 2023-10-10 17:30:35
+ * @since 1.0, 2023-10-16 17:06:45
  */
 class AlipayOpenAgentCommonSignRequest
 {
 	/** 
-	 * 支付宝生活号(原服务窗)名称（1 app_name、app_demo；2 web_sites；3 alipay_life_name；4 wechat_official_account_name。1、2、3、4至少选择一个填写）
+	 * 支付宝生活号(原服务窗)名称（1 app_name、app_demo；2 web_sites；3 alipay_life_name。1、2、3少选择一个填写）
 	 **/
 	private $alipayLifeName;
+	
+	/** 
+	 * APP授权函图片，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $appAuthPic;
 	
 	/** 
 	 * APP demo，格式为.apk；或者应用说明文档, 格式为.doc .docx .pdf格式（1 app_name、app_demo；2 web_sites；3 alipay_life_name；4 wechat_official_account_name。1、2、3、4至少选择一个填写）
@@ -18,9 +23,44 @@ class AlipayOpenAgentCommonSignRequest
 	private $appDemo;
 	
 	/** 
+	 * 应用首页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $appHomeScreenshot;
+	
+	/** 
+	 * 商品或服务页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $appItemScreenshot;
+	
+	/** 
+	 * 投放应用市场
+	 **/
+	private $appMarket;
+	
+	/** 
 	 * 商户的APP应用名称（1 app_name、app_demo；2 web_sites；3 alipay_life_name；4 wechat_official_account_name。1、2、3、4至少选择一个填写）
 	 **/
 	private $appName;
+	
+	/** 
+	 * 应用内支付页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $appPayScreenshot;
+	
+	/** 
+	 * 应用状态
+	 **/
+	private $appStatus;
+	
+	/** 
+	 * 可以登录该应用的测试账户
+	 **/
+	private $appTestAccount;
+	
+	/** 
+	 * 可以登录此应用的账户的密码。对app_test_account的登录密码。
+	 **/
+	private $appTestAccountPassword;
 	
 	/** 
 	 * 代商户操作事务编号，通过alipay.open.agent.create接口进行创建。
@@ -48,6 +88,51 @@ class AlipayOpenAgentCommonSignRequest
 	private $dateLimitation;
 	
 	/** 
+	 * 应用下载链接
+	 **/
+	private $downloadLink;
+	
+	/** 
+	 * 网站备注图片
+	 **/
+	private $h5ExtraPic;
+	
+	/** 
+	 * H5网站首页截图
+	 **/
+	private $h5HomeScreenshot;
+	
+	/** 
+	 * H5网站商品截图
+	 **/
+	private $h5ItemScreenshot;
+	
+	/** 
+	 * 网站扩展信息文本
+	 **/
+	private $h5Memo;
+	
+	/** 
+	 * H5网站支付页截图
+	 **/
+	private $h5PayScreenshot;
+	
+	/** 
+	 * H5网站地址
+	 **/
+	private $h5Sites;
+	
+	/** 
+	 * H5网站授权函
+	 **/
+	private $h5SitesLoa;
+	
+	/** 
+	 * H5网站状态
+	 **/
+	private $h5Status;
+	
+	/** 
 	 * 请输入被签约商户的支付宝生活号ID编号
 	 **/
 	private $lifeAppId;
@@ -68,9 +153,19 @@ class AlipayOpenAgentCommonSignRequest
 	private $miniAppId;
 	
 	/** 
+	 * 小程序名称
+	 **/
+	private $miniAppName;
+	
+	/** 
 	 * 请上传商家小程序截图信息，最小5KB ，最大5M（暂不限制图片宽高），图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $miniAppScreenshot;
+	
+	/** 
+	 * 移动设备类型，当开通电脑网站支付产品时不需赋值；当开通手机网站支付时，传H5；当开通JSAPI时，传APP；当开通预授权支付产品，且交易场景选择“mobile”(移动设备)时，需要从APP,H5中至少选择一个，可多选，字符串英文逗号分隔。
+	 **/
+	private $mobileType;
 	
 	/** 
 	 * isv要代商户签约产品码，产品码是支付宝内部对产品的唯一标识
@@ -99,6 +194,11 @@ class AlipayOpenAgentCommonSignRequest
 	private $shopDistrictCode;
 	
 	/** 
+	 * 门店名称
+	 **/
+	private $shopName;
+	
+	/** 
 	 * 门店所在省份
 	 **/
 	private $shopProvinceCode;
@@ -123,6 +223,11 @@ class AlipayOpenAgentCommonSignRequest
 	 * 合约特殊资质的类型，不传默认99
 	 **/
 	private $specialLicenseType;
+	
+	/** 
+	 * 交易场景，当开通产品为电脑网站支付时，传pc；当开通产品为手机网站支付时，传mobile；当开通产品为JSAPI时，传tiny_app；当开通产品为预授权支付时，下面括号中三个至少传一个（tiny_app,mobile,offline_store），可多选，字符串用英文逗号分隔
+	 **/
+	private $tradeScene;
 	
 	/** 
 	 * 网站首页截图，最小5KB，最大5M，图片格式必须为：png、bmp、gif、jpg、jpeg
@@ -150,12 +255,12 @@ class AlipayOpenAgentCommonSignRequest
 	private $webSitesLoa;
 	
 	/** 
-	 * 网站状态，枚举值为：已上线，未上线
+	 * 网站状态，枚举值为：ONLINE，OFFLINE
 	 **/
 	private $webStatus;
 	
 	/** 
-	 * 可以登录此网站的测试账户
+	 * 可以登录此网站的测试账户。
 	 **/
 	private $webTestAccount;
 	
@@ -165,7 +270,7 @@ class AlipayOpenAgentCommonSignRequest
 	private $webTestAccountPassword;
 	
 	/** 
-	 * 微信公众号名称（1 app_name、app_demo；2 web_sites；3 alipay_life_name；4 wechat_official_account_name。1、2、3、4至少选择一个填写）
+	 * 1 app_name、app_demo；2 web_sites；3 alipay_life_name；4 wechat_official_account_name。1、2、3、4至少选择一个填写
 	 **/
 	private $wechatOfficialAccountName;
 
@@ -190,6 +295,17 @@ class AlipayOpenAgentCommonSignRequest
 		return $this->alipayLifeName;
 	}
 
+	public function setAppAuthPic($appAuthPic)
+	{
+		$this->appAuthPic = $appAuthPic;
+		$this->apiParas["app_auth_pic"] = $appAuthPic;
+	}
+
+	public function getAppAuthPic()
+	{
+		return $this->appAuthPic;
+	}
+
 	public function setAppDemo($appDemo)
 	{
 		$this->appDemo = $appDemo;
@@ -201,6 +317,39 @@ class AlipayOpenAgentCommonSignRequest
 		return $this->appDemo;
 	}
 
+	public function setAppHomeScreenshot($appHomeScreenshot)
+	{
+		$this->appHomeScreenshot = $appHomeScreenshot;
+		$this->apiParas["app_home_screenshot"] = $appHomeScreenshot;
+	}
+
+	public function getAppHomeScreenshot()
+	{
+		return $this->appHomeScreenshot;
+	}
+
+	public function setAppItemScreenshot($appItemScreenshot)
+	{
+		$this->appItemScreenshot = $appItemScreenshot;
+		$this->apiParas["app_item_screenshot"] = $appItemScreenshot;
+	}
+
+	public function getAppItemScreenshot()
+	{
+		return $this->appItemScreenshot;
+	}
+
+	public function setAppMarket($appMarket)
+	{
+		$this->appMarket = $appMarket;
+		$this->apiParas["app_market"] = $appMarket;
+	}
+
+	public function getAppMarket()
+	{
+		return $this->appMarket;
+	}
+
 	public function setAppName($appName)
 	{
 		$this->appName = $appName;
@@ -210,6 +359,50 @@ class AlipayOpenAgentCommonSignRequest
 	public function getAppName()
 	{
 		return $this->appName;
+	}
+
+	public function setAppPayScreenshot($appPayScreenshot)
+	{
+		$this->appPayScreenshot = $appPayScreenshot;
+		$this->apiParas["app_pay_screenshot"] = $appPayScreenshot;
+	}
+
+	public function getAppPayScreenshot()
+	{
+		return $this->appPayScreenshot;
+	}
+
+	public function setAppStatus($appStatus)
+	{
+		$this->appStatus = $appStatus;
+		$this->apiParas["app_status"] = $appStatus;
+	}
+
+	public function getAppStatus()
+	{
+		return $this->appStatus;
+	}
+
+	public function setAppTestAccount($appTestAccount)
+	{
+		$this->appTestAccount = $appTestAccount;
+		$this->apiParas["app_test_account"] = $appTestAccount;
+	}
+
+	public function getAppTestAccount()
+	{
+		return $this->appTestAccount;
+	}
+
+	public function setAppTestAccountPassword($appTestAccountPassword)
+	{
+		$this->appTestAccountPassword = $appTestAccountPassword;
+		$this->apiParas["app_test_account_password"] = $appTestAccountPassword;
+	}
+
+	public function getAppTestAccountPassword()
+	{
+		return $this->appTestAccountPassword;
 	}
 
 	public function setBatchNo($batchNo)
@@ -267,6 +460,105 @@ class AlipayOpenAgentCommonSignRequest
 		return $this->dateLimitation;
 	}
 
+	public function setDownloadLink($downloadLink)
+	{
+		$this->downloadLink = $downloadLink;
+		$this->apiParas["download_link"] = $downloadLink;
+	}
+
+	public function getDownloadLink()
+	{
+		return $this->downloadLink;
+	}
+
+	public function setH5ExtraPic($h5ExtraPic)
+	{
+		$this->h5ExtraPic = $h5ExtraPic;
+		$this->apiParas["h_5_extra_pic"] = $h5ExtraPic;
+	}
+
+	public function getH5ExtraPic()
+	{
+		return $this->h5ExtraPic;
+	}
+
+	public function setH5HomeScreenshot($h5HomeScreenshot)
+	{
+		$this->h5HomeScreenshot = $h5HomeScreenshot;
+		$this->apiParas["h_5_home_screenshot"] = $h5HomeScreenshot;
+	}
+
+	public function getH5HomeScreenshot()
+	{
+		return $this->h5HomeScreenshot;
+	}
+
+	public function setH5ItemScreenshot($h5ItemScreenshot)
+	{
+		$this->h5ItemScreenshot = $h5ItemScreenshot;
+		$this->apiParas["h_5_item_screenshot"] = $h5ItemScreenshot;
+	}
+
+	public function getH5ItemScreenshot()
+	{
+		return $this->h5ItemScreenshot;
+	}
+
+	public function setH5Memo($h5Memo)
+	{
+		$this->h5Memo = $h5Memo;
+		$this->apiParas["h_5_memo"] = $h5Memo;
+	}
+
+	public function getH5Memo()
+	{
+		return $this->h5Memo;
+	}
+
+	public function setH5PayScreenshot($h5PayScreenshot)
+	{
+		$this->h5PayScreenshot = $h5PayScreenshot;
+		$this->apiParas["h_5_pay_screenshot"] = $h5PayScreenshot;
+	}
+
+	public function getH5PayScreenshot()
+	{
+		return $this->h5PayScreenshot;
+	}
+
+	public function setH5Sites($h5Sites)
+	{
+		$this->h5Sites = $h5Sites;
+		$this->apiParas["h_5_sites"] = $h5Sites;
+	}
+
+	public function getH5Sites()
+	{
+		return $this->h5Sites;
+	}
+
+	public function setH5SitesLoa($h5SitesLoa)
+	{
+		$this->h5SitesLoa = $h5SitesLoa;
+		$this->apiParas["h_5_sites_loa"] = $h5SitesLoa;
+	}
+
+	public function getH5SitesLoa()
+	{
+		return $this->h5SitesLoa;
+	}
+
+	public function setH5Status($h5Status)
+	{
+		$this->h5Status = $h5Status;
+		$this->apiParas["h_5_status"] = $h5Status;
+	}
+
+	public function getH5Status()
+	{
+		return $this->h5Status;
+	}
+
 	public function setLifeAppId($lifeAppId)
 	{
 		$this->lifeAppId = $lifeAppId;
@@ -311,6 +603,17 @@ class AlipayOpenAgentCommonSignRequest
 		return $this->miniAppId;
 	}
 
+	public function setMiniAppName($miniAppName)
+	{
+		$this->miniAppName = $miniAppName;
+		$this->apiParas["mini_app_name"] = $miniAppName;
+	}
+
+	public function getMiniAppName()
+	{
+		return $this->miniAppName;
+	}
+
 	public function setMiniAppScreenshot($miniAppScreenshot)
 	{
 		$this->miniAppScreenshot = $miniAppScreenshot;
@@ -320,6 +623,17 @@ class AlipayOpenAgentCommonSignRequest
 	public function getMiniAppScreenshot()
 	{
 		return $this->miniAppScreenshot;
+	}
+
+	public function setMobileType($mobileType)
+	{
+		$this->mobileType = $mobileType;
+		$this->apiParas["mobile_type"] = $mobileType;
+	}
+
+	public function getMobileType()
+	{
+		return $this->mobileType;
 	}
 
 	public function setProductCode($productCode)
@@ -377,6 +691,17 @@ class AlipayOpenAgentCommonSignRequest
 		return $this->shopDistrictCode;
 	}
 
+	public function setShopName($shopName)
+	{
+		$this->shopName = $shopName;
+		$this->apiParas["shop_name"] = $shopName;
+	}
+
+	public function getShopName()
+	{
+		return $this->shopName;
+	}
+
 	public function setShopProvinceCode($shopProvinceCode)
 	{
 		$this->shopProvinceCode = $shopProvinceCode;
@@ -430,6 +755,17 @@ class AlipayOpenAgentCommonSignRequest
 	public function getSpecialLicenseType()
 	{
 		return $this->specialLicenseType;
+	}
+
+	public function setTradeScene($tradeScene)
+	{
+		$this->tradeScene = $tradeScene;
+		$this->apiParas["trade_scene"] = $tradeScene;
+	}
+
+	public function getTradeScene()
+	{
+		return $this->tradeScene;
 	}
 
 	public function setWebHomeScreenshot($webHomeScreenshot)

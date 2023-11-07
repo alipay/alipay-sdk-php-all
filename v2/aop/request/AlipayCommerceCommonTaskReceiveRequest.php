@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.task.receive request
  *
  * @author auto create
- * @since 1.0, 2023-07-06 14:47:00
+ * @since 1.0, 2023-10-26 14:41:47
  */
 class AlipayCommerceCommonTaskReceiveRequest
 {

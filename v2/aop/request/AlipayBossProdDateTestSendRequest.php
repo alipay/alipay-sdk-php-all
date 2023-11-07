@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.date.test.send request
  *
  * @author auto create
- * @since 1.0, 2023-07-19 14:06:53
+ * @since 1.0, 2023-11-02 14:11:49
  */
 class AlipayBossProdDateTestSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.cmall.goods.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 20:06:44
+ * @since 1.0, 2023-11-02 17:17:49
  */
 class AlipayDigitalmgmtCmallGoodsSyncRequest
 {

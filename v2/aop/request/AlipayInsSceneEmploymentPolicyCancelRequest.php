@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.employment.policy.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:50:07
+ * @since 1.0, 2023-10-25 16:34:55
  */
 class AlipayInsSceneEmploymentPolicyCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.order.iot.upload request
  *
  * @author auto create
- * @since 1.0, 2023-07-19 19:26:52
+ * @since 1.0, 2023-11-02 11:06:50
  */
 class AlipayMerchantOrderIotUploadRequest
 {

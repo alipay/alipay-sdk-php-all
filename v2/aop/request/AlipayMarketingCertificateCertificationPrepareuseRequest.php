@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.certificate.certification.prepareuse request
  *
  * @author auto create
- * @since 1.0, 2023-09-13 21:38:08
+ * @since 1.0, 2023-11-06 17:16:49
  */
 class AlipayMarketingCertificateCertificationPrepareuseRequest
 {

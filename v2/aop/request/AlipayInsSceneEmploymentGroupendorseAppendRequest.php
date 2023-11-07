@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.employment.groupendorse.append request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:46:41
+ * @since 1.0, 2023-10-25 16:36:22
  */
 class AlipayInsSceneEmploymentGroupendorseAppendRequest
 {

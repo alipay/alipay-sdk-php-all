@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.mobilepay.sign request
  *
  * @author auto create
- * @since 1.0, 2023-09-27 17:56:53
+ * @since 1.0, 2023-10-20 19:36:47
  */
 class AlipayOpenAgentMobilepaySignRequest
 {
@@ -18,7 +18,17 @@ class AlipayOpenAgentMobilepaySignRequest
 	private $appDemo;
 	
 	/** 
-	 * 应用在哪些市场上架，枚举值为：苹果,应用宝,豌豆荚,其他
+	 * 应用首页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $appHomeScreenshot;
+	
+	/** 
+	 * 商品或服务页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $appItemScreenshot;
+	
+	/** 
+	 * 应用在哪些市场上架，枚举值为：苹果,应用宝,华为,360,小米,豌豆荚,其他
 	 **/
 	private $appMarket;
 	
@@ -28,7 +38,12 @@ class AlipayOpenAgentMobilepaySignRequest
 	private $appName;
 	
 	/** 
-	 * 应用上架状态，枚举值为 已上架，未上架
+	 * 应用内支付页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
+	 **/
+	private $appPayScreenshot;
+	
+	/** 
+	 * 应用上架状态，枚举值为 已上线，未上线
 	 **/
 	private $appStatus;
 	
@@ -104,6 +119,11 @@ class AlipayOpenAgentMobilepaySignRequest
 	private $mccCode;
 	
 	/** 
+	 * 传参：APP，代表设备类型是APP
+	 **/
+	private $mobileType;
+	
+	/** 
 	 * 应用内支付页截图，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $payScreenshot;
@@ -113,6 +133,11 @@ class AlipayOpenAgentMobilepaySignRequest
 <a href="https://opendocs.alipay.com/open/01n22g#%E5%95%86%E5%AE%B6%E7%BB%8F%E8%90%A5%E7%B1%BB%E7%9B%AE">商家经营类目</a> 中的“需要的特殊资质证书”，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $specialLicensePic;
+	
+	/** 
+	 * 传参：mobile，代表交易场景是移动设备
+	 **/
+	private $tradeScene;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -146,6 +171,28 @@ class AlipayOpenAgentMobilepaySignRequest
 		return $this->appDemo;
 	}
 
+	public function setAppHomeScreenshot($appHomeScreenshot)
+	{
+		$this->appHomeScreenshot = $appHomeScreenshot;
+		$this->apiParas["app_home_screenshot"] = $appHomeScreenshot;
+	}
+
+	public function getAppHomeScreenshot()
+	{
+		return $this->appHomeScreenshot;
+	}
+
+	public function setAppItemScreenshot($appItemScreenshot)
+	{
+		$this->appItemScreenshot = $appItemScreenshot;
+		$this->apiParas["app_item_screenshot"] = $appItemScreenshot;
+	}
+
+	public function getAppItemScreenshot()
+	{
+		return $this->appItemScreenshot;
+	}
+
 	public function setAppMarket($appMarket)
 	{
 		$this->appMarket = $appMarket;
@@ -166,6 +213,17 @@ class AlipayOpenAgentMobilepaySignRequest
 	public function getAppName()
 	{
 		return $this->appName;
+	}
+
+	public function setAppPayScreenshot($appPayScreenshot)
+	{
+		$this->appPayScreenshot = $appPayScreenshot;
+		$this->apiParas["app_pay_screenshot"] = $appPayScreenshot;
+	}
+
+	public function getAppPayScreenshot()
+	{
+		return $this->appPayScreenshot;
 	}
 
 	public function setAppStatus($appStatus)
@@ -333,6 +391,17 @@ class AlipayOpenAgentMobilepaySignRequest
 		return $this->mccCode;
 	}
 
+	public function setMobileType($mobileType)
+	{
+		$this->mobileType = $mobileType;
+		$this->apiParas["mobile_type"] = $mobileType;
+	}
+
+	public function getMobileType()
+	{
+		return $this->mobileType;
+	}
+
 	public function setPayScreenshot($payScreenshot)
 	{
 		$this->payScreenshot = $payScreenshot;
@@ -353,6 +422,17 @@ class AlipayOpenAgentMobilepaySignRequest
 	public function getSpecialLicensePic()
 	{
 		return $this->specialLicensePic;
+	}
+
+	public function setTradeScene($tradeScene)
+	{
+		$this->tradeScene = $tradeScene;
+		$this->apiParas["trade_scene"] = $tradeScene;
+	}
+
+	public function getTradeScene()
+	{
+		return $this->tradeScene;
 	}
 
 	public function getApiMethodName()

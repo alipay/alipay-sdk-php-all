@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.objectstorage.filelist.delete request
  *
  * @author auto create
- * @since 1.0, 2023-08-04 11:26:56
+ * @since 1.0, 2023-10-25 15:41:15
  */
 class AlipayCloudCloudrunObjectstorageFilelistDeleteRequest
 {

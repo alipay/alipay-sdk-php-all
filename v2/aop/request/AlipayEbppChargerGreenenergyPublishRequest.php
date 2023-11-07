@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.charger.greenenergy.publish request
  *
  * @author auto create
- * @since 1.0, 2023-06-27 09:46:51
+ * @since 1.0, 2023-10-22 11:21:00
  */
 class AlipayEbppChargerGreenenergyPublishRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.homedeliverylink.auth request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 02:11:44
+ * @since 1.0, 2023-10-23 11:59:45
  */
 class AlipayInsSceneEcommerceHomedeliverylinkAuthRequest
 {
