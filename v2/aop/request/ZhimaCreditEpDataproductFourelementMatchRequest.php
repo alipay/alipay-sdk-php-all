@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.trade.royalty.relation.unbind request
+ * ALIPAY API: zhima.credit.ep.dataproduct.fourelement.match request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 19:06:53
+ * @since 1.0, 2023-11-09 14:56:49
  */
-class AlipayTradeRoyaltyRelationUnbindRequest
+class ZhimaCreditEpDataproductFourelementMatchRequest
 {
 	/** 
-	 * 分账关系解绑
+	 * 芝麻企业信用数据产品企业四要素匹配核验
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayTradeRoyaltyRelationUnbindRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.trade.royalty.relation.unbind";
+		return "zhima.credit.ep.dataproduct.fourelement.match";
 	}
 
 	public function setNotifyUrl($notifyUrl)

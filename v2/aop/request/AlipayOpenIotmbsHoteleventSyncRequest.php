@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.trade.royalty.relation.unbind request
+ * ALIPAY API: alipay.open.iotmbs.hotelevent.sync request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 19:06:53
+ * @since 1.0, 2023-11-13 20:46:51
  */
-class AlipayTradeRoyaltyRelationUnbindRequest
+class AlipayOpenIotmbsHoteleventSyncRequest
 {
 	/** 
-	 * 分账关系解绑
+	 * 酒店行业核验后业务结果同步
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayTradeRoyaltyRelationUnbindRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.trade.royalty.relation.unbind";
+		return "alipay.open.iotmbs.hotelevent.sync";
 	}
 
 	public function setNotifyUrl($notifyUrl)

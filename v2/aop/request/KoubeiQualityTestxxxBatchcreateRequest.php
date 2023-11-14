@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.trade.royalty.relation.unbind request
+ * ALIPAY API: koubei.quality.testxxx.batchcreate request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 19:06:53
+ * @since 1.0, 2023-11-14 13:26:51
  */
-class AlipayTradeRoyaltyRelationUnbindRequest
+class KoubeiQualityTestxxxBatchcreateRequest
 {
 	/** 
-	 * 分账关系解绑
+	 * koubei.quality.
 	 **/
 	private $bizContent;
 
@@ -19,7 +19,7 @@ class AlipayTradeRoyaltyRelationUnbindRequest
 	private $apiVersion="1.0";
 	private $notifyUrl;
 	private $returnUrl;
-    private $needEncrypt=false;
+    private $needEncrypt=true;
 
 	
 	public function setBizContent($bizContent)
@@ -35,7 +35,7 @@ class AlipayTradeRoyaltyRelationUnbindRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.trade.royalty.relation.unbind";
+		return "koubei.quality.testxxx.batchcreate";
 	}
 
 	public function setNotifyUrl($notifyUrl)

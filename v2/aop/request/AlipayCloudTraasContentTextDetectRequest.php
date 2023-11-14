@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.traas.content.text.detect request
  *
  * @author auto create
- * @since 1.0, 2023-10-27 14:31:48
+ * @since 1.0, 2023-11-14 11:06:49
  */
 class AlipayCloudTraasContentTextDetectRequest
 {

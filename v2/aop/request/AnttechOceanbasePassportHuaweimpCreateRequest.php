@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.trade.royalty.relation.unbind request
+ * ALIPAY API: anttech.oceanbase.passport.huaweimp.create request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 19:06:53
+ * @since 1.0, 2023-11-08 15:11:48
  */
-class AlipayTradeRoyaltyRelationUnbindRequest
+class AnttechOceanbasePassportHuaweimpCreateRequest
 {
 	/** 
-	 * 分账关系解绑
+	 * 通过华为云MP注册账号
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayTradeRoyaltyRelationUnbindRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.trade.royalty.relation.unbind";
+		return "anttech.oceanbase.passport.huaweimp.create";
 	}
 
 	public function setNotifyUrl($notifyUrl)

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.delivery.info.sync request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 14:52:01
+ * @since 1.0, 2023-11-07 19:01:50
  */
 class AlipayOpenAppDeliveryInfoSyncRequest
 {

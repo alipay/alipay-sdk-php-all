@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.trade.royalty.relation.unbind request
+ * ALIPAY API: alipay.commerce.medical.industrydata.inquiryorder.query request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 19:06:53
+ * @since 1.0, 2023-11-09 21:26:47
  */
-class AlipayTradeRoyaltyRelationUnbindRequest
+class AlipayCommerceMedicalIndustrydataInquiryorderQueryRequest
 {
 	/** 
-	 * 分账关系解绑
+	 * 问诊订单查询接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayTradeRoyaltyRelationUnbindRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.trade.royalty.relation.unbind";
+		return "alipay.commerce.medical.industrydata.inquiryorder.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

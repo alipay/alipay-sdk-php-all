@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.delivery.info.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 14:52:08
+ * @since 1.0, 2023-11-07 19:01:51
  */
 class AlipayOpenAppDeliveryInfoQueryRequest
 {

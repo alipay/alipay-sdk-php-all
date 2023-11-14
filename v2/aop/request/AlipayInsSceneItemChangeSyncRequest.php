@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.trade.royalty.relation.unbind request
+ * ALIPAY API: alipay.ins.scene.item.change.sync request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 19:06:53
+ * @since 1.0, 2023-11-13 18:06:50
  */
-class AlipayTradeRoyaltyRelationUnbindRequest
+class AlipayInsSceneItemChangeSyncRequest
 {
 	/** 
-	 * 分账关系解绑
+	 * 商品保险变更事件同步
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayTradeRoyaltyRelationUnbindRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.trade.royalty.relation.unbind";
+		return "alipay.ins.scene.item.change.sync";
 	}
 
 	public function setNotifyUrl($notifyUrl)

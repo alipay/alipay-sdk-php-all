@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.employment.policy.batchcreate request
  *
  * @author auto create
- * @since 1.0, 2023-10-25 16:27:02
+ * @since 1.0, 2023-11-09 14:56:49
  */
 class AlipayInsSceneEmploymentPolicyBatchcreateRequest
 {

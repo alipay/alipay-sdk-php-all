@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.trade.royalty.relation.unbind request
+ * ALIPAY API: alipay.open.mini.ampe.device.sync request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 19:06:53
+ * @since 1.0, 2023-11-09 20:46:48
  */
-class AlipayTradeRoyaltyRelationUnbindRequest
+class AlipayOpenMiniAmpeDeviceSyncRequest
 {
 	/** 
-	 * 分账关系解绑
+	 * 激活设备号
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayTradeRoyaltyRelationUnbindRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.trade.royalty.relation.unbind";
+		return "alipay.open.mini.ampe.device.sync";
 	}
 
 	public function setNotifyUrl($notifyUrl)

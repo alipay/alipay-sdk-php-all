@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.payment.code.get request
  *
  * @author auto create
- * @since 1.0, 2023-08-02 11:52:04
+ * @since 1.0, 2023-11-10 09:51:49
  */
 class AlipayCommerceMedicalPaymentCodeGetRequest
 {

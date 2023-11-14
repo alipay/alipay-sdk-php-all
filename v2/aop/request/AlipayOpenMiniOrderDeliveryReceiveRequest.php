@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.order.delivery.receive request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 15:26:49
+ * @since 1.0, 2023-11-09 10:36:48
  */
 class AlipayOpenMiniOrderDeliveryReceiveRequest
 {

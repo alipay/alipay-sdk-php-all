@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.trade.royalty.relation.unbind request
+ * ALIPAY API: anttech.oceanbase.passinfo.create request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 19:06:53
+ * @since 1.0, 2023-11-08 15:11:48
  */
-class AlipayTradeRoyaltyRelationUnbindRequest
+class AnttechOceanbasePassinfoCreateRequest
 {
 	/** 
-	 * 分账关系解绑
+	 * 生成官网登录态
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayTradeRoyaltyRelationUnbindRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.trade.royalty.relation.unbind";
+		return "anttech.oceanbase.passinfo.create";
 	}
 
 	public function setNotifyUrl($notifyUrl)
