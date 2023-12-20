@@ -4,8 +4,8 @@ All URIs are relative to https://openapi.alipay.com.
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**initialize()**](DatadigitalFincloudGeneralsaasFaceCheckApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/face/check/initialize | 人脸检测初始化
-[**query()**](DatadigitalFincloudGeneralsaasFaceCheckApi.md#query) | **GET** /v3/datadigital/fincloud/generalsaas/face/check/query | 人脸检测结果数据查询
+[**initialize()**](DatadigitalFincloudGeneralsaasFaceCheckApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/face/check/initialize | 活体检测初始化
+[**query()**](DatadigitalFincloudGeneralsaasFaceCheckApi.md#query) | **GET** /v3/datadigital/fincloud/generalsaas/face/check/query | 活体检测结果查询
 
 
 ## `initialize()`
@@ -14,7 +14,7 @@ Method | HTTP request | Description
 initialize($datadigitalFincloudGeneralsaasFaceCheckInitializeModel): \Alipay\OpenAPISDK\Model\DatadigitalFincloudGeneralsaasFaceCheckInitializeResponseModel
 ```
 
-人脸检测初始化
+活体检测初始化
 
 人脸检测业务单据初始化
 
@@ -84,9 +84,9 @@ No authorization required
 query($certifyId, $needAlivePhoto, $needScore, $needQualityScore, $needAttackResult): \Alipay\OpenAPISDK\Model\DatadigitalFincloudGeneralsaasFaceCheckQueryResponseModel
 ```
 
-人脸检测结果数据查询
+活体检测结果查询
 
-用于查询人脸检测结果的数据。
+用于查询活体检测结果。
 
 ### Example
 

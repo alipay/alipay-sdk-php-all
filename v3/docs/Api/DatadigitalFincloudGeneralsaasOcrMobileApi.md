@@ -4,7 +4,7 @@ All URIs are relative to https://openapi.alipay.com.
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**initialize()**](DatadigitalFincloudGeneralsaasOcrMobileApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/ocr/mobile/initialize | OCR端云一体化识别初始化
+[**initialize()**](DatadigitalFincloudGeneralsaasOcrMobileApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/ocr/mobile/initialize | App端OCR初始化
 
 
 ## `initialize()`
@@ -13,7 +13,7 @@ Method | HTTP request | Description
 initialize($datadigitalFincloudGeneralsaasOcrMobileInitializeModel): \Alipay\OpenAPISDK\Model\DatadigitalFincloudGeneralsaasOcrMobileInitializeResponseModel
 ```
 
-OCR端云一体化识别初始化
+App端OCR初始化
 
 OCR端云一体化识别
 

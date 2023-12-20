@@ -33,6 +33,7 @@ use \Alipay\OpenAPISDK\ApiException;
 use Alipay\OpenAPISDK\Model\AlipayTradePayModel;
 use \Alipay\OpenAPISDK\ObjectSerializer;
 use Alipay\OpenAPISDK\Util\AlipayConfigUtil;
+use Alipay\OpenAPISDK\Util\AlipaySignature;
 use Alipay\OpenAPISDK\Util\GenericExecuteApi;
 use Alipay\OpenAPISDK\Util\Model\AlipayConfig;
 use Alipay\OpenAPISDK\Util\Model\CustomizedParams;
@@ -219,6 +220,25 @@ class OperationApiTest extends TestCase
         } catch (ApiException $e) {
             var_dump($e->getResponseBody());
         }
+    }
+
+    public function testSign()
+    {
+        $privateKey = "";
+        $aloneRsaSign = AlipaySignature::aloneRsaSign("ceshi", $privateKey);
+        var_dump($aloneRsaSign);
+
+        $publicKey = '';
+        $verify = AlipaySignature::verify("ceshi", $aloneRsaSign, $publicKey);
+        var_dump($verify);
+
+        $params = [];
+        $params['method'] = 'koubei.marketing.data.indicator.query';
+        $params['app_id'] = '201909036687xxx';
+        $params['sign_type'] = 'RSA2';
+        $params['sign'] = 'NQHIJKRCoCJCUXqzzK8WUtA/58m4/e3NGLutUFxFUD8udlauzRCgCINxDqs3atXrJ8KeSxpf8IU8nrnK7qzCQiYdj2XjfkXDrZllPEXlrelHitj9qpPqMXlAbP1HArNlBTpaGmq6hwvf/W50O/8kOjPEpmdpFcYZrlR/aA3uwdiOXHGNfd6p2wA7JjHiLQtPXGVm2oLLp+HDEtdhqxs66Br4bTQZPrQNKJrhqRcqwTzA5ZyDMQK724ECTYBI/+8PEvFCpi4Ny6piO78clFE/bSAuKCdhbivBzWDYkvmQymq0M86W3usljVENbnOyBatl7/y4f7S53Ht/yBmO/f+gYg==';
+        $rsaCheckV1 = AlipaySignature::rsaCheckV2($params, $publicKey);
+        var_dump($rsaCheckV1);
     }
 
 }

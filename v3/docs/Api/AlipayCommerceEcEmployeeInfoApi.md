@@ -81,7 +81,7 @@ No authorization required
 ## `query()`
 
 ```php
-query($enterpriseId, $employeeId, $openId, $userId): \Alipay\OpenAPISDK\Model\AlipayCommerceEcEmployeeInfoQueryResponseModel
+query($enterpriseId, $employeeId, $openId, $userId, $mobile): \Alipay\OpenAPISDK\Model\AlipayCommerceEcEmployeeInfoQueryResponseModel
 ```
 
 查询员工详情
@@ -120,9 +120,10 @@ $enterpriseId = 2088441363102941; // string | 企业id
 $employeeId = 228420000000057942506; // string | 员工id
 $openId = 074a1CcTG1LelxKe4xQC0zgNdId0nxi95b5lsNpazWYoCo5; // string | 蚂蚁统一会员ID
 $userId = 2088501304519332; // string | 蚂蚁统一会员ID
+$mobile = 134XXXX2526; // string | 员工手机号码
 
 try {
-    $result = $apiInstance->query($enterpriseId, $employeeId, $openId, $userId);
+    $result = $apiInstance->query($enterpriseId, $employeeId, $openId, $userId, $mobile);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayCommerceEcEmployeeInfoApi->query: ', $e->getMessage(), PHP_EOL;
@@ -137,6 +138,7 @@ Name | Type | Description  | Notes
  **employeeId** | **string**| 员工id | [optional]
  **openId** | **string**| 蚂蚁统一会员ID | [optional]
  **userId** | **string**| 蚂蚁统一会员ID | [optional]
+ **mobile** | **string**| 员工手机号码 | [optional]
 
 ### Return type
 

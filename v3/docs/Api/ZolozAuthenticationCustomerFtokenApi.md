@@ -4,7 +4,7 @@ All URIs are relative to https://openapi.alipay.com.
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**query()**](ZolozAuthenticationCustomerFtokenApi.md#query) | **POST** /v3/zoloz/authentication/customer/ftoken/query | 人脸ftoken查询消费接口
+[**query()**](ZolozAuthenticationCustomerFtokenApi.md#query) | **POST** /v3/zoloz/authentication/customer/ftoken/query | 查询刷脸结果信息接口
 
 
 ## `query()`
@@ -13,9 +13,9 @@ Method | HTTP request | Description
 query($zolozAuthenticationCustomerFtokenQueryModel): \Alipay\OpenAPISDK\Model\ZolozAuthenticationCustomerFtokenQueryResponseModel
 ```
 
-人脸ftoken查询消费接口
+查询刷脸结果信息接口
 
-人脸ftoken查询消费接口
+查询刷脸结果信息接口
 
 ### Example
 

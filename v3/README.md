@@ -711,7 +711,7 @@ Class | Method | HTTP request | Description
 *AlipayOpenServicemarketOrderApi* | [**accept**](docs/Api/AlipayOpenServicemarketOrderApi.md#accept) | **POST** /v3/alipay/open/servicemarket/order/accept | 服务商接单操作
 *AlipayOpenServicemarketOrderApi* | [**create**](docs/Api/AlipayOpenServicemarketOrderApi.md#create) | **POST** /v3/alipay/open/servicemarket/order/create | 服务市场代订购小程序
 *AlipayOpenServicemarketOrderApi* | [**notify**](docs/Api/AlipayOpenServicemarketOrderApi.md#notify) | **POST** /v3/alipay/open/servicemarket/order/notify | 服务市场商户确认订购通知
-*AlipayOpenServicemarketOrderApi* | [**query**](docs/Api/AlipayOpenServicemarketOrderApi.md#query) | **GET** /v3/alipay/open/servicemarket/order/query | 订购插件订单明细查询
+*AlipayOpenServicemarketOrderApi* | [**query**](docs/Api/AlipayOpenServicemarketOrderApi.md#query) | **GET** /v3/alipay/open/servicemarket/order/query | 服务市场订单明细查询
 *AlipayOpenServicemarketOrderApi* | [**reject**](docs/Api/AlipayOpenServicemarketOrderApi.md#reject) | **POST** /v3/alipay/open/servicemarket/order/reject | 服务商拒绝接单
 *AlipayOpenServicemarketOrderItemApi* | [**cancel**](docs/Api/AlipayOpenServicemarketOrderItemApi.md#cancel) | **POST** /v3/alipay/open/servicemarket/order/item/cancel | 服务订单明细实施项单项取消
 *AlipayOpenServicemarketOrderItemApi* | [**complete**](docs/Api/AlipayOpenServicemarketOrderItemApi.md#complete) | **POST** /v3/alipay/open/servicemarket/order/item/complete | 服务商完成订单内单个明细实施项
@@ -826,12 +826,12 @@ Class | Method | HTTP request | Description
 *DatadigitalFincloudGeneralsaasFaceCertifyApi* | [**initialize**](docs/Api/DatadigitalFincloudGeneralsaasFaceCertifyApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/face/certify/initialize | H5人脸核身初始化
 *DatadigitalFincloudGeneralsaasFaceCertifyApi* | [**query**](docs/Api/DatadigitalFincloudGeneralsaasFaceCertifyApi.md#query) | **GET** /v3/datadigital/fincloud/generalsaas/face/certify/query | H5人脸核身查询记录
 *DatadigitalFincloudGeneralsaasFaceCertifyApi* | [**verify**](docs/Api/DatadigitalFincloudGeneralsaasFaceCertifyApi.md#verify) | **POST** /v3/datadigital/fincloud/generalsaas/face/certify/verify | H5人脸核身开始认证
-*DatadigitalFincloudGeneralsaasFaceCheckApi* | [**initialize**](docs/Api/DatadigitalFincloudGeneralsaasFaceCheckApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/face/check/initialize | 人脸检测初始化
-*DatadigitalFincloudGeneralsaasFaceCheckApi* | [**query**](docs/Api/DatadigitalFincloudGeneralsaasFaceCheckApi.md#query) | **GET** /v3/datadigital/fincloud/generalsaas/face/check/query | 人脸检测结果数据查询
-*DatadigitalFincloudGeneralsaasFaceSourceApi* | [**certify**](docs/Api/DatadigitalFincloudGeneralsaasFaceSourceApi.md#certify) | **POST** /v3/datadigital/fincloud/generalsaas/face/source/certify | 权威核验源的核验接口
+*DatadigitalFincloudGeneralsaasFaceCheckApi* | [**initialize**](docs/Api/DatadigitalFincloudGeneralsaasFaceCheckApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/face/check/initialize | 活体检测初始化
+*DatadigitalFincloudGeneralsaasFaceCheckApi* | [**query**](docs/Api/DatadigitalFincloudGeneralsaasFaceCheckApi.md#query) | **GET** /v3/datadigital/fincloud/generalsaas/face/check/query | 活体检测结果查询
+*DatadigitalFincloudGeneralsaasFaceSourceApi* | [**certify**](docs/Api/DatadigitalFincloudGeneralsaasFaceSourceApi.md#certify) | **POST** /v3/datadigital/fincloud/generalsaas/face/source/certify | 纯服务端人脸核身
 *DatadigitalFincloudGeneralsaasFaceVerificationApi* | [**initialize**](docs/Api/DatadigitalFincloudGeneralsaasFaceVerificationApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/face/verification/initialize | 人脸核身初始化
 *DatadigitalFincloudGeneralsaasFaceVerificationApi* | [**query**](docs/Api/DatadigitalFincloudGeneralsaasFaceVerificationApi.md#query) | **GET** /v3/datadigital/fincloud/generalsaas/face/verification/query | 人脸核身结果查询
-*DatadigitalFincloudGeneralsaasOcrMobileApi* | [**initialize**](docs/Api/DatadigitalFincloudGeneralsaasOcrMobileApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/ocr/mobile/initialize | OCR端云一体化识别初始化
+*DatadigitalFincloudGeneralsaasOcrMobileApi* | [**initialize**](docs/Api/DatadigitalFincloudGeneralsaasOcrMobileApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/ocr/mobile/initialize | App端OCR初始化
 *DatadigitalFincloudGeneralsaasOcrServerApi* | [**detect**](docs/Api/DatadigitalFincloudGeneralsaasOcrServerApi.md#detect) | **POST** /v3/datadigital/fincloud/generalsaas/ocr/server/detect | 服务端OCR
 *KoubeiMarketingCampaignIntelligentPromoApi* | [**batchquery**](docs/Api/KoubeiMarketingCampaignIntelligentPromoApi.md#batchquery) | **POST** /v3/koubei/marketing/campaign/intelligent/promo/batchquery | 智能营销活动批量查询
 *KoubeiMarketingCampaignIntelligentShopApi* | [**consult**](docs/Api/KoubeiMarketingCampaignIntelligentShopApi.md#consult) | **POST** /v3/koubei/marketing/campaign/intelligent/shop/consult | 智能营销门店咨询
@@ -870,7 +870,7 @@ Class | Method | HTTP request | Description
 *ZhimaMerchantZmgoTemplateApi* | [**query**](docs/Api/ZhimaMerchantZmgoTemplateApi.md#query) | **GET** /v3/zhima/merchant/zmgo/template/query | 芝麻GO模板查询
 *ZolozAuthenticationCustomerFacemanageApi* | [**create**](docs/Api/ZolozAuthenticationCustomerFacemanageApi.md#create) | **POST** /v3/zoloz/authentication/customer/facemanage/create | 热脸入库
 *ZolozAuthenticationCustomerFacemanageApi* | [**delete**](docs/Api/ZolozAuthenticationCustomerFacemanageApi.md#delete) | **POST** /v3/zoloz/authentication/customer/facemanage/delete | 热脸出库
-*ZolozAuthenticationCustomerFtokenApi* | [**query**](docs/Api/ZolozAuthenticationCustomerFtokenApi.md#query) | **POST** /v3/zoloz/authentication/customer/ftoken/query | 人脸ftoken查询消费接口
+*ZolozAuthenticationCustomerFtokenApi* | [**query**](docs/Api/ZolozAuthenticationCustomerFtokenApi.md#query) | **POST** /v3/zoloz/authentication/customer/ftoken/query | 查询刷脸结果信息接口
 *ZolozAuthenticationCustomerSmilepayApi* | [**initialize**](docs/Api/ZolozAuthenticationCustomerSmilepayApi.md#initialize) | **POST** /v3/zoloz/authentication/customer/smilepay/initialize | 人脸刷脸付初始化
 *ZolozAuthenticationSmilepayApi* | [**initialize**](docs/Api/ZolozAuthenticationSmilepayApi.md#initialize) | **POST** /v3/zoloz/authentication/smilepay/initialize | 刷脸支付初始化
 
@@ -893,6 +893,6 @@ vendor/bin/phpunit
 
 This PHP package is automatically generated by the [OpenAPI Generator](https://openapi-generator.tech) project:
 
-- API version: `2023-10-26`
-    - Package version: `2.4.0`
+- API version: `2023-12-20`
+    - Package version: `2.5.0`
 - Build package: `org.openapitools.codegen.languages.PhpClientCodegen`

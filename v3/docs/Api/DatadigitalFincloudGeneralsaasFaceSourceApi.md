@@ -4,7 +4,7 @@ All URIs are relative to https://openapi.alipay.com.
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**certify()**](DatadigitalFincloudGeneralsaasFaceSourceApi.md#certify) | **POST** /v3/datadigital/fincloud/generalsaas/face/source/certify | 权威核验源的核验接口
+[**certify()**](DatadigitalFincloudGeneralsaasFaceSourceApi.md#certify) | **POST** /v3/datadigital/fincloud/generalsaas/face/source/certify | 纯服务端人脸核身
 
 
 ## `certify()`
@@ -13,7 +13,7 @@ Method | HTTP request | Description
 certify($data, $fileContent): \Alipay\OpenAPISDK\Model\DatadigitalFincloudGeneralsaasFaceSourceCertifyResponseModel
 ```
 
-权威核验源的核验接口
+纯服务端人脸核身
 
 上传人脸照片，调用权威核验源进行验证
 
