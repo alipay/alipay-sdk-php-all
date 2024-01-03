@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.test request
  *
  * @author auto create
- * @since 1.0, 2020-05-15 17:34:02
+ * @since 1.0, 2023-12-03 22:54:43
  */
 class AlipayUserTestRequest
 {

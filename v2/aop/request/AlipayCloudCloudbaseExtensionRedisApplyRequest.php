@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.extension.redis.apply request
  *
  * @author auto create
- * @since 1.0, 2023-10-17 19:01:45
+ * @since 1.0, 2023-12-12 16:56:56
  */
 class AlipayCloudCloudbaseExtensionRedisApplyRequest
 {

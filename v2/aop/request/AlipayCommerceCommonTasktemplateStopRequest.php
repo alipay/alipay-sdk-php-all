@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.tasktemplate.stop request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 18:46:43
+ * @since 1.0, 2023-11-30 19:06:55
  */
 class AlipayCommerceCommonTasktemplateStopRequest
 {

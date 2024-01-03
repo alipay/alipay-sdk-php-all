@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.scenepay.token.exchange request
  *
  * @author auto create
- * @since 1.0, 2023-08-09 16:01:39
+ * @since 1.0, 2023-12-27 15:59:11
  */
 class AlipayTradeScenepayTokenExchangeRequest
 {

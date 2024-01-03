@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.open.app.demo.test.query request
  *
  * @author auto create
- * @since 1.0, 2023-10-06 23:06:44
+ * @since 1.0, 2023-11-30 10:46:54
  */
 class ZhimaOpenAppDemoTestQueryRequest
 {

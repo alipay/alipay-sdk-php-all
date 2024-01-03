@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.qrcode.bind request
  *
  * @author auto create
- * @since 1.0, 2023-09-14 11:45:13
+ * @since 1.0, 2023-11-30 14:46:55
  */
 class AlipayOpenMiniQrcodeBindRequest
 {

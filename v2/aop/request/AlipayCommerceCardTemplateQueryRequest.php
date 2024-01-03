@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.card.template.query request
  *
  * @author auto create
- * @since 1.0, 2023-11-02 13:56:49
+ * @since 1.0, 2023-12-28 13:37:13
  */
 class AlipayCommerceCardTemplateQueryRequest
 {

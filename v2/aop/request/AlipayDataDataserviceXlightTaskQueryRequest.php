@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.xlight.task.query request
  *
  * @author auto create
- * @since 1.0, 2023-10-16 14:31:46
+ * @since 1.0, 2023-11-16 20:51:48
  */
 class AlipayDataDataserviceXlightTaskQueryRequest
 {

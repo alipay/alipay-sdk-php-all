@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.withdraw request
  *
  * @author auto create
- * @since 1.0, 2023-11-06 15:48:23
+ * @since 1.0, 2023-12-13 19:26:56
  */
 class AlipayFundWalletWithdrawRequest
 {

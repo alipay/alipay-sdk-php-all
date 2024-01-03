@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.executionplan.modify request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 00:48:34
+ * @since 1.0, 2023-12-27 15:36:34
  */
 class AlipayUserAgreementExecutionplanModifyRequest
 {

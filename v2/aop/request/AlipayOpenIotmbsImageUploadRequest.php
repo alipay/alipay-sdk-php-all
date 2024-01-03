@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.image.upload request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 06:21:55
+ * @since 1.0, 2023-11-23 10:51:52
  */
 class AlipayOpenIotmbsImageUploadRequest
 {
@@ -13,9 +13,19 @@ class AlipayOpenIotmbsImageUploadRequest
 	private $bizCode;
 	
 	/** 
+	 * 业务具体配置
+	 **/
+	private $bizConfig;
+	
+	/** 
 	 * 上传的图片，最大10M
 	 **/
 	private $imageContent;
+	
+	/** 
+	 * 用户隐私相关信息
+	 **/
+	private $privateInfo;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -38,6 +48,17 @@ class AlipayOpenIotmbsImageUploadRequest
 		return $this->bizCode;
 	}
 
+	public function setBizConfig($bizConfig)
+	{
+		$this->bizConfig = $bizConfig;
+		$this->apiParas["biz_config"] = $bizConfig;
+	}
+
+	public function getBizConfig()
+	{
+		return $this->bizConfig;
+	}
+
 	public function setImageContent($imageContent)
 	{
 		$this->imageContent = $imageContent;
@@ -47,6 +68,17 @@ class AlipayOpenIotmbsImageUploadRequest
 	public function getImageContent()
 	{
 		return $this->imageContent;
+	}
+
+	public function setPrivateInfo($privateInfo)
+	{
+		$this->privateInfo = $privateInfo;
+		$this->apiParas["private_info"] = $privateInfo;
+	}
+
+	public function getPrivateInfo()
+	{
+		return $this->privateInfo;
 	}
 
 	public function getApiMethodName()

@@ -78,6 +78,11 @@ class AlipayConfig {
      */
     private $encryptKey;
 
+    /**
+     * 跳过加验签（小程序云免鉴权）
+     */
+    private $skipSign = false;
+
 
     public function getServerUrl() {
         return $this->serverUrl;
@@ -179,5 +184,14 @@ class AlipayConfig {
     public function setRootCertContent($rootCertContent) {
         $this->rootCertContent = $rootCertContent;
     }
- 
+
+    public function isSkipSign()
+    {
+        return $this->skipSign;
+    }
+
+    public function setSkipSign(bool $skipSign)
+    {
+        $this->skipSign = $skipSign;
+    }
 }

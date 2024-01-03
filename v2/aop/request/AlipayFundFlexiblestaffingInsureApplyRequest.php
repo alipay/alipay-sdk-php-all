@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.flexiblestaffing.insure.apply request
  *
  * @author auto create
- * @since 1.0, 2023-10-16 21:06:45
+ * @since 1.0, 2023-11-24 13:47:06
  */
 class AlipayFundFlexiblestaffingInsureApplyRequest
 {

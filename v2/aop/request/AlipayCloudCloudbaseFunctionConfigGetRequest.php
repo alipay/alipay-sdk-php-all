@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.function.config.get request
  *
  * @author auto create
- * @since 1.0, 2023-08-08 22:46:42
+ * @since 1.0, 2023-12-25 11:11:59
  */
 class AlipayCloudCloudbaseFunctionConfigGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.usertaxbillsign.query request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 15:26:50
+ * @since 1.0, 2023-11-30 19:06:55
  */
 class AlipayCommerceCommonUsertaxbillsignQueryRequest
 {

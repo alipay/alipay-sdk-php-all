@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.isv.create request
  *
  * @author auto create
- * @since 1.0, 2023-10-09 15:31:46
+ * @since 1.0, 2023-12-20 18:01:54
  */
 class AlipayOpenMiniIsvCreateRequest
 {

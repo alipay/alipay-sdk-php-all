@@ -60,9 +60,11 @@ class AopClient
 
     public $encryptType = "AES";
 
+    public $skipSign = false;
+
     private $targetServiceUrl = "";
 
-    protected $alipaySdkVersion = "alipay-sdk-PHP-4.19.319.ALL";
+    protected $alipaySdkVersion = "alipay-sdk-PHP-4.20.20.ALL";
     function __construct() {
         //根据参数个数和参数类型 来做相应的判断
         if(func_num_args()==1 && func_get_arg(0) instanceof AlipayConfig){
@@ -74,6 +76,7 @@ class AopClient
             $this->postCharset = $config->getCharset();
             $this->rsaPrivateKey = $config->getPrivateKey();
             $this->alipayrsaPublicKey = $config->getAlipayPublicKey();
+            $this->skipSign = $config->isSkipSign();
         }
     }
     public function generateSign($params, $signType = "RSA")
@@ -319,7 +322,9 @@ class AopClient
 
         ksort($params);
 
-        $params['sign'] = $this->generateSign($params, $this->signType);
+        if (!$this->skipSign) {
+            $params['sign'] = $this->generateSign($params, $this->signType);
+        }
 
         foreach ($params as &$value) {
             $value = $this->characet($value, $params['charset']);
@@ -417,8 +422,10 @@ class AopClient
         //待签名字符串
         $preSignStr = $this->getSignContent($totalParams);
 
-        //签名
-        $totalParams["sign"] = $this->generateSign($totalParams, $this->signType);
+        if (!$this->skipSign) {
+            //签名
+            $totalParams["sign"] = $this->generateSign($totalParams, $this->signType);
+        }
 
         if ("GET" == strtoupper($httpmethod)) {
 
@@ -562,10 +569,10 @@ class AopClient
 
         }
 
-
-        //签名
-        $sysParams["sign"] = $this->generateSign(array_merge($apiParams, $sysParams), $this->signType);
-
+        if (!$this->skipSign) {
+            //签名
+            $sysParams["sign"] = $this->generateSign(array_merge($apiParams, $sysParams), $this->signType);
+        }
 
         //系统参数放入GET请求串
         $requestUrl = $this->gatewayUrl . "?";
@@ -1112,6 +1119,9 @@ class AopClient
      */
     public function checkResponseSign($request, $signData, $resp, $respObject)
     {
+        if ($this->skipSign) {
+            return;
+        }
 
         if (!$this->checkEmpty($this->alipayPublicKey) || !$this->checkEmpty($this->alipayrsaPublicKey)) {
 

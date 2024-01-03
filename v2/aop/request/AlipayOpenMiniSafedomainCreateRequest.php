@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.safedomain.create request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 17:26:47
+ * @since 1.0, 2023-12-07 14:36:54
  */
 class AlipayOpenMiniSafedomainCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.hotelevent.sync request
  *
  * @author auto create
- * @since 1.0, 2023-11-13 20:46:51
+ * @since 1.0, 2023-11-21 13:46:52
  */
 class AlipayOpenIotmbsHoteleventSyncRequest
 {

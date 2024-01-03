@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.taokereward.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-22 14:11:45
+ * @since 1.0, 2023-12-09 10:21:55
  */
 class AlipayCommerceCommonTaokerewardQueryRequest
 {

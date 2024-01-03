@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.sportsrecord.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-01 16:36:41
+ * @since 1.0, 2023-12-07 17:33:59
  */
 class AlipayUserSportsrecordQueryRequest
 {

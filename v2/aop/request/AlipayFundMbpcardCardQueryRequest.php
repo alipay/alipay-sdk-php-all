@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.mbpcard.card.query request
  *
  * @author auto create
- * @since 1.0, 2023-10-25 17:56:48
+ * @since 1.0, 2023-11-20 15:21:49
  */
 class AlipayFundMbpcardCardQueryRequest
 {

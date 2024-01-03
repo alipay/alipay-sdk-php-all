@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.complaint.info.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 17:01:43
+ * @since 1.0, 2023-12-21 18:56:54
  */
 class AlipaySecurityRiskComplaintInfoQueryRequest
 {

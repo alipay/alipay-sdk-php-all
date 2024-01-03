@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.saas.account.bind request
  *
  * @author auto create
- * @since 1.0, 2023-09-21 18:11:44
+ * @since 1.0, 2023-11-22 14:48:28
  */
 class AnttechBlockchainDefinSaasAccountBindRequest
 {

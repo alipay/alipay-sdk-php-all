@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.openid.applyorder.checkavailable request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 17:41:44
+ * @since 1.0, 2023-12-20 11:07:03
  */
 class AlipayOpenAppOpenidApplyorderCheckavailableRequest
 {

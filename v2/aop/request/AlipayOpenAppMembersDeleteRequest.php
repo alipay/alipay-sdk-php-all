@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.members.delete request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 16:22:29
+ * @since 1.0, 2023-11-30 14:44:28
  */
 class AlipayOpenAppMembersDeleteRequest
 {

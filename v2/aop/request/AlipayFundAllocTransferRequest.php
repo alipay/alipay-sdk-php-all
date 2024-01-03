@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.alloc.transfer request
  *
  * @author auto create
- * @since 1.0, 2023-11-03 12:05:36
+ * @since 1.0, 2023-11-21 20:36:51
  */
 class AlipayFundAllocTransferRequest
 {

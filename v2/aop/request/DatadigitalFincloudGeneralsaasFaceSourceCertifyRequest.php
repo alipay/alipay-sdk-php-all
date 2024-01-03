@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.face.source.certify request
  *
  * @author auto create
- * @since 1.0, 2023-10-31 16:56:48
+ * @since 1.0, 2023-12-14 09:51:55
  */
 class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 {
@@ -34,6 +34,11 @@ CHECK：正常活体检测。
 不传默认CHECK。
 	 **/
 	private $livenessStrategy;
+	
+	/** 
+	 * 国家地区代码，当证件类型为外国人永久居留证时必填。
+	 **/
+	private $nation;
 	
 	/** 
 	 * 客户业务单据号
@@ -118,6 +123,17 @@ CHECK：正常活体检测。
 	public function getLivenessStrategy()
 	{
 		return $this->livenessStrategy;
+	}
+
+	public function setNation($nation)
+	{
+		$this->nation = $nation;
+		$this->apiParas["nation"] = $nation;
+	}
+
+	public function getNation()
+	{
+		return $this->nation;
 	}
 
 	public function setOuterBizNo($outerBizNo)

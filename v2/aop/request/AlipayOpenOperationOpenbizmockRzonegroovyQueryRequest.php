@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.openbizmock.rzonegroovy.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-21 11:06:54
+ * @since 1.0, 2023-11-22 14:20:37
  */
 class AlipayOpenOperationOpenbizmockRzonegroovyQueryRequest
 {
