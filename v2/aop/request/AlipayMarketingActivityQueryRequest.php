@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.query request
  *
  * @author auto create
- * @since 1.0, 2023-12-15 17:56:57
+ * @since 1.0, 2024-01-24 11:29:36
  */
 class AlipayMarketingActivityQueryRequest
 {

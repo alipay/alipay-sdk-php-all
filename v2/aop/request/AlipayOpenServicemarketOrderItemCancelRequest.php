@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.order.item.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-09-12 06:46:54
+ * @since 1.0, 2024-01-11 13:51:58
  */
 class AlipayOpenServicemarketOrderItemCancelRequest
 {

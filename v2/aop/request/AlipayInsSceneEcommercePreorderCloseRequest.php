@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.preorder.close request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 20:59:36
+ * @since 1.0, 2024-01-09 12:11:25
  */
 class AlipayInsSceneEcommercePreorderCloseRequest
 {

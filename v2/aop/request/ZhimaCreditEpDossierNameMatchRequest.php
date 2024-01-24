@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.dossier.name.match request
  *
  * @author auto create
- * @since 1.0, 2023-12-25 14:04:56
+ * @since 1.0, 2024-01-04 11:16:56
  */
 class ZhimaCreditEpDossierNameMatchRequest
 {

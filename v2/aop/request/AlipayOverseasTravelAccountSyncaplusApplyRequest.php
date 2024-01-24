@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.account.syncaplus.apply request
  *
  * @author auto create
- * @since 1.0, 2023-12-08 17:16:56
+ * @since 1.0, 2024-01-10 10:00:23
  */
 class AlipayOverseasTravelAccountSyncaplusApplyRequest
 {

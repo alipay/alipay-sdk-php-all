@@ -3,12 +3,12 @@
  * ALIPAY API: alipay.open.mini.version.audit.apply request
  *
  * @author auto create
- * @since 1.0, 2023-12-26 13:41:54
+ * @since 1.0, 2024-01-19 15:06:58
  */
 class AlipayOpenMiniVersionAuditApplyRequest
 {
 	/** 
-	 * 小程序类目，格式为 第一个一级类目_第一个二级类目;第二个一级类目_第二个二级类目，详细类目可以通过  https://docs.open.alipay.com/api_49/alipay.open.mini.category.query接口查询，如果不填默认采用当前小程序应用类目。使用默认应用类目后不需要再次上传营业执照号、营业执照名、营业执照截图、营业执照有效期。
+	 * 小程序类目，格式为 第一个一级类目_第一个二级类目;第二个一级类目_第二个二级类目，详细类目可以通过  <a href="https://docs.open.alipay.com/api_49/alipay.open.mini.category.query">https://docs.open.alipay.com/api_49/alipay.open.mini.category.query</a>接口查询，如果不填默认采用当前小程序应用类目。使用默认应用类目后不需要再次上传营业执照号、营业执照名、营业执照截图、营业执照有效期。
 	 **/
 	private $appCategoryIds;
 	
@@ -44,7 +44,7 @@ class AlipayOpenMiniVersionAuditApplyRequest
 	private $appVersion;
 	
 	/** 
-	 * 审核类型，建议设置成“BASE_PROMOTE”，小程序将会更容易上架。将小程序发布审核拆分成“准入”、“营销”。原先小程序需要两个环节都审核通过才能上架，现在小程序只需要准入通过即可上架，但是无法在营销场景（支付宝泛搜、支付宝首页推荐等）展现给用户，小程序可通过精搜或者扫码等方式使用。如果小程序需要进行营销，可发布新版本，当准入&营销都通过后，小程序也可被营销。点击查看支付宝小程序营销规范：https://opendocs.alipay.com/b/03al2q
+	 * 审核类型，建议设置成“BASE_PROMOTE”，小程序将会更容易上架。将小程序发布审核拆分成“准入”、“营销”。原先小程序需要两个环节都审核通过才能上架，现在小程序只需要准入通过即可上架，但是无法在营销场景（支付宝泛搜、支付宝首页推荐等）展现给用户，小程序可通过精搜或者扫码等方式使用。如果小程序需要进行营销，可发布新版本，当准入&营销都通过后，小程序也可被营销。点击查看支付宝小程序营销规范：<a href="https://opendocs.alipay.com/b/03al2q">https://opendocs.alipay.com/b/03al2q</a>
 	 **/
 	private $auditRule;
 	
@@ -64,7 +64,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 第五张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg格式。
-参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
 	 **/
 	private $fifthLicensePic;
 	
@@ -76,7 +76,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 第一张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg格式。
-参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
 	 **/
 	private $firstLicensePic;
 	
@@ -88,13 +88,13 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 第一张特殊资质图片，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
-参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
 	 **/
 	private $firstSpecialLicensePic;
 	
 	/** 
 	 * 第四张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg格式。
-参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
 	 **/
 	private $fourthLicensePic;
 	
@@ -105,12 +105,12 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	private $fourthScreenShot;
 	
 	/** 
-	 * 营业执照名称，参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+	 * 营业执照名称，参照<a href="https://opendocs.alipay.com/mini/operation/material">https://opendocs.alipay.com/mini/operation/material</a>,要求填写营业执照信息。
 	 **/
 	private $licenseName;
 	
 	/** 
-	 * 营业执照证件号，部分小程序类目需要提交，可通过https://opendocs.alipay.com/mini/03l8c8 查询类目是否需要上传营业执照信息。参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+	 * 营业执照证件号，部分小程序类目需要提交，可通过<a href="https://opendocs.alipay.com/mini/03l8c8 ">https://opendocs.alipay.com/mini/03l8c8</a>查询类目是否需要上传营业执照信息。参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material </a>要求填写营业执照信息。
 	 **/
 	private $licenseNo;
 	
@@ -125,14 +125,14 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	private $memo;
 	
 	/** 
-	 * 新小程序前台类目，格式为 第一个一级类目_第一个二级类目;第二个一级类目_第二个二级类目_第二个三级类目，详细类目可以通过 https://docs.open.alipay.com/api_49/alipay.open.mini.category.query
+	 * 新小程序前台类目，格式为 第一个一级类目_第一个二级类目;第二个一级类目_第二个二级类目_第二个三级类目，详细类目可以通过 <a href="https://docs.open.alipay.com/api_49/alipay.open.mini.category.query">https://docs.open.alipay.com/api_49/alipay.open.mini.category.query</a>
 接口查询mini_category_list。
 	 **/
 	private $miniCategoryIds;
 	
 	/** 
 	 * 门头照，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg格式。
-参照https://opendocs.alipay.com/mini/operation/material 要求填写门头照信息。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写门头照信息。
 	 **/
 	private $outDoorPic;
 	
@@ -143,7 +143,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 第二张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg格式。
-参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
 	 **/
 	private $secondLicensePic;
 	
@@ -155,7 +155,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 第二张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
-参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
 	 **/
 	private $secondSpecialLicensePic;
 	
@@ -170,7 +170,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	private $servicePhone;
 	
 	/** 
-	 * 省市区信息。当region_type为LOCATION或传入city_code时，province_code不能为空；填写area_code时，province_code和city_code不能为空。只填province_code则全选该省；填写province_code和city_code则全选该市，以此类推。省市区code参见https://gw.alipayobjects.com/os/bmw-prod/0aab0319-13de-42b9-85cf-13877a5f78ed.xlsx
+	 * 省市区信息。当region_type为LOCATION或传入city_code时，province_code不能为空；填写area_code时，province_code和city_code不能为空。只填province_code则全选该省；填写province_code和city_code则全选该市，以此类推。省市区code参见<a href="https://gw.alipayobjects.com/os/bmw-prod/0aab0319-13de-42b9-85cf-13877a5f78ed.xlsx">https://gw.alipayobjects.com/os/bmw-prod/0aab0319-13de-42b9-85cf-13877a5f78ed.xlsx</a>
 	 **/
 	private $serviceRegionInfo;
 	
@@ -182,12 +182,12 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	private $speedUp;
 	
 	/** 
-	 * 测试账号，是否需要填写请参见https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4
+	 * 测试账号，是否需要填写请参见<a href="https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4">https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4</a>
 	 **/
 	private $testAccout;
 	
 	/** 
-	 * 测试附件，用于上传测试报告和测试录屏，请上传10M以内附件，格式仅支持zip，rar。是否需要填写请参见:https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4
+	 * 测试附件，用于上传测试报告和测试录屏，请上传10M以内附件，格式仅支持zip，rar。是否需要填写请参见: <a href="https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4"/a>https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4
 	 **/
 	private $testFileName;
 	
@@ -198,7 +198,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 第三张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg格式。
-参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
 	 **/
 	private $thirdLicensePic;
 	
@@ -210,7 +210,7 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	
 	/** 
 	 * 第三张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
-参照https://opendocs.alipay.com/mini/operation/material 要求填写营业执照信息。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
 	 **/
 	private $thirdSpecialLicensePic;
 	

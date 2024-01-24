@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.dcs.proxysign.submit request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 20:16:43
+ * @since 1.0, 2024-01-23 15:21:07
  */
 class AlipayCommerceOperationDcsProxysignSubmitRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.itempromoactivity.list.create request
  *
  * @author auto create
- * @since 1.0, 2023-11-30 10:46:53
+ * @since 1.0, 2024-01-19 15:47:01
  */
 class AlipayOpenAppItempromoactivityListCreateRequest
 {

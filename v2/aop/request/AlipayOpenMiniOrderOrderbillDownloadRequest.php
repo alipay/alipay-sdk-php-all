@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.order.orderbill.download request
  *
  * @author auto create
- * @since 1.0, 2023-11-22 15:16:51
+ * @since 1.0, 2024-01-19 16:01:59
  */
 class AlipayOpenMiniOrderOrderbillDownloadRequest
 {

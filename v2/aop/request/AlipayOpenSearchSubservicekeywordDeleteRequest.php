@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.subservicekeyword.delete request
  *
  * @author auto create
- * @since 1.0, 2023-12-08 10:08:24
+ * @since 1.0, 2024-01-22 15:56:53
  */
 class AlipayOpenSearchSubservicekeywordDeleteRequest
 {

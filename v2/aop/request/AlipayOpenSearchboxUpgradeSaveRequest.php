@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.searchbox.upgrade.save request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 18:11:43
+ * @since 1.0, 2024-01-19 15:29:57
  */
 class AlipayOpenSearchboxUpgradeSaveRequest
 {

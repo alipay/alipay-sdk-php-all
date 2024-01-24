@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.ordervoucher.refund request
  *
  * @author auto create
- * @since 1.0, 2023-11-21 19:51:54
+ * @since 1.0, 2024-01-19 17:52:01
  */
 class AlipayMarketingActivityOrdervoucherRefundRequest
 {

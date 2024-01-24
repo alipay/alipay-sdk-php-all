@@ -3,19 +3,37 @@
  * ALIPAY API: alipay.fund.mbpcard.file.upload request
  *
  * @author auto create
- * @since 1.0, 2023-11-24 10:04:51
+ * @since 1.0, 2024-01-19 18:25:08
  */
 class AlipayFundMbpcardFileUploadRequest
 {
+	/** 
+	 * 业务场景，对应不同配置
+	 **/
+	private $bizScene;
+	
 	/** 
 	 * 二进制字节流，最大为10M
 	 **/
 	private $imageContent;
 	
 	/** 
+	 * 待识别的图片标签，不传不做OCR识别
+ELEC_ADD_TAX_SIMPLE : 增值税普票-电子版
+PAPER_ADD_TAX_SIMPLE：增值税普票-纸质版
+PAPER_QUOTA：手撕定额发票
+	 **/
+	private $imageOcrTag;
+	
+	/** 
 	 * 文件格式，支持格式：bmp、jpg、jpeg、png、gif、pdf
 	 **/
 	private $imageType;
+	
+	/** 
+	 * 产品码，业务特征属性
+	 **/
+	private $productCode;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -27,6 +45,17 @@ class AlipayFundMbpcardFileUploadRequest
     private $needEncrypt=false;
 
 	
+	public function setBizScene($bizScene)
+	{
+		$this->bizScene = $bizScene;
+		$this->apiParas["biz_scene"] = $bizScene;
+	}
+
+	public function getBizScene()
+	{
+		return $this->bizScene;
+	}
+
 	public function setImageContent($imageContent)
 	{
 		$this->imageContent = $imageContent;
@@ -38,6 +67,17 @@ class AlipayFundMbpcardFileUploadRequest
 		return $this->imageContent;
 	}
 
+	public function setImageOcrTag($imageOcrTag)
+	{
+		$this->imageOcrTag = $imageOcrTag;
+		$this->apiParas["image_ocr_tag"] = $imageOcrTag;
+	}
+
+	public function getImageOcrTag()
+	{
+		return $this->imageOcrTag;
+	}
+
 	public function setImageType($imageType)
 	{
 		$this->imageType = $imageType;
@@ -47,6 +87,17 @@ class AlipayFundMbpcardFileUploadRequest
 	public function getImageType()
 	{
 		return $this->imageType;
+	}
+
+	public function setProductCode($productCode)
+	{
+		$this->productCode = $productCode;
+		$this->apiParas["product_code"] = $productCode;
+	}
+
+	public function getProductCode()
+	{
+		return $this->productCode;
 	}
 
 	public function getApiMethodName()

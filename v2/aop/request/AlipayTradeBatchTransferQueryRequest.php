@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.batch.transfer.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-20 15:59:45
+ * @since 1.0, 2024-01-05 19:51:56
  */
 class AlipayTradeBatchTransferQueryRequest
 {

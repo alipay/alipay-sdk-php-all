@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.boxactivity.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 18:01:47
+ * @since 1.0, 2024-01-19 15:29:16
  */
 class AlipayOpenSearchBoxactivityQueryRequest
 {

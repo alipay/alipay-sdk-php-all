@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.obglobal.obartifact.sync request
  *
  * @author auto create
- * @since 1.0, 2023-12-27 19:27:21
+ * @since 1.0, 2024-01-10 16:56:58
  */
 class AnttechOceanbaseObglobalObartifactSyncRequest
 {

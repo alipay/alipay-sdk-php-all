@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.audited.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 19:31:44
+ * @since 1.0, 2024-01-19 15:12:04
  */
 class AlipayOpenMiniVersionAuditedCancelRequest
 {

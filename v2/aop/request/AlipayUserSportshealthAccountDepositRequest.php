@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.sportshealth.account.deposit request
  *
  * @author auto create
- * @since 1.0, 2023-11-29 14:26:54
+ * @since 1.0, 2024-01-19 16:01:56
  */
 class AlipayUserSportshealthAccountDepositRequest
 {

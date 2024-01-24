@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.enterprise.register.apply request
  *
  * @author auto create
- * @since 1.0, 2023-12-11 14:30:23
+ * @since 1.0, 2024-01-19 13:31:58
  */
 class AlipayCommerceEcEnterpriseRegisterApplyRequest
 {
