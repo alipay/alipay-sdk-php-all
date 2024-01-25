@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.marketing.activity.user.queryvoucher request
+ * ALIPAY API: alipay.commerce.hotel.rateplan.upload request
  *
  * @author auto create
- * @since 1.0, 2024-01-24 15:56:56
+ * @since 1.0, 2024-01-25 16:41:58
  */
-class AlipayMarketingActivityUserQueryvoucherRequest
+class AlipayCommerceHotelRateplanUploadRequest
 {
 	/** 
-	 * 查询用户券详情
+	 * 推送酒店价格计划
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayMarketingActivityUserQueryvoucherRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.marketing.activity.user.queryvoucher";
+		return "alipay.commerce.hotel.rateplan.upload";
 	}
 
 	public function setNotifyUrl($notifyUrl)

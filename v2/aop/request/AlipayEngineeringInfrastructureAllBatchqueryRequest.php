@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.marketing.activity.user.queryvoucher request
+ * ALIPAY API: alipay.engineering.infrastructure.all.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-01-24 15:56:56
+ * @since 1.0, 2024-01-25 16:36:57
  */
-class AlipayMarketingActivityUserQueryvoucherRequest
+class AlipayEngineeringInfrastructureAllBatchqueryRequest
 {
 	/** 
-	 * 查询用户券详情
+	 * 查询关于饿了么舆情
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayMarketingActivityUserQueryvoucherRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.marketing.activity.user.queryvoucher";
+		return "alipay.engineering.infrastructure.all.batchquery";
 	}
 
 	public function setNotifyUrl($notifyUrl)

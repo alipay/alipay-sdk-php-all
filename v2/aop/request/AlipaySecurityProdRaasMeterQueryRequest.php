@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.marketing.activity.user.queryvoucher request
+ * ALIPAY API: alipay.security.prod.raas.meter.query request
  *
  * @author auto create
- * @since 1.0, 2024-01-24 15:56:56
+ * @since 1.0, 2024-01-25 09:36:57
  */
-class AlipayMarketingActivityUserQueryvoucherRequest
+class AlipaySecurityProdRaasMeterQueryRequest
 {
 	/** 
-	 * 查询用户券详情
+	 * 国内离线计量上报
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayMarketingActivityUserQueryvoucherRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.marketing.activity.user.queryvoucher";
+		return "alipay.security.prod.raas.meter.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)
