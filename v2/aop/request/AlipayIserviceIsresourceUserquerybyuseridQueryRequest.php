@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.isresource.userquerybyuserid.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:01:44
+ * @since 1.0, 2024-03-01 16:34:30
  */
 class AlipayIserviceIsresourceUserquerybyuseridQueryRequest
 {

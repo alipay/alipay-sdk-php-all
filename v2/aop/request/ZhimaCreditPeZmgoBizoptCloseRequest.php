@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.zmgo.bizopt.close request
  *
  * @author auto create
- * @since 1.0, 2023-11-03 16:51:44
+ * @since 1.0, 2024-03-01 16:29:15
  */
 class ZhimaCreditPeZmgoBizoptCloseRequest
 {

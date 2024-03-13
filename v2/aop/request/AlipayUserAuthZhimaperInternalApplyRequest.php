@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.auth.zhimaper.internal.apply request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:09:09
+ * @since 1.0, 2024-03-01 16:26:17
  */
 class AlipayUserAuthZhimaperInternalApplyRequest
 {

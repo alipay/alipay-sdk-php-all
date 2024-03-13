@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.csplatform.servicerecord.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-11-28 14:47:02
+ * @since 1.0, 2024-03-01 16:34:30
  */
 class AlipayIserviceCsplatformServicerecordBatchqueryRequest
 {

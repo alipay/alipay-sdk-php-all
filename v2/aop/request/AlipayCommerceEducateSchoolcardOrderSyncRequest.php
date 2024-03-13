@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.schoolcard.order.sync request
  *
  * @author auto create
- * @since 1.0, 2024-01-19 17:45:38
+ * @since 1.0, 2024-03-01 16:28:26
  */
 class AlipayCommerceEducateSchoolcardOrderSyncRequest
 {

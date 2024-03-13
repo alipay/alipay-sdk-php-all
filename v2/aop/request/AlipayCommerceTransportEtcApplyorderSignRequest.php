@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.applyorder.sign request
  *
  * @author auto create
- * @since 1.0, 2023-10-24 11:16:50
+ * @since 1.0, 2024-03-01 16:26:14
  */
 class AlipayCommerceTransportEtcApplyorderSignRequest
 {

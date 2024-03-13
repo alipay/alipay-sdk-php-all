@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.tradeorder.refund request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:18:01
+ * @since 1.0, 2024-03-01 16:28:35
  */
 class AntMerchantExpandTradeorderRefundRequest
 {

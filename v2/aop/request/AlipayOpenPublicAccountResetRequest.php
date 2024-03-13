@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.account.reset request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 18:11:50
+ * @since 1.0, 2024-03-01 16:26:18
  */
 class AlipayOpenPublicAccountResetRequest
 {

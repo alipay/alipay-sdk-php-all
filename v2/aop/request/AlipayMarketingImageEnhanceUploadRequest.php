@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.image.enhance.upload request
  *
  * @author auto create
- * @since 1.0, 2024-01-19 16:02:01
+ * @since 1.0, 2024-03-08 14:50:52
  */
 class AlipayMarketingImageEnhanceUploadRequest
 {
@@ -28,7 +28,7 @@ class AlipayMarketingImageEnhanceUploadRequest
 	private $needEnhance;
 	
 	/** 
-	 * 图片上传场景，分为默认素材规范场景和介质图片场景。若选择默认素材规范场景，则素材规范id和素材字段必传；若选择其他具体场景，比如商品主图场景，则不需要传。
+	 * 图片上传场景，分为默认素材规范场景和介质图片场景。
 	 **/
 	private $uploadScene;
 

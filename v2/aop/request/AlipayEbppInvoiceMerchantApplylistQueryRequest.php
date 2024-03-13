@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.merchant.applylist.query request
  *
  * @author auto create
- * @since 1.0, 2024-01-18 10:08:50
+ * @since 1.0, 2024-03-01 16:29:13
  */
 class AlipayEbppInvoiceMerchantApplylistQueryRequest
 {

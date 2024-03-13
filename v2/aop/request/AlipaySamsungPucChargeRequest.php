@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.samsung.puc.charge request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:50
+ * @since 1.0, 2024-03-01 16:34:32
  */
 class AlipaySamsungPucChargeRequest
 {

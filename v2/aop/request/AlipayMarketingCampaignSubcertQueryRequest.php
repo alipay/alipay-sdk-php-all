@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.subcert.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:01:44
+ * @since 1.0, 2024-03-01 16:29:02
  */
 class AlipayMarketingCampaignSubcertQueryRequest
 {

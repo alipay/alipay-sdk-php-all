@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.guarantee.contract.sign request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:17:45
+ * @since 1.0, 2024-03-01 16:29:04
  */
 class MybankCreditGuaranteeContractSignRequest
 {

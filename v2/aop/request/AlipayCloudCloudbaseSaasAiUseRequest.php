@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.saas.ai.use request
  *
  * @author auto create
- * @since 1.0, 2023-12-07 11:41:55
+ * @since 1.0, 2024-03-01 16:27:53
  */
 class AlipayCloudCloudbaseSaasAiUseRequest
 {

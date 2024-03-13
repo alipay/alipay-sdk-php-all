@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.billcharge.bill.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-11-09 11:06:54
+ * @since 1.0, 2024-03-01 16:26:19
  */
 class AlipayEbppBillchargeBillBatchqueryRequest
 {

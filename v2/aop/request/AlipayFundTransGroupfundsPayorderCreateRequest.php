@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.groupfunds.payorder.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 21:53:28
+ * @since 1.0, 2024-03-01 16:26:15
  */
 class AlipayFundTransGroupfundsPayorderCreateRequest
 {

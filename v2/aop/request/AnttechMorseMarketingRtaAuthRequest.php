@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.morse.marketing.rta.auth request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 17:21:48
+ * @since 1.0, 2024-03-01 16:29:00
  */
 class AnttechMorseMarketingRtaAuthRequest
 {

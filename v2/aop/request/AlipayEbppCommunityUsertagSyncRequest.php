@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.usertag.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:21:57
+ * @since 1.0, 2024-03-01 16:29:04
  */
 class AlipayEbppCommunityUsertagSyncRequest
 {

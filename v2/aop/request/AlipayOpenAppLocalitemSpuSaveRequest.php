@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.localitem.spu.save request
  *
  * @author auto create
- * @since 1.0, 2024-01-19 15:41:59
+ * @since 1.0, 2024-03-07 10:42:04
  */
 class AlipayOpenAppLocalitemSpuSaveRequest
 {

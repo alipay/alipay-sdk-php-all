@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.itemorder.buy request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 22:26:50
+ * @since 1.0, 2024-03-01 16:28:34
  */
 class KoubeiTradeItemorderBuyRequest
 {

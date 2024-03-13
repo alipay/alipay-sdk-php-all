@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.taxi.heatmap.query request
  *
  * @author auto create
- * @since 1.0, 2023-12-12 11:06:59
+ * @since 1.0, 2024-03-01 16:28:34
  */
 class AlipayCommerceTransportTaxiHeatmapQueryRequest
 {

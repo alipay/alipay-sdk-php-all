@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.ecobind.query request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 16:08:49
+ * @since 1.0, 2024-03-01 16:27:33
  */
 class AlipayCommerceIotDeviceEcobindQueryRequest
 {

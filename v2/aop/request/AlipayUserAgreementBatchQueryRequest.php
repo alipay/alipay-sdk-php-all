@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.batch.query request
  *
  * @author auto create
- * @since 1.0, 2023-12-18 14:50:24
+ * @since 1.0, 2024-03-01 16:27:06
  */
 class AlipayUserAgreementBatchQueryRequest
 {

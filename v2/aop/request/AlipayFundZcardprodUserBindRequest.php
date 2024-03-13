@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.zcardprod.user.bind request
  *
  * @author auto create
- * @since 1.0, 2024-01-18 10:52:00
+ * @since 1.0, 2024-03-01 16:28:49
  */
 class AlipayFundZcardprodUserBindRequest
 {

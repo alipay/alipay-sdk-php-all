@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.peerpayprod.agreement.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:02:40
+ * @since 1.0, 2024-03-01 16:34:54
  */
 class AlipayUserPeerpayprodAgreementModifyRequest
 {

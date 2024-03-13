@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.jointaccountbill.detail.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 19:21:46
+ * @since 1.0, 2024-03-04 13:33:49
  */
 class AlipayCommerceEcJointaccountbillDetailBatchqueryRequest
 {

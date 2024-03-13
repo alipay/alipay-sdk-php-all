@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.saas.agreement.sign request
  *
  * @author auto create
- * @since 1.0, 2023-11-22 14:47:42
+ * @since 1.0, 2024-03-01 16:27:40
  */
 class AnttechBlockchainDefinSaasAgreementSignRequest
 {

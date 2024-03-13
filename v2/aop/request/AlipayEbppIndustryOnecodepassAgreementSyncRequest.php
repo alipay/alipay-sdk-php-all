@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.onecodepass.agreement.sync request
  *
  * @author auto create
- * @since 1.0, 2023-07-04 13:51:52
+ * @since 1.0, 2024-03-01 16:27:06
  */
 class AlipayEbppIndustryOnecodepassAgreementSyncRequest
 {

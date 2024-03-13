@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.kids.account.bind request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 20:36:43
+ * @since 1.0, 2024-03-01 16:28:53
  */
 class AlipayCommerceKidsAccountBindRequest
 {

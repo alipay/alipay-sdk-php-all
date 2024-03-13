@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.chat.ginfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:07
+ * @since 1.0, 2024-03-01 16:34:33
  */
 class AlipaySocialBaseChatGinfoQueryRequest
 {

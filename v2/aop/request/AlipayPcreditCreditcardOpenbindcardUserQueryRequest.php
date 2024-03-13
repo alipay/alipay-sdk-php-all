@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.creditcard.openbindcard.user.query request
  *
  * @author auto create
- * @since 1.0, 2023-10-23 10:28:35
+ * @since 1.0, 2024-03-01 16:25:23
  */
 class AlipayPcreditCreditcardOpenbindcardUserQueryRequest
 {

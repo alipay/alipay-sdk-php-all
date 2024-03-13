@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.playsignin.signin request
  *
  * @author auto create
- * @since 1.0, 2023-10-14 16:41:45
+ * @since 1.0, 2024-03-01 16:27:00
  */
 class AlipayMarketingCampaignPlaysigninSigninRequest
 {

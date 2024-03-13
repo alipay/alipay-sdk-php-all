@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.ecny.trade.qrcodecreate request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:13:37
+ * @since 1.0, 2024-03-12 15:18:03
  */
 class MybankEcnyTradeQrcodecreateRequest
 {

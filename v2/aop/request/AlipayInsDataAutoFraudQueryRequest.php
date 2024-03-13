@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.auto.fraud.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:10:44
+ * @since 1.0, 2024-03-01 16:26:15
  */
 class AlipayInsDataAutoFraudQueryRequest
 {

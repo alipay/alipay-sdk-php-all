@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.qrcode.offline.get request
  *
  * @author auto create
- * @since 1.0, 2023-12-25 17:26:54
+ * @since 1.0, 2024-03-06 13:46:59
  */
 class AlipayOpenServicemarketQrcodeOfflineGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.visa.report.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:21:51
+ * @since 1.0, 2024-03-01 16:34:59
  */
 class ZhimaCreditPeVisaReportQueryRequest
 {

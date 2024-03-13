@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.travel.rate.rateinfo.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:11:44
+ * @since 1.0, 2024-03-01 16:27:58
  */
 class AlipayOverseasTravelRateRateinfoQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.payee.receivable.query request
  *
  * @author auto create
- * @since 1.0, 2023-03-23 15:03:03
+ * @since 1.0, 2024-03-01 16:29:04
  */
 class MybankCreditLoantradePayeeReceivableQueryRequest
 {

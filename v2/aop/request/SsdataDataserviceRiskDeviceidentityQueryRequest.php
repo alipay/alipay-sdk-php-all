@@ -3,7 +3,7 @@
  * ALIPAY API: ssdata.dataservice.risk.deviceidentity.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:57:41
+ * @since 1.0, 2024-03-01 16:28:32
  */
 class SsdataDataserviceRiskDeviceidentityQueryRequest
 {

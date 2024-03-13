@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.industrydata.intelligentdiagnosis.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-12-04 20:21:54
+ * @since 1.0, 2024-03-01 16:34:26
  */
 class AlipayCommerceMedicalIndustrydataIntelligentdiagnosisInitializeRequest
 {

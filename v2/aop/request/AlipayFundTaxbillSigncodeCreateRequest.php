@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.taxbill.signcode.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:56:50
+ * @since 1.0, 2024-03-12 16:23:41
  */
 class AlipayFundTaxbillSigncodeCreateRequest
 {

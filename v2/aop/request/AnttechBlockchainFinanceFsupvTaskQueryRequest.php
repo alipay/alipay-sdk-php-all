@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.fsupv.task.query request
  *
  * @author auto create
- * @since 1.0, 2023-12-25 16:00:30
+ * @since 1.0, 2024-03-01 16:34:55
  */
 class AnttechBlockchainFinanceFsupvTaskQueryRequest
 {

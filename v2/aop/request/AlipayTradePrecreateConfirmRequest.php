@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.precreate.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-04-13 11:47:30
+ * @since 1.0, 2024-03-01 16:29:15
  */
 class AlipayTradePrecreateConfirmRequest
 {

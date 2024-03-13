@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.thirdparty.reward.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:47:44
+ * @since 1.0, 2024-03-01 16:28:45
  */
 class AlipayFundTransThirdpartyRewardCreateRequest
 {

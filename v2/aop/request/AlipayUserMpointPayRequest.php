@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.mpoint.pay request
  *
  * @author auto create
- * @since 1.0, 2023-12-05 19:26:55
+ * @since 1.0, 2024-03-01 16:34:54
  */
 class AlipayUserMpointPayRequest
 {

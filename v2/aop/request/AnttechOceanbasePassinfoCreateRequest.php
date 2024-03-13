@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.passinfo.create request
  *
  * @author auto create
- * @since 1.0, 2023-11-08 15:11:48
+ * @since 1.0, 2024-03-01 16:28:32
  */
 class AnttechOceanbasePassinfoCreateRequest
 {

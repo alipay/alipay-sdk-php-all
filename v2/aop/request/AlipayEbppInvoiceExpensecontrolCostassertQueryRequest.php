@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expensecontrol.costassert.query request
  *
  * @author auto create
- * @since 1.0, 2023-12-22 15:37:45
+ * @since 1.0, 2024-01-30 21:01:48
  */
 class AlipayEbppInvoiceExpensecontrolCostassertQueryRequest
 {

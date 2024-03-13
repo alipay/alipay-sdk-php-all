@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.iotfm.plugaddr.query request
  *
  * @author auto create
- * @since 1.0, 2023-10-24 14:01:46
+ * @since 1.0, 2024-03-01 16:34:26
  */
 class AlipayCommerceMedicalIotfmPlugaddrQueryRequest
 {

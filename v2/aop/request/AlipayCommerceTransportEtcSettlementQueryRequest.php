@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.settlement.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:41:57
+ * @since 1.0, 2024-03-01 16:28:34
  */
 class AlipayCommerceTransportEtcSettlementQueryRequest
 {

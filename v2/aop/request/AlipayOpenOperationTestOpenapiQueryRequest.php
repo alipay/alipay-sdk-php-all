@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.test.openapi.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-22 17:41:45
+ * @since 1.0, 2024-03-01 16:26:18
  */
 class AlipayOpenOperationTestOpenapiQueryRequest
 {

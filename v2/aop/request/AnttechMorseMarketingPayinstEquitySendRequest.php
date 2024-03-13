@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.morse.marketing.payinst.equity.send request
  *
  * @author auto create
- * @since 1.0, 2023-10-30 21:26:46
+ * @since 1.0, 2024-02-23 17:21:57
  */
 class AnttechMorseMarketingPayinstEquitySendRequest
 {

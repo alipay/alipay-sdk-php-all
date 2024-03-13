@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.morse.marketing.shop.data.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:11:41
+ * @since 1.0, 2024-03-01 16:29:17
  */
 class AnttechMorseMarketingShopDataBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certify.customer.relativenum.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:31:53
+ * @since 1.0, 2024-03-01 16:26:13
  */
 class AlipayUserCertifyCustomerRelativenumApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.asset.preconsult request
  *
  * @author auto create
- * @since 1.0, 2023-01-17 11:56:41
+ * @since 1.0, 2024-03-01 16:26:16
  */
 class AlipayMarketingAssetPreconsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.icp.certificatetype.query request
  *
  * @author auto create
- * @since 1.0, 2024-01-22 21:31:59
+ * @since 1.0, 2024-03-01 16:26:12
  */
 class AlipayOpenMiniIcpCertificatetypeQueryRequest
 {

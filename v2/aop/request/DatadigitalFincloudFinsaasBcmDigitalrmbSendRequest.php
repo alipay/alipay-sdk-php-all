@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.bcm.digitalrmb.send request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 01:36:43
+ * @since 1.0, 2024-03-01 16:27:38
  */
 class DatadigitalFincloudFinsaasBcmDigitalrmbSendRequest
 {

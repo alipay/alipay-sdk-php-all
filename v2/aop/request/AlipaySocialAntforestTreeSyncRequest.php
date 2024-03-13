@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antforest.tree.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 06:06:46
+ * @since 1.0, 2024-03-01 16:27:56
  */
 class AlipaySocialAntforestTreeSyncRequest
 {

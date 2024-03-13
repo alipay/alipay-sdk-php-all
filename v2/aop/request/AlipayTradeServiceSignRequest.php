@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.service.sign request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 01:31:45
+ * @since 1.0, 2024-03-01 16:34:33
  */
 class AlipayTradeServiceSignRequest
 {

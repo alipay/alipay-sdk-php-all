@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.welfarefoundation.updatevolunteers.create request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 01:16:44
+ * @since 1.0, 2024-03-01 16:28:48
  */
 class AlipayDigitalmgmtWelfarefoundationUpdatevolunteersCreateRequest
 {

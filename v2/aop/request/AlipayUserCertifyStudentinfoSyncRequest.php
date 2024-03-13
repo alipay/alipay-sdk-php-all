@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certify.studentinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 01:43:38
+ * @since 1.0, 2024-03-01 16:27:43
  */
 class AlipayUserCertifyStudentinfoSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antpaas.userid.get request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:53
+ * @since 1.0, 2024-03-01 16:28:27
  */
 class AlipayUserAntpaasUseridGetRequest
 {

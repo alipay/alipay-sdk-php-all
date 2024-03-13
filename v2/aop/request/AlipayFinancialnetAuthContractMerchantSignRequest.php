@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.contract.merchant.sign request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:26:46
+ * @since 1.0, 2024-03-01 16:27:35
  */
 class AlipayFinancialnetAuthContractMerchantSignRequest
 {

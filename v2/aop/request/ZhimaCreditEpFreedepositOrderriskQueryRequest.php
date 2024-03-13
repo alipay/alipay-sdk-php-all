@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.freedeposit.orderrisk.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 01:31:27
+ * @since 1.0, 2024-03-01 16:29:18
  */
 class ZhimaCreditEpFreedepositOrderriskQueryRequest
 {

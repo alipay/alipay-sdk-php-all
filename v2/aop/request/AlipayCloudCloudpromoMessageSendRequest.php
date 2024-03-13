@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.message.send request
  *
  * @author auto create
- * @since 1.0, 2024-01-23 14:32:29
+ * @since 1.0, 2024-03-01 16:29:17
  */
 class AlipayCloudCloudpromoMessageSendRequest
 {

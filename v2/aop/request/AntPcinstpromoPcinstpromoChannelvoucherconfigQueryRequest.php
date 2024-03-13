@@ -3,7 +3,7 @@
  * ALIPAY API: ant.pcinstpromo.pcinstpromo.channelvoucherconfig.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-07 16:06:43
+ * @since 1.0, 2024-03-01 16:28:45
  */
 class AntPcinstpromoPcinstpromoChannelvoucherconfigQueryRequest
 {

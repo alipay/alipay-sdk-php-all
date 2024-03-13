@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.address.defaultaddress.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:41:49
+ * @since 1.0, 2024-03-01 16:34:33
  */
 class AlipayUserAddressDefaultaddressQueryRequest
 {

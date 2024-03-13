@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.url.deviceverify.add request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:01:37
+ * @since 1.0, 2024-03-01 16:27:38
  */
 class AlipayMobileUrlDeviceverifyAddRequest
 {

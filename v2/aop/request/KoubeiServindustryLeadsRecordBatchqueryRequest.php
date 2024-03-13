@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.leads.record.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-04-27 17:07:00
+ * @since 1.0, 2024-03-01 16:34:55
  */
 class KoubeiServindustryLeadsRecordBatchqueryRequest
 {

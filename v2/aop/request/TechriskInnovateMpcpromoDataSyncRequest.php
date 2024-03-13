@@ -3,7 +3,7 @@
  * ALIPAY API: techrisk.innovate.mpcpromo.data.sync request
  *
  * @author auto create
- * @since 1.0, 2024-01-05 11:44:53
+ * @since 1.0, 2024-02-28 15:51:57
  */
 class TechriskInnovateMpcpromoDataSyncRequest
 {

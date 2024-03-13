@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.activity.ordervoucher.disassociate request
  *
  * @author auto create
- * @since 1.0, 2024-01-19 17:57:02
+ * @since 1.0, 2024-03-01 16:29:02
  */
 class AlipayMarketingActivityOrdervoucherDisassociateRequest
 {

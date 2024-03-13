@@ -3,7 +3,7 @@
  * ALIPAY API: zoloz.identification.deviceinfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:20
+ * @since 1.0, 2024-03-04 14:54:35
  */
 class ZolozIdentificationDeviceinfoQueryRequest
 {

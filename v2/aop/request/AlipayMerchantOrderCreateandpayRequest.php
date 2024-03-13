@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.order.createandpay request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 06:01:45
+ * @since 1.0, 2024-03-01 16:26:13
  */
 class AlipayMerchantOrderCreateandpayRequest
 {

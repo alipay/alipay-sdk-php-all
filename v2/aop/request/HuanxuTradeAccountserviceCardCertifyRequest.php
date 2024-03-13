@@ -3,7 +3,7 @@
  * ALIPAY API: huanxu.trade.accountservice.card.certify request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:40:32
+ * @since 1.0, 2024-03-01 16:26:14
  */
 class HuanxuTradeAccountserviceCardCertifyRequest
 {

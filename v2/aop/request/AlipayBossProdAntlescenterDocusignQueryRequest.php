@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.antlescenter.docusign.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 01:16:48
+ * @since 1.0, 2024-03-01 16:34:25
  */
 class AlipayBossProdAntlescenterDocusignQueryRequest
 {

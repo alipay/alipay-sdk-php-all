@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.audio.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 17:03:23
+ * @since 1.0, 2024-03-01 16:28:53
  */
 class AlipayCommerceIotDeviceAudioQueryRequest
 {

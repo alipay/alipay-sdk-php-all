@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.safebox.agreement.sign request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:05:19
+ * @since 1.0, 2024-03-01 16:26:59
  */
 class AlipayUserSafeboxAgreementSignRequest
 {

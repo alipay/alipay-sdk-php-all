@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etcenterprise.waybill.upload request
  *
  * @author auto create
- * @since 1.0, 2023-12-20 11:16:58
+ * @since 1.0, 2024-03-01 16:29:20
  */
 class AlipayCommerceTransportEtcenterpriseWaybillUploadRequest
 {

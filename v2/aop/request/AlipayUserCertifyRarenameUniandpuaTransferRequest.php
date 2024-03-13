@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certify.rarename.uniandpua.transfer request
  *
  * @author auto create
- * @since 1.0, 2023-08-28 16:31:42
+ * @since 1.0, 2024-03-01 16:27:43
  */
 class AlipayUserCertifyRarenameUniandpuaTransferRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antforest.plant.apply request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 17:11:46
+ * @since 1.0, 2024-03-01 16:29:53
  */
 class AlipaySocialAntforestPlantApplyRequest
 {

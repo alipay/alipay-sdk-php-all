@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.certificate.certification.refund request
  *
  * @author auto create
- * @since 1.0, 2024-01-25 16:41:59
+ * @since 1.0, 2024-01-31 14:06:58
  */
 class AlipayMarketingCertificateCertificationRefundRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.mbpcard.invoicetasktrade.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-01-19 18:25:23
+ * @since 1.0, 2024-03-01 16:28:36
  */
 class AlipayFundMbpcardInvoicetasktradeBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.balance.downloadurl.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 19:16:46
+ * @since 1.0, 2024-03-04 13:34:45
  */
 class AlipayCommerceEcBalanceDownloadurlQueryRequest
 {

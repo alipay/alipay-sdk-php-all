@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.deviceinfo.dynamicinfo.add request
  *
  * @author auto create
- * @since 1.0, 2023-08-25 16:43:01
+ * @since 1.0, 2024-03-01 16:29:03
  */
 class AlipayMobileDeviceinfoDynamicinfoAddRequest
 {

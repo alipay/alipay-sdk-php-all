@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.outputinvoice.preview request
  *
  * @author auto create
- * @since 1.0, 2023-11-01 11:36:48
+ * @since 1.0, 2024-03-01 16:29:01
  */
 class AlipayBossFncOutputinvoicePreviewRequest
 {
