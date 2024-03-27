@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.gas.tag.save request
  *
  * @author auto create
- * @since 1.0, 2023-08-09 10:21:39
+ * @since 1.0, 2024-03-19 10:44:42
  */
 class AlipayCommerceGasTagSaveRequest
 {

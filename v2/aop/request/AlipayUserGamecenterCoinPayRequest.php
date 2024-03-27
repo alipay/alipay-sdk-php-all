@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.gamecenter.coin.pay request
  *
  * @author auto create
- * @since 1.0, 2023-06-14 20:36:56
+ * @since 1.0, 2024-03-27 08:51:23
  */
 class AlipayUserGamecenterCoinPayRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.vehicleowner.message.send request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:45
+ * @since 1.0, 2024-03-26 21:24:24
  */
 class AlipayCommerceTransportVehicleownerMessageSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.image.enhance.upload request
  *
  * @author auto create
- * @since 1.0, 2024-03-08 14:50:52
+ * @since 1.0, 2024-03-14 09:41:57
  */
 class AlipayMarketingImageEnhanceUploadRequest
 {
@@ -11,6 +11,11 @@ class AlipayMarketingImageEnhanceUploadRequest
 	 * 图片的byte字节数组。图片大小限制为2M。支持格式如下：png、jpg、jpeg、bmp、webp。
 	 **/
 	private $imageContent;
+	
+	/** 
+	 * 图片归属图空间目录id。不填时，默认归属到图空间根目录；填写时会保存到图片空间的目录id下；当图片需要保存到根目录下时传"0"。
+	 **/
+	private $imageDirectoryId;
 	
 	/** 
 	 * 素材字段。本接口必须为图片类型的素材字段。
@@ -51,6 +56,17 @@ class AlipayMarketingImageEnhanceUploadRequest
 	public function getImageContent()
 	{
 		return $this->imageContent;
+	}
+
+	public function setImageDirectoryId($imageDirectoryId)
+	{
+		$this->imageDirectoryId = $imageDirectoryId;
+		$this->apiParas["image_directory_id"] = $imageDirectoryId;
+	}
+
+	public function getImageDirectoryId()
+	{
+		return $this->imageDirectoryId;
 	}
 
 	public function setMaterialField($materialField)

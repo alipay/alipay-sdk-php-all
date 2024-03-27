@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.objectstorage.securedomain.query request
  *
  * @author auto create
- * @since 1.0, 2023-10-25 15:40:30
+ * @since 1.0, 2024-03-14 15:00:02
  */
 class AlipayCloudCloudrunObjectstorageSecuredomainQueryRequest
 {

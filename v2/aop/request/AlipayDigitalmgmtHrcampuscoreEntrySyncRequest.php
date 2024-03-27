@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.hrcampuscore.entry.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:01
+ * @since 1.0, 2024-03-18 17:21:58
  */
 class AlipayDigitalmgmtHrcampuscoreEntrySyncRequest
 {

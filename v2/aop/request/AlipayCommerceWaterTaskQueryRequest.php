@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.water.task.query request
  *
  * @author auto create
- * @since 1.0, 2024-02-27 09:51:48
+ * @since 1.0, 2024-03-26 21:32:03
  */
 class AlipayCommerceWaterTaskQueryRequest
 {

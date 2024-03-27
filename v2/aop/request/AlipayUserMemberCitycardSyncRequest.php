@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.member.citycard.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:29
+ * @since 1.0, 2024-03-27 08:52:50
  */
 class AlipayUserMemberCitycardSyncRequest
 {

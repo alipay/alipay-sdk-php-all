@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.zmgo.agreement.query request
  *
  * @author auto create
- * @since 1.0, 2024-01-30 13:37:25
+ * @since 1.0, 2024-03-27 09:07:02
  */
 class ZhimaCreditPeZmgoAgreementQueryRequest
 {

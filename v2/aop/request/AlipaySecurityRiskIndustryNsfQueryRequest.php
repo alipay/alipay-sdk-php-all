@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.industry.nsf.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:37
+ * @since 1.0, 2024-03-27 08:47:33
  */
 class AlipaySecurityRiskIndustryNsfQueryRequest
 {

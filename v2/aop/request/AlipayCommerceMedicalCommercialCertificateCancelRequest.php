@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.commercial.certificate.cancel request
  *
  * @author auto create
- * @since 1.0, 2024-03-13 10:19:16
+ * @since 1.0, 2024-03-13 10:22:01
  */
 class AlipayCommerceMedicalCommercialCertificateCancelRequest
 {

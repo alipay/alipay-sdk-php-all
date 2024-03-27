@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.email.originalinfo.upload request
  *
  * @author auto create
- * @since 1.0, 2024-01-04 17:06:44
+ * @since 1.0, 2024-03-26 21:31:58
  */
 class AlipayEbppInvoiceEmailOriginalinfoUploadRequest
 {

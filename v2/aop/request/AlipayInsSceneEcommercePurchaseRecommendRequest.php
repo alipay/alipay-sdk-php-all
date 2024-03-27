@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.purchase.recommend request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 20:03:04
+ * @since 1.0, 2024-03-20 11:20:44
  */
 class AlipayInsSceneEcommercePurchaseRecommendRequest
 {

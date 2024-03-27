@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.authorization.redicturl.get request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 17:36:40
+ * @since 1.0, 2024-03-14 11:52:46
  */
 class AlipayCommerceEcAuthorizationRedicturlGetRequest
 {

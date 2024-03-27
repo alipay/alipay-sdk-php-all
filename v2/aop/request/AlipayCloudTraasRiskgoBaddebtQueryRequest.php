@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.traas.riskgo.baddebt.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:00
+ * @since 1.0, 2024-03-19 19:17:02
  */
 class AlipayCloudTraasRiskgoBaddebtQueryRequest
 {
