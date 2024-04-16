@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.enterpriseconsume.detail.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:34:28
+ * @since 1.0, 2024-04-01 23:31:46
  */
 class AlipayEbppInvoiceEnterpriseconsumeDetailQueryRequest
 {

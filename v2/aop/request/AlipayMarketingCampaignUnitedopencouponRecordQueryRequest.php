@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.unitedopencoupon.record.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:29:04
+ * @since 1.0, 2024-03-28 00:03:52
  */
 class AlipayMarketingCampaignUnitedopencouponRecordQueryRequest
 {

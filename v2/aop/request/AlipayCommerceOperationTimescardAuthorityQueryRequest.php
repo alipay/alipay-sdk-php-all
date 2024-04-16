@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.timescard.authority.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:04
+ * @since 1.0, 2024-04-10 16:29:17
  */
 class AlipayCommerceOperationTimescardAuthorityQueryRequest
 {

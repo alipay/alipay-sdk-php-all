@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.template.create request
  *
  * @author auto create
- * @since 1.0, 2024-03-04 16:58:40
+ * @since 1.0, 2024-04-09 15:12:00
  */
 class AlipayFundWalletTemplateCreateRequest
 {

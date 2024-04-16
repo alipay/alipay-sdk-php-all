@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.antauthorize.roleuser.query request
  *
  * @author auto create
- * @since 1.0, 2023-12-15 15:31:56
+ * @since 1.0, 2024-04-11 16:35:01
  */
 class AlipayBossBaseAntauthorizeRoleuserQueryRequest
 {

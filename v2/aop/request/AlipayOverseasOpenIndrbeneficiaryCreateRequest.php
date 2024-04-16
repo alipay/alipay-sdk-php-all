@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.open.indrbeneficiary.create request
  *
  * @author auto create
- * @since 1.0, 2023-09-15 12:06:43
+ * @since 1.0, 2024-04-10 11:42:02
  */
 class AlipayOverseasOpenIndrbeneficiaryCreateRequest
 {

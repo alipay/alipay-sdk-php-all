@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.deductionorder.page.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-02-28 09:53:45
+ * @since 1.0, 2024-04-01 23:02:05
  */
 class AlipayCommerceDeductionorderPageBatchqueryRequest
 {

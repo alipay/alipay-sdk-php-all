@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.unionmember.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-13 17:55:00
+ * @since 1.0, 2024-04-01 22:47:00
  */
 class AlipayEcoMycarUnionmemberSyncRequest
 {

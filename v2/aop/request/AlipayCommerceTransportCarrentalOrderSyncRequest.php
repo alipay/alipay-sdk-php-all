@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.carrental.order.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:35
+ * @since 1.0, 2024-03-28 00:20:02
  */
 class AlipayCommerceTransportCarrentalOrderSyncRequest
 {

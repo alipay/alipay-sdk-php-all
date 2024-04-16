@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.openprod.permission.auth request
  *
  * @author auto create
- * @since 1.0, 2024-03-20 11:21:44
+ * @since 1.0, 2024-03-28 00:03:14
  */
 class AlipayInsSceneOpenprodPermissionAuthRequest
 {

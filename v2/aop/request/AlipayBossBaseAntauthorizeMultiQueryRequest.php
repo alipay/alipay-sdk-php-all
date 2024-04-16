@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.antauthorize.multi.query request
  *
  * @author auto create
- * @since 1.0, 2023-10-07 15:26:46
+ * @since 1.0, 2024-04-11 16:34:48
  */
 class AlipayBossBaseAntauthorizeMultiQueryRequest
 {

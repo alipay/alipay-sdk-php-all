@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.gamecenter.payment.querystatus request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 22:01:44
+ * @since 1.0, 2024-04-01 22:54:10
  */
 class AlipayUserGamecenterPaymentQuerystatusRequest
 {

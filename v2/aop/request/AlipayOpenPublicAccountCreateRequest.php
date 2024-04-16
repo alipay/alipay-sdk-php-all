@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.account.create request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:30
+ * @since 1.0, 2024-04-01 22:52:46
  */
 class AlipayOpenPublicAccountCreateRequest
 {

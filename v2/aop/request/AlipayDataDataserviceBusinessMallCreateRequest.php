@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.business.mall.create request
  *
  * @author auto create
- * @since 1.0, 2024-03-07 18:07:13
+ * @since 1.0, 2024-04-03 09:53:12
  */
 class AlipayDataDataserviceBusinessMallCreateRequest
 {

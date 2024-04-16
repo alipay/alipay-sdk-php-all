@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.voucher.batch.expire request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:26
+ * @since 1.0, 2024-03-28 00:27:56
  */
 class AlipayMarketingVoucherBatchExpireRequest
 {

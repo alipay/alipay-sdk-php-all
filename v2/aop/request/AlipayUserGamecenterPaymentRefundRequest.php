@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.gamecenter.payment.refund request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:33
+ * @since 1.0, 2024-04-01 23:17:56
  */
 class AlipayUserGamecenterPaymentRefundRequest
 {

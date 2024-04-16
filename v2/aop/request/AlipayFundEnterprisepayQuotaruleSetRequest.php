@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.enterprisepay.quotarule.set request
  *
  * @author auto create
- * @since 1.0, 2023-11-28 16:48:39
+ * @since 1.0, 2024-03-28 00:25:09
  */
 class AlipayFundEnterprisepayQuotaruleSetRequest
 {

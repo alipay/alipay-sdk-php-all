@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.tap.order.sync request
  *
  * @author auto create
- * @since 1.0, 2023-12-13 14:04:58
+ * @since 1.0, 2024-03-28 00:32:01
  */
 class AnttechBlockchainFinanceTapOrderSyncRequest
 {

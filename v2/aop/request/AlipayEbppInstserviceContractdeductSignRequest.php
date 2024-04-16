@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.instservice.contractdeduct.sign request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:29:15
+ * @since 1.0, 2024-03-28 00:36:44
  */
 class AlipayEbppInstserviceContractdeductSignRequest
 {

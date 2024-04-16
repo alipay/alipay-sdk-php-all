@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.jhjtest.regtoant.apply request
  *
  * @author auto create
- * @since 1.0, 2023-12-08 17:41:55
+ * @since 1.0, 2024-03-28 00:17:01
  */
 class AlipaySecurityJhjtestRegtoantApplyRequest
 {

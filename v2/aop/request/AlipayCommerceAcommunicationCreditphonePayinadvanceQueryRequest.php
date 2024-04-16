@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.creditphone.payinadvance.query request
  *
  * @author auto create
- * @since 1.0, 2024-02-20 13:57:03
+ * @since 1.0, 2024-04-11 15:27:01
  */
 class AlipayCommerceAcommunicationCreditphonePayinadvanceQueryRequest
 {

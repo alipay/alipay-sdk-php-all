@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.scenepay.authorize.apply request
  *
  * @author auto create
- * @since 1.0, 2024-03-25 11:25:45
+ * @since 1.0, 2024-04-02 14:37:05
  */
 class AlipayFundScenepayAuthorizeApplyRequest
 {

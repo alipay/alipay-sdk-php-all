@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.mobile.screen.apply request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:37:11
+ * @since 1.0, 2024-04-01 22:49:57
  */
 class AlipayInsSceneMobileScreenApplyRequest
 {

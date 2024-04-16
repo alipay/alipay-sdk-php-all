@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.traas.riskgo.farming.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-19 19:17:02
+ * @since 1.0, 2024-03-28 00:47:04
  */
 class AlipayCloudTraasRiskgoFarmingQueryRequest
 {

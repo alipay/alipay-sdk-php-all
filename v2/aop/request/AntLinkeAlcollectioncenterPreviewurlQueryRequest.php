@@ -3,7 +3,7 @@
  * ALIPAY API: ant.linke.alcollectioncenter.previewurl.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 06:11:55
+ * @since 1.0, 2024-04-15 17:46:59
  */
 class AntLinkeAlcollectioncenterPreviewurlQueryRequest
 {

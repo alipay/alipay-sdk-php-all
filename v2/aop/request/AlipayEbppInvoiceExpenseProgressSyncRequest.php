@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expense.progress.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:29:13
+ * @since 1.0, 2024-04-01 22:42:45
  */
 class AlipayEbppInvoiceExpenseProgressSyncRequest
 {

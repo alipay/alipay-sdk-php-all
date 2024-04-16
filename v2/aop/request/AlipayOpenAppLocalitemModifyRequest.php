@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.localitem.modify request
  *
  * @author auto create
- * @since 1.0, 2024-03-07 11:14:57
+ * @since 1.0, 2024-04-01 11:12:00
  */
 class AlipayOpenAppLocalitemModifyRequest
 {

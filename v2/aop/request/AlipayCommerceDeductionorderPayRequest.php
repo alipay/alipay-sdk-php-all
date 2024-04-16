@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.deductionorder.pay request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:25:21
+ * @since 1.0, 2024-04-01 23:17:04
  */
 class AlipayCommerceDeductionorderPayRequest
 {

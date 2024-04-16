@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.tuitioncode.refund.apply request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:53
+ * @since 1.0, 2024-03-28 00:11:10
  */
 class AlipayCommerceEducateTuitioncodeRefundApplyRequest
 {

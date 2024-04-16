@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.bill.acceptance.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-26 10:54:55
+ * @since 1.0, 2024-03-28 16:36:59
  */
 class AnttechOceanbaseBillAcceptanceSyncRequest
 {
