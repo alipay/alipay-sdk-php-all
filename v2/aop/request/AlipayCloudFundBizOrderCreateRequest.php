@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.fund.biz.order.create request
  *
  * @author auto create
- * @since 1.0, 2024-04-15 11:37:00
+ * @since 1.0, 2024-04-19 11:02:01
  */
 class AlipayCloudFundBizOrderCreateRequest
 {

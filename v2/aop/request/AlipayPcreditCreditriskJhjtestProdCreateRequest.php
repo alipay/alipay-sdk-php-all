@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.creditrisk.jhjtest.prod.create request
  *
  * @author auto create
- * @since 1.0, 2024-04-11 14:52:00
+ * @since 1.0, 2024-04-22 15:37:00
  */
 class AlipayPcreditCreditriskJhjtestProdCreateRequest
 {

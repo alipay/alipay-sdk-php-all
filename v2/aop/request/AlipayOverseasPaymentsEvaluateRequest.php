@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.payments.evaluate request
  *
  * @author auto create
- * @since 1.0, 2024-03-22 17:13:16
+ * @since 1.0, 2024-04-16 19:08:32
  */
 class AlipayOverseasPaymentsEvaluateRequest
 {

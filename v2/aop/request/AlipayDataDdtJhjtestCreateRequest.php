@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.ddt.jhjtest.create request
  *
  * @author auto create
- * @since 1.0, 2024-03-18 15:01:58
+ * @since 1.0, 2024-04-22 15:22:01
  */
 class AlipayDataDdtJhjtestCreateRequest
 {

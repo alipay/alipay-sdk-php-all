@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.gas.order.detail.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-25 10:16:44
+ * @since 1.0, 2024-04-18 16:21:25
  */
 class AlipayCommerceGasOrderDetailQueryRequest
 {

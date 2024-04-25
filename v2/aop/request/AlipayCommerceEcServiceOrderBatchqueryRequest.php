@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.service.order.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:36:50
+ * @since 1.0, 2024-04-24 18:08:58
  */
 class AlipayCommerceEcServiceOrderBatchqueryRequest
 {
