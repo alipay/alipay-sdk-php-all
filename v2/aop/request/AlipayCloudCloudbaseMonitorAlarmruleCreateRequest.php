@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.monitor.alarmrule.create request
  *
  * @author auto create
- * @since 1.0, 2024-04-12 15:07:00
+ * @since 1.0, 2024-05-08 14:32:17
  */
 class AlipayCloudCloudbaseMonitorAlarmruleCreateRequest
 {

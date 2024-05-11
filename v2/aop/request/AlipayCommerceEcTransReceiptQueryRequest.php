@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.trans.receipt.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-27 09:41:59
+ * @since 1.0, 2024-04-26 09:55:27
  */
 class AlipayCommerceEcTransReceiptQueryRequest
 {

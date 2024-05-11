@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.jhjtest.predoc.cancel request
  *
  * @author auto create
- * @since 1.0, 2024-04-22 16:07:00
+ * @since 1.0, 2024-04-29 16:32:01
  */
 class AlipaySecurityProdJhjtestPredocCancelRequest
 {

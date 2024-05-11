@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.liferecord.send request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:37
+ * @since 1.0, 2024-04-29 11:38:06
  */
 class ZhimaCustomerLiferecordSendRequest
 {

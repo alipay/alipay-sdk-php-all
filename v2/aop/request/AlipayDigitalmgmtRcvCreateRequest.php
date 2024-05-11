@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.rcv.create request
  *
  * @author auto create
- * @since 1.0, 2023-09-15 10:01:44
+ * @since 1.0, 2024-04-29 12:09:26
  */
 class AlipayDigitalmgmtRcvCreateRequest
 {

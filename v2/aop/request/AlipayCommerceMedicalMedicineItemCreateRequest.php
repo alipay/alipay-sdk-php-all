@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.medicine.item.create request
  *
  * @author auto create
- * @since 1.0, 2024-04-20 13:12:04
+ * @since 1.0, 2024-05-08 14:02:01
  */
 class AlipayCommerceMedicalMedicineItemCreateRequest
 {

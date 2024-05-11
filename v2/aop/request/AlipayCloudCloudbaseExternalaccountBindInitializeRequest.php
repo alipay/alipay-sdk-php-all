@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.externalaccount.bind.initialize request
  *
  * @author auto create
- * @since 1.0, 2024-04-11 09:45:50
+ * @since 1.0, 2024-05-08 16:21:59
  */
 class AlipayCloudCloudbaseExternalaccountBindInitializeRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.digitalmgmt.po.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:34:28
+ * @since 1.0, 2024-04-29 12:10:15
  */
 class AlipayDigitalmgmtPoQueryRequest
 {

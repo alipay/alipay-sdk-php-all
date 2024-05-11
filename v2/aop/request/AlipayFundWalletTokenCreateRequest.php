@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.token.create request
  *
  * @author auto create
- * @since 1.0, 2024-03-06 19:52:00
+ * @since 1.0, 2024-05-10 14:27:55
  */
 class AlipayFundWalletTokenCreateRequest
 {
