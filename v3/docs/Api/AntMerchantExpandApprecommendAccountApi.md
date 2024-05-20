@@ -118,7 +118,7 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $appNo = 2021000155639069; // string | 待解绑小程序的app_id
-$accNo = 2088001969784501; // string | 待解绑账号PID
+$accNo = 20880019****4501; // string | 待解绑账号PID
 
 try {
     $result = $apiInstance->delete($appNo, $accNo);
@@ -189,7 +189,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$appNo = 2021000155639069; // string | 已关联小程序的app_id
+$appNo = 20210001****9069; // string | 已关联小程序的app_id
 $pageSize = 10; // int | 单页行数，不能超过100行
 $pageNumber = 1; // int | 页码
 

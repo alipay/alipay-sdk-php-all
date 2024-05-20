@@ -17,7 +17,7 @@ create($alipayCommerceEcEmployeeTitleCreateModel): object
 
 新增员工抬头关系
 
-批量新增员工抬头关系
+批量新增员工抬头关系，单次新增最大一千条
 
 ### Example
 
@@ -87,7 +87,7 @@ delete($alipayCommerceEcEmployeeTitleDeleteModel): object
 
 删除员工抬头信息
 
-批量删除员工抬头信息
+批量删除员工抬头信息，单次删除最大一百条
 
 ### Example
 

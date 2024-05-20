@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `get()`
 
 ```php
-get($authToken, $userId): \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceTitleListGetResponseModel
+get($authToken, $userId, $openId): \Alipay\OpenAPISDK\Model\AlipayEbppInvoiceTitleListGetResponseModel
 ```
 
 获取指定用户所有的有效抬头列表
@@ -47,9 +47,10 @@ $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $authToken = 'authToken_example'; // string | 用户授权令牌
 $userId = 2088000000000000; // string | 支付宝用户id
+$openId = 074a1CcTG1LelxKe4xQC0zgNdId0nxi95b5lsNpazWYoCo5; // string | 支付宝用户id
 
 try {
-    $result = $apiInstance->get($authToken, $userId);
+    $result = $apiInstance->get($authToken, $userId, $openId);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayEbppInvoiceTitleListApi->get: ', $e->getMessage(), PHP_EOL;
@@ -62,6 +63,7 @@ Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **authToken** | **string**| 用户授权令牌 | [optional]
  **userId** | **string**| 支付宝用户id | [optional]
+ **openId** | **string**| 支付宝用户id | [optional]
 
 ### Return type
 

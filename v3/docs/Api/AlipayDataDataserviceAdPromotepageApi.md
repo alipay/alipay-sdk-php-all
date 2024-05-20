@@ -89,12 +89,12 @@ No authorization required
 ## `download()`
 
 ```php
-download($bizToken, $principalTag, $promotePageId, $startDate, $endDate, $pageNo, $pageSize): \Alipay\OpenAPISDK\Model\AlipayDataDataserviceAdPromotepageDownloadResponseModel
+download($startDate, $endDate, $pageNo, $pageSize, $bizToken, $principalTag, $promotePageId): \Alipay\OpenAPISDK\Model\AlipayDataDataserviceAdPromotepageDownloadResponseModel
 ```
 
 自建推广页留资数据查询
 
-用于获取指定商家指定推广页的留资数据
+用于获取指定商家指定推广页的留资数据，注意调用频次小于20qps
 
 ### Example
 
@@ -124,16 +124,16 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$bizToken = HYjofejnnlp89730202bcklHH; // string | 代理商访问灯火平台的token
-$principalTag = yfvbv133498; // string | 商家标志
-$promotePageId = 2018374; // int | 推广页id
-$startDate = "2020-12-12"; // string | 留资开始日期，格式：yyyy-mm-dd，不能早于30天前
-$endDate = “2020-12-13”; // string | 留资结束日期，格式：yyyy-mm-dd；不能晚于当天
+$startDate = 2020-12-12; // string | 留资开始日期，格式：yyyy-mm-dd，不能早于30天前
+$endDate = 2020-12-13; // string | 留资结束日期，格式：yyyy-mm-dd；不能晚于当天
 $pageNo = 1; // int | 分页参数之页数，从1开始
 $pageSize = 100; // int | 分页参数之每页大小，最大1000
+$bizToken = HYjofejnnlp89730202bcklHH; // string | 代理商访问灯火平台的token
+$principalTag = yfvbv133498; // string | 商家标志
+$promotePageId = 79900056; // int | 推广页id
 
 try {
-    $result = $apiInstance->download($bizToken, $principalTag, $promotePageId, $startDate, $endDate, $pageNo, $pageSize);
+    $result = $apiInstance->download($startDate, $endDate, $pageNo, $pageSize, $bizToken, $principalTag, $promotePageId);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayDataDataserviceAdPromotepageApi->download: ', $e->getMessage(), PHP_EOL;
@@ -144,13 +144,13 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **bizToken** | **string**| 代理商访问灯火平台的token | [optional]
- **principalTag** | **string**| 商家标志 | [optional]
- **promotePageId** | **int**| 推广页id | [optional]
  **startDate** | **string**| 留资开始日期，格式：yyyy-mm-dd，不能早于30天前 | [optional]
  **endDate** | **string**| 留资结束日期，格式：yyyy-mm-dd；不能晚于当天 | [optional]
  **pageNo** | **int**| 分页参数之页数，从1开始 | [optional]
  **pageSize** | **int**| 分页参数之每页大小，最大1000 | [optional]
+ **bizToken** | **string**| 代理商访问灯火平台的token | [optional]
+ **principalTag** | **string**| 商家标志 | [optional]
+ **promotePageId** | **int**| 推广页id | [optional]
 
 ### Return type
 

@@ -45,7 +45,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$isFilter = true; // bool | 是否过滤小程序不可用类目。枚举值如下： * true：表示过滤不可用类目。 * false：表示不过滤不可用类目。
+$isFilter = true; // bool | 是否过滤小程序不可用类目。枚举值如下： true：表示过滤不可用类目。 false：表示不过滤不可用类目。
 
 try {
     $result = $apiInstance->query($isFilter);
@@ -59,7 +59,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **isFilter** | **bool**| 是否过滤小程序不可用类目。枚举值如下： * true：表示过滤不可用类目。 * false：表示不过滤不可用类目。 | [optional]
+ **isFilter** | **bool**| 是否过滤小程序不可用类目。枚举值如下： true：表示过滤不可用类目。 false：表示不过滤不可用类目。 | [optional]
 
 ### Return type
 

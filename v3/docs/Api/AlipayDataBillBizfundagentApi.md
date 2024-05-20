@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `query()`
 
 ```php
-query($startTime, $endTime, $pageNo, $pageSize, $agreementNo): \Alipay\OpenAPISDK\Model\AlipayDataBillBizfundagentQueryResponseModel
+query($startTime, $endTime, $pageNo, $pageSize, $agreementNo, $accountBookId): \Alipay\OpenAPISDK\Model\AlipayDataBillBizfundagentQueryResponseModel
 ```
 
 ISV代理商户资金业务账单查询
@@ -50,9 +50,10 @@ $endTime = 2021-02-01 00:00:00; // string | 账单查询时间范围 -- 结束�
 $pageNo = 1; // string | 页码，从1开始
 $pageSize = 2000; // string | 分页大小1000-2000，默认2000
 $agreementNo = 20205215001418078112; // string | ISV与商户授权协议号
+$accountBookId = 20880123456789012; // string | 记账本id，服务商在帮助商户开通时候获取的唯一身份号
 
 try {
-    $result = $apiInstance->query($startTime, $endTime, $pageNo, $pageSize, $agreementNo);
+    $result = $apiInstance->query($startTime, $endTime, $pageNo, $pageSize, $agreementNo, $accountBookId);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayDataBillBizfundagentApi->query: ', $e->getMessage(), PHP_EOL;
@@ -68,6 +69,7 @@ Name | Type | Description  | Notes
  **pageNo** | **string**| 页码，从1开始 | [optional]
  **pageSize** | **string**| 分页大小1000-2000，默认2000 | [optional]
  **agreementNo** | **string**| ISV与商户授权协议号 | [optional]
+ **accountBookId** | **string**| 记账本id，服务商在帮助商户开通时候获取的唯一身份号 | [optional]
 
 ### Return type
 
