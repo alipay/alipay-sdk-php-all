@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.merchant.order.sync request
  *
  * @author auto create
- * @since 1.0, 2024-05-08 14:22:00
+ * @since 1.0, 2024-05-23 10:46:53
  */
 class AlipayEcoMycarMerchantOrderSyncRequest
 {

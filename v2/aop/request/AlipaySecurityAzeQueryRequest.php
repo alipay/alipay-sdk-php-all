@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.aze.query request
  *
  * @author auto create
- * @since 1.0, 2024-04-01 10:42:03
+ * @since 1.0, 2024-05-17 16:45:26
  */
 class AlipaySecurityAzeQueryRequest
 {

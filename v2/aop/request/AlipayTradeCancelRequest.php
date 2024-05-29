@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-11-09 18:52:39
+ * @since 1.0, 2024-05-15 13:17:01
  */
 class AlipayTradeCancelRequest
 {

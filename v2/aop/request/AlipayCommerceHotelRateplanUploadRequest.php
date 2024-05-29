@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.hotel.rateplan.upload request
  *
  * @author auto create
- * @since 1.0, 2024-04-24 18:51:33
+ * @since 1.0, 2024-05-27 17:12:03
  */
 class AlipayCommerceHotelRateplanUploadRequest
 {

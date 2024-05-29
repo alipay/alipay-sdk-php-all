@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.item.category.consult request
  *
  * @author auto create
- * @since 1.0, 2024-05-08 11:47:01
+ * @since 1.0, 2024-05-22 15:05:27
  */
 class AlipayOpenAppItemCategoryConsultRequest
 {

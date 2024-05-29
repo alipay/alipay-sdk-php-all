@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.asset.point.pointprod.budgetlib.modify request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:57:43
+ * @since 1.0, 2024-05-27 13:59:23
  */
 class AlipayAssetPointPointprodBudgetlibModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.monitor.cdnreport.get request
  *
  * @author auto create
- * @since 1.0, 2024-04-16 10:02:00
+ * @since 1.0, 2024-05-20 14:22:01
  */
 class AlipayCloudCloudbaseMonitorCdnreportGetRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.promorulecenter.rule.analyze request
  *
  * @author auto create
- * @since 1.0, 2024-03-27 08:46:12
+ * @since 1.0, 2024-05-23 18:03:29
  */
 class AlipayPromorulecenterRuleAnalyzeRequest
 {

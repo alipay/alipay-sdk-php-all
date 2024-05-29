@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.asset.card.disburse request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:03
+ * @since 1.0, 2024-05-27 13:59:11
  */
 class AlipayAssetCardDisburseRequest
 {

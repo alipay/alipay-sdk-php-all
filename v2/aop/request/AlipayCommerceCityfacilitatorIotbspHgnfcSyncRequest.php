@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.cityfacilitator.iotbsp.hgnfc.sync request
  *
  * @author auto create
- * @since 1.0, 2024-04-29 19:42:00
+ * @since 1.0, 2024-05-27 20:32:02
  */
 class AlipayCommerceCityfacilitatorIotbspHgnfcSyncRequest
 {
