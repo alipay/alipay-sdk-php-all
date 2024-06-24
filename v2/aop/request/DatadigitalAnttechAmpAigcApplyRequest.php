@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.anttech.amp.aigc.apply request
  *
  * @author auto create
- * @since 1.0, 2024-05-16 11:37:01
+ * @since 1.0, 2024-06-21 17:47:04
  */
 class DatadigitalAnttechAmpAigcApplyRequest
 {

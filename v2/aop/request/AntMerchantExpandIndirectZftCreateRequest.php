@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.indirect.zft.create request
  *
  * @author auto create
- * @since 1.0, 2024-05-16 20:32:04
+ * @since 1.0, 2024-06-04 15:57:03
  */
 class AntMerchantExpandIndirectZftCreateRequest
 {

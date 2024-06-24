@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.authorization.token.create request
  *
  * @author auto create
- * @since 1.0, 2024-03-14 11:52:33
+ * @since 1.0, 2024-05-31 09:40:27
  */
 class AlipayCommerceEcAuthorizationTokenCreateRequest
 {

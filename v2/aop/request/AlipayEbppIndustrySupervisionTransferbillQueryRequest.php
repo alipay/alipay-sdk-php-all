@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.supervision.transferbill.query request
  *
  * @author auto create
- * @since 1.0, 2024-02-21 10:21:59
+ * @since 1.0, 2024-06-12 10:07:04
  */
 class AlipayEbppIndustrySupervisionTransferbillQueryRequest
 {

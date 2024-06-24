@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.fund.agreement.unsign request
  *
  * @author auto create
- * @since 1.0, 2024-05-28 19:42:03
+ * @since 1.0, 2024-06-11 11:42:03
  */
 class AlipayCloudFundAgreementUnsignRequest
 {

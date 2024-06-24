@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.nextbuilder.agent.message.query request
  *
  * @author auto create
- * @since 1.0, 2024-05-23 15:07:02
+ * @since 1.0, 2024-06-04 18:07:03
  */
 class AlipayCloudNextbuilderAgentMessageQueryRequest
 {

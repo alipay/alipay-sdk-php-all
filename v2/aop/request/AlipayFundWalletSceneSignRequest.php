@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.scene.sign request
  *
  * @author auto create
- * @since 1.0, 2024-04-09 15:12:00
+ * @since 1.0, 2024-06-16 16:17:02
  */
 class AlipayFundWalletSceneSignRequest
 {

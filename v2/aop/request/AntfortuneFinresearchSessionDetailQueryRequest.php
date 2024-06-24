@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.finresearch.session.detail.query request
  *
  * @author auto create
- * @since 1.0, 2024-04-18 15:47:01
+ * @since 1.0, 2024-06-07 11:27:04
  */
 class AntfortuneFinresearchSessionDetailQueryRequest
 {

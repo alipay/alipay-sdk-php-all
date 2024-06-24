@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expenserules.groupemployee.modify request
  *
  * @author auto create
- * @since 1.0, 2024-04-01 23:10:35
+ * @since 1.0, 2024-06-19 18:08:23
  */
 class AlipayEbppInvoiceExpenserulesGroupemployeeModifyRequest
 {

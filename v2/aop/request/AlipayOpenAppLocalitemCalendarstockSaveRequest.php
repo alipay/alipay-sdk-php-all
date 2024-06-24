@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.localitem.calendarstock.save request
  *
  * @author auto create
- * @since 1.0, 2024-04-23 21:50:59
+ * @since 1.0, 2024-06-20 15:17:03
  */
 class AlipayOpenAppLocalitemCalendarstockSaveRequest
 {

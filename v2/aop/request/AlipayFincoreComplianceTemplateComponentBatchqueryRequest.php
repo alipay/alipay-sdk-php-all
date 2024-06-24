@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.template.component.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-05-13 15:02:37
+ * @since 1.0, 2024-06-12 11:07:04
  */
 class AlipayFincoreComplianceTemplateComponentBatchqueryRequest
 {

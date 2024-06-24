@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.asset.bom.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 03:41:53
+ * @since 1.0, 2024-06-13 10:16:01
  */
 class AntMerchantExpandAssetBomQueryRequest
 {

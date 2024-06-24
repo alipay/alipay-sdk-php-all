@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.order.reverse.supplier.apply request
  *
  * @author auto create
- * @since 1.0, 2024-03-12 16:47:00
+ * @since 1.0, 2024-06-03 14:42:03
  */
 class AntMerchantOrderReverseSupplierApplyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.group.authorize.delete request
  *
  * @author auto create
- * @since 1.0, 2024-05-21 10:37:01
+ * @since 1.0, 2024-06-03 14:42:03
  */
 class AlipayMerchantGroupAuthorizeDeleteRequest
 {

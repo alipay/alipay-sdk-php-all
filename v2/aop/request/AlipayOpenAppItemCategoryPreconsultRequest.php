@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.item.category.preconsult request
  *
  * @author auto create
- * @since 1.0, 2024-05-16 14:47:01
+ * @since 1.0, 2024-06-12 10:14:50
  */
 class AlipayOpenAppItemCategoryPreconsultRequest
 {

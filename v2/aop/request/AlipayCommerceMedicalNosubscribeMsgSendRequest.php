@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.nosubscribe.msg.send request
  *
  * @author auto create
- * @since 1.0, 2024-04-26 16:42:01
+ * @since 1.0, 2024-06-17 15:27:03
  */
 class AlipayCommerceMedicalNosubscribeMsgSendRequest
 {
