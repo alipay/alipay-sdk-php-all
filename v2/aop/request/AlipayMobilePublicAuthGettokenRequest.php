@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.auth.gettoken request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 14:42:18
+ * @since 1.0, 2024-07-04 17:41:17
  */
 class AlipayMobilePublicAuthGettokenRequest
 {

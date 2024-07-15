@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.campus.biztask.finish request
  *
  * @author auto create
- * @since 1.0, 2023-06-12 14:34:19
+ * @since 1.0, 2024-07-04 16:55:09
  */
 class AlipayCommerceEducateCampusBiztaskFinishRequest
 {

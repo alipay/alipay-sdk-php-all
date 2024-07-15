@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.account.aliyun.unbind request
  *
  * @author auto create
- * @since 1.0, 2023-09-03 23:39:35
+ * @since 1.0, 2024-07-04 16:38:09
  */
 class AlipayOpenAccountAliyunUnbindRequest
 {

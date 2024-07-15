@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.zft.settlement.unbind request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:40
+ * @since 1.0, 2024-07-04 19:33:11
  */
 class AntMerchantExpandZftSettlementUnbindRequest
 {

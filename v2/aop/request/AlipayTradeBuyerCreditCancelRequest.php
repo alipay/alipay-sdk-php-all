@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.buyer.credit.cancel request
  *
  * @author auto create
- * @since 1.0, 2024-01-29 11:12:34
+ * @since 1.0, 2024-07-04 19:33:06
  */
 class AlipayTradeBuyerCreditCancelRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.oilproduct.info.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 01:40:38
+ * @since 1.0, 2024-07-04 16:38:03
  */
 class AlipayCommerceTransportOilproductInfoQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.activity.signup.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:56:16
+ * @since 1.0, 2024-07-04 19:33:16
  */
 class AntMerchantExpandActivitySignupQueryRequest
 {

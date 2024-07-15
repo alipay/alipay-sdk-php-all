@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.facepay.close request
  *
  * @author auto create
- * @since 1.0, 2024-03-26 21:19:32
+ * @since 1.0, 2024-07-04 16:55:10
  */
 class AlipayCommerceEducateFacepayCloseRequest
 {

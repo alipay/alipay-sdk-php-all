@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.bc.clustermsg.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:53:56
+ * @since 1.0, 2024-07-05 11:03:21
  */
 class AlipaySocialBaseBcClustermsgQueryRequest
 {

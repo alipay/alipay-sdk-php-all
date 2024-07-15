@@ -3,7 +3,7 @@
  * ALIPAY API: huanxu.user.hhhhh.delete request
  *
  * @author auto create
- * @since 1.0, 2022-07-20 14:16:46
+ * @since 1.0, 2024-07-04 19:33:34
  */
 class HuanxuUserHhhhhDeleteRequest
 {

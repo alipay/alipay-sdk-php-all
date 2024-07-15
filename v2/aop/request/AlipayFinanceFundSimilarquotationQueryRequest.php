@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.fund.similarquotation.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 22:18:17
+ * @since 1.0, 2024-07-04 17:31:59
  */
 class AlipayFinanceFundSimilarquotationQueryRequest
 {

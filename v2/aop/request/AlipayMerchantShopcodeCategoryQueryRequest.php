@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.shopcode.category.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 20:03:52
+ * @since 1.0, 2024-07-04 17:41:18
  */
 class AlipayMerchantShopcodeCategoryQueryRequest
 {

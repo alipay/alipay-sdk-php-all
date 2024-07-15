@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.openapi.preheat.publish request
  *
  * @author auto create
- * @since 1.0, 2019-06-17 15:33:52
+ * @since 1.0, 2024-07-04 17:41:18
  */
 class AlipayOpenAppOpenapiPreheatPublishRequest
 {

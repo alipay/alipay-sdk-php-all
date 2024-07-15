@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.shop.external.data.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 20:48:43
+ * @since 1.0, 2024-07-04 19:39:05
  */
 class KoubeiShopExternalDataSyncRequest
 {

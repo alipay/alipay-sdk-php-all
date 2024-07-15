@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.consume.detail.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-28 00:37:04
+ * @since 1.0, 2024-07-12 09:54:07
  */
 class AlipayCommerceEcConsumeDetailQueryRequest
 {

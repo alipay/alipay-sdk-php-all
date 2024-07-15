@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.boyi.boyi.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 18:33:40
+ * @since 1.0, 2024-07-04 17:41:20
  */
 class AlipayOpenAppBoyiBoyiCreateRequest
 {

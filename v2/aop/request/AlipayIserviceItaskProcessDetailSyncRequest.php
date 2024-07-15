@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.itask.process.detail.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:47:17
+ * @since 1.0, 2024-07-04 17:31:59
  */
 class AlipayIserviceItaskProcessDetailSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.service.order.buy request
  *
  * @author auto create
- * @since 1.0, 2024-04-24 18:08:12
+ * @since 1.0, 2024-07-04 16:55:09
  */
 class AlipayCommerceEcServiceOrderBuyRequest
 {

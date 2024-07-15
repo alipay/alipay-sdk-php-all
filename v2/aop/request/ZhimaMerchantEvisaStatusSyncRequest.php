@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.evisa.status.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:06:24
+ * @since 1.0, 2024-07-04 15:51:34
  */
 class ZhimaMerchantEvisaStatusSyncRequest
 {

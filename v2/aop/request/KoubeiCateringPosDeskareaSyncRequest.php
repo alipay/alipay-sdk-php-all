@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.deskarea.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:59:18
+ * @since 1.0, 2024-07-04 15:51:36
  */
 class KoubeiCateringPosDeskareaSyncRequest
 {

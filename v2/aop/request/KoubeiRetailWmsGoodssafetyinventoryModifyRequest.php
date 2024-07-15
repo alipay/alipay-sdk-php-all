@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.retail.wms.goodssafetyinventory.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 20:38:37
+ * @since 1.0, 2024-07-04 19:39:04
  */
 class KoubeiRetailWmsGoodssafetyinventoryModifyRequest
 {

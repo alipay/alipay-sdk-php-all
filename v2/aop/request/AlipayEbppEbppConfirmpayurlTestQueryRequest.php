@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.ebpp.confirmpayurl.test.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-12 15:55:19
+ * @since 1.0, 2024-07-04 15:51:36
  */
 class AlipayEbppEbppConfirmpayurlTestQueryRequest
 {

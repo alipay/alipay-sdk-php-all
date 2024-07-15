@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.antpaas.role.delete request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:49:54
+ * @since 1.0, 2024-07-04 15:51:39
  */
 class AlipayUserAntpaasRoleDeleteRequest
 {

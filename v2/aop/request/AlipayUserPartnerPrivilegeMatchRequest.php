@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.partner.privilege.match request
  *
  * @author auto create
- * @since 1.0, 2023-09-03 23:21:10
+ * @since 1.0, 2024-07-04 19:33:16
  */
 class AlipayUserPartnerPrivilegeMatchRequest
 {

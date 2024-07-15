@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.agent.schedulelog.query request
  *
  * @author auto create
- * @since 1.0, 2024-04-24 11:07:54
+ * @since 1.0, 2024-07-04 17:31:56
  */
 class AlipayIserviceCcmAgentSchedulelogQueryRequest
 {

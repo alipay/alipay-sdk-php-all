@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.enterprisepay.rule.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-27 10:05:42
+ * @since 1.0, 2024-07-04 17:32:00
  */
 class AlipayFundEnterprisepayRuleQueryRequest
 {

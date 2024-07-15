@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.guarantee.tradedrive.pay request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 18:19:56
+ * @since 1.0, 2024-07-04 19:39:07
  */
 class MybankCreditGuaranteeTradedrivePayRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.open.indrpreorder.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:11:44
+ * @since 1.0, 2024-07-04 20:52:37
  */
 class AlipayOverseasOpenIndrpreorderCancelRequest
 {

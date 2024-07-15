@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.jhjtest.gray.query request
  *
  * @author auto create
- * @since 1.0, 2023-11-24 15:21:52
+ * @since 1.0, 2024-07-04 19:33:08
  */
 class AlipayPcreditJhjtestGrayQueryRequest
 {

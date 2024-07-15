@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.nextbuilder.agent.completion.generate request
  *
  * @author auto create
- * @since 1.0, 2024-05-15 11:52:01
+ * @since 1.0, 2024-07-15 15:19:46
  */
 class AlipayCloudNextbuilderAgentCompletionGenerateRequest
 {

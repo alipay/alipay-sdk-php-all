@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.planetsolutioncenter.isv.bind request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 21:28:36
+ * @since 1.0, 2024-07-04 16:38:09
  */
 class AlipayCommerceOperationPlanetsolutioncenterIsvBindRequest
 {

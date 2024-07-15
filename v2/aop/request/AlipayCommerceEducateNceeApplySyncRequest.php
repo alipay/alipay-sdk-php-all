@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.ncee.apply.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:35:03
+ * @since 1.0, 2024-07-04 16:55:10
  */
 class AlipayCommerceEducateNceeApplySyncRequest
 {

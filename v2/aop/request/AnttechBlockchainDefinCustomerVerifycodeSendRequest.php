@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.customer.verifycode.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:06:36
+ * @since 1.0, 2024-07-04 19:33:11
  */
 class AnttechBlockchainDefinCustomerVerifycodeSendRequest
 {

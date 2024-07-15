@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.billkey.upgrade.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 21:44:31
+ * @since 1.0, 2024-07-04 17:31:50
  */
 class AlipayEbppBillkeyUpgradeQueryRequest
 {

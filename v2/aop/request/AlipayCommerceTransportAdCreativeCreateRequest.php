@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.ad.creative.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:11:40
+ * @since 1.0, 2024-07-04 15:51:39
  */
 class AlipayCommerceTransportAdCreativeCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.collateral.car.modify request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 20:40:39
+ * @since 1.0, 2024-07-04 19:33:27
  */
 class AlipayPcreditLoanCollateralCarModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.gamecenter.addhomepage.consult request
  *
  * @author auto create
- * @since 1.0, 2024-04-09 16:00:16
+ * @since 1.0, 2024-07-15 10:57:07
  */
 class AlipayUserGamecenterAddhomepageConsultRequest
 {

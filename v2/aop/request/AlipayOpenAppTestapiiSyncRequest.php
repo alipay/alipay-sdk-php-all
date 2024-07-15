@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.testapii.sync request
  *
  * @author auto create
- * @since 1.0, 2022-07-26 16:35:29
+ * @since 1.0, 2024-07-04 17:41:21
  */
 class AlipayOpenAppTestapiiSyncRequest
 {

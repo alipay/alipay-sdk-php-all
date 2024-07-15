@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.fingerprint.riskcontrol.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:21:55
+ * @since 1.0, 2024-07-04 15:51:35
  */
 class AlipaySecurityProdFingerprintRiskcontrolQueryRequest
 {

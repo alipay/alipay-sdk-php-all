@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.obglobal.crmmsg.send request
  *
  * @author auto create
- * @since 1.0, 2023-10-18 19:11:47
+ * @since 1.0, 2024-07-04 19:33:33
  */
 class AnttechOceanbaseObglobalCrmmsgSendRequest
 {

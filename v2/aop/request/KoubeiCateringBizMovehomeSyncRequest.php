@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.biz.movehome.sync request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:38:51
+ * @since 1.0, 2024-07-04 19:33:34
  */
 class KoubeiCateringBizMovehomeSyncRequest
 {

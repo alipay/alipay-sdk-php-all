@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.coupon.operation.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:34:29
+ * @since 1.0, 2024-07-04 17:31:54
  */
 class AlipayFundCouponOperationQueryRequest
 {

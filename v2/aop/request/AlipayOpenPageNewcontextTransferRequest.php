@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.page.newcontext.transfer request
  *
  * @author auto create
- * @since 1.0, 2020-03-25 16:52:26
+ * @since 1.0, 2024-07-04 20:52:39
  */
 class AlipayOpenPageNewcontextTransferRequest
 {

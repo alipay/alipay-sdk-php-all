@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.retail.wms.outboundwork.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:08:49
+ * @since 1.0, 2024-07-04 19:39:05
  */
 class KoubeiRetailWmsOutboundworkCreateRequest
 {

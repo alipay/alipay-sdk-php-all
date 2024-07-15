@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.advert.create request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 17:10:10
+ * @since 1.0, 2024-07-04 15:51:37
  */
 class AlipayOpenPublicAdvertCreateRequest
 {

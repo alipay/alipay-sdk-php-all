@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.gift.stock.upload request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:03:31
+ * @since 1.0, 2024-07-04 19:33:07
  */
 class AlipaySocialGiftStockUploadRequest
 {

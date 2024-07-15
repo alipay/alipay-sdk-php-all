@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.campaign.intelligent.promo.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 18:42:01
+ * @since 1.0, 2024-07-04 19:33:56
  */
 class KoubeiMarketingCampaignIntelligentPromoBatchqueryRequest
 {

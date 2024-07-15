@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.content.community.open.secuai.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 20:27:37
+ * @since 1.0, 2024-07-04 19:33:17
  */
 class AntfortuneContentCommunityOpenSecuaiQueryRequest
 {

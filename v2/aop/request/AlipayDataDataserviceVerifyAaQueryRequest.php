@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.verify.aa.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:01
+ * @since 1.0, 2024-07-04 17:31:49
  */
 class AlipayDataDataserviceVerifyAaQueryRequest
 {

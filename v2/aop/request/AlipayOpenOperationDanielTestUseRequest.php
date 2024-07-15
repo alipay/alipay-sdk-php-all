@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.operation.daniel.test.use request
  *
  * @author auto create
- * @since 1.0, 2023-11-01 15:43:05
+ * @since 1.0, 2024-07-04 17:41:20
  */
 class AlipayOpenOperationDanielTestUseRequest
 {

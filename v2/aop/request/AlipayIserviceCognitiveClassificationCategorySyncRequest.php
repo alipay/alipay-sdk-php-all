@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cognitive.classification.category.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:03:02
+ * @since 1.0, 2024-07-04 17:32:00
  */
 class AlipayIserviceCognitiveClassificationCategorySyncRequest
 {

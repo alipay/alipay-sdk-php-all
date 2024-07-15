@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.sceneprod.repay.deputy.apply request
  *
  * @author auto create
- * @since 1.0, 2023-09-03 23:34:56
+ * @since 1.0, 2024-07-04 15:51:35
  */
 class MybankCreditSceneprodRepayDeputyApplyRequest
 {

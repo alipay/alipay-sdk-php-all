@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.parking.chargeinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2023-12-20 12:11:25
+ * @since 1.0, 2024-07-04 17:31:54
  */
 class AlipayEcoMycarParkingChargeinfoSyncRequest
 {

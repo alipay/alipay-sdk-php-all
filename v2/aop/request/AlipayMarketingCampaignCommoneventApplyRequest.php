@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.commonevent.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:54:06
+ * @since 1.0, 2024-07-04 17:41:16
  */
 class AlipayMarketingCampaignCommoneventApplyRequest
 {

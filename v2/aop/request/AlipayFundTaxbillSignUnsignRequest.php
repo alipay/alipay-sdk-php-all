@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.taxbill.sign.unsign request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 00:06:33
+ * @since 1.0, 2024-07-04 17:31:58
  */
 class AlipayFundTaxbillSignUnsignRequest
 {

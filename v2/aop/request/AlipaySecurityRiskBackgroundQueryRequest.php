@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.background.query request
  *
  * @author auto create
- * @since 1.0, 2020-02-01 11:36:03
+ * @since 1.0, 2024-07-04 19:33:09
  */
 class AlipaySecurityRiskBackgroundQueryRequest
 {

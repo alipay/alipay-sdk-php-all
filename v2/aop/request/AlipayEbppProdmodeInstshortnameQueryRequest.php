@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.prodmode.instshortname.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 22:29:54
+ * @since 1.0, 2024-07-04 17:31:52
  */
 class AlipayEbppProdmodeInstshortnameQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.loanpay.asset.consult request
  *
  * @author auto create
- * @since 1.0, 2019-07-17 21:19:28
+ * @since 1.0, 2024-07-04 19:39:07
  */
 class MybankCreditLoantradeLoanpayAssetConsultRequest
 {

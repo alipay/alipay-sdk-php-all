@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.dcs.merchant.query request
  *
  * @author auto create
- * @since 1.0, 2024-01-23 15:22:12
+ * @since 1.0, 2024-07-04 16:38:03
  */
 class AlipayCommerceOperationDcsMerchantQueryRequest
 {

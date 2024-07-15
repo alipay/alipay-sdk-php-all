@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.supervision.vostro.refund request
  *
  * @author auto create
- * @since 1.0, 2024-05-29 17:07:02
+ * @since 1.0, 2024-06-28 10:02:05
  */
 class AlipayEbppIndustrySupervisionVostroRefundRequest
 {

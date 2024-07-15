@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.voucher.delay request
  *
  * @author auto create
- * @since 1.0, 2024-03-26 21:49:21
+ * @since 1.0, 2024-07-04 17:41:16
  */
 class AlipayMarketingVoucherDelayRequest
 {

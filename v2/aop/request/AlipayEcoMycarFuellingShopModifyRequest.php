@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.fuelling.shop.modify request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 20:26:23
+ * @since 1.0, 2024-07-04 17:31:53
  */
 class AlipayEcoMycarFuellingShopModifyRequest
 {

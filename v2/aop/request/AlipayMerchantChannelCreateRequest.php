@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.channel.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:37:46
+ * @since 1.0, 2024-07-04 17:41:17
  */
 class AlipayMerchantChannelCreateRequest
 {

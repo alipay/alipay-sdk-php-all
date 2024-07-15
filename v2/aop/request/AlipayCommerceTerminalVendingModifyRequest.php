@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.terminal.vending.modify request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:51:52
+ * @since 1.0, 2024-07-04 16:56:00
  */
 class AlipayCommerceTerminalVendingModifyRequest
 {

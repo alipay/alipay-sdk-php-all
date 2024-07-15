@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.productloanableamt.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:59:53
+ * @since 1.0, 2024-07-04 19:39:07
  */
 class MybankCreditSupplychainWfProductloanableamtQueryRequest
 {

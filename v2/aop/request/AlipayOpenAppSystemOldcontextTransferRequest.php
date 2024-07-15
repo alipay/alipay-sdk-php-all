@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.system.oldcontext.transfer request
  *
  * @author auto create
- * @since 1.0, 2021-06-29 21:16:22
+ * @since 1.0, 2024-07-04 17:41:18
  */
 class AlipayOpenAppSystemOldcontextTransferRequest
 {

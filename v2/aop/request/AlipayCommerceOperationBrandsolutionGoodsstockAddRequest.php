@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.brandsolution.goodsstock.add request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:59:12
+ * @since 1.0, 2024-07-04 16:55:14
  */
 class AlipayCommerceOperationBrandsolutionGoodsstockAddRequest
 {

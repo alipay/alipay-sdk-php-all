@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotvsp.orguser.delete request
  *
  * @author auto create
- * @since 1.0, 2022-01-27 20:45:40
+ * @since 1.0, 2024-07-04 17:41:19
  */
 class AlipayOpenIotvspOrguserDeleteRequest
 {

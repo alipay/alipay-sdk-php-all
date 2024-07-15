@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.jf.export.unsign request
  *
  * @author auto create
- * @since 1.0, 2024-05-27 14:47:03
+ * @since 1.0, 2024-07-04 17:31:52
  */
 class AlipayEbppJfExportUnsignRequest
 {

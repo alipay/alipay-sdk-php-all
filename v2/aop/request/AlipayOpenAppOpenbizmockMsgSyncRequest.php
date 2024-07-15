@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.openbizmock.msg.sync request
  *
  * @author auto create
- * @since 1.0, 2023-03-20 23:41:46
+ * @since 1.0, 2024-07-04 16:38:06
  */
 class AlipayOpenAppOpenbizmockMsgSyncRequest
 {

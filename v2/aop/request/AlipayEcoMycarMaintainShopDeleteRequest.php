@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.maintain.shop.delete request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:10:32
+ * @since 1.0, 2024-07-04 17:31:53
  */
 class AlipayEcoMycarMaintainShopDeleteRequest
 {

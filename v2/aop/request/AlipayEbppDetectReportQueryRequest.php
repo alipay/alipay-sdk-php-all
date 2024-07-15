@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.detect.report.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 19:54:56
+ * @since 1.0, 2024-07-04 17:31:51
  */
 class AlipayEbppDetectReportQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.wf.settlementofexchange.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:47:43
+ * @since 1.0, 2024-07-04 19:39:08
  */
 class MybankCreditSupplychainWfSettlementofexchangeQueryRequest
 {

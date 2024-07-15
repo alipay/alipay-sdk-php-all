@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.commercialization.certificate.verify request
  *
  * @author auto create
- * @since 1.0, 2023-10-27 15:36:49
+ * @since 1.0, 2024-07-04 17:31:53
  */
 class AlipayEcoMycarCommercializationCertificateVerifyRequest
 {

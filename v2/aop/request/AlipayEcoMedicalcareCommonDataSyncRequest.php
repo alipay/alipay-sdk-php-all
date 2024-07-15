@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.medicalcare.common.data.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:29:16
+ * @since 1.0, 2024-07-04 17:31:56
  */
 class AlipayEcoMedicalcareCommonDataSyncRequest
 {

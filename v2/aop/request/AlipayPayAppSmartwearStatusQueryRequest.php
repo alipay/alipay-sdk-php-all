@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.smartwear.status.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:23:59
+ * @since 1.0, 2024-07-04 19:33:56
  */
 class AlipayPayAppSmartwearStatusQueryRequest
 {

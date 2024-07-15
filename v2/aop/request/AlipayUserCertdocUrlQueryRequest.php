@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certdoc.url.query request
  *
  * @author auto create
- * @since 1.0, 2020-05-07 10:09:02
+ * @since 1.0, 2024-07-04 19:33:13
  */
 class AlipayUserCertdocUrlQueryRequest
 {

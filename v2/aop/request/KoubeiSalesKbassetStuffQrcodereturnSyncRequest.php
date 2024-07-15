@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.sales.kbasset.stuff.qrcodereturn.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 19:43:26
+ * @since 1.0, 2024-07-04 19:39:05
  */
 class KoubeiSalesKbassetStuffQrcodereturnSyncRequest
 {

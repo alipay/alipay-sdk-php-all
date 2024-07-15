@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.creditrisk.widget.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:34:55
+ * @since 1.0, 2024-07-04 19:39:07
  */
 class MybankCreditCreditriskWidgetQueryRequest
 {

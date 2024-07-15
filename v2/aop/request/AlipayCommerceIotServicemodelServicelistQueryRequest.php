@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.servicemodel.servicelist.query request
  *
  * @author auto create
- * @since 1.0, 2023-07-05 14:49:44
+ * @since 1.0, 2024-07-04 16:55:11
  */
 class AlipayCommerceIotServicemodelServicelistQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.remit.reverse.notify request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 17:56:43
+ * @since 1.0, 2024-07-04 20:52:37
  */
 class AlipayOverseasRemitReverseNotifyRequest
 {

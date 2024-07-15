@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.multimedia.xnnmini.model.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:36:58
+ * @since 1.0, 2024-07-04 17:41:19
  */
 class AlipayMultimediaXnnminiModelCreateRequest
 {

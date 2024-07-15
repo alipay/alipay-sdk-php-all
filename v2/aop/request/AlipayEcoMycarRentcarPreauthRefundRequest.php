@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.rentcar.preauth.refund request
  *
  * @author auto create
- * @since 1.0, 2024-03-26 21:41:58
+ * @since 1.0, 2024-07-04 17:31:56
  */
 class AlipayEcoMycarRentcarPreauthRefundRequest
 {

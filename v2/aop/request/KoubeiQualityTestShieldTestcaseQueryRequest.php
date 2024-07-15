@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.quality.test.shield.testcase.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:19:53
+ * @since 1.0, 2024-07-04 19:39:04
  */
 class KoubeiQualityTestShieldTestcaseQueryRequest
 {

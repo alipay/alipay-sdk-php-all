@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.security.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:49
+ * @since 1.0, 2024-07-10 11:37:37
  */
 class AlipayCommerceRecycleSecurityQueryRequest
 {

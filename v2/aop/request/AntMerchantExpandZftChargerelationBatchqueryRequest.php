@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.zft.chargerelation.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-12-28 15:01:57
+ * @since 1.0, 2024-07-04 19:33:17
  */
 class AntMerchantExpandZftChargerelationBatchqueryRequest
 {

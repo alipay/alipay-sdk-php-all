@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.asset.valid.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-13 21:26:52
+ * @since 1.0, 2024-07-08 15:27:04
  */
 class AlipayCommerceEcAssetValidQueryRequest
 {

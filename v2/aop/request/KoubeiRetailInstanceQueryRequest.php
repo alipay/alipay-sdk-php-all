@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.retail.instance.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 22:53:05
+ * @since 1.0, 2024-07-04 19:39:04
  */
 class KoubeiRetailInstanceQueryRequest
 {

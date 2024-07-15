@@ -3,7 +3,7 @@
  * ALIPAY API: ssdata.dataservice.risk.digitalidentity.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:49
+ * @since 1.0, 2024-07-04 19:39:13
  */
 class SsdataDataserviceRiskDigitalidentityQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.passportinfo.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-10-08 11:06:46
+ * @since 1.0, 2024-07-04 19:33:12
  */
 class AnttechOceanbasePassportinfoBatchqueryRequest
 {

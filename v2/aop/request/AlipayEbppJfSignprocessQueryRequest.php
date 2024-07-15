@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.jf.signprocess.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 09:56:42
+ * @since 1.0, 2024-07-04 17:31:52
  */
 class AlipayEbppJfSignprocessQueryRequest
 {

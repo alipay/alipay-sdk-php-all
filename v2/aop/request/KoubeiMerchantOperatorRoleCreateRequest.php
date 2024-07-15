@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.merchant.operator.role.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:52:35
+ * @since 1.0, 2024-07-04 19:39:04
  */
 class KoubeiMerchantOperatorRoleCreateRequest
 {

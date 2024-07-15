@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.personalized.menu.delete request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 17:28:22
+ * @since 1.0, 2024-07-04 15:51:39
  */
 class AlipayOpenPublicPersonalizedMenuDeleteRequest
 {

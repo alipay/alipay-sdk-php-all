@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certify.rarename.match request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:41
+ * @since 1.0, 2024-07-04 19:33:11
  */
 class AlipayUserCertifyRarenameMatchRequest
 {

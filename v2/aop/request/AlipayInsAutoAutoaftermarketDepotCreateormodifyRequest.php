@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.autoaftermarket.depot.createormodify request
  *
  * @author auto create
- * @since 1.0, 2019-11-18 18:22:54
+ * @since 1.0, 2024-07-04 15:51:39
  */
 class AlipayInsAutoAutoaftermarketDepotCreateormodifyRequest
 {

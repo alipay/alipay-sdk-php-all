@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.peerpayprod.relation.create request
  *
  * @author auto create
- * @since 1.0, 2020-05-09 17:56:47
+ * @since 1.0, 2024-07-04 19:33:10
  */
 class AlipayTradePeerpayprodRelationCreateRequest
 {

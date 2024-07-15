@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.sales.kbsales.shop.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:19:20
+ * @since 1.0, 2024-07-04 21:02:46
  */
 class KoubeiSalesKbsalesShopSyncRequest
 {

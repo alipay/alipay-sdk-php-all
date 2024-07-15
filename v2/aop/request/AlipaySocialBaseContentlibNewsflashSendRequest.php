@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.contentlib.newsflash.send request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2024-07-04 19:33:21
  */
 class AlipaySocialBaseContentlibNewsflashSendRequest
 {

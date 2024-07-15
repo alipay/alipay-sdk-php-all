@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.xwbtestabc.abc.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-07 11:15:41
+ * @since 1.0, 2024-07-04 15:51:33
  */
 class AlipaySecurityProdXwbtestabcAbcQueryRequest
 {

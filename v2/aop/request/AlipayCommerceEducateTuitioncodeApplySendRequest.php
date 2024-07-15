@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.tuitioncode.apply.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 22:20:22
+ * @since 1.0, 2024-07-04 16:55:10
  */
 class AlipayCommerceEducateTuitioncodeApplySendRequest
 {

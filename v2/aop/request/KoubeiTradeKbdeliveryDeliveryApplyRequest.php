@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.trade.kbdelivery.delivery.apply request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:53:23
+ * @since 1.0, 2024-07-04 19:39:05
  */
 class KoubeiTradeKbdeliveryDeliveryApplyRequest
 {

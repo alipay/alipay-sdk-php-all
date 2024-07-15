@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.tool.fengdie.editor.get request
  *
  * @author auto create
- * @since 1.0, 2021-06-25 21:55:55
+ * @since 1.0, 2024-07-04 17:41:17
  */
 class AlipayMarketingToolFengdieEditorGetRequest
 {

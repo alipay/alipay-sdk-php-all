@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.ad.plan.get request
  *
  * @author auto create
- * @since 1.0, 2023-09-03 23:29:06
+ * @since 1.0, 2024-07-04 15:51:34
  */
 class AlipayCommerceTransportAdPlanGetRequest
 {

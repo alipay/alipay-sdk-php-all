@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.dx.data.query request
  *
  * @author auto create
- * @since 1.0, 2020-02-25 15:40:05
+ * @since 1.0, 2024-07-04 17:31:56
  */
 class AlipayInsSceneDxDataQueryRequest
 {

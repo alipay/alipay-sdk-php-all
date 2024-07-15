@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.payforprivilege.cardbinactivity.createormodify request
  *
  * @author auto create
- * @since 1.0, 2021-09-10 14:52:45
+ * @since 1.0, 2024-07-04 17:41:18
  */
 class AlipayMerchantPayforprivilegeCardbinactivityCreateormodifyRequest
 {

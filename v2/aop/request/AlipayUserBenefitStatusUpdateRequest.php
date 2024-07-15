@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.benefit.status.update request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 19:55:44
+ * @since 1.0, 2024-07-04 19:33:14
  */
 class AlipayUserBenefitStatusUpdateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.normalpay.order.disburse request
  *
  * @author auto create
- * @since 1.0, 2023-03-08 17:32:06
+ * @since 1.0, 2024-07-04 15:51:37
  */
 class MybankPaymentTradeNormalpayOrderDisburseRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.servindustry.natatorium.waterquality.upload request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:40:21
+ * @since 1.0, 2024-07-04 15:51:39
  */
 class KoubeiServindustryNatatoriumWaterqualityUploadRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.marketing.discount.decision request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:22:41
+ * @since 1.0, 2024-07-04 17:31:55
  */
 class AlipayInsMarketingDiscountDecisionRequest
 {

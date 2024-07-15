@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.fix.taskproblem.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:03:24
+ * @since 1.0, 2024-07-04 16:55:10
  */
 class AlipayCommerceFixTaskproblemQueryRequest
 {

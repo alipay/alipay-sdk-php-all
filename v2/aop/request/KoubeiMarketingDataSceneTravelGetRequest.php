@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.marketing.data.scene.travel.get request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 02:13:18
+ * @since 1.0, 2024-07-04 19:39:05
  */
 class KoubeiMarketingDataSceneTravelGetRequest
 {

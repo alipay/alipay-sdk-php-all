@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.overseas.open.indrpreorder.create request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 05:46:56
+ * @since 1.0, 2024-07-04 20:52:37
  */
 class AlipayOverseasOpenIndrpreorderCreateRequest
 {

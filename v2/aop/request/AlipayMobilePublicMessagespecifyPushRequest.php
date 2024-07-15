@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.messagespecify.push request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2024-07-04 17:41:18
  */
 class AlipayMobilePublicMessagespecifyPushRequest
 {

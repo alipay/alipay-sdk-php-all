@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.pos.categorylist.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 19:56:09
+ * @since 1.0, 2024-07-04 15:51:34
  */
 class KoubeiCateringPosCategorylistQueryRequest
 {

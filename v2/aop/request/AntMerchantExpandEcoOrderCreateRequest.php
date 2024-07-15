@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.eco.order.create request
  *
  * @author auto create
- * @since 1.0, 2024-06-06 14:52:03
+ * @since 1.0, 2024-07-10 15:07:05
  */
 class AntMerchantExpandEcoOrderCreateRequest
 {

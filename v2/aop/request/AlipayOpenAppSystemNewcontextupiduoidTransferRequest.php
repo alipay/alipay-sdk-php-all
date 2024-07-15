@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.system.newcontextupiduoid.transfer request
  *
  * @author auto create
- * @since 1.0, 2020-07-20 19:42:23
+ * @since 1.0, 2024-07-04 17:41:18
  */
 class AlipayOpenAppSystemNewcontextupiduoidTransferRequest
 {

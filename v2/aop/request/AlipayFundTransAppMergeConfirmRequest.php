@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.app.merge.confirm request
  *
  * @author auto create
- * @since 1.0, 2020-09-01 11:07:10
+ * @since 1.0, 2024-07-04 15:51:39
  */
 class AlipayFundTransAppMergeConfirmRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.contract.borrow.initialize request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 21:53:33
+ * @since 1.0, 2024-07-04 15:51:34
  */
 class ZhimaCreditContractBorrowInitializeRequest
 {

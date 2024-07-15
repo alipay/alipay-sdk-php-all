@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.ad.plan.certify request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 01:27:02
+ * @since 1.0, 2024-07-04 16:56:03
  */
 class AlipayCommerceTransportAdPlanCertifyRequest
 {

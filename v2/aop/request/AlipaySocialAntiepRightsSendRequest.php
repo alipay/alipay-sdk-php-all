@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antiep.rights.send request
  *
  * @author auto create
- * @since 1.0, 2023-08-11 09:36:40
+ * @since 1.0, 2024-07-04 19:33:10
  */
 class AlipaySocialAntiepRightsSendRequest
 {

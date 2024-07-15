@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.district.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 21:25:29
+ * @since 1.0, 2024-07-04 16:38:06
  */
 class MybankPaymentTradeDistrictQueryRequest
 {

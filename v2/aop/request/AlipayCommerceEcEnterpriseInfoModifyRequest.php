@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.enterprise.info.modify request
  *
  * @author auto create
- * @since 1.0, 2024-05-30 17:52:22
+ * @since 1.0, 2024-07-08 17:07:05
  */
 class AlipayCommerceEcEnterpriseInfoModifyRequest
 {

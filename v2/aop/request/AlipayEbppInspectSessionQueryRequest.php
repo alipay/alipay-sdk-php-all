@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.inspect.session.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:01:31
+ * @since 1.0, 2024-07-04 17:31:48
  */
 class AlipayEbppInspectSessionQueryRequest
 {

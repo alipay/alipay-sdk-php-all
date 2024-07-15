@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.xwbsss.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 23:30:30
+ * @since 1.0, 2024-07-04 15:51:39
  */
 class AlipayOpenAppXwbsssQueryRequest
 {

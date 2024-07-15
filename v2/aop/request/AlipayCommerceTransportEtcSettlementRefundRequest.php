@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.settlement.refund request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:01:46
+ * @since 1.0, 2024-06-24 21:37:03
  */
 class AlipayCommerceTransportEtcSettlementRefundRequest
 {

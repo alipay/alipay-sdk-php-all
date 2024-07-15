@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.jinyoutest.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 19:11:48
+ * @since 1.0, 2024-07-04 17:31:49
  */
 class AlipayDataAiserviceJinyoutestSyncRequest
 {

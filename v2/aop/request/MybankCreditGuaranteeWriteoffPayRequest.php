@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.guarantee.writeoff.pay request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 05:36:16
+ * @since 1.0, 2024-07-04 19:39:07
  */
 class MybankCreditGuaranteeWriteoffPayRequest
 {

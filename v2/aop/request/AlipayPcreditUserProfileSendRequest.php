@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.user.profile.send request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 00:01:50
+ * @since 1.0, 2024-07-04 19:33:08
  */
 class AlipayPcreditUserProfileSendRequest
 {

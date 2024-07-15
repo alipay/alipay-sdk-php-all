@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.test.haha.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-17 19:46:27
+ * @since 1.0, 2024-07-04 17:41:19
  */
 class AlipayOpenAppTestHahaQueryRequest
 {

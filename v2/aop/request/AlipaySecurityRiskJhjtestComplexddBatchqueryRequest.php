@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.jhjtest.complexdd.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-06-06 17:37:05
+ * @since 1.0, 2024-07-04 14:14:28
  */
 class AlipaySecurityRiskJhjtestComplexddBatchqueryRequest
 {

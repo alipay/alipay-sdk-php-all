@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.nopid.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-05-08 14:25:09
+ * @since 1.0, 2024-07-04 19:33:10
  */
 class AlipaySecurityProdNopidBatchqueryRequest
 {

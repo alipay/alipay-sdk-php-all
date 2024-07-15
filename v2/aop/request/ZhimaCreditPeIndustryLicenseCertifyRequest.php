@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.industry.license.certify request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 16:31:34
+ * @since 1.0, 2024-07-04 19:39:13
  */
 class ZhimaCreditPeIndustryLicenseCertifyRequest
 {

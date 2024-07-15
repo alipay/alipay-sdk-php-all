@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.deloauth.detail.query request
  *
  * @author auto create
- * @since 1.0, 2024-05-06 16:17:00
+ * @since 1.0, 2024-07-04 19:33:11
  */
 class AlipayUserDeloauthDetailQueryRequest
 {

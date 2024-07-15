@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.pcbenefitcore.bfactivitfacade.query request
  *
  * @author auto create
- * @since 1.0, 2023-02-02 19:15:46
+ * @since 1.0, 2024-07-04 16:38:04
  */
 class AlipayPcreditHuabeiPcbenefitcoreBfactivitfacadeQueryRequest
 {

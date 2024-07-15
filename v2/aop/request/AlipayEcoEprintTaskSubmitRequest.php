@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.eprint.task.submit request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 19:54:40
+ * @since 1.0, 2024-07-04 17:31:53
  */
 class AlipayEcoEprintTaskSubmitRequest
 {

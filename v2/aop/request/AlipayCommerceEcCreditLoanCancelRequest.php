@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.credit.loan.cancel request
  *
  * @author auto create
- * @since 1.0, 2024-05-20 14:07:01
+ * @since 1.0, 2024-07-08 15:52:05
  */
 class AlipayCommerceEcCreditLoanCancelRequest
 {

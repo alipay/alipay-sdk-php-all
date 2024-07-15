@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.defin.customer.member.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:54:49
+ * @since 1.0, 2024-07-04 19:33:19
  */
 class AnttechBlockchainDefinCustomerMemberCreateRequest
 {

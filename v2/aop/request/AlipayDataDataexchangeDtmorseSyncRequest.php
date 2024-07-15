@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataexchange.dtmorse.sync request
  *
  * @author auto create
- * @since 1.0, 2021-10-12 21:09:43
+ * @since 1.0, 2024-07-04 15:51:34
  */
 class AlipayDataDataexchangeDtmorseSyncRequest
 {

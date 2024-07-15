@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.httpscerthosting.history.query request
  *
  * @author auto create
- * @since 1.0, 2024-06-06 16:22:02
+ * @since 1.0, 2024-07-09 14:57:04
  */
 class AlipayCloudCloudbaseHttpscerthostingHistoryQueryRequest
 {

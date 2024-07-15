@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.aggrepay.order.create request
  *
  * @author auto create
- * @since 1.0, 2023-04-03 16:36:49
+ * @since 1.0, 2024-07-04 19:33:35
  */
 class AlipayPayAggrepayOrderCreateRequest
 {

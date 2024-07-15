@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.loanscheme.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-04 14:53:09
+ * @since 1.0, 2024-07-04 19:39:07
  */
 class MybankCreditLoantradeLoanschemeQueryRequest
 {

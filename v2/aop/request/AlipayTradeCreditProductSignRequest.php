@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.credit.product.sign request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:26:57
+ * @since 1.0, 2024-07-04 19:33:07
  */
 class AlipayTradeCreditProductSignRequest
 {

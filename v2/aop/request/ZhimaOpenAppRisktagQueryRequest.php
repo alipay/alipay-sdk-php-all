@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.open.app.risktag.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 20:08:35
+ * @since 1.0, 2024-07-11 10:32:39
  */
 class ZhimaOpenAppRisktagQueryRequest
 {

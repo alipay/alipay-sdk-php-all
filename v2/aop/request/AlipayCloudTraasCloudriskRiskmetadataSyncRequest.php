@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.traas.cloudrisk.riskmetadata.sync request
  *
  * @author auto create
- * @since 1.0, 2024-06-20 20:04:21
+ * @since 1.0, 2024-07-05 14:07:05
  */
 class AlipayCloudTraasCloudriskRiskmetadataSyncRequest
 {

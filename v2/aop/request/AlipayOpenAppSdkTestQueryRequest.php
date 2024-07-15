@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.sdk.test.query request
  *
  * @author auto create
- * @since 1.0, 2023-11-02 10:16:48
+ * @since 1.0, 2024-07-04 17:41:18
  */
 class AlipayOpenAppSdkTestQueryRequest
 {

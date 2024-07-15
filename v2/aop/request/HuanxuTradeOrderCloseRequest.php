@@ -3,7 +3,7 @@
  * ALIPAY API: huanxu.trade.order.close request
  *
  * @author auto create
- * @since 1.0, 2023-05-30 21:56:16
+ * @since 1.0, 2024-07-04 19:33:34
  */
 class HuanxuTradeOrderCloseRequest
 {

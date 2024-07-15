@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.isponetest.computertest.effect request
  *
  * @author auto create
- * @since 1.0, 2023-09-01 10:31:42
+ * @since 1.0, 2024-07-04 17:41:15
  */
 class AlipayIsponetestComputertestEffectRequest
 {

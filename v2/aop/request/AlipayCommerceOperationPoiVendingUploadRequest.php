@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.poi.vending.upload request
  *
  * @author auto create
- * @since 1.0, 2023-12-05 15:25:17
+ * @since 1.0, 2024-07-04 16:55:14
  */
 class AlipayCommerceOperationPoiVendingUploadRequest
 {

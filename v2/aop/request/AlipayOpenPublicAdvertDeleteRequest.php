@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.advert.delete request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 17:36:16
+ * @since 1.0, 2024-07-04 20:52:39
  */
 class AlipayOpenPublicAdvertDeleteRequest
 {

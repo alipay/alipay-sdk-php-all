@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.itask.merchant.record.sync request
  *
  * @author auto create
- * @since 1.0, 2024-04-01 22:50:15
+ * @since 1.0, 2024-07-04 16:38:06
  */
 class AlipayIserviceItaskMerchantRecordSyncRequest
 {

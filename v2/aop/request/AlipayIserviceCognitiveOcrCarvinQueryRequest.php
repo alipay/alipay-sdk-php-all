@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cognitive.ocr.carvin.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:00:02
+ * @since 1.0, 2024-07-04 17:32:00
  */
 class AlipayIserviceCognitiveOcrCarvinQueryRequest
 {

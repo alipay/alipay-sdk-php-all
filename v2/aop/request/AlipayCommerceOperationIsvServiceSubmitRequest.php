@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.isv.service.submit request
  *
  * @author auto create
- * @since 1.0, 2022-01-05 14:44:43
+ * @since 1.0, 2024-07-04 16:38:00
  */
 class AlipayCommerceOperationIsvServiceSubmitRequest
 {

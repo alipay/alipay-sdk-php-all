@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.questionnare.gray.upgrade request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 01:38:25
+ * @since 1.0, 2024-07-05 11:03:21
  */
 class AlipaySocialQuestionnareGrayUpgradeRequest
 {

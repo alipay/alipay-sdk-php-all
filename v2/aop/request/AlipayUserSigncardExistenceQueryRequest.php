@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.signcard.existence.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-24 15:10:01
+ * @since 1.0, 2024-07-04 15:51:39
  */
 class AlipayUserSigncardExistenceQueryRequest
 {

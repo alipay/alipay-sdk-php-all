@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.search.orderwordnum.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:21:21
+ * @since 1.0, 2024-07-04 17:41:23
  */
 class AlipayOpenSearchOrderwordnumQueryRequest
 {

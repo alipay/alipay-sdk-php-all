@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.haiguan.auth.create request
  *
  * @author auto create
- * @since 1.0, 2022-02-09 11:32:52
+ * @since 1.0, 2024-07-04 19:33:36
  */
 class AlipaySecurityProdHaiguanAuthCreateRequest
 {

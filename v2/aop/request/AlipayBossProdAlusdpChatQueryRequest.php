@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.alusdp.chat.query request
  *
  * @author auto create
- * @since 1.0, 2023-10-23 10:11:47
+ * @since 1.0, 2024-07-04 16:55:00
  */
 class AlipayBossProdAlusdpChatQueryRequest
 {

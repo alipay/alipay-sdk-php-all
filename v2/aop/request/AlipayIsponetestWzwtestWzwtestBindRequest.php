@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.isponetest.wzwtest.wzwtest.bind request
  *
  * @author auto create
- * @since 1.0, 2023-09-06 19:21:44
+ * @since 1.0, 2024-07-04 17:41:15
  */
 class AlipayIsponetestWzwtestWzwtestBindRequest
 {

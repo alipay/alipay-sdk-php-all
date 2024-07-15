@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.dossier.companyoverview.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 22:21:43
+ * @since 1.0, 2024-07-08 10:44:58
  */
 class ZhimaCreditEpDossierCompanyoverviewQueryRequest
 {

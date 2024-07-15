@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.facetoface.decode.use request
  *
  * @author auto create
- * @since 1.0, 2024-05-17 14:36:26
+ * @since 1.0, 2024-07-04 17:41:16
  */
 class AlipayMarketingFacetofaceDecodeUseRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.weibo.ebpp.recharge request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:29:14
+ * @since 1.0, 2024-07-04 19:33:15
  */
 class AlipayWeiboEbppRechargeRequest
 {

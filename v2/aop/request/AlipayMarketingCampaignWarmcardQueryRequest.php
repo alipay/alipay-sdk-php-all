@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.warmcard.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 01:12:30
+ * @since 1.0, 2024-07-04 17:41:16
  */
 class AlipayMarketingCampaignWarmcardQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.selleradmit.admittance.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-17 14:16:09
+ * @since 1.0, 2024-07-04 19:33:09
  */
 class AlipayPcreditHuabeiSelleradmitAdmittanceQueryRequest
 {

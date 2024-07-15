@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antforest.carbonneutrality.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-28 00:14:40
+ * @since 1.0, 2024-07-04 19:33:10
  */
 class AlipaySocialAntforestCarbonneutralityQueryRequest
 {

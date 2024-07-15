@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.license.ocr.identify request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:29:05
+ * @since 1.0, 2024-07-04 17:31:53
  */
 class AlipayEcoLicenseOcrIdentifyRequest
 {

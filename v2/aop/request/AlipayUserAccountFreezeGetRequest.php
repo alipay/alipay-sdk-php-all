@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.freeze.get request
  *
  * @author auto create
- * @since 1.0, 2024-03-08 10:51:02
+ * @since 1.0, 2024-07-04 19:33:13
  */
 class AlipayUserAccountFreezeGetRequest
 {

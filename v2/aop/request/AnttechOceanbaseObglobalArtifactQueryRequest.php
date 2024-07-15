@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.obglobal.artifact.query request
  *
  * @author auto create
- * @since 1.0, 2023-11-07 16:26:49
+ * @since 1.0, 2024-07-04 19:33:09
  */
 class AnttechOceanbaseObglobalArtifactQueryRequest
 {

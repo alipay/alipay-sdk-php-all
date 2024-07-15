@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pass.code.add request
  *
  * @author auto create
- * @since 1.0, 2022-12-27 11:52:04
+ * @since 1.0, 2024-07-04 17:41:21
  */
 class AlipayPassCodeAddRequest
 {

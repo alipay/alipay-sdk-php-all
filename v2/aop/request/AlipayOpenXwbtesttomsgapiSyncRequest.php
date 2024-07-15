@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.xwbtesttomsgapi.sync request
  *
  * @author auto create
- * @since 1.0, 2022-07-26 16:34:18
+ * @since 1.0, 2024-07-04 20:52:37
  */
 class AlipayOpenXwbtesttomsgapiSyncRequest
 {

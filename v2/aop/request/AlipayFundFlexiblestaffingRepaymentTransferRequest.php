@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.flexiblestaffing.repayment.transfer request
  *
  * @author auto create
- * @since 1.0, 2024-03-12 17:21:58
+ * @since 1.0, 2024-07-04 17:12:04
  */
 class AlipayFundFlexiblestaffingRepaymentTransferRequest
 {

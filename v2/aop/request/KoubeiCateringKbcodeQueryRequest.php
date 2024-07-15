@@ -3,7 +3,7 @@
  * ALIPAY API: koubei.catering.kbcode.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 01:50:18
+ * @since 1.0, 2024-07-04 19:33:34
  */
 class KoubeiCateringKbcodeQueryRequest
 {

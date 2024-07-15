@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.silin.longnigh.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 21:04:37
+ * @since 1.0, 2024-07-04 20:52:35
  */
 class AlipayOpenAppSilinLongnighQueryRequest
 {

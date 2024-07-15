@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.login.token.verify request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:21:17
+ * @since 1.0, 2024-07-04 19:33:11
  */
 class AlipayUserAccountLoginTokenVerifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.multimedia.test.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-01 14:41:49
+ * @since 1.0, 2024-07-04 17:41:20
  */
 class AlipayMultimediaTestCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.unofficial.material.submit request
  *
  * @author auto create
- * @since 1.0, 2023-05-31 04:57:41
+ * @since 1.0, 2024-07-04 16:56:26
  */
 class AlipayCommerceOperationUnofficialMaterialSubmitRequest
 {

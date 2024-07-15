@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.twc.preauthinfo.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-04 15:00:15
+ * @since 1.0, 2024-07-04 19:33:19
  */
 class AnttechBlockchainTwcPreauthinfoQueryRequest
 {

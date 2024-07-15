@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.air.callcenter.trade.apply request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 04:01:52
+ * @since 1.0, 2024-07-04 16:55:07
  */
 class AlipayCommerceAirCallcenterTradeApplyRequest
 {
