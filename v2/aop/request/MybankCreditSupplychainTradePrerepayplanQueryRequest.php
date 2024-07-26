@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.trade.prerepayplan.query request
  *
  * @author auto create
- * @since 1.0, 2024-06-11 16:57:03
+ * @since 1.0, 2024-07-25 16:27:11
  */
 class MybankCreditSupplychainTradePrerepayplanQueryRequest
 {

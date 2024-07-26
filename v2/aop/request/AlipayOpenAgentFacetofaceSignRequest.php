@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.facetoface.sign request
  *
  * @author auto create
- * @since 1.0, 2024-07-05 11:24:25
+ * @since 1.0, 2024-07-24 18:07:00
  */
 class AlipayOpenAgentFacetofaceSignRequest
 {

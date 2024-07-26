@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.contracts.loan.info.sync request
  *
  * @author auto create
- * @since 1.0, 2024-05-28 17:12:03
+ * @since 1.0, 2024-07-17 11:57:04
  */
 class AlipayEcoContractsLoanInfoSyncRequest
 {

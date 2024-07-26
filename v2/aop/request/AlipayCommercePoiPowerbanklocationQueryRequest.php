@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.poi.powerbanklocation.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 16:56:02
+ * @since 1.0, 2024-07-15 18:26:30
  */
 class AlipayCommercePoiPowerbanklocationQueryRequest
 {

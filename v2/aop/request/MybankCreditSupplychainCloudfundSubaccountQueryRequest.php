@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.cloudfund.subaccount.query request
  *
  * @author auto create
- * @since 1.0, 2024-06-11 17:07:03
+ * @since 1.0, 2024-07-25 10:39:55
  */
 class MybankCreditSupplychainCloudfundSubaccountQueryRequest
 {

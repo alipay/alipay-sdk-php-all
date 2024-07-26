@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.instantdelivery.account.create request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 20:52:37
+ * @since 1.0, 2024-07-16 14:43:01
  */
 class AlipayOpenInstantdeliveryAccountCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.mall.item.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-10 18:07:04
+ * @since 1.0, 2024-07-17 11:07:04
  */
 class AlipayCloudCloudpromoMallItemQueryRequest
 {

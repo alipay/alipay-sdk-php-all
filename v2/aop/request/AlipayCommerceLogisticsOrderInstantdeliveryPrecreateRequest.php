@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.order.instantdelivery.precreate request
  *
  * @author auto create
- * @since 1.0, 2024-03-26 21:22:04
+ * @since 1.0, 2024-07-16 14:42:44
  */
 class AlipayCommerceLogisticsOrderInstantdeliveryPrecreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.material.upload request
  *
  * @author auto create
- * @since 1.0, 2024-06-25 19:41:40
+ * @since 1.0, 2024-07-19 17:27:03
  */
 class AlipayDataDataserviceAdMaterialUploadRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.finance.quotation.quotetrade.metadata.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-12 21:16:44
+ * @since 1.0, 2024-07-18 14:48:28
  */
 class AlipayFinanceQuotationQuotetradeMetadataQueryRequest
 {

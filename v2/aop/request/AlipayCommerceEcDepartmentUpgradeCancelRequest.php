@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.department.upgrade.cancel request
  *
  * @author auto create
- * @since 1.0, 2024-05-31 09:39:22
+ * @since 1.0, 2024-07-22 17:44:21
  */
 class AlipayCommerceEcDepartmentUpgradeCancelRequest
 {

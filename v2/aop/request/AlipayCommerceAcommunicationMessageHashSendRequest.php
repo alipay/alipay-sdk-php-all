@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.message.hash.send request
  *
  * @author auto create
- * @since 1.0, 2024-06-06 10:52:04
+ * @since 1.0, 2024-07-18 16:07:05
  */
 class AlipayCommerceAcommunicationMessageHashSendRequest
 {

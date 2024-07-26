@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.instfund.allocation.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-06-25 09:45:27
+ * @since 1.0, 2024-07-24 17:24:05
  */
 class AlipayAccountInstfundAllocationBatchqueryRequest
 {

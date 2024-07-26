@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.supplychain.factoring.selleradmit.query request
  *
  * @author auto create
- * @since 1.0, 2024-06-20 16:27:04
+ * @since 1.0, 2024-07-25 10:39:56
  */
 class MybankCreditSupplychainFactoringSelleradmitQueryRequest
 {

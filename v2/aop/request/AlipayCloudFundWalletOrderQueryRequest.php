@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.fund.wallet.order.query request
  *
  * @author auto create
- * @since 1.0, 2024-06-11 11:37:03
+ * @since 1.0, 2024-07-15 19:57:04
  */
 class AlipayCloudFundWalletOrderQueryRequest
 {
