@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.mda.miniapprealtime.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 23:56:47
+ * @since 1.0, 2024-08-08 22:23:07
  */
 class AlipayDataMdaMiniapprealtimeQueryRequest
 {

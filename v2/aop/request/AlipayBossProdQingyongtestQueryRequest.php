@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.qingyongtest.query request
  *
  * @author auto create
- * @since 1.0, 2024-05-27 17:12:03
+ * @since 1.0, 2024-08-06 15:59:29
  */
 class AlipayBossProdQingyongtestQueryRequest
 {

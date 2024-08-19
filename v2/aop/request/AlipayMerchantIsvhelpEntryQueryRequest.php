@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.isvhelp.entry.query request
  *
  * @author auto create
- * @since 1.0, 2024-02-22 11:16:59
+ * @since 1.0, 2024-08-06 18:15:59
  */
 class AlipayMerchantIsvhelpEntryQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.marketing.consult request
  *
  * @author auto create
- * @since 1.0, 2024-07-22 10:27:05
+ * @since 1.0, 2024-07-31 14:27:04
  */
 class AlipayPayAppMarketingConsultRequest
 {

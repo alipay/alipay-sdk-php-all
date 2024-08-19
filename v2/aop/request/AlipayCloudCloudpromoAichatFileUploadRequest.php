@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.aichat.file.upload request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 16:52:05
+ * @since 1.0, 2024-08-01 15:17:03
  */
 class AlipayCloudCloudpromoAichatFileUploadRequest
 {
@@ -23,6 +23,11 @@ class AlipayCloudCloudpromoAichatFileUploadRequest
 	private $fileExtension;
 	
 	/** 
+	 * 文件id，首次上传文件时由问答系统生成并返回给调用方。
+	 **/
+	private $fileId;
+	
+	/** 
 	 * 文件名称
 	 **/
 	private $fileName;
@@ -31,6 +36,11 @@ class AlipayCloudCloudpromoAichatFileUploadRequest
 	 * 文件用途
 	 **/
 	private $fileUsage;
+	
+	/** 
+	 * 当后缀file_extension为xlsx/xls/csv/json时，index_column字段传值，表示对文件内容中指定的一级字段/列名建立优化索引；如果没有传递该值或不属于上述后缀，表示不针对字段级别建立索引。
+	 **/
+	private $indexColumn;
 	
 	/** 
 	 * 场景唯一标识，由客户提供
@@ -85,6 +95,17 @@ class AlipayCloudCloudpromoAichatFileUploadRequest
 		return $this->fileExtension;
 	}
 
+	public function setFileId($fileId)
+	{
+		$this->fileId = $fileId;
+		$this->apiParas["file_id"] = $fileId;
+	}
+
+	public function getFileId()
+	{
+		return $this->fileId;
+	}
+
 	public function setFileName($fileName)
 	{
 		$this->fileName = $fileName;
@@ -105,6 +126,17 @@ class AlipayCloudCloudpromoAichatFileUploadRequest
 	public function getFileUsage()
 	{
 		return $this->fileUsage;
+	}
+
+	public function setIndexColumn($indexColumn)
+	{
+		$this->indexColumn = $indexColumn;
+		$this->apiParas["index_column"] = $indexColumn;
+	}
+
+	public function getIndexColumn()
+	{
+		return $this->indexColumn;
 	}
 
 	public function setSceneId($sceneId)

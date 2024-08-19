@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.orderbill.expense.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-05-21 22:17:00
+ * @since 1.0, 2024-08-14 14:42:06
  */
 class AlipayOpenMiniOrderbillExpenseBatchqueryRequest
 {

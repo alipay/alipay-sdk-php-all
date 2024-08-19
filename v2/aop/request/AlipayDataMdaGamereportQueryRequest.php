@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.mda.gamereport.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-27 16:31:45
+ * @since 1.0, 2024-08-08 22:08:45
  */
 class AlipayDataMdaGamereportQueryRequest
 {

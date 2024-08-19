@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.iotdata.idp.solution.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-13 15:31:45
+ * @since 1.0, 2024-08-08 22:09:19
  */
 class AlipayDataIotdataIdpSolutionQueryRequest
 {

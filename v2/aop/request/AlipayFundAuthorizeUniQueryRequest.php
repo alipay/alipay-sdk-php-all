@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.authorize.uni.query request
  *
  * @author auto create
- * @since 1.0, 2024-04-29 16:16:59
+ * @since 1.0, 2024-08-15 16:13:07
  */
 class AlipayFundAuthorizeUniQueryRequest
 {

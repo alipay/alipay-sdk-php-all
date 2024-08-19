@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.trans.account.withdraw request
  *
  * @author auto create
- * @since 1.0, 2024-06-24 16:32:04
+ * @since 1.0, 2024-08-13 16:32:07
  */
 class AlipayCommerceEcTransAccountWithdrawRequest
 {

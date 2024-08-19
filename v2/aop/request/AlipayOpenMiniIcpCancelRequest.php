@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.icp.cancel request
  *
  * @author auto create
- * @since 1.0, 2024-02-29 10:32:01
+ * @since 1.0, 2024-08-08 22:07:11
  */
 class AlipayOpenMiniIcpCancelRequest
 {

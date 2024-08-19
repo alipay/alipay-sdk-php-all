@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.antsign.user.create request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:50
+ * @since 1.0, 2024-08-02 16:34:16
  */
 class AlipayBossProdAntsignUserCreateRequest
 {

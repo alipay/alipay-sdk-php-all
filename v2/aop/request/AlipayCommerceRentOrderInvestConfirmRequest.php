@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.invest.confirm request
  *
  * @author auto create
- * @since 1.0, 2024-05-16 16:12:01
+ * @since 1.0, 2024-08-09 11:57:06
  */
 class AlipayCommerceRentOrderInvestConfirmRequest
 {

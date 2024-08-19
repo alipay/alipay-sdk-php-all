@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.darwin.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-18 17:47:55
+ * @since 1.0, 2024-08-01 17:02:06
  */
 class AntfortuneStockDarwinQueryRequest
 {

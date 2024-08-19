@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.qrcode.get request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:34:27
+ * @since 1.0, 2024-08-12 14:57:25
  */
 class AlipayCommerceMedicalQrcodeGetRequest
 {

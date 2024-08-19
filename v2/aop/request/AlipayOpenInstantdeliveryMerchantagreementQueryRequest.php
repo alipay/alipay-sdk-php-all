@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.instantdelivery.merchantagreement.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 20:52:38
+ * @since 1.0, 2024-08-08 21:34:37
  */
 class AlipayOpenInstantdeliveryMerchantagreementQueryRequest
 {

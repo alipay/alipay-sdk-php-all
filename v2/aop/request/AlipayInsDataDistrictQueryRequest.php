@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.data.district.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 16:38:07
+ * @since 1.0, 2024-08-08 21:53:45
  */
 class AlipayInsDataDistrictQueryRequest
 {

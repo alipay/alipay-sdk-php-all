@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.contentlib.offer.sync request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:33:10
+ * @since 1.0, 2024-08-12 16:07:21
  */
 class AlipaySocialBaseContentlibOfferSyncRequest
 {

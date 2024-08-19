@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.charger.chargerbindinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:02
+ * @since 1.0, 2024-08-09 18:41:43
  */
 class AlipayCommerceTransportChargerChargerbindinfoSyncRequest
 {

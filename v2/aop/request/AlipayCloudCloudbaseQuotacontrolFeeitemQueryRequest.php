@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.quotacontrol.feeitem.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-19 14:41:43
+ * @since 1.0, 2024-08-07 10:08:41
  */
 class AlipayCloudCloudbaseQuotacontrolFeeitemQueryRequest
 {

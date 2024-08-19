@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.onlineride.superwallet.query request
  *
  * @author auto create
- * @since 1.0, 2024-06-28 13:47:52
+ * @since 1.0, 2024-08-16 10:56:43
  */
 class AlipayCommerceTransportOnlinerideSuperwalletQueryRequest
 {

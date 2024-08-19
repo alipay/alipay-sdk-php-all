@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.icp.status.query request
  *
  * @author auto create
- * @since 1.0, 2024-04-23 21:50:59
+ * @since 1.0, 2024-08-08 22:02:08
  */
 class AlipayOpenMiniIcpStatusQueryRequest
 {

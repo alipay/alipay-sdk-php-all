@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.promotiontask.relation.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-02 14:32:41
+ * @since 1.0, 2024-08-01 11:42:05
  */
 class AlipayOpenServicemarketPromotiontaskRelationQueryRequest
 {

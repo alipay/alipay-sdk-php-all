@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.intelligentize.odprediction.create request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 16:56:03
+ * @since 1.0, 2024-08-09 13:30:21
  */
 class AlipayCommerceTransportIntelligentizeOdpredictionCreateRequest
 {
