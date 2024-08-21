@@ -113,20 +113,20 @@ Class | Method | HTTP request | Description
 *AlipayCommerceEcEmployeeApi* | [**add**](docs/Api/AlipayCommerceEcEmployeeApi.md#add) | **POST** /v3/alipay/commerce/ec/employee/add | 添加员工
 *AlipayCommerceEcEmployeeApi* | [**delete**](docs/Api/AlipayCommerceEcEmployeeApi.md#delete) | **POST** /v3/alipay/commerce/ec/employee/delete | 删除员工
 *AlipayCommerceEcEmployeeIdlistApi* | [**query**](docs/Api/AlipayCommerceEcEmployeeIdlistApi.md#query) | **GET** /v3/alipay/commerce/ec/employee/idlist/query | 查询部门下员工id列表
-*AlipayCommerceEcEmployeeInfoApi* | [**modify**](docs/Api/AlipayCommerceEcEmployeeInfoApi.md#modify) | **PUT** /v3/alipay/commerce/ec/employee/info | 员工信息修改
+*AlipayCommerceEcEmployeeInfoApi* | [**modify**](docs/Api/AlipayCommerceEcEmployeeInfoApi.md#modify) | **PUT** /v3/alipay/commerce/ec/employee/info | 修改员工基础信息
 *AlipayCommerceEcEmployeeInfoApi* | [**query**](docs/Api/AlipayCommerceEcEmployeeInfoApi.md#query) | **GET** /v3/alipay/commerce/ec/employee/info/query | 查询员工详情
-*AlipayCommerceEcEmployeeInviteApi* | [**query**](docs/Api/AlipayCommerceEcEmployeeInviteApi.md#query) | **GET** /v3/alipay/commerce/ec/employee/invite | 获取员工邀请链接
+*AlipayCommerceEcEmployeeInviteApi* | [**query**](docs/Api/AlipayCommerceEcEmployeeInviteApi.md#query) | **GET** /v3/alipay/commerce/ec/employee/invite | 获取员工签约激活链接
 *AlipayCommerceEcEmployeeTitleApi* | [**create**](docs/Api/AlipayCommerceEcEmployeeTitleApi.md#create) | **POST** /v3/alipay/commerce/ec/employee/title | 新增员工抬头关系
 *AlipayCommerceEcEmployeeTitleApi* | [**delete**](docs/Api/AlipayCommerceEcEmployeeTitleApi.md#delete) | **POST** /v3/alipay/commerce/ec/employee/title/delete | 删除员工抬头信息
 *AlipayCommerceEcEmployeeTitleApi* | [**modify**](docs/Api/AlipayCommerceEcEmployeeTitleApi.md#modify) | **PUT** /v3/alipay/commerce/ec/employee/title | 修改员工抬头信息
-*AlipayCommerceEcEnterpriseApi* | [**create**](docs/Api/AlipayCommerceEcEnterpriseApi.md#create) | **POST** /v3/alipay/commerce/ec/enterprise/create | 企业入驻
+*AlipayCommerceEcEnterpriseApi* | [**create**](docs/Api/AlipayCommerceEcEnterpriseApi.md#create) | **POST** /v3/alipay/commerce/ec/enterprise/create | 企业签约注册
 *AlipayCommerceEcEnterpriseApi* | [**delete**](docs/Api/AlipayCommerceEcEnterpriseApi.md#delete) | **POST** /v3/alipay/commerce/ec/enterprise/delete | 企业注销
 *AlipayCommerceEcEnterpriseApi* | [**unsign**](docs/Api/AlipayCommerceEcEnterpriseApi.md#unsign) | **GET** /v3/alipay/commerce/ec/enterprise/unsignurl | 企业解约
 *AlipayCommerceEcEnterpriseAddressApi* | [**add**](docs/Api/AlipayCommerceEcEnterpriseAddressApi.md#add) | **POST** /v3/alipay/commerce/ec/enterprise/address | 企业地址添加
 *AlipayCommerceEcEnterpriseAddressApi* | [**modify**](docs/Api/AlipayCommerceEcEnterpriseAddressApi.md#modify) | **PUT** /v3/alipay/commerce/ec/enterprise/address | 企业地址修改
 *AlipayCommerceEcEnterpriseAddressApi* | [**query**](docs/Api/AlipayCommerceEcEnterpriseAddressApi.md#query) | **GET** /v3/alipay/commerce/ec/enterprise/address | 企业地址查询
 *AlipayCommerceEcEnterpriseAgreementApi* | [**query**](docs/Api/AlipayCommerceEcEnterpriseAgreementApi.md#query) | **GET** /v3/alipay/commerce/ec/enterprise/agreement | 查询企业签约企业码信息
-*AlipayCommerceEcEnterpriseInfoApi* | [**modify**](docs/Api/AlipayCommerceEcEnterpriseInfoApi.md#modify) | **PUT** /v3/alipay/commerce/ec/enterprise | 企业信息修改
+*AlipayCommerceEcEnterpriseInfoApi* | [**modify**](docs/Api/AlipayCommerceEcEnterpriseInfoApi.md#modify) | **PUT** /v3/alipay/commerce/ec/enterprise | 修改企业基础信息
 *AlipayCommerceEcEnterpriseInfoApi* | [**query**](docs/Api/AlipayCommerceEcEnterpriseInfoApi.md#query) | **GET** /v3/alipay/commerce/ec/enterprise/info | 查询企业详情
 *AlipayCommerceEcJointaccountbillDetailApi* | [**batchquery**](docs/Api/AlipayCommerceEcJointaccountbillDetailApi.md#batchquery) | **GET** /v3/alipay/commerce/ec/jointaccountbill/detail/batchquery | 企业账单批量分页查询
 *AlipayCommerceEcUserEnterpriseApi* | [**query**](docs/Api/AlipayCommerceEcUserEnterpriseApi.md#query) | **GET** /v3/alipay/commerce/ec/user/enterprise | 用户企业列表
@@ -199,7 +199,6 @@ Class | Method | HTTP request | Description
 *AlipayEbppInvoiceExpenseProgressApi* | [**sync**](docs/Api/AlipayEbppInvoiceExpenseProgressApi.md#sync) | **POST** /v3/alipay/ebpp/invoice/expense/progress/sync | 发票报销处理进度同步
 *AlipayEbppInvoiceExpensecomsueOutsourceApi* | [**notify**](docs/Api/AlipayEbppInvoiceExpensecomsueOutsourceApi.md#notify) | **POST** /v3/alipay/ebpp/invoice/expensecomsue/outsource/notify | 同步外部额度变更（交易形式）
 *AlipayEbppInvoiceExpensecontrolAggregationApi* | [**create**](docs/Api/AlipayEbppInvoiceExpensecontrolAggregationApi.md#create) | **POST** /v3/alipay/ebpp/invoice/expensecontrol/aggregation/create | 创建费控规则聚合关系
-*AlipayEbppInvoiceExpensecontrolEmployeequotaApi* | [**create**](docs/Api/AlipayEbppInvoiceExpensecontrolEmployeequotaApi.md#create) | **POST** /v3/alipay/ebpp/invoice/expensecontrol/employeequota/create | 创建余额（特定场景）
 *AlipayEbppInvoiceExpensecontrolIssuebatchApi* | [**cancel**](docs/Api/AlipayEbppInvoiceExpensecontrolIssuebatchApi.md#cancel) | **POST** /v3/alipay/ebpp/invoice/expensecontrol/issuebatch/cancel | 作废额度发放
 *AlipayEbppInvoiceExpensecontrolIssuebatchApi* | [**create**](docs/Api/AlipayEbppInvoiceExpensecontrolIssuebatchApi.md#create) | **POST** /v3/alipay/ebpp/invoice/expensecontrol/issuebatch/create | 手动发放额度接口
 *AlipayEbppInvoiceExpensecontrolQuotaApi* | [**create**](docs/Api/AlipayEbppInvoiceExpensecontrolQuotaApi.md#create) | **POST** /v3/alipay/ebpp/invoice/expensecontrol/quota/create | 创建余额/点券
@@ -877,6 +876,6 @@ vendor/bin/phpunit
 
 This PHP package is automatically generated by the [OpenAPI Generator](https://openapi-generator.tech) project:
 
-- API version: `2024-05-20`
-    - Package version: `3.0.0`
+- API version: `2024-08-21`
+    - Package version: `3.0.7`
 - Build package: `org.openapitools.codegen.languages.PhpClientCodegen`

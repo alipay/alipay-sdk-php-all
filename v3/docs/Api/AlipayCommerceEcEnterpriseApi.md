@@ -4,7 +4,7 @@ All URIs are relative to https://openapi.alipay.com.
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**create()**](AlipayCommerceEcEnterpriseApi.md#create) | **POST** /v3/alipay/commerce/ec/enterprise/create | 企业入驻
+[**create()**](AlipayCommerceEcEnterpriseApi.md#create) | **POST** /v3/alipay/commerce/ec/enterprise/create | 企业签约注册
 [**delete()**](AlipayCommerceEcEnterpriseApi.md#delete) | **POST** /v3/alipay/commerce/ec/enterprise/delete | 企业注销
 [**unsign()**](AlipayCommerceEcEnterpriseApi.md#unsign) | **GET** /v3/alipay/commerce/ec/enterprise/unsignurl | 企业解约
 
@@ -15,9 +15,9 @@ Method | HTTP request | Description
 create($alipayCommerceEcEnterpriseCreateModel): \Alipay\OpenAPISDK\Model\AlipayCommerceEcEnterpriseCreateResponseModel
 ```
 
-企业入驻
+企业签约注册
 
-企业入驻，并返回签约链接
+企业注册企业码，并返回因公付签约链接，通过该链接，企业可操作完成出资账户绑定
 
 ### Example
 
@@ -188,8 +188,8 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $enterpriseId = 2088123412341234; // string | 通过企业码2.0签约接口签约，只填写企业id，无需填写共同账户id和授权签约协议号。
-$accountId = 2088000194958956; // string | 通过企业码1.0接口签约的共同账户，和agreement_no搭配使用。
-$agreementNo = 20215425001181407500; // string | 可通过签约消息获取。配合共同账户id使用，当填写企业共同账户id时，此字段必填。
+$accountId = 2088000194958956; // string | 通过企业码1.0接口签约的共同账户，和agreement_no搭配使用。(为兼容企业码1.0老接口的参数，已过时，新接客户请传企业ID)
+$agreementNo = 20215425001181407500; // string | 可通过签约消息获取。配合共同账户id使用，当填写企业共同账户id时，此字段必填。(为兼容企业码1.0老接口的参数，已过时，新接客户请传企业ID)
 
 try {
     $result = $apiInstance->unsign($enterpriseId, $accountId, $agreementNo);
@@ -204,8 +204,8 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **enterpriseId** | **string**| 通过企业码2.0签约接口签约，只填写企业id，无需填写共同账户id和授权签约协议号。 | [optional]
- **accountId** | **string**| 通过企业码1.0接口签约的共同账户，和agreement_no搭配使用。 | [optional]
- **agreementNo** | **string**| 可通过签约消息获取。配合共同账户id使用，当填写企业共同账户id时，此字段必填。 | [optional]
+ **accountId** | **string**| 通过企业码1.0接口签约的共同账户，和agreement_no搭配使用。(为兼容企业码1.0老接口的参数，已过时，新接客户请传企业ID) | [optional]
+ **agreementNo** | **string**| 可通过签约消息获取。配合共同账户id使用，当填写企业共同账户id时，此字段必填。(为兼容企业码1.0老接口的参数，已过时，新接客户请传企业ID) | [optional]
 
 ### Return type
 

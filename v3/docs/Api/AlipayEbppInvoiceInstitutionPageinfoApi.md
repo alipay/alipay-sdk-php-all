@@ -45,8 +45,8 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$accountId = 2088000194958956; // string | 企业共同账户id
-$agreementNo = 20215425001112341234; // string | 授权签约协议号
+$accountId = 2088000194958956; // string | 企业共同账户id（该字段将废弃，不建议使用，可用enterprise_id字段替换）(该字段将废弃，不建议使用，可用enterprise_id字段替换)
+$agreementNo = 20215425001112341234; // string | 授权签约协议号（该字段将废弃，不建议使用，可用enterprise_id字段替换）(该字段将废弃，不建议使用，可用enterprise_id字段替换)
 $enterpriseId = 2088000194958956; // string | 企业ID
 $pageNum = 10; // int | 页码
 $pageSize = 100; // int | 页大小
@@ -63,8 +63,8 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **accountId** | **string**| 企业共同账户id | [optional]
- **agreementNo** | **string**| 授权签约协议号 | [optional]
+ **accountId** | **string**| 企业共同账户id（该字段将废弃，不建议使用，可用enterprise_id字段替换）(该字段将废弃，不建议使用，可用enterprise_id字段替换) | [optional]
+ **agreementNo** | **string**| 授权签约协议号（该字段将废弃，不建议使用，可用enterprise_id字段替换）(该字段将废弃，不建议使用，可用enterprise_id字段替换) | [optional]
  **enterpriseId** | **string**| 企业ID | [optional]
  **pageNum** | **int**| 页码 | [optional]
  **pageSize** | **int**| 页大小 | [optional]

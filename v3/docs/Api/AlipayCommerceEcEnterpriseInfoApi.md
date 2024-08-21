@@ -4,7 +4,7 @@ All URIs are relative to https://openapi.alipay.com.
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**modify()**](AlipayCommerceEcEnterpriseInfoApi.md#modify) | **PUT** /v3/alipay/commerce/ec/enterprise | 企业信息修改
+[**modify()**](AlipayCommerceEcEnterpriseInfoApi.md#modify) | **PUT** /v3/alipay/commerce/ec/enterprise | 修改企业基础信息
 [**query()**](AlipayCommerceEcEnterpriseInfoApi.md#query) | **GET** /v3/alipay/commerce/ec/enterprise/info | 查询企业详情
 
 
@@ -14,9 +14,9 @@ Method | HTTP request | Description
 modify($alipayCommerceEcEnterpriseInfoModifyModel): object
 ```
 
-企业信息修改
+修改企业基础信息
 
-修改企业信息
+修改企业基础信息
 
 ### Example
 
@@ -81,7 +81,7 @@ No authorization required
 ## `query()`
 
 ```php
-query($enterpriseId): \Alipay\OpenAPISDK\Model\AlipayCommerceEcEnterpriseInfoQueryResponseModel
+query($enterpriseId, $outBizNo): \Alipay\OpenAPISDK\Model\AlipayCommerceEcEnterpriseInfoQueryResponseModel
 ```
 
 查询企业详情
@@ -116,10 +116,11 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$enterpriseId = 20889490309498; // string | 企业id
+$enterpriseId = 20889490309498; // string | 企业id,从企业注册等接口获取，和out_biz_no参数二选一，都传优先取企业id
+$outBizNo = 2024051000000001; // string | 服务商生成的请求唯一流水号/业务幂等号，和enterprise_id参数二选一，都传优先取企业id
 
 try {
-    $result = $apiInstance->query($enterpriseId);
+    $result = $apiInstance->query($enterpriseId, $outBizNo);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayCommerceEcEnterpriseInfoApi->query: ', $e->getMessage(), PHP_EOL;
@@ -130,7 +131,8 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **enterpriseId** | **string**| 企业id | [optional]
+ **enterpriseId** | **string**| 企业id,从企业注册等接口获取，和out_biz_no参数二选一，都传优先取企业id | [optional]
+ **outBizNo** | **string**| 服务商生成的请求唯一流水号/业务幂等号，和enterprise_id参数二选一，都传优先取企业id | [optional]
 
 ### Return type
 

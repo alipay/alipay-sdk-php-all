@@ -45,7 +45,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$commodityId = SS010101000000003954; // string | 服务商品ID
+$commodityId = SS010101000000003954; // string | 服务商品ID，并不是uid，取值来源于前端的获取
 $pageSize = 10; // int | 每页数量，范围(1-100)。默认：10
 $pageNum = 1; // int | 当前页码，从1开始。默认：1
 
@@ -61,7 +61,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **commodityId** | **string**| 服务商品ID | [optional]
+ **commodityId** | **string**| 服务商品ID，并不是uid，取值来源于前端的获取 | [optional]
  **pageSize** | **int**| 每页数量，范围(1-100)。默认：10 | [optional]
  **pageNum** | **int**| 当前页码，从1开始。默认：1 | [optional]
 

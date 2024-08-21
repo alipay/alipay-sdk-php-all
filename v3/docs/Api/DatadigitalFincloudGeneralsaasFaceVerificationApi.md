@@ -117,7 +117,7 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $certifyId = adsfasdfasdf; // string | 填入人脸核身初始化阶段获取到的certify_id
-$needAlivePhoto = N; // string | 是否需要返回活体结果图片，needAlivePhoto：Y_O （原始图片）、Y_M（虚化，背景马赛克）、N（不返图），默认为N
+$needAlivePhoto = N; // string | 是否需要返回活体结果图片，默认为N（不返图）
 
 try {
     $result = $apiInstance->query($certifyId, $needAlivePhoto);
@@ -132,7 +132,7 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **certifyId** | **string**| 填入人脸核身初始化阶段获取到的certify_id | [optional]
- **needAlivePhoto** | **string**| 是否需要返回活体结果图片，needAlivePhoto：Y_O （原始图片）、Y_M（虚化，背景马赛克）、N（不返图），默认为N | [optional]
+ **needAlivePhoto** | **string**| 是否需要返回活体结果图片，默认为N（不返图） | [optional]
 
 ### Return type
 

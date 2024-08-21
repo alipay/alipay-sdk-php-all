@@ -46,7 +46,7 @@ $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $enterpriseId = 2088441399627416; // string | 企业id；enterprise_id与account_id至少传一个，如果都传了优先使用enterprise_id
-$accountId = 2088610274867962; // string | 资金共同账号id；enterprise_id与account_id至少传一个，如果都传了优先使用enterprise_id
+$accountId = 2088610274867962; // string | 资金共同账号id；enterprise_id与account_id至少传一个，如果都传了优先使用enterprise_id(为兼容企业码1.0老接口保留的字段，已过时，新接客户请使用enterprise_id)
 
 try {
     $result = $apiInstance->query($enterpriseId, $accountId);
@@ -61,7 +61,7 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **enterpriseId** | **string**| 企业id；enterprise_id与account_id至少传一个，如果都传了优先使用enterprise_id | [optional]
- **accountId** | **string**| 资金共同账号id；enterprise_id与account_id至少传一个，如果都传了优先使用enterprise_id | [optional]
+ **accountId** | **string**| 资金共同账号id；enterprise_id与account_id至少传一个，如果都传了优先使用enterprise_id(为兼容企业码1.0老接口保留的字段，已过时，新接客户请使用enterprise_id) | [optional]
 
 ### Return type
 
