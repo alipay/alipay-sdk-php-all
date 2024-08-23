@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.assistant.presetquestion.consult request
  *
  * @author auto create
- * @since 1.0, 2024-07-15 16:22:04
+ * @since 1.0, 2024-08-22 17:56:05
  */
 class AlipayCloudCloudpromoAssistantPresetquestionConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.ticket.order.sync request
  *
  * @author auto create
- * @since 1.0, 2024-08-14 17:07:06
+ * @since 1.0, 2024-08-22 11:37:08
  */
 class AlipayCloudCloudpromoTicketOrderSyncRequest
 {

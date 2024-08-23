@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.recycle.billing.sync request
  *
  * @author auto create
- * @since 1.0, 2024-06-26 15:52:04
+ * @since 1.0, 2024-08-22 19:09:41
  */
 class AlipayCommerceOperationRecycleBillingSyncRequest
 {

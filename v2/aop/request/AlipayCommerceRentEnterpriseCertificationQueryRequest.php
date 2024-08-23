@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.enterprise.certification.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-25 10:27:05
+ * @since 1.0, 2024-08-20 11:20:59
  */
 class AlipayCommerceRentEnterpriseCertificationQueryRequest
 {

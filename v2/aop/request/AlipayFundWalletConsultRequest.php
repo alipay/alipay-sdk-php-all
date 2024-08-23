@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.consult request
  *
  * @author auto create
- * @since 1.0, 2024-04-09 15:12:00
+ * @since 1.0, 2024-08-22 17:41:38
  */
 class AlipayFundWalletConsultRequest
 {

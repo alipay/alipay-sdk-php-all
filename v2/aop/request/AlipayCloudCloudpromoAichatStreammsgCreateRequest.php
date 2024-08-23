@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.aichat.streammsg.create request
  *
  * @author auto create
- * @since 1.0, 2024-08-14 17:40:33
+ * @since 1.0, 2024-08-19 20:02:07
  */
 class AlipayCloudCloudpromoAichatStreammsgCreateRequest
 {

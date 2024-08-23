@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.aichat.history.add request
  *
  * @author auto create
- * @since 1.0, 2024-08-16 11:42:18
+ * @since 1.0, 2024-08-20 18:12:08
  */
 class AlipayCloudCloudpromoAichatHistoryAddRequest
 {
