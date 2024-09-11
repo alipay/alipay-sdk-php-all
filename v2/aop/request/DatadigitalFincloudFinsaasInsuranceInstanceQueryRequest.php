@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.insurance.instance.query request
  *
  * @author auto create
- * @since 1.0, 2024-08-21 17:18:25
+ * @since 1.0, 2024-08-29 15:13:02
  */
 class DatadigitalFincloudFinsaasInsuranceInstanceQueryRequest
 {

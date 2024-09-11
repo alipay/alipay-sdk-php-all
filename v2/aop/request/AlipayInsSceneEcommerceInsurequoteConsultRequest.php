@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.insurequote.consult request
  *
  * @author auto create
- * @since 1.0, 2024-05-15 14:27:01
+ * @since 1.0, 2024-09-10 14:47:09
  */
 class AlipayInsSceneEcommerceInsurequoteConsultRequest
 {

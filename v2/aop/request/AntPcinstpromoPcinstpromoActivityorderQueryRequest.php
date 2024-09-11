@@ -3,7 +3,7 @@
  * ALIPAY API: ant.pcinstpromo.pcinstpromo.activityorder.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:33:14
+ * @since 1.0, 2024-09-10 18:08:44
  */
 class AntPcinstpromoPcinstpromoActivityorderQueryRequest
 {

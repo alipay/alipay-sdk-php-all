@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.exrate.collectcore.data.send request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 16:54:57
+ * @since 1.0, 2024-09-04 11:54:15
  */
 class AlipayAccountExrateCollectcoreDataSendRequest
 {

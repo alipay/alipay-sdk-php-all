@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.advert.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-08-08 21:55:50
+ * @since 1.0, 2024-09-02 13:39:54
  */
 class AlipayOpenPublicAdvertBatchqueryRequest
 {

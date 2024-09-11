@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.userscene.modify request
  *
  * @author auto create
- * @since 1.0, 2023-11-01 10:39:10
+ * @since 1.0, 2024-09-05 20:22:52
  */
 class AlipayOpenMiniAmpeUsersceneModifyRequest
 {

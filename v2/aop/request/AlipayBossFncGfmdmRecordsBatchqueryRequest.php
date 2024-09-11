@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfmdm.records.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 03:19:28
+ * @since 1.0, 2024-08-29 10:41:51
  */
 class AlipayBossFncGfmdmRecordsBatchqueryRequest
 {

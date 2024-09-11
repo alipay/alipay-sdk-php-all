@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.benefit.order.close request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:33:27
+ * @since 1.0, 2024-09-10 18:08:11
  */
 class AlipayPcreditHuabeiBenefitOrderCloseRequest
 {

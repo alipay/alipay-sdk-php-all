@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antforest.eggyparty.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-28 00:47:04
+ * @since 1.0, 2024-09-02 17:21:46
  */
 class AlipaySocialAntforestEggypartyQueryRequest
 {

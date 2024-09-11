@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.pet.merchantarchive.query request
  *
  * @author auto create
- * @since 1.0, 2024-08-08 15:22:06
+ * @since 1.0, 2024-09-04 10:27:08
  */
 class AlipayCommercePetMerchantarchiveQueryRequest
 {

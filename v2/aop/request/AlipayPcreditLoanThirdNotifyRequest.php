@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.third.notify request
  *
  * @author auto create
- * @since 1.0, 2024-08-08 21:40:53
+ * @since 1.0, 2024-09-10 18:07:34
  */
 class AlipayPcreditLoanThirdNotifyRequest
 {

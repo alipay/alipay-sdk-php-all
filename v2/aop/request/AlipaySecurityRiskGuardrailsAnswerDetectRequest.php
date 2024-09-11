@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.guardrails.answer.detect request
  *
  * @author auto create
- * @since 1.0, 2024-02-27 17:46:58
+ * @since 1.0, 2024-09-05 11:04:24
  */
 class AlipaySecurityRiskGuardrailsAnswerDetectRequest
 {

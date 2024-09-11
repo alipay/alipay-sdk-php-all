@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.terminal.edgecloud.heyagent.create request
  *
  * @author auto create
- * @since 1.0, 2024-06-13 14:47:04
+ * @since 1.0, 2024-08-30 15:05:04
  */
 class AlipayTerminalEdgecloudHeyagentCreateRequest
 {

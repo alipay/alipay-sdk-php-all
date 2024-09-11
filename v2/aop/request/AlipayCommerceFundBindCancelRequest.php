@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.fund.bind.cancel request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 01:41:48
+ * @since 1.0, 2024-09-02 11:00:11
  */
 class AlipayCommerceFundBindCancelRequest
 {

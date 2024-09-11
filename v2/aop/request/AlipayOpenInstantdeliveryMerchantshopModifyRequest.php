@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.instantdelivery.merchantshop.modify request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:29:19
+ * @since 1.0, 2024-09-02 10:39:14
  */
 class AlipayOpenInstantdeliveryMerchantshopModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.insurance.historyrule.query request
  *
  * @author auto create
- * @since 1.0, 2024-08-21 17:13:21
+ * @since 1.0, 2024-08-29 15:13:01
  */
 class DatadigitalFincloudFinsaasInsuranceHistoryruleQueryRequest
 {

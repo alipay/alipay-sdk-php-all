@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.pet.merchantarchive.delete request
  *
  * @author auto create
- * @since 1.0, 2024-08-12 10:42:06
+ * @since 1.0, 2024-09-03 19:57:08
  */
 class AlipayCommercePetMerchantarchiveDeleteRequest
 {

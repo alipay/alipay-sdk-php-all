@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.dum.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:33:09
+ * @since 1.0, 2024-08-30 11:24:01
  */
 class AlipaySecurityDumQueryRequest
 {

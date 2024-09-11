@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.petinsure.signstatus.query request
  *
  * @author auto create
- * @since 1.0, 2024-08-01 16:32:06
+ * @since 1.0, 2024-09-03 19:57:07
  */
 class AlipayCommercePetinsureSignstatusQueryRequest
 {

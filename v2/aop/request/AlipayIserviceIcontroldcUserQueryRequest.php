@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.icontroldc.user.query request
  *
  * @author auto create
- * @since 1.0, 2024-08-21 15:54:50
+ * @since 1.0, 2024-08-29 10:52:19
  */
 class AlipayIserviceIcontroldcUserQueryRequest
 {

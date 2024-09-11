@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.bot.session.consult request
  *
  * @author auto create
- * @since 1.0, 2024-08-22 11:21:22
+ * @since 1.0, 2024-08-27 21:37:07
  */
 class AlipayEbppIndustryBotSessionConsultRequest
 {

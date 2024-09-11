@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.merchantcard.openprocess.query request
  *
  * @author auto create
- * @since 1.0, 2024-08-22 16:17:08
+ * @since 1.0, 2024-09-02 16:27:08
  */
 class AlipayCommerceMerchantcardOpenprocessQueryRequest
 {
