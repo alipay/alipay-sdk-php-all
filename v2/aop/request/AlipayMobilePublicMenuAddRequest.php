@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.public.menu.add request
  *
  * @author auto create
- * @since 1.0, 2024-09-02 14:43:22
+ * @since 1.0, 2024-09-11 12:03:39
  */
 class AlipayMobilePublicMenuAddRequest
 {

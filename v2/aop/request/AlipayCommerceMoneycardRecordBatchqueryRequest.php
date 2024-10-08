@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.moneycard.record.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-09-03 12:01:05
+ * @since 1.0, 2024-09-27 07:57:10
  */
 class AlipayCommerceMoneycardRecordBatchqueryRequest
 {

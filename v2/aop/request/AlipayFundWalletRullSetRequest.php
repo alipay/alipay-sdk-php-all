@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.rull.set request
  *
  * @author auto create
- * @since 1.0, 2024-09-05 16:52:09
+ * @since 1.0, 2024-09-19 09:46:49
  */
 class AlipayFundWalletRullSetRequest
 {

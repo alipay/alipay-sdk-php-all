@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.tasktemplate.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:34
+ * @since 1.0, 2024-10-08 10:03:50
  */
 class AlipayCommerceCommonTasktemplateBatchqueryRequest
 {

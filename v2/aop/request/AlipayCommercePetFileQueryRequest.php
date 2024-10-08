@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.pet.file.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:34:27
+ * @since 1.0, 2024-10-08 10:09:59
  */
 class AlipayCommercePetFileQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.ampe.tracer.sync request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 01:49:08
+ * @since 1.0, 2024-09-11 16:08:22
  */
 class AlipayOpenMiniAmpeTracerSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.commercial.interactivecore.roundstop.sync request
  *
  * @author auto create
- * @since 1.0, 2024-09-04 17:47:09
+ * @since 1.0, 2024-09-19 14:02:10
  */
 class AlipayContentCommercialInteractivecoreRoundstopSyncRequest
 {

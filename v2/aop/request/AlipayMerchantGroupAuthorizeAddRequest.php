@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.group.authorize.add request
  *
  * @author auto create
- * @since 1.0, 2024-09-05 18:09:37
+ * @since 1.0, 2024-09-11 15:36:38
  */
 class AlipayMerchantGroupAuthorizeAddRequest
 {

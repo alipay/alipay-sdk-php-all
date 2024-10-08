@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.agreement.sign request
  *
  * @author auto create
- * @since 1.0, 2023-11-20 13:46:50
+ * @since 1.0, 2024-10-08 10:01:15
  */
 class AlipayCommerceCommonAgreementSignRequest
 {

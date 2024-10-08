@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.analysiscommodity.commoditytradedetail.query request
  *
  * @author auto create
- * @since 1.0, 2024-08-05 14:57:06
+ * @since 1.0, 2024-09-20 17:42:10
  */
 class AlipayCloudCloudpromoAnalysiscommodityCommoditytradedetailQueryRequest
 {

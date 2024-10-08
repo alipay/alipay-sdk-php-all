@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.order.cancel request
  *
  * @author auto create
- * @since 1.0, 2024-09-03 20:02:08
+ * @since 1.0, 2024-09-17 10:42:10
  */
 class AlipayCommerceMedicalOrderCancelRequest
 {

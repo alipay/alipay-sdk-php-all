@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.ebpp.billkey.subscribe.notify request
  *
  * @author auto create
- * @since 1.0, 2024-08-30 10:27:09
+ * @since 1.0, 2024-09-12 14:22:09
  */
 class AlipayEbppEbppBillkeySubscribeNotifyRequest
 {

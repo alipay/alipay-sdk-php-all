@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.taskinstance.query request
  *
  * @author auto create
- * @since 1.0, 2023-08-23 20:31:43
+ * @since 1.0, 2024-10-08 10:03:51
  */
 class AlipayCommerceCommonTaskinstanceQueryRequest
 {

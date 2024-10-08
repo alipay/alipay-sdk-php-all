@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.progov.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 17:31:54
+ * @since 1.0, 2024-09-25 11:15:33
  */
 class AlipayFincoreProgovQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.trade.refund.query request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:25:24
+ * @since 1.0, 2024-09-11 16:59:52
  */
 class AlipayCommerceMedicalTradeRefundQueryRequest
 {

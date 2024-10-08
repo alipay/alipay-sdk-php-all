@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.developer.checkdevelopervalid.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 15:51:35
+ * @since 1.0, 2024-09-23 11:33:54
  */
 class AlipayOpenAppDeveloperCheckdevelopervalidQueryRequest
 {

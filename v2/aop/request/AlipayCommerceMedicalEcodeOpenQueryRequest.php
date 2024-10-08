@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.ecode.open.query request
  *
  * @author auto create
- * @since 1.0, 2023-12-28 14:02:00
+ * @since 1.0, 2024-09-11 17:00:12
  */
 class AlipayCommerceMedicalEcodeOpenQueryRequest
 {

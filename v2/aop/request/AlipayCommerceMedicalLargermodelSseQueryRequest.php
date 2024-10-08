@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.largermodel.sse.query request
  *
  * @author auto create
- * @since 1.0, 2024-09-10 11:40:45
+ * @since 1.0, 2024-09-24 13:32:10
  */
 class AlipayCommerceMedicalLargermodelSseQueryRequest
 {

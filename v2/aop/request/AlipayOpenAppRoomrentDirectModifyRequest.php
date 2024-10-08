@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.roomrent.direct.modify request
  *
  * @author auto create
- * @since 1.0, 2024-07-01 13:42:05
+ * @since 1.0, 2024-09-18 19:07:20
  */
 class AlipayOpenAppRoomrentDirectModifyRequest
 {

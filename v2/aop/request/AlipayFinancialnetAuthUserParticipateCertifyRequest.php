@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.financialnet.auth.user.participate.certify request
  *
  * @author auto create
- * @since 1.0, 2024-08-23 19:12:08
+ * @since 1.0, 2024-09-18 10:29:33
  */
 class AlipayFinancialnetAuthUserParticipateCertifyRequest
 {

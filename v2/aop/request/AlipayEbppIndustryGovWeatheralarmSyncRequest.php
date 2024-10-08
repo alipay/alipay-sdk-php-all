@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.gov.weatheralarm.sync request
  *
  * @author auto create
- * @since 1.0, 2023-12-26 11:31:55
+ * @since 1.0, 2024-09-19 17:16:27
  */
 class AlipayEbppIndustryGovWeatheralarmSyncRequest
 {

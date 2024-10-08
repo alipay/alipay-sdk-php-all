@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.message.preview.send request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:32
+ * @since 1.0, 2024-09-11 12:03:31
  */
 class AlipayOpenPublicMessagePreviewSendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.rentroom.area.delete request
  *
  * @author auto create
- * @since 1.0, 2024-09-09 11:37:09
+ * @since 1.0, 2024-09-13 19:32:10
  */
 class AlipayOpenAppRentroomAreaDeleteRequest
 {

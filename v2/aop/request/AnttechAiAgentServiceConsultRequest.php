@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.ai.agent.service.consult request
  *
  * @author auto create
- * @since 1.0, 2024-08-27 14:22:07
+ * @since 1.0, 2024-09-12 19:27:32
  */
 class AnttechAiAgentServiceConsultRequest
 {

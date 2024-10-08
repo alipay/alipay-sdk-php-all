@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.promotask.sync request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 22:16:45
+ * @since 1.0, 2024-09-11 15:55:03
  */
 class AlipayMerchantIndirectPromotaskSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.discount.whitelist.update request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 16:38:08
+ * @since 1.0, 2024-09-11 13:34:24
  */
 class AlipayMarketingCampaignDiscountWhitelistUpdateRequest
 {

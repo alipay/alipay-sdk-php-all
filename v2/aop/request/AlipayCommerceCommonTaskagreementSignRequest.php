@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.taskagreement.sign request
  *
  * @author auto create
- * @since 1.0, 2023-12-05 14:31:57
+ * @since 1.0, 2024-10-08 10:04:02
  */
 class AlipayCommerceCommonTaskagreementSignRequest
 {

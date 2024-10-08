@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.common.item.upload request
  *
  * @author auto create
- * @since 1.0, 2023-03-31 15:01:42
+ * @since 1.0, 2024-10-08 10:02:54
  */
 class AlipayCommerceCommonItemUploadRequest
 {
