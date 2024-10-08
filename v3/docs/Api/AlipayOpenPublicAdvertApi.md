@@ -185,8 +185,8 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$advertId = 123; // string | 待删除的广告位id
-$advertGroup = CG202008041013200064690; // string | 待删除的广告位分组标识
+$advertId = 123; // string | 待删除的广告位id，删除通投广告位需传递此参数
+$advertGroup = CG202008041013200064690; // string | 待删除的广告位分组标识，删除个性化广告位需传递此参数。
 
 try {
     $result = $apiInstance->delete($advertId, $advertGroup);
@@ -200,8 +200,8 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **advertId** | **string**| 待删除的广告位id | [optional]
- **advertGroup** | **string**| 待删除的广告位分组标识 | [optional]
+ **advertId** | **string**| 待删除的广告位id，删除通投广告位需传递此参数 | [optional]
+ **advertGroup** | **string**| 待删除的广告位分组标识，删除个性化广告位需传递此参数。 | [optional]
 
 ### Return type
 

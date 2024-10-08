@@ -11,7 +11,7 @@ Method | HTTP request | Description
 ## `batchqueryvoucher()`
 
 ```php
-batchqueryvoucher($authToken, $userId, $openId, $activityId, $belongMerchantId, $senderMerchantId, $voucherStatus, $pageNum, $merchantAccessMode, $pageSize): \Alipay\OpenAPISDK\Model\AlipayMarketingActivityUserBatchqueryvoucherResponseModel
+batchqueryvoucher($userId, $openId, $activityId, $belongMerchantId, $senderMerchantId, $voucherStatus, $pageNum, $merchantAccessMode, $pageSize): \Alipay\OpenAPISDK\Model\AlipayMarketingActivityUserBatchqueryvoucherResponseModel
 ```
 
 条件查询用户券
@@ -46,7 +46,6 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$authToken = 'authToken_example'; // string | 用户授权令牌
 $userId = 2088512417841101; // string | 支付宝用户 id
 $openId = 074a1CcTG1LelxKe4xQC0zgNdId0nxi95b5lsNpazWYoCo5; // string | 支付宝用户openId
 $activityId = 2016042700826004508401111111; // string | 活动 id
@@ -58,7 +57,7 @@ $merchantAccessMode = AGENCY_MODE; // string | 商户接入模式
 $pageSize = 20; // int | 分页查询单页数据条数
 
 try {
-    $result = $apiInstance->batchqueryvoucher($authToken, $userId, $openId, $activityId, $belongMerchantId, $senderMerchantId, $voucherStatus, $pageNum, $merchantAccessMode, $pageSize);
+    $result = $apiInstance->batchqueryvoucher($userId, $openId, $activityId, $belongMerchantId, $senderMerchantId, $voucherStatus, $pageNum, $merchantAccessMode, $pageSize);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayMarketingActivityUserApi->batchqueryvoucher: ', $e->getMessage(), PHP_EOL;
@@ -69,7 +68,6 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **authToken** | **string**| 用户授权令牌 | [optional]
  **userId** | **string**| 支付宝用户 id | [optional]
  **openId** | **string**| 支付宝用户openId | [optional]
  **activityId** | **string**| 活动 id | [optional]

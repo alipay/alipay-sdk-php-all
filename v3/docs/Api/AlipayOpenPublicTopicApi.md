@@ -155,7 +155,7 @@ delete($topicId): object
 
 营销位删除接口
 
-通过此接口,开发者可以根据营销位的id删除指定的营销位。
+通过此接口,开发者可以根据营销位的分组group删除指定的营销位。
 
 ### Example
 
@@ -185,7 +185,7 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$topicId = 123; // string | 营销位id
+$topicId = CG202011131013300867029; // string | 营销位id
 
 try {
     $result = $apiInstance->delete($topicId);
