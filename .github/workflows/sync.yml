@@ -1,0 +1,25 @@
+name: 同步 alipay SDK
+
+on:
+  push:
+    branches:
+      - master  # 选择需要同步的分支
+jobs:
+  sync:
+    runs-on: ubuntu-latest 
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 
+
+      - name: Push to gitee ${{ secrets.SECRET_T }}
+        env:
+          GETEETOKEN: ${{ secrets.SECRET_T }}
+          ANOTHER_VAR: 'aaaaa'
+        run: |
+          echo ${{ secrets.SECRET_T }}
+          echo $GETEETOKEN
+          echo $ANOTHER_VAR
+          git remote add mirror https://zhangzhichao:$GETEETOKEN@gitee.com/zhangzhichao/alipay-sdk-php-all.git
+          git push mirror --mirror
