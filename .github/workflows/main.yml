@@ -17,4 +17,4 @@ jobs:
           git remote add mirror https://gitee.com/zhangzhichao/alipay-sdk-php-all.git
           git push mirror --mirror
         env:
-          GIT_CREDENTIALS: ${{ secrets.526a59013ede7669505310501e64618d }}
+          GIT_CREDENTIALS: 526a59013ede7669505310501e64618d
