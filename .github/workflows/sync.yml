@@ -1,4 +1,4 @@
-name: 同步alipay SDK
+name: sync alipay SDK
 
 on:
   push:
