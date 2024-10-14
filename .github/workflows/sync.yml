@@ -14,7 +14,7 @@ jobs:
 
       - name: Push to self-hosted Git
         run: |
-          git remote add mirror https://zzc77824:526a59013ede7669505310501e64618d@gitee.com/zhangzhichao/alipay-sdk-php-all.git
+          git remote add mirror https://zhangzhichao:526a59013ede7669505310501e64618d@gitee.com/zhangzhichao/alipay-sdk-php-all.git
           git push mirror --mirror
         env:
           GIT_CREDENTIALS: 526a59013ede7669505310501e64618d
