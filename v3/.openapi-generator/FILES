@@ -4096,6 +4096,7 @@ src/Model/SubServiceKeyWordInfo.php
 src/Model/SubTaskInfo.php
 src/Model/SubscribeRelation.php
 src/Model/SuccessDeliveryConfig.php
+src/Model/TapPayInfo.php
 src/Model/TargetInfo.php
 src/Model/TaskTypeData.php
 src/Model/Template.php
