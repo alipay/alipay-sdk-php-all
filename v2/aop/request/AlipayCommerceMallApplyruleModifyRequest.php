@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.mall.applyrule.modify request
  *
  * @author auto create
- * @since 1.0, 2023-08-15 11:56:40
+ * @since 1.0, 2024-10-08 10:37:45
  */
 class AlipayCommerceMallApplyruleModifyRequest
 {

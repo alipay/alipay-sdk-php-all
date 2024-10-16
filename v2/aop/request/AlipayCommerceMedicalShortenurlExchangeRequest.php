@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.shortenurl.exchange request
  *
  * @author auto create
- * @since 1.0, 2023-11-27 10:06:54
+ * @since 1.0, 2024-10-11 20:02:12
  */
 class AlipayCommerceMedicalShortenurlExchangeRequest
 {

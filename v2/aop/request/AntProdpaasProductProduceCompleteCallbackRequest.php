@@ -3,7 +3,7 @@
  * ALIPAY API: ant.prodpaas.product.produce.complete.callback request
  *
  * @author auto create
- * @since 1.0, 2024-05-08 10:55:20
+ * @since 1.0, 2024-10-11 13:48:09
  */
 class AntProdpaasProductProduceCompleteCallbackRequest
 {

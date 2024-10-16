@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.order.refund request
  *
  * @author auto create
- * @since 1.0, 2024-06-17 20:22:04
+ * @since 1.0, 2024-10-14 10:07:14
  */
 class AlipayOpenMiniOrderRefundRequest
 {
