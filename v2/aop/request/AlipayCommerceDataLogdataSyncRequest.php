@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.data.logdata.sync request
  *
  * @author auto create
- * @since 1.0, 2024-01-02 20:53:09
+ * @since 1.0, 2024-10-15 13:40:56
  */
 class AlipayCommerceDataLogdataSyncRequest
 {

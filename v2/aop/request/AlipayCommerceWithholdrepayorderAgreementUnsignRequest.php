@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.withholdrepayorder.agreement.unsign request
  *
  * @author auto create
- * @since 1.0, 2024-10-08 09:49:51
+ * @since 1.0, 2024-10-11 15:47:12
  */
 class AlipayCommerceWithholdrepayorderAgreementUnsignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.merchantcard.config.modify request
  *
  * @author auto create
- * @since 1.0, 2024-09-03 16:52:08
+ * @since 1.0, 2024-10-15 17:22:15
  */
 class AlipayCommerceMerchantcardConfigModifyRequest
 {

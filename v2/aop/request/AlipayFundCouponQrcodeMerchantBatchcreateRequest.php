@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.coupon.qrcode.merchant.batchcreate request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 00:41:44
+ * @since 1.0, 2024-10-09 10:56:46
  */
 class AlipayFundCouponQrcodeMerchantBatchcreateRequest
 {

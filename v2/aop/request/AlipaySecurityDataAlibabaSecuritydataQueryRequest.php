@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.data.alibaba.securitydata.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:33:09
+ * @since 1.0, 2024-10-08 17:48:50
  */
 class AlipaySecurityDataAlibabaSecuritydataQueryRequest
 {
