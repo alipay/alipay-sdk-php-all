@@ -3,7 +3,7 @@
  * ALIPAY API: ssdata.dataservice.risk.businesslicense.certify request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:39:13
+ * @since 1.0, 2024-10-21 11:27:48
  */
 class SsdataDataserviceRiskBusinesslicenseCertifyRequest
 {
