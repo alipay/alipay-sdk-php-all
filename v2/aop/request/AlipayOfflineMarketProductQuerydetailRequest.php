@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.market.product.querydetail request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 16:38:05
+ * @since 1.0, 2024-11-04 10:59:19
  */
 class AlipayOfflineMarketProductQuerydetailRequest
 {

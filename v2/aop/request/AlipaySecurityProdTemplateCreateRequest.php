@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.template.create request
  *
  * @author auto create
- * @since 1.0, 2024-10-16 09:32:43
+ * @since 1.0, 2024-10-28 15:07:21
  */
 class AlipaySecurityProdTemplateCreateRequest
 {

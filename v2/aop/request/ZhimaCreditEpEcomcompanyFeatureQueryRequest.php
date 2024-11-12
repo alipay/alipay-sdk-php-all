@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.ecomcompany.feature.query request
  *
  * @author auto create
- * @since 1.0, 2024-08-12 15:07:05
+ * @since 1.0, 2024-11-11 17:46:29
  */
 class ZhimaCreditEpEcomcompanyFeatureQueryRequest
 {

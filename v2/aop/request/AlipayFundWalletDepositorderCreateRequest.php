@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.depositorder.create request
  *
  * @author auto create
- * @since 1.0, 2024-08-16 10:47:07
+ * @since 1.0, 2024-10-28 23:02:20
  */
 class AlipayFundWalletDepositorderCreateRequest
 {
