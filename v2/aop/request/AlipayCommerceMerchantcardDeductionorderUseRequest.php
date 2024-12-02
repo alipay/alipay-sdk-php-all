@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.merchantcard.deductionorder.use request
  *
  * @author auto create
- * @since 1.0, 2024-10-09 10:07:13
+ * @since 1.0, 2024-11-28 17:37:22
  */
 class AlipayCommerceMerchantcardDeductionorderUseRequest
 {

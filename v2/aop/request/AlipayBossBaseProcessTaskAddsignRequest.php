@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.process.task.addsign request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:41
+ * @since 1.0, 2024-11-27 11:11:55
  */
 class AlipayBossBaseProcessTaskAddsignRequest
 {

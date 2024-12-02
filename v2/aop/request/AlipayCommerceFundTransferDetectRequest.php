@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.fund.transfer.detect request
  *
  * @author auto create
- * @since 1.0, 2024-10-10 13:47:12
+ * @since 1.0, 2024-11-21 21:57:16
  */
 class AlipayCommerceFundTransferDetectRequest
 {

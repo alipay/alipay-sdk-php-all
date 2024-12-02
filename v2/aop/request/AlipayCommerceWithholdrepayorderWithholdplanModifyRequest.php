@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.withholdrepayorder.withholdplan.modify request
  *
  * @author auto create
- * @since 1.0, 2024-10-11 15:27:13
+ * @since 1.0, 2024-11-21 10:42:19
  */
 class AlipayCommerceWithholdrepayorderWithholdplanModifyRequest
 {

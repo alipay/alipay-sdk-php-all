@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.periodcard.indirectconfig.create request
  *
  * @author auto create
- * @since 1.0, 2024-08-13 11:17:07
+ * @since 1.0, 2024-11-28 11:31:50
  */
 class AlipayCommercePeriodcardIndirectconfigCreateRequest
 {

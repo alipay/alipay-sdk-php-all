@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.unsign request
  *
  * @author auto create
- * @since 1.0, 2024-08-21 22:36:11
+ * @since 1.0, 2024-11-29 17:02:19
  */
 class AlipayUserAgreementUnsignRequest
 {
