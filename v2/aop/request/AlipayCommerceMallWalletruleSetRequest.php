@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.mall.walletrule.set request
  *
  * @author auto create
- * @since 1.0, 2024-10-23 20:37:20
+ * @since 1.0, 2024-11-18 19:02:57
  */
 class AlipayCommerceMallWalletruleSetRequest
 {

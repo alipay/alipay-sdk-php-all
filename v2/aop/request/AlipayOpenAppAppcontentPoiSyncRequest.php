@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.appcontent.poi.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:53
+ * @since 1.0, 2024-11-27 10:42:30
  */
 class AlipayOpenAppAppcontentPoiSyncRequest
 {

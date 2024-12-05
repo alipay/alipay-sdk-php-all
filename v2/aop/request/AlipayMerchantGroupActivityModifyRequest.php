@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.group.activity.modify request
  *
  * @author auto create
- * @since 1.0, 2024-11-11 19:10:33
+ * @since 1.0, 2024-11-12 15:30:34
  */
 class AlipayMerchantGroupActivityModifyRequest
 {

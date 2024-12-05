@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.wallet.refundstatus.get request
  *
  * @author auto create
- * @since 1.0, 2023-10-16 20:24:47
+ * @since 1.0, 2024-11-22 14:40:35
  */
 class AlipayCloudCloudbaseWalletRefundstatusGetRequest
 {

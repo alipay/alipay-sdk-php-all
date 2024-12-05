@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.usertrade.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-01-12 20:02:08
+ * @since 1.0, 2024-11-15 10:36:40
  */
 class AlipayFundUsertradeBatchqueryRequest
 {

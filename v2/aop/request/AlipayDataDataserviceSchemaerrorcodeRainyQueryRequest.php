@@ -7,6 +7,15 @@
  */
 class AlipayDataDataserviceSchemaerrorcodeRainyQueryRequest
 {
+	/** 
+	 * 1
+	 **/
+	private $stringMust;
+	
+	/** 
+	 * 1
+	 **/
+	private $stringRegexNum;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +27,28 @@ class AlipayDataDataserviceSchemaerrorcodeRainyQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setStringMust($stringMust)
+	{
+		$this->stringMust = $stringMust;
+		$this->apiParas["string_must"] = $stringMust;
+	}
+
+	public function getStringMust()
+	{
+		return $this->stringMust;
+	}
+
+	public function setStringRegexNum($stringRegexNum)
+	{
+		$this->stringRegexNum = $stringRegexNum;
+		$this->apiParas["string_regex_num"] = $stringRegexNum;
+	}
+
+	public function getStringRegexNum()
+	{
+		return $this->stringRegexNum;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.data.dataservice.schemaerrorcode.rainy.query";

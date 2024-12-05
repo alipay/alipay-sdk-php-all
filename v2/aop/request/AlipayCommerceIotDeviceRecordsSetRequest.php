@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.iot.device.records.set request
  *
  * @author auto create
- * @since 1.0, 2024-11-11 19:32:17
+ * @since 1.0, 2024-11-25 11:17:16
  */
 class AlipayCommerceIotDeviceRecordsSetRequest
 {

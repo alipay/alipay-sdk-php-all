@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.pocketmoney.auth.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:33:34
+ * @since 1.0, 2024-11-27 11:17:17
  */
 class AlipayPayAppPocketmoneyAuthQueryRequest
 {

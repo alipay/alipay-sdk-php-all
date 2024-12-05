@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.merchantcard.open.check request
  *
  * @author auto create
- * @since 1.0, 2024-11-11 10:12:17
+ * @since 1.0, 2024-11-28 11:31:12
  */
 class AlipayCommerceMerchantcardOpenCheckRequest
 {
