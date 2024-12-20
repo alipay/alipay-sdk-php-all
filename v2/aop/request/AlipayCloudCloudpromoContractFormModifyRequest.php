@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.contract.form.modify request
  *
  * @author auto create
- * @since 1.0, 2024-11-26 10:49:32
+ * @since 1.0, 2024-12-03 16:37:24
  */
 class AlipayCloudCloudpromoContractFormModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.point.balance.query request
  *
  * @author auto create
- * @since 1.0, 2024-11-28 12:02:22
+ * @since 1.0, 2024-12-02 21:52:21
  */
 class AlipayCommerceAcommunicationPointBalanceQueryRequest
 {

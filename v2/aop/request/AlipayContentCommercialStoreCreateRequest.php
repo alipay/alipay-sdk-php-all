@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.commercial.store.create request
  *
  * @author auto create
- * @since 1.0, 2024-06-14 14:12:04
+ * @since 1.0, 2024-12-17 14:41:54
  */
 class AlipayContentCommercialStoreCreateRequest
 {

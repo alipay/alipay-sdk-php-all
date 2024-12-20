@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.job.payslip.initialize request
  *
  * @author auto create
- * @since 1.0, 2024-10-25 14:09:26
+ * @since 1.0, 2024-12-18 17:32:23
  */
 class AlipayEbppIndustryJobPayslipInitializeRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.bill.event.trigger request
  *
  * @author auto create
- * @since 1.0, 2024-10-08 10:06:58
+ * @since 1.0, 2024-12-19 15:37:04
  */
 class AlipayCommerceBillEventTriggerRequest
 {

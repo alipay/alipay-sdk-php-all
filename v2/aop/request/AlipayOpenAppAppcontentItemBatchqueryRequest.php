@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.appcontent.item.batchquery request
  *
  * @author auto create
- * @since 1.0, 2023-08-24 22:51:16
+ * @since 1.0, 2024-12-06 10:11:08
  */
 class AlipayOpenAppAppcontentItemBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.group.assistant.msg.create request
  *
  * @author auto create
- * @since 1.0, 2024-11-21 11:19:35
+ * @since 1.0, 2024-12-13 16:12:24
  */
 class AlipayMerchantGroupAssistantMsgCreateRequest
 {
