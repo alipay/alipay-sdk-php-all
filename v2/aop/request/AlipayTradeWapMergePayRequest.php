@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.wap.merge.pay request
  *
  * @author auto create
- * @since 1.0, 2024-01-03 10:41:39
+ * @since 1.0, 2024-12-05 15:53:31
  */
 class AlipayTradeWapMergePayRequest
 {

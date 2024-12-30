@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.merchantcard.template.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-11-13 14:42:16
+ * @since 1.0, 2024-12-12 19:57:20
  */
 class AlipayCommerceMerchantcardTemplateBatchqueryRequest
 {

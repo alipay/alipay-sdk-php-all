@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.jujibaovoucher.verify request
  *
  * @author auto create
- * @since 1.0, 2024-11-28 14:27:21
+ * @since 1.0, 2024-12-03 17:50:05
  */
 class AlipayMerchantJujibaovoucherVerifyRequest
 {

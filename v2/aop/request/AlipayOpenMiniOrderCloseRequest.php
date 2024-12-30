@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.order.close request
  *
  * @author auto create
- * @since 1.0, 2024-10-14 10:07:14
+ * @since 1.0, 2024-12-10 15:27:20
  */
 class AlipayOpenMiniOrderCloseRequest
 {
