@@ -3751,6 +3751,7 @@ src/Model/IndirectSupportCredentials.php
 src/Model/IndustryQualificationInfo.php
 src/Model/Instance.php
 src/Model/InstitutionBasicInfo.php
+src/Model/InstitutionScopeInfo.php
 src/Model/IntactChargeInfo.php
 src/Model/InterfaceInfoList.php
 src/Model/InviteMemberBusinessParamsDTO.php
@@ -3865,7 +3866,12 @@ src/Model/MiniVersionBaseInfo.php
 src/Model/MiniappBrandAuditResult.php
 src/Model/ModelFunction.php
 src/Model/ModelInterface.php
+src/Model/ModifyIssueRuleDetailInfo.php
+src/Model/ModifyIssueRuleInfo.php
 src/Model/ModifyQuotaDetails.php
+src/Model/ModifyScopeInfo.php
+src/Model/ModifyStandardDetailInfo.php
+src/Model/ModifyStandardInfo.php
 src/Model/MonitorHeartbeatSynDefaultResponse.php
 src/Model/MonitorHeartbeatSynErrorResponseModel.php
 src/Model/MonitorHeartbeatSynModel.php
@@ -4011,6 +4017,7 @@ src/Model/RoyaltyDetailInfos.php
 src/Model/RoyaltyEntity.php
 src/Model/RoyaltyInfo.php
 src/Model/Scene.php
+src/Model/SceneRuleParams.php
 src/Model/SchoolBaseInfo.php
 src/Model/SchoolSimpleInfo.php
 src/Model/SearchAbilityOrderData.php
