@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.tvp.bill.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-10-24 16:42:58
+ * @since 1.0, 2025-01-23 18:32:57
  */
 class AnttechBlockchainFinanceTvpBillBatchqueryRequest
 {

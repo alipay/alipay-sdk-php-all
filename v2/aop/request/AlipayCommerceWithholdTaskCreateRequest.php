@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.withhold.task.create request
  *
  * @author auto create
- * @since 1.0, 2024-12-12 16:21:38
+ * @since 1.0, 2025-01-13 15:12:24
  */
 class AlipayCommerceWithholdTaskCreateRequest
 {

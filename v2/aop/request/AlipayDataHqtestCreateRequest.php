@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.data.hqtest.create request
  *
  * @author auto create
- * @since 1.0, 2024-12-13 11:34:42
+ * @since 1.0, 2025-02-05 17:12:25
  */
 class AlipayDataHqtestCreateRequest
 {
+	/** 
+	 * 接口无参数升级验证
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayDataHqtestCreateRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.data.hqtest.create";

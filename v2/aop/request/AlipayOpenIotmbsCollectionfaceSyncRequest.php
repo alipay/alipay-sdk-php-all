@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.collectionface.sync request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 21:52:35
+ * @since 1.0, 2025-01-02 16:57:00
  */
 class AlipayOpenIotmbsCollectionfaceSyncRequest
 {

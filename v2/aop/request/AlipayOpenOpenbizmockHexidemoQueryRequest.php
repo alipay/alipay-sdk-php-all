@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.openbizmock.hexidemo.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 17:41:21
+ * @since 1.0, 2025-01-17 11:14:03
  */
 class AlipayOpenOpenbizmockHexidemoQueryRequest
 {

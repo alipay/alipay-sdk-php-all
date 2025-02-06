@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.hdf.medlib.sync request
  *
  * @author auto create
- * @since 1.0, 2024-12-11 17:02:25
+ * @since 1.0, 2025-01-02 11:37:22
  */
 class AlipayCommerceMedicalHdfMedlibSyncRequest
 {

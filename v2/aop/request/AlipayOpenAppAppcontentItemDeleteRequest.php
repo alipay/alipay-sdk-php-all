@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.appcontent.item.delete request
  *
  * @author auto create
- * @since 1.0, 2024-12-06 10:11:07
+ * @since 1.0, 2025-01-03 11:02:52
  */
 class AlipayOpenAppAppcontentItemDeleteRequest
 {

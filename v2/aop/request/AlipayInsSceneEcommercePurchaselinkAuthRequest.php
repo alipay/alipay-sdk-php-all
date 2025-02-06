@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.ecommerce.purchaselink.auth request
  *
  * @author auto create
- * @since 1.0, 2024-05-15 15:12:01
+ * @since 1.0, 2025-01-20 17:15:13
  */
 class AlipayInsSceneEcommercePurchaselinkAuthRequest
 {

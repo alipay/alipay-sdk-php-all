@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.blockchain.finance.energyaggr.subinvite.query request
  *
  * @author auto create
- * @since 1.0, 2024-12-02 10:48:28
+ * @since 1.0, 2024-12-20 15:27:21
  */
 class AnttechBlockchainFinanceEnergyaggrSubinviteQueryRequest
 {

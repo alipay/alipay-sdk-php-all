@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.industrydata.drugorder.sync request
  *
  * @author auto create
- * @since 1.0, 2024-11-26 19:33:12
+ * @since 1.0, 2025-01-06 16:07:22
  */
 class AlipayCommerceMedicalIndustrydataDrugorderSyncRequest
 {

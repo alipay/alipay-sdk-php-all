@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.merchantcard.order.close request
  *
  * @author auto create
- * @since 1.0, 2024-11-28 09:52:21
+ * @since 1.0, 2025-01-16 10:38:39
  */
 class AlipayCommerceMerchantcardOrderCloseRequest
 {

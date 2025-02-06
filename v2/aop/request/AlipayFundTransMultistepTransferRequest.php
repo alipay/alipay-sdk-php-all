@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.trans.multistep.transfer request
  *
  * @author auto create
- * @since 1.0, 2024-12-19 17:07:38
+ * @since 1.0, 2025-01-03 10:32:22
  */
 class AlipayFundTransMultistepTransferRequest
 {

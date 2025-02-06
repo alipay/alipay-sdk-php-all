@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.dossier.equitypledge.query request
  *
  * @author auto create
- * @since 1.0, 2024-12-19 14:32:23
+ * @since 1.0, 2024-12-23 16:52:23
  */
 class ZhimaCreditEpDossierEquitypledgeQueryRequest
 {

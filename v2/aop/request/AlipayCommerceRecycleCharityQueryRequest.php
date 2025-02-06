@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.charity.query request
  *
  * @author auto create
- * @since 1.0, 2024-10-16 16:35:31
+ * @since 1.0, 2025-01-14 14:28:04
  */
 class AlipayCommerceRecycleCharityQueryRequest
 {

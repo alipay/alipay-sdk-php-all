@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.ecny.entwallet.create.query request
  *
  * @author auto create
- * @since 1.0, 2023-05-29 22:35:10
+ * @since 1.0, 2025-01-22 18:33:54
  */
 class MybankEcnyEntwalletCreateQueryRequest
 {

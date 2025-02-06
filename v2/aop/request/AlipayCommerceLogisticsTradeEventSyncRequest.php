@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.trade.event.sync request
  *
  * @author auto create
- * @since 1.0, 2024-10-24 20:36:58
+ * @since 1.0, 2024-12-23 17:22:23
  */
 class AlipayCommerceLogisticsTradeEventSyncRequest
 {

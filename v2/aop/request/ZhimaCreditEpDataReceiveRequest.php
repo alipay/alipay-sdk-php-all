@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.data.receive request
  *
  * @author auto create
- * @since 1.0, 2024-11-05 10:32:21
+ * @since 1.0, 2024-12-25 11:33:56
  */
 class ZhimaCreditEpDataReceiveRequest
 {
