@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.medagent.knowledge.append request
  *
  * @author auto create
- * @since 1.0, 2025-01-23 10:32:21
+ * @since 1.0, 2025-02-14 10:47:57
  */
 class AlipayCommerceMedicalMedagentKnowledgeAppendRequest
 {

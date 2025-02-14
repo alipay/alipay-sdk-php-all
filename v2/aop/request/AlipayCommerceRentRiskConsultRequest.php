@@ -3,12 +3,12 @@
  * ALIPAY API: alipay.commerce.rent.risk.consult request
  *
  * @author auto create
- * @since 1.0, 2025-01-24 17:32:22
+ * @since 1.0, 2025-02-13 14:57:21
  */
 class AlipayCommerceRentRiskConsultRequest
 {
 	/** 
-	 * 智安通风险咨询API
+	 * 租赁智能风险咨询（智安盾免费版）
 	 **/
 	private $bizContent;
 
