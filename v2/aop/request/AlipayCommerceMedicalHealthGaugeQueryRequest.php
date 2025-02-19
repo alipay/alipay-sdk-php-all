@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.offline.provider.collaborate.devicebind.apply request
+ * ALIPAY API: alipay.commerce.medical.health.gauge.query request
  *
  * @author auto create
- * @since 1.0, 2025-02-17 14:37:23
+ * @since 1.0, 2025-02-17 15:52:23
  */
-class AlipayOfflineProviderCollaborateDevicebindApplyRequest
+class AlipayCommerceMedicalHealthGaugeQueryRequest
 {
 	/** 
-	 * 设备绑定申请
+	 * 量表自测列表查询
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOfflineProviderCollaborateDevicebindApplyRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.offline.provider.collaborate.devicebind.apply";
+		return "alipay.commerce.medical.health.gauge.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

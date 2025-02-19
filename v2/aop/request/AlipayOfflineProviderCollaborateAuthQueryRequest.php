@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.offline.provider.collaborate.devicebind.apply request
+ * ALIPAY API: alipay.offline.provider.collaborate.auth.query request
  *
  * @author auto create
- * @since 1.0, 2025-02-17 14:37:23
+ * @since 1.0, 2025-02-14 18:42:22
  */
-class AlipayOfflineProviderCollaborateDevicebindApplyRequest
+class AlipayOfflineProviderCollaborateAuthQueryRequest
 {
 	/** 
-	 * 设备绑定申请
+	 * 授权申请单查询
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOfflineProviderCollaborateDevicebindApplyRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.offline.provider.collaborate.devicebind.apply";
+		return "alipay.offline.provider.collaborate.auth.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

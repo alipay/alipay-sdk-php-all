@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.offline.provider.collaborate.devicebind.apply request
+ * ALIPAY API: alipay.ebpp.industry.bot.query.recommend request
  *
  * @author auto create
- * @since 1.0, 2025-02-17 14:37:23
+ * @since 1.0, 2025-02-18 18:37:25
  */
-class AlipayOfflineProviderCollaborateDevicebindApplyRequest
+class AlipayEbppIndustryBotQueryRecommendRequest
 {
 	/** 
-	 * 设备绑定申请
+	 * 行业智能助理机器人继续问推荐
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOfflineProviderCollaborateDevicebindApplyRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.offline.provider.collaborate.devicebind.apply";
+		return "alipay.ebpp.industry.bot.query.recommend";
 	}
 
 	public function setNotifyUrl($notifyUrl)

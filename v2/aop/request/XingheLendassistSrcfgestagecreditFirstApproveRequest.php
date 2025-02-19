@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.offline.provider.collaborate.devicebind.apply request
+ * ALIPAY API: xinghe.lendassist.srcfgestagecredit.first.approve request
  *
  * @author auto create
- * @since 1.0, 2025-02-17 14:37:23
+ * @since 1.0, 2025-02-14 19:47:23
  */
-class AlipayOfflineProviderCollaborateDevicebindApplyRequest
+class XingheLendassistSrcfgestagecreditFirstApproveRequest
 {
 	/** 
-	 * 设备绑定申请
+	 * 政企团购分期授信初审
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayOfflineProviderCollaborateDevicebindApplyRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.offline.provider.collaborate.devicebind.apply";
+		return "xinghe.lendassist.srcfgestagecredit.first.approve";
 	}
 
 	public function setNotifyUrl($notifyUrl)
