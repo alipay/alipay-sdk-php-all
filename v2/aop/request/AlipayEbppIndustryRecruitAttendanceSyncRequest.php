@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.recruit.attendance.sync request
  *
  * @author auto create
- * @since 1.0, 2025-01-17 16:17:23
+ * @since 1.0, 2025-03-11 16:52:28
  */
 class AlipayEbppIndustryRecruitAttendanceSyncRequest
 {

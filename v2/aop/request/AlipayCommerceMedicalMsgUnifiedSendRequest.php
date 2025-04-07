@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.msg.unified.send request
  *
  * @author auto create
- * @since 1.0, 2024-12-20 11:32:24
+ * @since 1.0, 2025-03-24 11:06:09
  */
 class AlipayCommerceMedicalMsgUnifiedSendRequest
 {

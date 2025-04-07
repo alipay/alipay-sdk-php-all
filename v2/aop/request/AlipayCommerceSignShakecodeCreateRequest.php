@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sign.shakecode.create request
  *
  * @author auto create
- * @since 1.0, 2024-10-30 15:47:21
+ * @since 1.0, 2025-04-02 11:03:15
  */
 class AlipayCommerceSignShakecodeCreateRequest
 {

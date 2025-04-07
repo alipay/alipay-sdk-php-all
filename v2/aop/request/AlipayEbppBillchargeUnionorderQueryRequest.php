@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.billcharge.unionorder.query request
  *
  * @author auto create
- * @since 1.0, 2025-01-13 14:23:32
+ * @since 1.0, 2025-03-19 13:12:25
  */
 class AlipayEbppBillchargeUnionorderQueryRequest
 {

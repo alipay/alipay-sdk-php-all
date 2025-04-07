@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.order.external.paychannel.sync request
  *
  * @author auto create
- * @since 1.0, 2024-09-23 10:38:13
+ * @since 1.0, 2025-02-26 10:59:17
  */
 class AlipayMerchantOrderExternalPaychannelSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.insserviceprod.serprivacy.apply request
  *
  * @author auto create
- * @since 1.0, 2025-01-13 16:52:22
+ * @since 1.0, 2025-03-07 11:42:28
  */
 class AlipayInsSceneInsserviceprodSerprivacyApplyRequest
 {

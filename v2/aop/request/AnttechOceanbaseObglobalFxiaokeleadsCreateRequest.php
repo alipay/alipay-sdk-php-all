@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.obglobal.fxiaokeleads.create request
  *
  * @author auto create
- * @since 1.0, 2024-12-30 17:57:25
+ * @since 1.0, 2025-03-11 17:32:28
  */
 class AnttechOceanbaseObglobalFxiaokeleadsCreateRequest
 {

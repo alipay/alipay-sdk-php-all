@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.enterprisepay.group.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-11 19:16:54
+ * @since 1.0, 2025-04-07 17:13:31
  */
 class AlipayFundEnterprisepayGroupQueryRequest
 {

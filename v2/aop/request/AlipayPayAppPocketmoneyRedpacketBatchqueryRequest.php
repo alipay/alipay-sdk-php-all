@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.pocketmoney.redpacket.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-11-27 11:17:17
+ * @since 1.0, 2025-02-25 11:30:46
  */
 class AlipayPayAppPocketmoneyRedpacketBatchqueryRequest
 {

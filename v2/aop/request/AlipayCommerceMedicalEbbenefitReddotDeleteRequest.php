@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.ebbenefit.reddot.delete request
  *
  * @author auto create
- * @since 1.0, 2025-01-08 15:32:22
+ * @since 1.0, 2025-03-13 16:47:25
  */
 class AlipayCommerceMedicalEbbenefitReddotDeleteRequest
 {

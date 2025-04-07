@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.order.aftersale.sync request
  *
  * @author auto create
- * @since 1.0, 2025-01-10 17:22:24
+ * @since 1.0, 2025-03-20 11:32:28
  */
 class AlipayOpenMiniOrderAftersaleSyncRequest
 {

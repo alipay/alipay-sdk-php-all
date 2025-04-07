@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.tppsync.query request
  *
  * @author auto create
- * @since 1.0, 2025-01-13 17:47:21
+ * @since 1.0, 2025-03-28 16:12:26
  */
 class ZhimaCreditEpTppsyncQueryRequest
 {

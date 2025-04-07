@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.point.history.query request
  *
  * @author auto create
- * @since 1.0, 2024-10-08 11:38:20
+ * @since 1.0, 2025-04-03 11:14:59
  */
 class AlipayCommerceOperationPointHistoryQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.pocketmoney.promo.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-01-13 14:27:21
+ * @since 1.0, 2025-03-11 10:52:06
  */
 class AlipayPayAppPocketmoneyPromoBatchqueryRequest
 {

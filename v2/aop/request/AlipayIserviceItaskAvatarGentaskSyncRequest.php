@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.itask.avatar.gentask.sync request
  *
  * @author auto create
- * @since 1.0, 2024-10-30 13:37:11
+ * @since 1.0, 2025-03-28 10:07:28
  */
 class AlipayIserviceItaskAvatarGentaskSyncRequest
 {

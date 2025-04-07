@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.promoter.qrcode.query request
  *
  * @author auto create
- * @since 1.0, 2024-10-08 11:38:22
+ * @since 1.0, 2025-04-03 11:13:43
  */
 class AlipayCommerceOperationPromoterQrcodeQueryRequest
 {

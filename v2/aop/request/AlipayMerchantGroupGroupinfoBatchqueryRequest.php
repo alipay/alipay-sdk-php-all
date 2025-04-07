@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.group.groupinfo.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-09-05 18:09:40
+ * @since 1.0, 2025-04-07 14:00:47
  */
 class AlipayMerchantGroupGroupinfoBatchqueryRequest
 {

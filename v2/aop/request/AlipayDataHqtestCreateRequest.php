@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.hqtest.create request
  *
  * @author auto create
- * @since 1.0, 2025-02-05 17:12:25
+ * @since 1.0, 2025-04-01 15:02:28
  */
 class AlipayDataHqtestCreateRequest
 {

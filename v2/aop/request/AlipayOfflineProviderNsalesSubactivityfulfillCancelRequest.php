@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.nsales.subactivityfulfill.cancel request
  *
  * @author auto create
- * @since 1.0, 2025-02-10 21:27:23
+ * @since 1.0, 2025-02-27 14:32:25
  */
 class AlipayOfflineProviderNsalesSubactivityfulfillCancelRequest
 {

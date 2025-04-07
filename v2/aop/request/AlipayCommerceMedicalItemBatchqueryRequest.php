@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.item.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-02-14 11:17:23
+ * @since 1.0, 2025-03-18 15:42:25
  */
 class AlipayCommerceMedicalItemBatchqueryRequest
 {

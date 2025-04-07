@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.rentcar.quoteadv.query request
  *
  * @author auto create
- * @since 1.0, 2025-02-14 17:21:32
+ * @since 1.0, 2025-02-25 10:47:25
  */
 class AlipayEcoMycarRentcarQuoteadvQueryRequest
 {
