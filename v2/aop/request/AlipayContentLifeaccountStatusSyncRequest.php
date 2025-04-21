@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.lifeaccount.status.sync request
  *
  * @author auto create
- * @since 1.0, 2025-04-07 15:08:17
+ * @since 1.0, 2025-04-18 14:06:22
  */
 class AlipayContentLifeaccountStatusSyncRequest
 {

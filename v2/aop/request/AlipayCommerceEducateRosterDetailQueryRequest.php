@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.roster.detail.query request
  *
  * @author auto create
- * @since 1.0, 2024-11-04 15:07:21
+ * @since 1.0, 2025-04-17 20:07:27
  */
 class AlipayCommerceEducateRosterDetailQueryRequest
 {

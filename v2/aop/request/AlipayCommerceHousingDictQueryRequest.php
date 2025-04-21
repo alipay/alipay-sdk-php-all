@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.housing.dict.query request
  *
  * @author auto create
- * @since 1.0, 2025-03-19 14:12:26
+ * @since 1.0, 2025-04-14 11:12:26
  */
 class AlipayCommerceHousingDictQueryRequest
 {

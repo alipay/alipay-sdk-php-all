@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.group.promotechannel.create request
  *
  * @author auto create
- * @since 1.0, 2024-09-30 16:37:12
+ * @since 1.0, 2025-04-15 20:12:28
  */
 class AlipayMerchantGroupPromotechannelCreateRequest
 {

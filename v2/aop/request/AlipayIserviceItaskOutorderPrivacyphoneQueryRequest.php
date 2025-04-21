@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.itask.outorder.privacyphone.query request
  *
  * @author auto create
- * @since 1.0, 2024-12-16 14:17:23
+ * @since 1.0, 2025-04-15 11:47:26
  */
 class AlipayIserviceItaskOutorderPrivacyphoneQueryRequest
 {

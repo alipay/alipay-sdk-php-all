@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.qcreport.upload request
  *
  * @author auto create
- * @since 1.0, 2025-04-07 14:57:25
+ * @since 1.0, 2025-04-14 20:47:26
  */
 class AlipayCommerceRecycleQcreportUploadRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.campaign.discount.status.update request
  *
  * @author auto create
- * @since 1.0, 2024-09-11 13:34:00
+ * @since 1.0, 2025-04-21 10:28:44
  */
 class AlipayMarketingCampaignDiscountStatusUpdateRequest
 {

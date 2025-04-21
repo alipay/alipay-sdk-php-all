@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.nft.asset.nftid.query request
  *
  * @author auto create
- * @since 1.0, 2025-03-18 10:42:29
+ * @since 1.0, 2025-04-17 17:42:27
  */
 class AnttechNftAssetNftidQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.item.price.modify request
  *
  * @author auto create
- * @since 1.0, 2024-11-18 17:32:20
+ * @since 1.0, 2025-04-14 15:52:28
  */
 class AlipayCommerceMedicalItemPriceModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.loan.consult request
  *
  * @author auto create
- * @since 1.0, 2025-04-02 16:32:26
+ * @since 1.0, 2025-04-10 15:12:29
  */
 class AlipayCommerceRentLoanConsultRequest
 {

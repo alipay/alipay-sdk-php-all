@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.servicemarket.test.jianhui.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-01 16:27:29
+ * @since 1.0, 2025-04-10 11:19:05
  */
 class AlipayOpenServicemarketTestJianhuiQueryRequest
 {

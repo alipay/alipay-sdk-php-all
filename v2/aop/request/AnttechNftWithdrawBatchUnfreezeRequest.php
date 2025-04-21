@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.nft.withdraw.batch.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2025-03-31 10:22:28
+ * @since 1.0, 2025-04-17 17:37:28
  */
 class AnttechNftWithdrawBatchUnfreezeRequest
 {

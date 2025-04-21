@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.rightsorder.pre.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-03 15:12:34
+ * @since 1.0, 2025-04-09 16:32:29
  */
 class AlipayInsRightsorderPreQueryRequest
 {

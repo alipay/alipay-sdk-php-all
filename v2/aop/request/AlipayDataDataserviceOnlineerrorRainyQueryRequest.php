@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.data.dataservice.onlineerror.rainy.query request
  *
  * @author auto create
- * @since 1.0, 2024-11-04 14:22:20
+ * @since 1.0, 2025-04-16 10:12:33
  */
 class AlipayDataDataserviceOnlineerrorRainyQueryRequest
 {
+	/** 
+	 * 线上问题回归测试验证02无参数
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipayDataDataserviceOnlineerrorRainyQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.data.dataservice.onlineerror.rainy.query";

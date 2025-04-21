@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.verification.trade.audit request
  *
  * @author auto create
- * @since 1.0, 2025-04-02 17:36:12
+ * @since 1.0, 2025-04-11 12:02:27
  */
 class AlipayMarketingVerificationTradeAuditRequest
 {
@@ -16,6 +16,11 @@ class AlipayMarketingVerificationTradeAuditRequest
 	 * 审计相关业务信息，若审计结果未提交或未通过，则每次请求覆盖上次业务参数。审计已通过则不允许重新提交。
 	 **/
 	private $bizInfo;
+	
+	/** 
+	 * 送货清单，转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $deliveryListContent;
 	
 	/** 
 	 * 辅助文件信息，如四码照片，转为字节流传递，要求为jpg、jpeg、png格式
@@ -31,6 +36,11 @@ class AlipayMarketingVerificationTradeAuditRequest
 	 * 外部订单号
 	 **/
 	private $outTradeNo;
+	
+	/** 
+	 * 销货清单，转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $salesListContent;
 	
 	/** 
 	 * 支付宝分配的场景编码，用于识别活动场景及区域等信息
@@ -69,6 +79,17 @@ class AlipayMarketingVerificationTradeAuditRequest
 		return $this->bizInfo;
 	}
 
+	public function setDeliveryListContent($deliveryListContent)
+	{
+		$this->deliveryListContent = $deliveryListContent;
+		$this->apiParas["delivery_list_content"] = $deliveryListContent;
+	}
+
+	public function getDeliveryListContent()
+	{
+		return $this->deliveryListContent;
+	}
+
 	public function setEvidentiaryContent($evidentiaryContent)
 	{
 		$this->evidentiaryContent = $evidentiaryContent;
@@ -100,6 +121,17 @@ class AlipayMarketingVerificationTradeAuditRequest
 	public function getOutTradeNo()
 	{
 		return $this->outTradeNo;
+	}
+
+	public function setSalesListContent($salesListContent)
+	{
+		$this->salesListContent = $salesListContent;
+		$this->apiParas["sales_list_content"] = $salesListContent;
+	}
+
+	public function getSalesListContent()
+	{
+		return $this->salesListContent;
 	}
 
 	public function setSceneCode($sceneCode)

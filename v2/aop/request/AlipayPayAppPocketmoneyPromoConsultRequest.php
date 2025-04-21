@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.app.pocketmoney.promo.consult request
  *
  * @author auto create
- * @since 1.0, 2025-03-11 10:50:35
+ * @since 1.0, 2025-04-09 21:37:29
  */
 class AlipayPayAppPocketmoneyPromoConsultRequest
 {

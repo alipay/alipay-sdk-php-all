@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.nft.oauthtoken.apply request
  *
  * @author auto create
- * @since 1.0, 2025-03-19 11:57:29
+ * @since 1.0, 2025-04-17 17:42:27
  */
 class AnttechNftOauthtokenApplyRequest
 {

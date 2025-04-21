@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.housing.apartment.offline request
  *
  * @author auto create
- * @since 1.0, 2025-03-04 13:47:26
+ * @since 1.0, 2025-04-14 11:17:28
  */
 class AlipayCommerceHousingApartmentOfflineRequest
 {
