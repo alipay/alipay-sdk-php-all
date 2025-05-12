@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.bot.query.recommend request
  *
  * @author auto create
- * @since 1.0, 2025-02-18 18:37:25
+ * @since 1.0, 2025-04-25 16:37:26
  */
 class AlipayEbppIndustryBotQueryRecommendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.cityfacilitator.nlink.urlsecurity.sign request
  *
  * @author auto create
- * @since 1.0, 2025-04-21 09:32:13
+ * @since 1.0, 2025-04-29 10:37:27
  */
 class AlipayCommerceCityfacilitatorNlinkUrlsecuritySignRequest
 {

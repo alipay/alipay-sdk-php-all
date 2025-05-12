@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.eco.nfc.bind request
  *
  * @author auto create
- * @since 1.0, 2025-03-06 18:02:25
+ * @since 1.0, 2025-04-25 10:02:28
  */
 class AntMerchantExpandEcoNfcBindRequest
 {

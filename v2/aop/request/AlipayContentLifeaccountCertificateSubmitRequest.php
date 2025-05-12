@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.lifeaccount.certificate.submit request
  *
  * @author auto create
- * @since 1.0, 2025-04-09 10:17:46
+ * @since 1.0, 2025-04-28 19:12:27
  */
 class AlipayContentLifeaccountCertificateSubmitRequest
 {

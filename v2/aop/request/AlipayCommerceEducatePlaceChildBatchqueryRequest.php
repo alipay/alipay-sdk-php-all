@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.place.child.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-04-21 17:57:26
+ * @since 1.0, 2025-04-22 21:17:25
  */
 class AlipayCommerceEducatePlaceChildBatchqueryRequest
 {

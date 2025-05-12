@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.gamecenter.gamerights.trigger request
  *
  * @author auto create
- * @since 1.0, 2025-04-11 10:32:27
+ * @since 1.0, 2025-05-09 01:02:24
  */
 class AlipaySocialGamecenterGamerightsTriggerRequest
 {

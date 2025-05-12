@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.portfolio.check request
  *
  * @author auto create
- * @since 1.0, 2025-01-09 10:37:22
+ * @since 1.0, 2025-04-23 16:37:26
  */
 class AntfortuneStockPortfolioCheckRequest
 {

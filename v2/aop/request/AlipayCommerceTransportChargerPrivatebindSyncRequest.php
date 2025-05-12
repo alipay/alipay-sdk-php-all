@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.charger.privatebind.sync request
  *
  * @author auto create
- * @since 1.0, 2024-12-04 16:07:19
+ * @since 1.0, 2025-05-06 17:32:30
  */
 class AlipayCommerceTransportChargerPrivatebindSyncRequest
 {

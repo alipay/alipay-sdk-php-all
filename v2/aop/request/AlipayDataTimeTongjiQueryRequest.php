@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.time.tongji.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-17 10:32:28
+ * @since 1.0, 2025-04-23 17:17:28
  */
 class AlipayDataTimeTongjiQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.verifyidentity.voiceprint.verify request
  *
  * @author auto create
- * @since 1.0, 2025-04-18 13:42:27
+ * @since 1.0, 2025-05-07 17:12:25
  */
 class AlipaySecurityRiskVerifyidentityVoiceprintVerifyRequest
 {

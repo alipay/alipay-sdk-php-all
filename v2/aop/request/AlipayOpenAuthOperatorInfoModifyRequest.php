@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.auth.operator.info.modify request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 17:41:21
+ * @since 1.0, 2025-04-27 14:27:30
  */
 class AlipayOpenAuthOperatorInfoModifyRequest
 {

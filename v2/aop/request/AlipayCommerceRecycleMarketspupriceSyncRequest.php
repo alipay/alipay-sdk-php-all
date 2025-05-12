@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.marketspuprice.sync request
  *
  * @author auto create
- * @since 1.0, 2025-04-14 19:39:03
+ * @since 1.0, 2025-04-22 15:42:27
  */
 class AlipayCommerceRecycleMarketspupriceSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.lifeaccount.info.modify request
  *
  * @author auto create
- * @since 1.0, 2025-04-18 14:06:08
+ * @since 1.0, 2025-04-28 19:12:27
  */
 class AlipayContentLifeaccountInfoModifyRequest
 {

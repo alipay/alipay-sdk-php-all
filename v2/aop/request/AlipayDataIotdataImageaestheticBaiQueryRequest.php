@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.iotdata.imageaesthetic.bai.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 17:31:49
+ * @since 1.0, 2025-04-29 15:07:28
  */
 class AlipayDataIotdataImageaestheticBaiQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.version.audit request
  *
  * @author auto create
- * @since 1.0, 2025-04-18 16:12:29
+ * @since 1.0, 2025-04-29 17:16:51
  */
 class AlipayOpenAgentVersionAuditRequest
 {

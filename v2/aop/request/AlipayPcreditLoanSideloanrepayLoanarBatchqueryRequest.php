@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.sideloanrepay.loanar.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-12-02 17:42:15
+ * @since 1.0, 2025-04-25 14:02:28
  */
 class AlipayPcreditLoanSideloanrepayLoanarBatchqueryRequest
 {

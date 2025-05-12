@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.opportunity.leads.create request
  *
  * @author auto create
- * @since 1.0, 2025-04-17 14:39:22
+ * @since 1.0, 2025-04-25 20:07:28
  */
 class AlipayCommerceOperationOpportunityLeadsCreateRequest
 {
