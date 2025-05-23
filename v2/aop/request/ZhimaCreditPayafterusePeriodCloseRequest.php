@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.payafteruse.period.close request
  *
  * @author auto create
- * @since 1.0, 2025-04-25 14:22:26
+ * @since 1.0, 2025-05-13 15:07:25
  */
 class ZhimaCreditPayafterusePeriodCloseRequest
 {

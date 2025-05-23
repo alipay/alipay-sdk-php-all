@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.gfcreditcontrol.riskdetectionservice.query request
  *
  * @author auto create
- * @since 1.0, 2025-02-27 11:02:25
+ * @since 1.0, 2025-05-15 17:07:27
  */
 class AlipayBossFncGfcreditcontrolRiskdetectionserviceQueryRequest
 {

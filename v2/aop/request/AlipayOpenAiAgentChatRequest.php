@@ -3,12 +3,12 @@
  * ALIPAY API: alipay.open.ai.agent.chat request
  *
  * @author auto create
- * @since 1.0, 2025-05-09 15:43:23
+ * @since 1.0, 2025-05-12 14:12:27
  */
 class AlipayOpenAiAgentChatRequest
 {
 	/** 
-	 * 智能应用对话服务
+	 * 该能力为智能体开放对话服务，开发者可基于O站开放生态，通过智能体编排能力快速搭建智能体服务能力并且可通过以智能体应用为主体发起openapi调用。 
 	 **/
 	private $bizContent;
 

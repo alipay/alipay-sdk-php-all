@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.cbddoctor.status.sync request
  *
  * @author auto create
- * @since 1.0, 2025-04-16 15:03:11
+ * @since 1.0, 2025-05-12 11:42:25
  */
 class AlipayInsCbddoctorStatusSyncRequest
 {

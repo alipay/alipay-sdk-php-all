@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.recyclinginvoice.order.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-09 20:32:51
+ * @since 1.0, 2025-05-16 10:57:27
  */
 class AlipayCommerceEcRecyclinginvoiceOrderQueryRequest
 {

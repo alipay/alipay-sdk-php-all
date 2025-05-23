@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.recyclinginvoice.order.cancel request
  *
  * @author auto create
- * @since 1.0, 2025-04-22 16:22:31
+ * @since 1.0, 2025-05-16 10:07:27
  */
 class AlipayCommerceEcRecyclinginvoiceOrderCancelRequest
 {

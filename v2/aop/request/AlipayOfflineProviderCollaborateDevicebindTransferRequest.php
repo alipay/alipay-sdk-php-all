@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.collaborate.devicebind.transfer request
  *
  * @author auto create
- * @since 1.0, 2025-03-10 11:07:28
+ * @since 1.0, 2025-05-16 18:06:16
  */
 class AlipayOfflineProviderCollaborateDevicebindTransferRequest
 {

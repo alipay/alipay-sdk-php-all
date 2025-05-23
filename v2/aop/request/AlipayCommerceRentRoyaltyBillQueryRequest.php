@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.royalty.bill.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-28 17:30:12
+ * @since 1.0, 2025-05-14 10:57:27
  */
 class AlipayCommerceRentRoyaltyBillQueryRequest
 {

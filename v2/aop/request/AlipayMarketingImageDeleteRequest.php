@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.image.delete request
  *
  * @author auto create
- * @since 1.0, 2024-09-26 11:12:12
+ * @since 1.0, 2025-05-21 15:40:41
  */
 class AlipayMarketingImageDeleteRequest
 {

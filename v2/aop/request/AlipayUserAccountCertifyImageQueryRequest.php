@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.certify.image.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-12 10:18:22
+ * @since 1.0, 2025-05-12 10:22:26
  */
 class AlipayUserAccountCertifyImageQueryRequest
 {
