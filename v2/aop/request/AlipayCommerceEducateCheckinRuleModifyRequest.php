@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.checkin.rule.modify request
  *
  * @author auto create
- * @since 1.0, 2025-04-29 14:16:21
+ * @since 1.0, 2025-06-09 10:02:30
  */
 class AlipayCommerceEducateCheckinRuleModifyRequest
 {

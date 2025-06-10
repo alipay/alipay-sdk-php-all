@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.channelsale.voucher.create request
  *
  * @author auto create
- * @since 1.0, 2025-05-20 10:04:53
+ * @since 1.0, 2025-06-05 10:42:28
  */
 class AlipayInsSceneChannelsaleVoucherCreateRequest
 {

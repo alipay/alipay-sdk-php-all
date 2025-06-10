@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.community.deliveryidentity.detect request
  *
  * @author auto create
- * @since 1.0, 2025-05-23 10:01:53
+ * @since 1.0, 2025-05-24 20:22:26
  */
 class AlipayEbppCommunityDeliveryidentityDetectRequest
 {

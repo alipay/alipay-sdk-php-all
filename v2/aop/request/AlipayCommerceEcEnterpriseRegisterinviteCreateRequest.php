@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.enterprise.registerinvite.create request
  *
  * @author auto create
- * @since 1.0, 2025-04-23 19:07:27
+ * @since 1.0, 2025-06-05 20:17:26
  */
 class AlipayCommerceEcEnterpriseRegisterinviteCreateRequest
 {

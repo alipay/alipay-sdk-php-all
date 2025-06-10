@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.live.liveroom.stream.upload request
  *
  * @author auto create
- * @since 1.0, 2025-04-29 14:32:27
+ * @since 1.0, 2025-05-27 10:47:25
  */
 class AlipayContentLiveLiveroomStreamUploadRequest
 {

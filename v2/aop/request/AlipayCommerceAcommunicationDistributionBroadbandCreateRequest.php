@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.distribution.broadband.create request
  *
  * @author auto create
- * @since 1.0, 2024-11-08 11:47:17
+ * @since 1.0, 2025-05-29 14:16:15
  */
 class AlipayCommerceAcommunicationDistributionBroadbandCreateRequest
 {

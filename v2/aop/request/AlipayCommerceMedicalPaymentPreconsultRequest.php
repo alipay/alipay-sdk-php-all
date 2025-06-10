@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.payment.preconsult request
  *
  * @author auto create
- * @since 1.0, 2025-05-19 17:24:25
+ * @since 1.0, 2025-05-26 16:12:26
  */
 class AlipayCommerceMedicalPaymentPreconsultRequest
 {

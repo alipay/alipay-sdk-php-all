@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.roster.info.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-04-17 20:07:28
+ * @since 1.0, 2025-06-09 10:02:29
  */
 class AlipayCommerceEducateRosterInfoBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etcenterprise.vehicle.query request
  *
  * @author auto create
- * @since 1.0, 2025-03-12 16:07:28
+ * @since 1.0, 2025-05-29 17:43:36
  */
 class AlipayCommerceTransportEtcenterpriseVehicleQueryRequest
 {

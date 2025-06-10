@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.ai.device.pay.callback request
  *
  * @author auto create
- * @since 1.0, 2025-02-19 10:27:23
+ * @since 1.0, 2025-06-04 18:17:26
  */
 class AnttechAiDevicePayCallbackRequest
 {

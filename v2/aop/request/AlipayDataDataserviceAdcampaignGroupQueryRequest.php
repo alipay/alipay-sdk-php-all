@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.adcampaign.group.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-12 16:22:27
+ * @since 1.0, 2025-06-09 15:52:22
  */
 class AlipayDataDataserviceAdcampaignGroupQueryRequest
 {

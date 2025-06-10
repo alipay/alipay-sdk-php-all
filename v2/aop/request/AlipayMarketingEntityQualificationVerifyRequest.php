@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.entity.qualification.verify request
  *
  * @author auto create
- * @since 1.0, 2025-01-18 22:57:22
+ * @since 1.0, 2025-05-29 14:37:26
  */
 class AlipayMarketingEntityQualificationVerifyRequest
 {

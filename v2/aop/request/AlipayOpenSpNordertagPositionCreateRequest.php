@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.nordertag.position.create request
  *
  * @author auto create
- * @since 1.0, 2025-05-06 16:47:27
+ * @since 1.0, 2025-06-03 15:12:28
  */
 class AlipayOpenSpNordertagPositionCreateRequest
 {

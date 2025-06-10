@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.freightflow.traderesult.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-07 10:12:27
+ * @since 1.0, 2025-06-04 13:17:27
  */
 class AlipayCommerceLogisticsFreightflowTraderesultQueryRequest
 {

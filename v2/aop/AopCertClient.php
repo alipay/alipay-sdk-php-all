@@ -59,7 +59,7 @@ class AopCertClient
 
     public $encryptType = "AES";
 
-    protected $alipaySdkVersion = "alipay-sdk-PHP-4.20.588.ALL";
+    protected $alipaySdkVersion = "alipay-sdk-PHP-4.20.610.ALL";
 
     private $fileCharset = "UTF-8";
 
