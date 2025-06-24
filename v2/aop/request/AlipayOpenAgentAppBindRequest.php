@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.app.bind request
  *
  * @author auto create
- * @since 1.0, 2025-06-04 13:48:18
+ * @since 1.0, 2025-06-17 11:27:30
  */
 class AlipayOpenAgentAppBindRequest
 {

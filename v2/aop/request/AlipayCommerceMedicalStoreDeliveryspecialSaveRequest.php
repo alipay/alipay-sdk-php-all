@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.store.deliveryspecial.save request
  *
  * @author auto create
- * @since 1.0, 2025-03-20 15:32:28
+ * @since 1.0, 2025-06-20 09:42:28
  */
 class AlipayCommerceMedicalStoreDeliveryspecialSaveRequest
 {

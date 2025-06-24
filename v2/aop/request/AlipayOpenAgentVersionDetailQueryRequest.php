@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.agent.version.detail.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-22 10:57:29
+ * @since 1.0, 2025-06-17 11:22:29
  */
 class AlipayOpenAgentVersionDetailQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.nppd.userpoint.delete request
  *
  * @author auto create
- * @since 1.0, 2025-05-27 13:57:57
+ * @since 1.0, 2025-06-11 15:27:28
  */
 class AlipayOpenNppdUserpointDeleteRequest
 {

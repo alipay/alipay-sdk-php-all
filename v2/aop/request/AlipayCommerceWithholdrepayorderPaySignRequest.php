@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.withholdrepayorder.pay.sign request
  *
  * @author auto create
- * @since 1.0, 2025-04-02 11:03:13
+ * @since 1.0, 2025-06-19 13:45:18
  */
 class AlipayCommerceWithholdrepayorderPaySignRequest
 {

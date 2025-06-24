@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.rentroom.area.create request
  *
  * @author auto create
- * @since 1.0, 2024-10-30 11:17:23
+ * @since 1.0, 2025-06-24 07:42:38
  */
 class AlipayOpenAppRentroomAreaCreateRequest
 {

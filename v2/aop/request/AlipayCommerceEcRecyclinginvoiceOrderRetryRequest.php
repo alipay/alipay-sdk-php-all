@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.recyclinginvoice.order.retry request
  *
  * @author auto create
- * @since 1.0, 2025-04-22 16:27:30
+ * @since 1.0, 2025-06-12 16:47:29
  */
 class AlipayCommerceEcRecyclinginvoiceOrderRetryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.deduct.relation.query request
  *
  * @author auto create
- * @since 1.0, 2025-03-28 15:01:38
+ * @since 1.0, 2025-06-20 18:06:17
  */
 class AlipayCommerceRecycleDeductRelationQueryRequest
 {

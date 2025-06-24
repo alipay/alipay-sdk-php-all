@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.freightflow.subaccount.create request
  *
  * @author auto create
- * @since 1.0, 2025-03-19 14:47:26
+ * @since 1.0, 2025-06-23 15:22:30
  */
 class AlipayCommerceLogisticsFreightflowSubaccountCreateRequest
 {
