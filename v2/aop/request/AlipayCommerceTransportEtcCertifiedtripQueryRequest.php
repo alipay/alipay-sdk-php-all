@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.etc.certifiedtrip.query request
  *
  * @author auto create
- * @since 1.0, 2025-06-23 16:58:32
+ * @since 1.0, 2025-07-04 21:27:31
  */
 class AlipayCommerceTransportEtcCertifiedtripQueryRequest
 {

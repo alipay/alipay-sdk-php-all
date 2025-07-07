@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.tax.refund request
  *
  * @author auto create
- * @since 1.0, 2025-06-03 16:12:26
+ * @since 1.0, 2025-07-01 20:32:28
  */
 class AlipayUserTaxRefundRequest
 {

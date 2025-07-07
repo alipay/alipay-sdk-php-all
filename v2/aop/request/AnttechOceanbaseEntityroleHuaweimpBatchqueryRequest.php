@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.entityrole.huaweimp.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-04-21 10:02:31
+ * @since 1.0, 2025-07-04 14:06:58
  */
 class AnttechOceanbaseEntityroleHuaweimpBatchqueryRequest
 {

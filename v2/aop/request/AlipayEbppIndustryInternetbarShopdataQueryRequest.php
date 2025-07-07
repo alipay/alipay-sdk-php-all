@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.internetbar.shopdata.query request
  *
  * @author auto create
- * @since 1.0, 2025-06-22 10:40:30
+ * @since 1.0, 2025-06-30 13:32:28
  */
 class AlipayEbppIndustryInternetbarShopdataQueryRequest
 {

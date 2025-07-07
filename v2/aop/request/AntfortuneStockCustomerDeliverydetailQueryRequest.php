@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.customer.deliverydetail.query request
  *
  * @author auto create
- * @since 1.0, 2024-09-19 17:42:12
+ * @since 1.0, 2025-06-27 14:48:00
  */
 class AntfortuneStockCustomerDeliverydetailQueryRequest
 {

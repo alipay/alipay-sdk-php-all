@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.corpus.batch.publish request
  *
  * @author auto create
- * @since 1.0, 2025-05-29 10:42:29
+ * @since 1.0, 2025-07-01 19:12:34
  */
 class AlipayEbppIndustryCorpusBatchPublishRequest
 {

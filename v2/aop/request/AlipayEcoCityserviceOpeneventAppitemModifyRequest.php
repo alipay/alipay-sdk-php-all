@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.cityservice.openevent.appitem.modify request
  *
  * @author auto create
- * @since 1.0, 2024-11-19 17:47:16
+ * @since 1.0, 2025-06-25 20:20:15
  */
 class AlipayEcoCityserviceOpeneventAppitemModifyRequest
 {

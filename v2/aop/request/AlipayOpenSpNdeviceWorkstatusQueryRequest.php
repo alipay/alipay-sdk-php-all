@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.ndevice.workstatus.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-30 11:57:25
+ * @since 1.0, 2025-07-07 11:17:30
  */
 class AlipayOpenSpNdeviceWorkstatusQueryRequest
 {

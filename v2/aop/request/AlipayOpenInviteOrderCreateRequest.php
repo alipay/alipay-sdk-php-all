@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.invite.order.create request
  *
  * @author auto create
- * @since 1.0, 2023-02-07 16:47:32
+ * @since 1.0, 2025-06-25 20:10:14
  */
 class AlipayOpenInviteOrderCreateRequest
 {

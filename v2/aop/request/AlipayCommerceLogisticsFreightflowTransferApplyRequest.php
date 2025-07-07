@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.freightflow.transfer.apply request
  *
  * @author auto create
- * @since 1.0, 2025-06-23 15:22:30
+ * @since 1.0, 2025-07-02 19:17:32
  */
 class AlipayCommerceLogisticsFreightflowTransferApplyRequest
 {

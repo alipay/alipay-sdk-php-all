@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.smdd.catering.order.create request
  *
  * @author auto create
- * @since 1.0, 2025-04-11 15:42:27
+ * @since 1.0, 2025-06-27 14:17:31
  */
 class AlipayOfflineSmddCateringOrderCreateRequest
 {
