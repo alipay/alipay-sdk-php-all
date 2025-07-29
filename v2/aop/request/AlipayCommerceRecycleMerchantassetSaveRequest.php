@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.merchantasset.save request
  *
  * @author auto create
- * @since 1.0, 2025-07-03 16:22:33
+ * @since 1.0, 2025-07-23 13:42:32
  */
 class AlipayCommerceRecycleMerchantassetSaveRequest
 {

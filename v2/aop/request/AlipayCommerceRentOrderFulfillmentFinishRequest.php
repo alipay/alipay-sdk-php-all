@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.fulfillment.finish request
  *
  * @author auto create
- * @since 1.0, 2025-06-30 20:27:29
+ * @since 1.0, 2025-07-24 19:57:33
  */
 class AlipayCommerceRentOrderFulfillmentFinishRequest
 {

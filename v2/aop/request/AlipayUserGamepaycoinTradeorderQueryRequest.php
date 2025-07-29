@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.gamepaycoin.tradeorder.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-29 16:57:26
+ * @since 1.0, 2025-07-22 20:07:33
  */
 class AlipayUserGamepaycoinTradeorderQueryRequest
 {

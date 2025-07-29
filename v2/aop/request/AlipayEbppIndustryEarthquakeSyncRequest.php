@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.earthquake.sync request
  *
  * @author auto create
- * @since 1.0, 2025-06-04 17:41:12
+ * @since 1.0, 2025-07-09 14:50:58
  */
 class AlipayEbppIndustryEarthquakeSyncRequest
 {

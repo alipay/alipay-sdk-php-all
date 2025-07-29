@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.commercial.performance.verify request
  *
  * @author auto create
- * @since 1.0, 2025-06-04 17:47:26
+ * @since 1.0, 2025-07-15 17:02:33
  */
 class AlipayCommerceMedicalCommercialPerformanceVerifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.insure.order.notify request
  *
  * @author auto create
- * @since 1.0, 2025-07-03 15:32:34
+ * @since 1.0, 2025-07-24 17:47:33
  */
 class AlipayCommerceMedicalInsureOrderNotifyRequest
 {

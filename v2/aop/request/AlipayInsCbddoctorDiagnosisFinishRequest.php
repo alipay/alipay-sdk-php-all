@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.cbddoctor.diagnosis.finish request
  *
  * @author auto create
- * @since 1.0, 2025-07-04 16:13:40
+ * @since 1.0, 2025-07-07 17:27:33
  */
 class AlipayInsCbddoctorDiagnosisFinishRequest
 {

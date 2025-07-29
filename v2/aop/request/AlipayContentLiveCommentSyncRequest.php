@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.live.comment.sync request
  *
  * @author auto create
- * @since 1.0, 2025-05-13 14:02:26
+ * @since 1.0, 2025-07-28 15:37:34
  */
 class AlipayContentLiveCommentSyncRequest
 {

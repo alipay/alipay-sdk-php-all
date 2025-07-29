@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.dtbank.crowd.create request
  *
  * @author auto create
- * @since 1.0, 2025-07-07 11:52:30
+ * @since 1.0, 2025-07-22 14:17:34
  */
 class AlipayUserDtbankCrowdCreateRequest
 {

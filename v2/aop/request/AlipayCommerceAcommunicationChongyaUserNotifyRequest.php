@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.chongya.user.notify request
  *
  * @author auto create
- * @since 1.0, 2025-06-27 13:52:31
+ * @since 1.0, 2025-07-15 10:32:32
  */
 class AlipayCommerceAcommunicationChongyaUserNotifyRequest
 {

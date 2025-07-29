@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.ext.sync request
  *
  * @author auto create
- * @since 1.0, 2025-06-06 15:37:29
+ * @since 1.0, 2025-07-21 14:47:34
  */
 class AlipayCommerceRentOrderExtSyncRequest
 {
@@ -56,6 +56,11 @@ class AlipayCommerceRentOrderExtSyncRequest
 	 * 租赁协议
 	 **/
 	private $financingRentProtocol;
+	
+	/** 
+	 * 历史资产融资扩展信息
+	 **/
+	private $historicalAssetFinancingExtInfo;
 	
 	/** 
 	 * 商品扩展信息
@@ -200,6 +205,17 @@ class AlipayCommerceRentOrderExtSyncRequest
 	public function getFinancingRentProtocol()
 	{
 		return $this->financingRentProtocol;
+	}
+
+	public function setHistoricalAssetFinancingExtInfo($historicalAssetFinancingExtInfo)
+	{
+		$this->historicalAssetFinancingExtInfo = $historicalAssetFinancingExtInfo;
+		$this->apiParas["historical_asset_financing_ext_info"] = $historicalAssetFinancingExtInfo;
+	}
+
+	public function getHistoricalAssetFinancingExtInfo()
+	{
+		return $this->historicalAssetFinancingExtInfo;
 	}
 
 	public function setItemExtInfo($itemExtInfo)

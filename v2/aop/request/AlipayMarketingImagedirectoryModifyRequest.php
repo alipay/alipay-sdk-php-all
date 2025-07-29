@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.imagedirectory.modify request
  *
  * @author auto create
- * @since 1.0, 2025-06-24 13:34:57
+ * @since 1.0, 2025-07-16 14:17:54
  */
 class AlipayMarketingImagedirectoryModifyRequest
 {

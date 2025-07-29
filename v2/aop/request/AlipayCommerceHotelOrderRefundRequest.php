@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.hotel.order.refund request
  *
  * @author auto create
- * @since 1.0, 2025-03-26 10:47:28
+ * @since 1.0, 2025-07-16 14:10:29
  */
 class AlipayCommerceHotelOrderRefundRequest
 {

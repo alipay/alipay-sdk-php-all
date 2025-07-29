@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.nft.ctoc.transferprecheck.checkavailable request
  *
  * @author auto create
- * @since 1.0, 2025-07-02 21:07:12
+ * @since 1.0, 2025-07-08 15:27:31
  */
 class AnttechNftCtocTransferprecheckCheckavailableRequest
 {

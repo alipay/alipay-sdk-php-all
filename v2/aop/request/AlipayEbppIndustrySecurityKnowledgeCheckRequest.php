@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.security.knowledge.check request
  *
  * @author auto create
- * @since 1.0, 2025-06-09 09:42:27
+ * @since 1.0, 2025-07-09 15:13:43
  */
 class AlipayEbppIndustrySecurityKnowledgeCheckRequest
 {

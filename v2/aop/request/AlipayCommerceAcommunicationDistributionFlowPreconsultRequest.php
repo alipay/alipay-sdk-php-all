@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.distribution.flow.preconsult request
  *
  * @author auto create
- * @since 1.0, 2025-06-23 11:33:16
+ * @since 1.0, 2025-07-15 17:02:35
  */
 class AlipayCommerceAcommunicationDistributionFlowPreconsultRequest
 {

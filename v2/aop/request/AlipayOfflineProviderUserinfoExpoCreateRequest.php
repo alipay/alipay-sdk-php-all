@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.userinfo.expo.create request
  *
  * @author auto create
- * @since 1.0, 2025-06-10 19:06:37
+ * @since 1.0, 2025-07-18 14:57:34
  */
 class AlipayOfflineProviderUserinfoExpoCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.finsaas.insurance.opensearch.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-27 10:18:24
+ * @since 1.0, 2025-07-24 21:32:33
  */
 class DatadigitalFincloudFinsaasInsuranceOpensearchQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.paysaas.order.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-14 16:52:26
+ * @since 1.0, 2025-07-16 19:37:30
  */
 class AlipayOfflinePaysaasOrderQueryRequest
 {

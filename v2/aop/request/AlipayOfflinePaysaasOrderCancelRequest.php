@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.paysaas.order.cancel request
  *
  * @author auto create
- * @since 1.0, 2025-03-26 19:37:25
+ * @since 1.0, 2025-07-16 19:37:30
  */
 class AlipayOfflinePaysaasOrderCancelRequest
 {

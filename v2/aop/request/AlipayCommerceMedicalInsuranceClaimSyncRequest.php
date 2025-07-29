@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.insurance.claim.sync request
  *
  * @author auto create
- * @since 1.0, 2025-06-18 10:38:06
+ * @since 1.0, 2025-07-16 16:07:33
  */
 class AlipayCommerceMedicalInsuranceClaimSyncRequest
 {

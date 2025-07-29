@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.poster.batch.modify request
  *
  * @author auto create
- * @since 1.0, 2025-07-07 11:00:23
+ * @since 1.0, 2025-07-16 15:37:31
  */
 class AlipayPayPosterBatchModifyRequest
 {
@@ -11,6 +11,11 @@ class AlipayPayPosterBatchModifyRequest
 	 * 用户设备投放范围变更覆盖
 	 **/
 	private $deviceFile;
+	
+	/** 
+	 * 编辑操作人
+	 **/
+	private $deviceIds;
 	
 	/** 
 	 * 海报结束时间
@@ -21,6 +26,11 @@ class AlipayPayPosterBatchModifyRequest
 	 * 海报图片链接
 	 **/
 	private $imgUrl;
+	
+	/** 
+	 * 货柜对应的商家id
+	 **/
+	private $merchantId;
 	
 	/** 
 	 * 是否进行活动下线
@@ -63,6 +73,17 @@ class AlipayPayPosterBatchModifyRequest
 		return $this->deviceFile;
 	}
 
+	public function setDeviceIds($deviceIds)
+	{
+		$this->deviceIds = $deviceIds;
+		$this->apiParas["device_ids"] = $deviceIds;
+	}
+
+	public function getDeviceIds()
+	{
+		return $this->deviceIds;
+	}
+
 	public function setEndTime($endTime)
 	{
 		$this->endTime = $endTime;
@@ -83,6 +104,17 @@ class AlipayPayPosterBatchModifyRequest
 	public function getImgUrl()
 	{
 		return $this->imgUrl;
+	}
+
+	public function setMerchantId($merchantId)
+	{
+		$this->merchantId = $merchantId;
+		$this->apiParas["merchant_id"] = $merchantId;
+	}
+
+	public function getMerchantId()
+	{
+		return $this->merchantId;
 	}
 
 	public function setOffline($offline)
