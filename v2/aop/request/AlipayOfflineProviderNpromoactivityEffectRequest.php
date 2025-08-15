@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.npromoactivity.effect request
  *
  * @author auto create
- * @since 1.0, 2024-11-29 15:43:51
+ * @since 1.0, 2025-08-07 12:32:37
  */
 class AlipayOfflineProviderNpromoactivityEffectRequest
 {

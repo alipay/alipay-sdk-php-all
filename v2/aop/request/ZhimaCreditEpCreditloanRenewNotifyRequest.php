@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.creditloan.renew.notify request
  *
  * @author auto create
- * @since 1.0, 2024-12-03 10:27:19
+ * @since 1.0, 2025-08-04 13:43:51
  */
 class ZhimaCreditEpCreditloanRenewNotifyRequest
 {

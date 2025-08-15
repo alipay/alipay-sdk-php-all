@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.marketing.aiplayfieldbus.userpoint.pay request
  *
  * @author auto create
- * @since 1.0, 2025-07-02 15:04:48
+ * @since 1.0, 2025-08-07 10:07:37
  */
 class AlipayOfflineMarketingAiplayfieldbusUserpointPayRequest
 {

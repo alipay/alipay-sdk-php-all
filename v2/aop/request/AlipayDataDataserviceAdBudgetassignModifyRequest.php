@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.budgetassign.modify request
  *
  * @author auto create
- * @since 1.0, 2025-03-18 15:56:12
+ * @since 1.0, 2025-08-07 11:27:36
  */
 class AlipayDataDataserviceAdBudgetassignModifyRequest
 {

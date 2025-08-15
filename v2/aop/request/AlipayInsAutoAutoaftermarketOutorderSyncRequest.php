@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.auto.autoaftermarket.outorder.sync request
  *
  * @author auto create
- * @since 1.0, 2024-10-30 14:41:41
+ * @since 1.0, 2025-08-13 16:07:43
  */
 class AlipayInsAutoAutoaftermarketOutorderSyncRequest
 {

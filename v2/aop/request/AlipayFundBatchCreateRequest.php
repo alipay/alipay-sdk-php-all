@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.batch.create request
  *
  * @author auto create
- * @since 1.0, 2025-07-21 11:36:55
+ * @since 1.0, 2025-08-07 12:27:37
  */
 class AlipayFundBatchCreateRequest
 {

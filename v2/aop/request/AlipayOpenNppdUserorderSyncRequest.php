@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.nppd.userorder.sync request
  *
  * @author auto create
- * @since 1.0, 2025-05-27 13:58:22
+ * @since 1.0, 2025-08-07 12:27:37
  */
 class AlipayOpenNppdUserorderSyncRequest
 {

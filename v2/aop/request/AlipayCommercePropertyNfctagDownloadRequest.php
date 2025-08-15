@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.property.nfctag.download request
  *
  * @author auto create
- * @since 1.0, 2025-06-19 20:02:26
+ * @since 1.0, 2025-08-07 10:37:36
  */
 class AlipayCommercePropertyNfctagDownloadRequest
 {

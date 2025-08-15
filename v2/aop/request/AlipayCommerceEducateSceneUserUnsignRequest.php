@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.scene.user.unsign request
  *
  * @author auto create
- * @since 1.0, 2025-05-29 15:57:55
+ * @since 1.0, 2025-08-13 14:47:41
  */
 class AlipayCommerceEducateSceneUserUnsignRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.mobile.deviceinfo.getidbytoken request
  *
  * @author auto create
- * @since 1.0, 2024-10-17 15:30:03
+ * @since 1.0, 2025-08-13 16:22:42
  */
 class AlipayMobileDeviceinfoGetidbytokenRequest
 {

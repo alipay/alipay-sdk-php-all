@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.mobileauth.template.query request
  *
  * @author auto create
- * @since 1.0, 2024-10-16 11:34:08
+ * @since 1.0, 2025-08-13 16:27:41
  */
 class AlipayPcreditHuabeiMobileauthTemplateQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.fingerprint.verify request
  *
  * @author auto create
- * @since 1.0, 2025-04-27 15:07:23
+ * @since 1.0, 2025-08-13 14:57:40
  */
 class AlipaySecurityProdFingerprintVerifyRequest
 {

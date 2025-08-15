@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.isportal.enterpriseuser.createormodify request
  *
  * @author auto create
- * @since 1.0, 2025-05-09 15:36:05
+ * @since 1.0, 2025-08-11 22:07:35
  */
 class AlipayIserviceIsportalEnterpriseuserCreateormodifyRequest
 {

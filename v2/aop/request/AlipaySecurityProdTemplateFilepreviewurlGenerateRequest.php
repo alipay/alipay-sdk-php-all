@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.template.filepreviewurl.generate request
  *
  * @author auto create
- * @since 1.0, 2025-01-10 15:55:22
+ * @since 1.0, 2025-08-07 12:57:37
  */
 class AlipaySecurityProdTemplateFilepreviewurlGenerateRequest
 {

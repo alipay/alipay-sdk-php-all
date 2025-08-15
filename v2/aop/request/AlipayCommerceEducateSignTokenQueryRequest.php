@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.sign.token.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-29 16:04:09
+ * @since 1.0, 2025-08-13 14:42:43
  */
 class AlipayCommerceEducateSignTokenQueryRequest
 {

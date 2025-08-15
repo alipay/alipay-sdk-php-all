@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.invoice.get request
  *
  * @author auto create
- * @since 1.0, 2025-07-01 15:02:29
+ * @since 1.0, 2025-08-11 15:07:36
  */
 class AlipayCloudCloudbaseInvoiceGetRequest
 {

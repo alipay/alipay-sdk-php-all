@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.aftersale.confirm request
  *
  * @author auto create
- * @since 1.0, 2025-07-24 11:22:33
+ * @since 1.0, 2025-08-14 20:52:56
  */
 class AlipayCommerceRentOrderAftersaleConfirmRequest
 {

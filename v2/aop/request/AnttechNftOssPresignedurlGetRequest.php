@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.nft.oss.presignedurl.get request
  *
  * @author auto create
- * @since 1.0, 2025-07-29 10:07:35
+ * @since 1.0, 2025-08-14 17:32:36
  */
 class AnttechNftOssPresignedurlGetRequest
 {

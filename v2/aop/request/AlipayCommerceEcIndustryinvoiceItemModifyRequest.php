@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.industryinvoice.item.modify request
  *
  * @author auto create
- * @since 1.0, 2025-07-07 14:29:58
+ * @since 1.0, 2025-08-07 10:12:37
  */
 class AlipayCommerceEcIndustryinvoiceItemModifyRequest
 {

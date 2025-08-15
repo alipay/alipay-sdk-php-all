@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.live.advance.modify request
  *
  * @author auto create
- * @since 1.0, 2025-04-22 13:58:09
+ * @since 1.0, 2025-08-07 11:07:37
  */
 class AlipayContentLiveAdvanceModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.merchant.borrow.entity.upload request
  *
  * @author auto create
- * @since 1.0, 2025-04-29 10:48:11
+ * @since 1.0, 2025-08-13 14:57:39
  */
 class ZhimaMerchantBorrowEntityUploadRequest
 {

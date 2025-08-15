@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.jointaccount.member.consult request
  *
  * @author auto create
- * @since 1.0, 2025-04-07 17:01:29
+ * @since 1.0, 2025-08-13 15:07:41
  */
 class AlipayFundJointaccountMemberConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.pay.sync request
  *
  * @author auto create
- * @since 1.0, 2025-07-16 18:27:31
+ * @since 1.0, 2025-08-12 19:17:35
  */
 class AlipayCommerceRentOrderPaySyncRequest
 {

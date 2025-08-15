@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.commercial.shopstaff.query request
  *
  * @author auto create
- * @since 1.0, 2025-06-25 19:22:30
+ * @since 1.0, 2025-08-05 19:57:35
  */
 class AlipayCommerceMedicalCommercialShopstaffQueryRequest
 {

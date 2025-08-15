@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.timescard.refund.query request
  *
  * @author auto create
- * @since 1.0, 2025-01-20 16:02:08
+ * @since 1.0, 2025-08-13 15:22:40
  */
 class AlipayCommerceOperationTimescardRefundQueryRequest
 {

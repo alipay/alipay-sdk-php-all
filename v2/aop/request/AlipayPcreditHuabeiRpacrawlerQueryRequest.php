@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.rpacrawler.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-30 12:40:37
+ * @since 1.0, 2025-08-13 14:42:43
  */
 class AlipayPcreditHuabeiRpacrawlerQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.expandindirect.image.upload request
  *
  * @author auto create
- * @since 1.0, 2025-07-25 16:42:37
+ * @since 1.0, 2025-07-29 15:57:37
  */
 class AlipayFundExpandindirectImageUploadRequest
 {

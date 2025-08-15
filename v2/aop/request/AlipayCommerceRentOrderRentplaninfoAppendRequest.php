@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.rentplaninfo.append request
  *
  * @author auto create
- * @since 1.0, 2025-07-24 19:57:33
+ * @since 1.0, 2025-08-12 10:12:36
  */
 class AlipayCommerceRentOrderRentplaninfoAppendRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.health.archive.delete request
  *
  * @author auto create
- * @since 1.0, 2025-02-17 17:47:25
+ * @since 1.0, 2025-08-06 17:56:30
  */
 class AlipayCommerceMedicalHealthArchiveDeleteRequest
 {

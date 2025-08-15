@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.isportal.encrypt.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-08 16:35:19
+ * @since 1.0, 2025-08-07 10:47:37
  */
 class AlipayIserviceIsportalEncryptQueryRequest
 {

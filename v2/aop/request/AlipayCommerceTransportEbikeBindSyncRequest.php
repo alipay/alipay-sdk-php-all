@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.ebike.bind.sync request
  *
  * @author auto create
- * @since 1.0, 2024-11-12 16:36:20
+ * @since 1.0, 2025-08-13 14:27:41
  */
 class AlipayCommerceTransportEbikeBindSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.medinquiry.record.verify request
  *
  * @author auto create
- * @since 1.0, 2025-03-28 15:57:27
+ * @since 1.0, 2025-08-13 10:52:36
  */
 class AlipayCommerceMedicalMedinquiryRecordVerifyRequest
 {

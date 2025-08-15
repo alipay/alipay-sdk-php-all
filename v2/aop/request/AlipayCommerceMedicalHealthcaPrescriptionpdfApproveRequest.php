@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.healthca.prescriptionpdf.approve request
  *
  * @author auto create
- * @since 1.0, 2025-05-06 16:12:28
+ * @since 1.0, 2025-08-06 20:12:35
  */
 class AlipayCommerceMedicalHealthcaPrescriptionpdfApproveRequest
 {

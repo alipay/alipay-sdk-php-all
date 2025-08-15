@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.public.rainytset.send request
  *
  * @author auto create
- * @since 1.0, 2024-12-19 17:46:48
+ * @since 1.0, 2025-08-13 15:32:42
  */
 class AlipaySecurityProdPublicRainytsetSendRequest
 {

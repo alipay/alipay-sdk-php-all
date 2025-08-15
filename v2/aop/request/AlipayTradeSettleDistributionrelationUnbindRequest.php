@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.settle.distributionrelation.unbind request
  *
  * @author auto create
- * @since 1.0, 2025-03-13 10:37:29
+ * @since 1.0, 2025-08-07 12:22:37
  */
 class AlipayTradeSettleDistributionrelationUnbindRequest
 {

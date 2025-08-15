@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.account.taobao.bind.query request
  *
  * @author auto create
- * @since 1.0, 2025-03-27 13:37:26
+ * @since 1.0, 2025-07-30 15:43:47
  */
 class AlipayUserAccountTaobaoBindQueryRequest
 {

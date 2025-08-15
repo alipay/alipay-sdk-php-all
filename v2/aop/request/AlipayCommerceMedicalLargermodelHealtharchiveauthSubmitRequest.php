@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.largermodel.healtharchiveauth.submit request
  *
  * @author auto create
- * @since 1.0, 2024-12-19 20:41:18
+ * @since 1.0, 2025-08-07 12:32:37
  */
 class AlipayCommerceMedicalLargermodelHealtharchiveauthSubmitRequest
 {

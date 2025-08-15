@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.smdd.order.list.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-08 16:22:20
+ * @since 1.0, 2025-08-07 11:17:38
  */
 class AlipayOfflineSmddOrderListQueryRequest
 {

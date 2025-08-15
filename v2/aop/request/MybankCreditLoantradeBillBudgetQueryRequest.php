@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.credit.loantrade.bill.budget.query request
  *
  * @author auto create
- * @since 1.0, 2025-06-17 14:25:00
+ * @since 1.0, 2025-08-13 14:42:40
  */
 class MybankCreditLoantradeBillBudgetQueryRequest
 {

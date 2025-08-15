@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.offlinepay.userblacklist.query request
  *
  * @author auto create
- * @since 1.0, 2024-12-09 16:06:10
+ * @since 1.0, 2025-08-13 15:37:43
  */
 class AlipayCommerceTransportOfflinepayUserblacklistQueryRequest
 {

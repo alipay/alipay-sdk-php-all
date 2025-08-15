@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.service.maga.query request
  *
  * @author auto create
- * @since 1.0, 2024-12-06 17:02:23
+ * @since 1.0, 2025-08-06 17:56:31
  */
 class AlipayCommerceMedicalServiceMagaQueryRequest
 {

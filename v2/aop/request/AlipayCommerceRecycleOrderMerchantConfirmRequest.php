@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.recycle.order.merchant.confirm request
  *
  * @author auto create
- * @since 1.0, 2025-07-14 15:22:31
+ * @since 1.0, 2025-08-14 17:32:16
  */
 class AlipayCommerceRecycleOrderMerchantConfirmRequest
 {

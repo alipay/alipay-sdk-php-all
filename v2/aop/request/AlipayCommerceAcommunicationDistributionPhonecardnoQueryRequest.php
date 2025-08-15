@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.distribution.phonecardno.query request
  *
  * @author auto create
- * @since 1.0, 2025-06-10 10:33:45
+ * @since 1.0, 2025-08-07 12:37:37
  */
 class AlipayCommerceAcommunicationDistributionPhonecardnoQueryRequest
 {

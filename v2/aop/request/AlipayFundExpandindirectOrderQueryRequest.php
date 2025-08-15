@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.expandindirect.order.query request
  *
  * @author auto create
- * @since 1.0, 2025-07-25 16:37:41
+ * @since 1.0, 2025-08-06 15:22:39
  */
 class AlipayFundExpandindirectOrderQueryRequest
 {

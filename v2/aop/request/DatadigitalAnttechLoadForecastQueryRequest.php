@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.anttech.load.forecast.query request
  *
  * @author auto create
- * @since 1.0, 2025-06-27 16:45:44
+ * @since 1.0, 2025-08-11 14:07:37
  */
 class DatadigitalAnttechLoadForecastQueryRequest
 {

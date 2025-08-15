@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.benefit.point.pay request
  *
  * @author auto create
- * @since 1.0, 2025-06-23 15:47:49
+ * @since 1.0, 2025-08-07 10:17:37
  */
 class AlipayCommerceMedicalBenefitPointPayRequest
 {

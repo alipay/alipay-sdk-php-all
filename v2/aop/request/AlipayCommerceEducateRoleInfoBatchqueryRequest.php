@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.role.info.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-04-17 17:32:59
+ * @since 1.0, 2025-08-07 11:02:37
  */
 class AlipayCommerceEducateRoleInfoBatchqueryRequest
 {
