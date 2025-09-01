@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.benefitaccount.account.refund request
  *
  * @author auto create
- * @since 1.0, 2025-08-01 17:42:35
+ * @since 1.0, 2025-08-29 11:17:39
  */
 class AlipayMarketingBenefitaccountAccountRefundRequest
 {

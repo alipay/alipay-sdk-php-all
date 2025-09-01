@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.ext.sync request
  *
  * @author auto create
- * @since 1.0, 2025-08-13 16:56:31
+ * @since 1.0, 2025-08-20 21:37:35
  */
 class AlipayCommerceRentOrderExtSyncRequest
 {
@@ -58,6 +58,16 @@ class AlipayCommerceRentOrderExtSyncRequest
 	private $financingRentProtocol;
 	
 	/** 
+	 * 首租信息
+	 **/
+	private $headLeaseExtInfo;
+	
+	/** 
+	 * 首租协议
+	 **/
+	private $headLeaseProtocol;
+	
+	/** 
 	 * 历史资产融资扩展信息
 	 **/
 	private $historicalAssetFinancingExtInfo;
@@ -81,6 +91,11 @@ class AlipayCommerceRentOrderExtSyncRequest
 	 * 外部业务单号，取值：业务方自己的单据号
 	 **/
 	private $outBizId;
+	
+	/** 
+	 * 平台服务协议
+	 **/
+	private $platformServiceProtocol;
 	
 	/** 
 	 * 同步场景(枚举值)
@@ -207,6 +222,28 @@ class AlipayCommerceRentOrderExtSyncRequest
 		return $this->financingRentProtocol;
 	}
 
+	public function setHeadLeaseExtInfo($headLeaseExtInfo)
+	{
+		$this->headLeaseExtInfo = $headLeaseExtInfo;
+		$this->apiParas["head_lease_ext_info"] = $headLeaseExtInfo;
+	}
+
+	public function getHeadLeaseExtInfo()
+	{
+		return $this->headLeaseExtInfo;
+	}
+
+	public function setHeadLeaseProtocol($headLeaseProtocol)
+	{
+		$this->headLeaseProtocol = $headLeaseProtocol;
+		$this->apiParas["head_lease_protocol"] = $headLeaseProtocol;
+	}
+
+	public function getHeadLeaseProtocol()
+	{
+		return $this->headLeaseProtocol;
+	}
+
 	public function setHistoricalAssetFinancingExtInfo($historicalAssetFinancingExtInfo)
 	{
 		$this->historicalAssetFinancingExtInfo = $historicalAssetFinancingExtInfo;
@@ -260,6 +297,17 @@ class AlipayCommerceRentOrderExtSyncRequest
 	public function getOutBizId()
 	{
 		return $this->outBizId;
+	}
+
+	public function setPlatformServiceProtocol($platformServiceProtocol)
+	{
+		$this->platformServiceProtocol = $platformServiceProtocol;
+		$this->apiParas["platform_service_protocol"] = $platformServiceProtocol;
+	}
+
+	public function getPlatformServiceProtocol()
+	{
+		return $this->platformServiceProtocol;
 	}
 
 	public function setSyncScene($syncScene)

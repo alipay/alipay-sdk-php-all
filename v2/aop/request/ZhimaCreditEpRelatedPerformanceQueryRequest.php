@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.related.performance.query request
  *
  * @author auto create
- * @since 1.0, 2024-12-13 10:57:21
+ * @since 1.0, 2025-08-21 11:22:36
  */
 class ZhimaCreditEpRelatedPerformanceQueryRequest
 {

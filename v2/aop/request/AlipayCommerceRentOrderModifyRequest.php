@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.modify request
  *
  * @author auto create
- * @since 1.0, 2025-08-07 20:55:14
+ * @since 1.0, 2025-08-18 20:47:35
  */
 class AlipayCommerceRentOrderModifyRequest
 {

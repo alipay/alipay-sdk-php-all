@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.largermodel.doctorschedule.query request
  *
  * @author auto create
- * @since 1.0, 2025-07-02 10:27:28
+ * @since 1.0, 2025-08-25 16:42:55
  */
 class AlipayCommerceMedicalLargermodelDoctorscheduleQueryRequest
 {

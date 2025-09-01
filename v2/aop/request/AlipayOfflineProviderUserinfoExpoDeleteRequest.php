@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.userinfo.expo.delete request
  *
  * @author auto create
- * @since 1.0, 2025-06-10 19:07:30
+ * @since 1.0, 2025-08-26 20:12:37
  */
 class AlipayOfflineProviderUserinfoExpoDeleteRequest
 {

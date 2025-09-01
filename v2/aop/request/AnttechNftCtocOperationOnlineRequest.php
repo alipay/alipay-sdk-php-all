@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.nft.ctoc.operation.online request
  *
  * @author auto create
- * @since 1.0, 2025-08-07 10:17:37
+ * @since 1.0, 2025-08-28 11:33:15
  */
 class AnttechNftCtocOperationOnlineRequest
 {

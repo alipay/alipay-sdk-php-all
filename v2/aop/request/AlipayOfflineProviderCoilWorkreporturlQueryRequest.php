@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.coil.workreporturl.query request
  *
  * @author auto create
- * @since 1.0, 2025-06-10 16:37:28
+ * @since 1.0, 2025-08-26 17:18:49
  */
 class AlipayOfflineProviderCoilWorkreporturlQueryRequest
 {

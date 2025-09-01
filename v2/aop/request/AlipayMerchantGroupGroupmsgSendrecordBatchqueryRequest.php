@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.group.groupmsg.sendrecord.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-05-30 17:27:27
+ * @since 1.0, 2025-08-19 16:53:46
  */
 class AlipayMerchantGroupGroupmsgSendrecordBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.returntoant.rainy.sync request
  *
  * @author auto create
- * @since 1.0, 2024-11-15 18:42:17
+ * @since 1.0, 2025-08-18 23:02:32
  */
 class AlipayDataDataserviceReturntoantRainySyncRequest
 {

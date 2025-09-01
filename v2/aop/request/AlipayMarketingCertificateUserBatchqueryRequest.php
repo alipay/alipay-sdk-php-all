@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.certificate.user.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-08-11 11:42:26
+ * @since 1.0, 2025-08-15 17:32:36
  */
 class AlipayMarketingCertificateUserBatchqueryRequest
 {

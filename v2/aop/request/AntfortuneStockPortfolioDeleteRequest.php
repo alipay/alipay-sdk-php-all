@@ -3,7 +3,7 @@
  * ALIPAY API: antfortune.stock.portfolio.delete request
  *
  * @author auto create
- * @since 1.0, 2025-01-09 10:37:22
+ * @since 1.0, 2025-08-15 15:52:34
  */
 class AntfortuneStockPortfolioDeleteRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.fhyedu.class.sync request
  *
  * @author auto create
- * @since 1.0, 2025-08-05 14:22:35
+ * @since 1.0, 2025-08-29 14:32:38
  */
 class AlipayCommerceFhyeduClassSyncRequest
 {

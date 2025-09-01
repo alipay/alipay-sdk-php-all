@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.largermodel.recognition.check request
  *
  * @author auto create
- * @since 1.0, 2025-08-06 16:22:36
+ * @since 1.0, 2025-08-27 18:07:36
  */
 class AlipayCommerceMedicalLargermodelRecognitionCheckRequest
 {

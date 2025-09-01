@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.chat.create request
  *
  * @author auto create
- * @since 1.0, 2025-08-01 00:22:34
+ * @since 1.0, 2025-08-28 19:37:38
  */
 class AlipayCloudCloudpromoChatCreateRequest
 {

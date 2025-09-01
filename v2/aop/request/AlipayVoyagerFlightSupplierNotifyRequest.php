@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.voyager.flight.supplier.notify request
  *
  * @author auto create
- * @since 1.0, 2025-01-06 16:52:25
+ * @since 1.0, 2025-08-27 11:37:37
  */
 class AlipayVoyagerFlightSupplierNotifyRequest
 {

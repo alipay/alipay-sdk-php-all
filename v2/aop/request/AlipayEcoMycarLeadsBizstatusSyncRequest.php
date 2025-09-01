@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.leads.bizstatus.sync request
  *
  * @author auto create
- * @since 1.0, 2025-06-13 11:27:27
+ * @since 1.0, 2025-08-28 14:55:40
  */
 class AlipayEcoMycarLeadsBizstatusSyncRequest
 {

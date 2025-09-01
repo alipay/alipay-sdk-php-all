@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.device.nlink.paycode.sync request
  *
  * @author auto create
- * @since 1.0, 2025-08-14 16:32:54
+ * @since 1.0, 2025-08-27 20:02:36
  */
 class AlipayPayDeviceNlinkPaycodeSyncRequest
 {

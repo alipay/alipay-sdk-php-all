@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.fund.strategy.destroy request
  *
  * @author auto create
- * @since 1.0, 2025-07-30 10:47:34
+ * @since 1.0, 2025-08-25 14:02:36
  */
 class AlipayCommerceEcFundStrategyDestroyRequest
 {

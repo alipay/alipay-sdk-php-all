@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.roster.info.delete request
  *
  * @author auto create
- * @since 1.0, 2025-04-28 19:42:27
+ * @since 1.0, 2025-08-29 09:42:20
  */
 class AlipayCommerceEducateRosterInfoDeleteRequest
 {

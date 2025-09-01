@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.schemaapseventeenth.rainystest.query request
  *
  * @author auto create
- * @since 1.0, 2025-03-07 11:00:02
+ * @since 1.0, 2025-08-18 23:02:18
  */
 class AlipayDataDataserviceSchemaapseventeenthRainystestQueryRequest
 {

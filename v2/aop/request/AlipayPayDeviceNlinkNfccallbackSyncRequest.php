@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.device.nlink.nfccallback.sync request
  *
  * @author auto create
- * @since 1.0, 2025-08-13 10:22:36
+ * @since 1.0, 2025-08-29 17:27:38
  */
 class AlipayPayDeviceNlinkNfccallbackSyncRequest
 {
