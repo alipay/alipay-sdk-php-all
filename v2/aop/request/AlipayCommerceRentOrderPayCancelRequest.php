@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.pay.cancel request
  *
  * @author auto create
- * @since 1.0, 2025-06-09 20:12:29
+ * @since 1.0, 2025-09-04 11:02:38
  */
 class AlipayCommerceRentOrderPayCancelRequest
 {

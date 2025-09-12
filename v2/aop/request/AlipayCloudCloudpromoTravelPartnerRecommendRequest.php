@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudpromo.travel.partner.recommend request
  *
  * @author auto create
- * @since 1.0, 2025-01-14 16:57:22
+ * @since 1.0, 2025-09-09 20:47:38
  */
 class AlipayCloudCloudpromoTravelPartnerRecommendRequest
 {

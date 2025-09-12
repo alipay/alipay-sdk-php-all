@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.largermodel.welcomecard.query request
  *
  * @author auto create
- * @since 1.0, 2024-10-10 19:22:13
+ * @since 1.0, 2025-09-10 10:41:56
  */
 class AlipayCommerceMedicalLargermodelWelcomecardQueryRequest
 {

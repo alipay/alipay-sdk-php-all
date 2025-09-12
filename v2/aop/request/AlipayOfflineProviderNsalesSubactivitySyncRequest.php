@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.nsales.subactivity.sync request
  *
  * @author auto create
- * @since 1.0, 2025-01-27 22:52:21
+ * @since 1.0, 2025-09-08 10:47:39
  */
 class AlipayOfflineProviderNsalesSubactivitySyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.testmysqltoob.query request
  *
  * @author auto create
- * @since 1.0, 2025-07-03 21:57:31
+ * @since 1.0, 2025-09-10 14:59:38
  */
 class AlipaySecurityTestmysqltoobQueryRequest
 {
