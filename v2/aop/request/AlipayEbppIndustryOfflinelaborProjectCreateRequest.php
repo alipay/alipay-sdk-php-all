@@ -3,12 +3,12 @@
  * ALIPAY API: alipay.ebpp.industry.offlinelabor.project.create request
  *
  * @author auto create
- * @since 1.0, 2025-08-29 13:40:00
+ * @since 1.0, 2025-09-17 17:12:39
  */
 class AlipayEbppIndustryOfflinelaborProjectCreateRequest
 {
 	/** 
-	 * 线下用工项目创建
+	 * 项目和岗位创建
 	 **/
 	private $bizContent;
 

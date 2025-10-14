@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.aiservice.qingliangceshided.seven.query request
  *
  * @author auto create
- * @since 1.0, 2025-07-21 15:57:33
+ * @since 1.0, 2025-09-20 12:28:28
  */
 class AlipayDataAiserviceQingliangceshidedSevenQueryRequest
 {

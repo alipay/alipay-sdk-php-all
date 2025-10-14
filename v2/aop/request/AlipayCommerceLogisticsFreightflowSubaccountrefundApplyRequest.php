@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.freightflow.subaccountrefund.apply request
  *
  * @author auto create
- * @since 1.0, 2025-07-24 14:42:34
+ * @since 1.0, 2025-09-16 16:52:40
  */
 class AlipayCommerceLogisticsFreightflowSubaccountrefundApplyRequest
 {

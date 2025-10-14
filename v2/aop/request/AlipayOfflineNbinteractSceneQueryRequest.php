@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.nbinteract.scene.query request
  *
  * @author auto create
- * @since 1.0, 2025-09-02 14:59:45
+ * @since 1.0, 2025-10-10 16:22:38
  */
 class AlipayOfflineNbinteractSceneQueryRequest
 {

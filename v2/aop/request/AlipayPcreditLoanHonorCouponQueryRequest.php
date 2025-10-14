@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.honor.coupon.query request
  *
  * @author auto create
- * @since 1.0, 2025-09-01 17:27:39
+ * @since 1.0, 2025-09-12 17:12:40
  */
 class AlipayPcreditLoanHonorCouponQueryRequest
 {

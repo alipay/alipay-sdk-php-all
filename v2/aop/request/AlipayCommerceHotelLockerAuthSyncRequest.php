@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.hotel.locker.auth.sync request
  *
  * @author auto create
- * @since 1.0, 2025-09-02 11:48:48
+ * @since 1.0, 2025-09-16 13:47:38
  */
 class AlipayCommerceHotelLockerAuthSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.voucher.summary.query request
  *
  * @author auto create
- * @since 1.0, 2025-08-14 11:02:36
+ * @since 1.0, 2025-10-10 15:06:14
  */
 class AlipayCommerceEcVoucherSummaryQueryRequest
 {

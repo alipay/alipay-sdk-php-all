@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.loan.honor.plan.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-09-01 17:12:38
+ * @since 1.0, 2025-09-12 16:17:40
  */
 class AlipayPcreditLoanHonorPlanBatchqueryRequest
 {

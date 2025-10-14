@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.leaveuser.delete request
  *
  * @author auto create
- * @since 1.0, 2025-08-29 14:28:13
+ * @since 1.0, 2025-09-16 13:52:39
  */
 class AlipayCommerceEducateLeaveuserDeleteRequest
 {

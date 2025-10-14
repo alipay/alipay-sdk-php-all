@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.app.hexidemo.modify request
  *
  * @author auto create
- * @since 1.0, 2025-08-18 23:02:13
+ * @since 1.0, 2025-09-11 13:45:32
  */
 class AlipayOpenAppHexidemoModifyRequest
 {

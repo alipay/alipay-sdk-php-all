@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.customer.creditinfo.unsign request
  *
  * @author auto create
- * @since 1.0, 2025-08-27 17:37:36
+ * @since 1.0, 2025-09-26 11:17:41
  */
 class ZhimaCustomerCreditinfoUnsignRequest
 {

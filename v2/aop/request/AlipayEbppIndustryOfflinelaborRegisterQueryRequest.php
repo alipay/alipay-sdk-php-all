@@ -3,12 +3,12 @@
  * ALIPAY API: alipay.ebpp.industry.offlinelabor.register.query request
  *
  * @author auto create
- * @since 1.0, 2025-09-08 11:47:39
+ * @since 1.0, 2025-09-17 10:02:39
  */
 class AlipayEbppIndustryOfflinelaborRegisterQueryRequest
 {
 	/** 
-	 * 线下用工项目登记记录查询
+	 * 用户在安心登记卡报名登记后，客户在自身系统或者在服务商侧系统，通过该接口查询用户登记记录信息
 	 **/
 	private $bizContent;
 

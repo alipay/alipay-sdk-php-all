@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.nft.customer.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-08-07 10:52:36
+ * @since 1.0, 2025-09-16 13:47:38
  */
 class AnttechNftCustomerBatchqueryRequest
 {

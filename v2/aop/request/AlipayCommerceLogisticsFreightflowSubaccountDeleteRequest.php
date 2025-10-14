@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.freightflow.subaccount.delete request
  *
  * @author auto create
- * @since 1.0, 2025-07-02 17:42:36
+ * @since 1.0, 2025-09-12 16:05:14
  */
 class AlipayCommerceLogisticsFreightflowSubaccountDeleteRequest
 {

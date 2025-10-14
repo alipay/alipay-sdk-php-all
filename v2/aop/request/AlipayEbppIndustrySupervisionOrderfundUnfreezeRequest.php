@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.supervision.orderfund.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2024-12-23 19:37:21
+ * @since 1.0, 2025-09-12 13:17:38
  */
 class AlipayEbppIndustrySupervisionOrderfundUnfreezeRequest
 {

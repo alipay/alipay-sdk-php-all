@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.order.sign request
  *
  * @author auto create
- * @since 1.0, 2025-08-07 10:52:34
+ * @since 1.0, 2025-09-24 11:22:40
  */
 class AlipayCommerceRentOrderSignRequest
 {

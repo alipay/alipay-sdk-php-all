@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.industryinvoice.company.query request
  *
  * @author auto create
- * @since 1.0, 2025-07-07 14:32:33
+ * @since 1.0, 2025-10-09 17:37:39
  */
 class AlipayCommerceEcIndustryinvoiceCompanyQueryRequest
 {

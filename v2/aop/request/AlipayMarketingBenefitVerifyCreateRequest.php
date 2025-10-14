@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.marketing.benefit.verify.create request
  *
  * @author auto create
- * @since 1.0, 2025-08-29 10:32:38
+ * @since 1.0, 2025-09-26 19:52:40
  */
 class AlipayMarketingBenefitVerifyCreateRequest
 {

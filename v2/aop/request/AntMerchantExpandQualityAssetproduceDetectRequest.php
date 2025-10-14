@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.quality.assetproduce.detect request
  *
  * @author auto create
- * @since 1.0, 2025-09-09 21:44:31
+ * @since 1.0, 2025-09-12 17:02:40
  */
 class AntMerchantExpandQualityAssetproduceDetectRequest
 {
