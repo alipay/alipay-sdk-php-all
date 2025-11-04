@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.tour.userinfo.query request
  *
  * @author auto create
- * @since 1.0, 2025-09-15 15:12:40
+ * @since 1.0, 2025-10-27 15:27:40
  */
 class AlipayCommerceTransportTourUserinfoQueryRequest
 {

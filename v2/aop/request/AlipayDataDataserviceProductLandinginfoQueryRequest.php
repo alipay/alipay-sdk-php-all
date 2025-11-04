@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.product.landinginfo.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-09 12:37:40
+ * @since 1.0, 2025-10-17 10:02:39
  */
 class AlipayDataDataserviceProductLandinginfoQueryRequest
 {

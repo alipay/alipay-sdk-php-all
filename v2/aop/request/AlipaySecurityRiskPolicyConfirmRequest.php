@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.policy.confirm request
  *
  * @author auto create
- * @since 1.0, 2025-06-26 10:10:15
+ * @since 1.0, 2025-11-03 16:57:40
  */
 class AlipaySecurityRiskPolicyConfirmRequest
 {

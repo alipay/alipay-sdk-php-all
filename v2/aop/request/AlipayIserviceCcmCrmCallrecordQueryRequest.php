@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.crm.callrecord.query request
  *
  * @author auto create
- * @since 1.0, 2025-09-12 17:48:30
+ * @since 1.0, 2025-10-23 09:57:40
  */
 class AlipayIserviceCcmCrmCallrecordQueryRequest
 {

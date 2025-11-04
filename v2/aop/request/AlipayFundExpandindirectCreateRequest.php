@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.expandindirect.create request
  *
  * @author auto create
- * @since 1.0, 2025-08-28 16:57:38
+ * @since 1.0, 2025-10-24 14:20:20
  */
 class AlipayFundExpandindirectCreateRequest
 {

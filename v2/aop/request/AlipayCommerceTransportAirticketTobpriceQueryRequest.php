@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.airticket.tobprice.query request
  *
  * @author auto create
- * @since 1.0, 2025-02-14 16:02:24
+ * @since 1.0, 2025-10-21 17:24:47
  */
 class AlipayCommerceTransportAirticketTobpriceQueryRequest
 {

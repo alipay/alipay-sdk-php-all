@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.risk.jointdecision.trade.send request
  *
  * @author auto create
- * @since 1.0, 2025-03-05 14:32:25
+ * @since 1.0, 2025-10-30 10:52:41
  */
 class AlipaySecurityRiskJointdecisionTradeSendRequest
 {

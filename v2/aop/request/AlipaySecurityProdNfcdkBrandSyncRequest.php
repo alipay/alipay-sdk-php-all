@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.nfcdk.brand.sync request
  *
  * @author auto create
- * @since 1.0, 2025-03-24 15:27:26
+ * @since 1.0, 2025-10-27 16:07:40
  */
 class AlipaySecurityProdNfcdkBrandSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.digitalgroup.apply.modify request
  *
  * @author auto create
- * @since 1.0, 2025-10-10 14:22:39
+ * @since 1.0, 2025-10-21 11:22:40
  */
 class AntMerchantExpandDigitalgroupApplyModifyRequest
 {

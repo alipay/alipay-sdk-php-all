@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.adentitylibrary.serviceentity.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-10-09 12:37:40
+ * @since 1.0, 2025-10-30 14:22:32
  */
 class AlipayDataDataserviceAdentitylibraryServiceentityBatchqueryRequest
 {

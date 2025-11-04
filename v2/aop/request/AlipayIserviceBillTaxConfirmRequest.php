@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.bill.tax.confirm request
  *
  * @author auto create
- * @since 1.0, 2025-09-23 15:17:40
+ * @since 1.0, 2025-10-31 18:22:41
  */
 class AlipayIserviceBillTaxConfirmRequest
 {

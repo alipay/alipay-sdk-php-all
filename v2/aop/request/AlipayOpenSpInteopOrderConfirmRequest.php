@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.inteop.order.confirm request
  *
  * @author auto create
- * @since 1.0, 2025-09-02 15:12:38
+ * @since 1.0, 2025-10-23 20:37:41
  */
 class AlipayOpenSpInteopOrderConfirmRequest
 {

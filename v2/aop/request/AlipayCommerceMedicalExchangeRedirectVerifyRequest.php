@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.exchange.redirect.verify request
  *
  * @author auto create
- * @since 1.0, 2025-09-28 14:57:39
+ * @since 1.0, 2025-11-04 10:07:40
  */
 class AlipayCommerceMedicalExchangeRedirectVerifyRequest
 {
