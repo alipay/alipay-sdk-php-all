@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.social.base.contentlib.standardcontent.publish request
+ * ALIPAY API: alipay.commerce.medical.thirdcode.sync request
  *
  * @author auto create
- * @since 1.0, 2025-11-05 18:56:21
+ * @since 1.0, 2025-11-05 18:07:41
  */
-class AlipaySocialBaseContentlibStandardcontentPublishRequest
+class AlipayCommerceMedicalThirdcodeSyncRequest
 {
 	/** 
-	 * 内容发布接口
+	 * 同步三方应用的授权码
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipaySocialBaseContentlibStandardcontentPublishRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.social.base.contentlib.standardcontent.publish";
+		return "alipay.commerce.medical.thirdcode.sync";
 	}
 
 	public function setNotifyUrl($notifyUrl)

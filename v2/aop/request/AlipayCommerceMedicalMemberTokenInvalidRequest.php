@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.social.base.contentlib.standardcontent.publish request
+ * ALIPAY API: alipay.commerce.medical.member.token.invalid request
  *
  * @author auto create
- * @since 1.0, 2025-11-05 18:56:21
+ * @since 1.0, 2025-11-04 14:22:40
  */
-class AlipaySocialBaseContentlibStandardcontentPublishRequest
+class AlipayCommerceMedicalMemberTokenInvalidRequest
 {
 	/** 
-	 * 内容发布接口
+	 * 作废医疗会员token接口
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipaySocialBaseContentlibStandardcontentPublishRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.social.base.contentlib.standardcontent.publish";
+		return "alipay.commerce.medical.member.token.invalid";
 	}
 
 	public function setNotifyUrl($notifyUrl)

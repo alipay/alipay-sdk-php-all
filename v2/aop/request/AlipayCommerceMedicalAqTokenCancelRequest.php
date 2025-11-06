@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.social.base.contentlib.standardcontent.publish request
+ * ALIPAY API: alipay.commerce.medical.aq.token.cancel request
  *
  * @author auto create
- * @since 1.0, 2025-11-05 18:56:21
+ * @since 1.0, 2025-11-05 18:02:25
  */
-class AlipaySocialBaseContentlibStandardcontentPublishRequest
+class AlipayCommerceMedicalAqTokenCancelRequest
 {
 	/** 
-	 * 内容发布接口
+	 * 取消AQ会话H5页面授权
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipaySocialBaseContentlibStandardcontentPublishRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.social.base.contentlib.standardcontent.publish";
+		return "alipay.commerce.medical.aq.token.cancel";
 	}
 
 	public function setNotifyUrl($notifyUrl)

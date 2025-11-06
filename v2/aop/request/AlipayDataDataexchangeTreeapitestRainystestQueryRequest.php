@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.social.base.contentlib.standardcontent.publish request
+ * ALIPAY API: alipay.data.dataexchange.treeapitest.rainystest.query request
  *
  * @author auto create
- * @since 1.0, 2025-11-05 18:56:21
+ * @since 1.0, 2025-11-04 17:27:41
  */
-class AlipaySocialBaseContentlibStandardcontentPublishRequest
+class AlipayDataDataexchangeTreeapitestRainystestQueryRequest
 {
 	/** 
-	 * 内容发布接口
+	 * tree模型的测试接口1104
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipaySocialBaseContentlibStandardcontentPublishRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.social.base.contentlib.standardcontent.publish";
+		return "alipay.data.dataexchange.treeapitest.rainystest.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

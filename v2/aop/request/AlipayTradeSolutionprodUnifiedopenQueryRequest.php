@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.social.base.contentlib.standardcontent.publish request
+ * ALIPAY API: alipay.trade.solutionprod.unifiedopen.query request
  *
  * @author auto create
- * @since 1.0, 2025-11-05 18:56:21
+ * @since 1.0, 2025-11-05 18:02:41
  */
-class AlipaySocialBaseContentlibStandardcontentPublishRequest
+class AlipayTradeSolutionprodUnifiedopenQueryRequest
 {
 	/** 
-	 * 内容发布接口
+	 * C2C个人收款方聚合开通进度查询
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipaySocialBaseContentlibStandardcontentPublishRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.social.base.contentlib.standardcontent.publish";
+		return "alipay.trade.solutionprod.unifiedopen.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)

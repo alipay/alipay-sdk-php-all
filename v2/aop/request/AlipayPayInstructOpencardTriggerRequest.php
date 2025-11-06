@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pay.instruct.opencard.trigger request
  *
  * @author auto create
- * @since 1.0, 2025-10-30 14:07:40
+ * @since 1.0, 2025-11-05 14:27:41
  */
 class AlipayPayInstructOpencardTriggerRequest
 {

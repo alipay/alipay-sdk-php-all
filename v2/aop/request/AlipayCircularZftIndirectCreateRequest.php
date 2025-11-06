@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.circular.zft.indirect.create request
  *
  * @author auto create
- * @since 1.0, 2025-11-04 10:54:53
+ * @since 1.0, 2025-11-05 14:57:41
  */
 class AlipayCircularZftIndirectCreateRequest
 {
