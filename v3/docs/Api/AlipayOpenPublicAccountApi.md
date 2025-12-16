@@ -7,7 +7,6 @@ Method | HTTP request | Description
 [**create()**](AlipayOpenPublicAccountApi.md#create) | **POST** /v3/alipay/open/public/account/create | 添加绑定商户会员号
 [**delete()**](AlipayOpenPublicAccountApi.md#delete) | **DELETE** /v3/alipay/open/public/account/delete | 解除绑定商户会员号
 [**query()**](AlipayOpenPublicAccountApi.md#query) | **GET** /v3/alipay/open/public/account/query | 查询绑定商户会员号
-[**reset()**](AlipayOpenPublicAccountApi.md#reset) | **POST** /v3/alipay/open/public/account/reset | 重新设置绑定商家会员号
 
 
 ## `create()`
@@ -223,76 +222,6 @@ No authorization required
 ### HTTP request headers
 
 - **Content-Type**: Not defined
-- **Accept**: `application/json`
-
-[[Back to top]](#) [[Back to API list]](../../README.md#api-endpoints)
-[[Back to README]](../../README.md)
-
-## `reset()`
-
-```php
-reset($alipayOpenPublicAccountResetModel): \Alipay\OpenAPISDK\Model\AlipayOpenPublicAccountResetResponseModel
-```
-
-重新设置绑定商家会员号
-
-如果商户想要重置已经添加的外部账户，可以通过该接口完成。重置后，原有的外部户将删除，新的外部户添加进去。
-
-### Example
-
-```php
-<?php
-require_once(__DIR__ . '/vendor/autoload.php');
-
-
-
-$apiInstance = new Alipay\OpenAPISDK\Api\AlipayOpenPublicAccountApi(
-    // If you want use custom http client, pass your client which implements `GuzzleHttp\ClientInterface`.
-    // This is optional, `GuzzleHttp\Client` will be used as default.
-    new GuzzleHttp\Client()
-);
-
-// 初始化alipay参数
-$alipayConfig = new \Alipay\OpenAPISDK\Util\Model\AlipayConfig();
-$alipayConfig->setAppId('app_id');
-$alipayConfig->setPrivateKey('private_key');
-// 密钥模式
-$alipayConfig->setAlipayPublicKey('alipay_public_key');
-// 证书模式
-// $alipayConfig->setAppCertPath('../appCertPublicKey.crt');
-// $alipayConfig->setAlipayPublicCertPath('../alipayCertPublicKey_RSA2.crt');
-// $alipayConfig->setRootCertPath('../alipayRootCert.crt');
-$alipayConfig->setEncryptKey('encrypt_key');
-$alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
-$apiInstance->setAlipayConfigUtil($alipayConfigUtil);
-
-$alipayOpenPublicAccountResetModel = new \Alipay\OpenAPISDK\Model\AlipayOpenPublicAccountResetModel(); // \Alipay\OpenAPISDK\Model\AlipayOpenPublicAccountResetModel
-
-try {
-    $result = $apiInstance->reset($alipayOpenPublicAccountResetModel);
-    print_r($result);
-} catch (Exception $e) {
-    echo 'Exception when calling AlipayOpenPublicAccountApi->reset: ', $e->getMessage(), PHP_EOL;
-}
-```
-
-### Parameters
-
-Name | Type | Description  | Notes
-------------- | ------------- | ------------- | -------------
- **alipayOpenPublicAccountResetModel** | **\Alipay\OpenAPISDK\Model\AlipayOpenPublicAccountResetModel**|  | [optional]
-
-### Return type
-
-**\Alipay\OpenAPISDK\Model\AlipayOpenPublicAccountResetResponseModel**
-
-### Authorization
-
-No authorization required
-
-### HTTP request headers
-
-- **Content-Type**: `application/json`
 - **Accept**: `application/json`
 
 [[Back to top]](#) [[Back to API list]](../../README.md#api-endpoints)
