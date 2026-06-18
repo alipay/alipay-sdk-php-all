@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.medagent.pic.identify request
  *
  * @author auto create
- * @since 1.0, 2025-04-15 19:42:29
+ * @since 1.0, 2026-04-10 16:13:52
  */
 class AlipayCommerceMedicalMedagentPicIdentifyRequest
 {

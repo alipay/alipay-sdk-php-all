@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.crowd.match request
  *
  * @author auto create
- * @since 1.0, 2024-04-30 14:22:01
+ * @since 1.0, 2026-06-03 14:02:54
  */
 class AlipayCommerceAcommunicationCrowdMatchRequest
 {

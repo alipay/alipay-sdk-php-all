@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.s.wsstest.add request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:28:51
+ * @since 1.0, 2026-06-17 10:48:18
  */
 class AlipayBossSWsstestAddRequest
 {

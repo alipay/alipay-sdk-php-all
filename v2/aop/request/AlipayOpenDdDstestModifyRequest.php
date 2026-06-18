@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.dd.dstest.modify request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:26:20
+ * @since 1.0, 2026-06-17 10:53:38
  */
 class AlipayOpenDdDstestModifyRequest
 {

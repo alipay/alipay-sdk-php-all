@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.auth.page.sign request
  *
  * @author auto create
- * @since 1.0, 2025-06-17 14:39:27
+ * @since 1.0, 2026-06-11 11:04:32
  */
 class AlipayPcreditHuabeiAuthPageSignRequest
 {

@@ -3,10 +3,15 @@
  * ALIPAY API: alipay.marketing.verification.trade.audit request
  *
  * @author auto create
- * @since 1.0, 2025-04-11 12:02:27
+ * @since 1.0, 2026-04-22 16:37:45
  */
 class AlipayMarketingVerificationTradeAuditRequest
 {
+	/** 
+	 * 激活照片（3c必填）转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $activateContent;
+	
 	/** 
 	 * 支付宝交易号，用于识别交易信息
 	 **/
@@ -33,6 +38,36 @@ class AlipayMarketingVerificationTradeAuditRequest
 	private $invoiceContent;
 	
 	/** 
+	 * 产品送达现场照或自提现场照片（家电必传），转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $onSiteContent;
+	
+	/** 
+	 * 其他辅助材料1，转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $otherContent1;
+	
+	/** 
+	 * 其他辅助材料2,转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $otherContent2;
+	
+	/** 
+	 * 其他辅助材料3，转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $otherContent3;
+	
+	/** 
+	 * 其他辅助材料4，转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $otherContent4;
+	
+	/** 
+	 * 其他辅助材料5，转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $otherContent5;
+	
+	/** 
 	 * 外部订单号
 	 **/
 	private $outTradeNo;
@@ -46,6 +81,16 @@ class AlipayMarketingVerificationTradeAuditRequest
 	 * 支付宝分配的场景编码，用于识别活动场景及区域等信息
 	 **/
 	private $sceneCode;
+	
+	/** 
+	 * 机身SN照（家电必传），转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $snBodyContent;
+	
+	/** 
+	 * 商品SN照转为字节流传递，要求为jpg、jpeg、png格式
+	 **/
+	private $snContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -57,6 +102,17 @@ class AlipayMarketingVerificationTradeAuditRequest
     private $needEncrypt=false;
 
 	
+	public function setActivateContent($activateContent)
+	{
+		$this->activateContent = $activateContent;
+		$this->apiParas["activate_content"] = $activateContent;
+	}
+
+	public function getActivateContent()
+	{
+		return $this->activateContent;
+	}
+
 	public function setAlipayTradeNo($alipayTradeNo)
 	{
 		$this->alipayTradeNo = $alipayTradeNo;
@@ -112,6 +168,72 @@ class AlipayMarketingVerificationTradeAuditRequest
 		return $this->invoiceContent;
 	}
 
+	public function setOnSiteContent($onSiteContent)
+	{
+		$this->onSiteContent = $onSiteContent;
+		$this->apiParas["on_site_content"] = $onSiteContent;
+	}
+
+	public function getOnSiteContent()
+	{
+		return $this->onSiteContent;
+	}
+
+	public function setOtherContent1($otherContent1)
+	{
+		$this->otherContent1 = $otherContent1;
+		$this->apiParas["other_content_1"] = $otherContent1;
+	}
+
+	public function getOtherContent1()
+	{
+		return $this->otherContent1;
+	}
+
+	public function setOtherContent2($otherContent2)
+	{
+		$this->otherContent2 = $otherContent2;
+		$this->apiParas["other_content_2"] = $otherContent2;
+	}
+
+	public function getOtherContent2()
+	{
+		return $this->otherContent2;
+	}
+
+	public function setOtherContent3($otherContent3)
+	{
+		$this->otherContent3 = $otherContent3;
+		$this->apiParas["other_content_3"] = $otherContent3;
+	}
+
+	public function getOtherContent3()
+	{
+		return $this->otherContent3;
+	}
+
+	public function setOtherContent4($otherContent4)
+	{
+		$this->otherContent4 = $otherContent4;
+		$this->apiParas["other_content_4"] = $otherContent4;
+	}
+
+	public function getOtherContent4()
+	{
+		return $this->otherContent4;
+	}
+
+	public function setOtherContent5($otherContent5)
+	{
+		$this->otherContent5 = $otherContent5;
+		$this->apiParas["other_content_5"] = $otherContent5;
+	}
+
+	public function getOtherContent5()
+	{
+		return $this->otherContent5;
+	}
+
 	public function setOutTradeNo($outTradeNo)
 	{
 		$this->outTradeNo = $outTradeNo;
@@ -143,6 +265,28 @@ class AlipayMarketingVerificationTradeAuditRequest
 	public function getSceneCode()
 	{
 		return $this->sceneCode;
+	}
+
+	public function setSnBodyContent($snBodyContent)
+	{
+		$this->snBodyContent = $snBodyContent;
+		$this->apiParas["sn_body_content"] = $snBodyContent;
+	}
+
+	public function getSnBodyContent()
+	{
+		return $this->snBodyContent;
+	}
+
+	public function setSnContent($snContent)
+	{
+		$this->snContent = $snContent;
+		$this->apiParas["sn_content"] = $snContent;
+	}
+
+	public function getSnContent()
+	{
+		return $this->snContent;
 	}
 
 	public function getApiMethodName()

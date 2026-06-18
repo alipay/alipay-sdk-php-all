@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.flights.auth.bind request
  *
  * @author auto create
- * @since 1.0, 2025-09-04 13:47:37
+ * @since 1.0, 2026-04-15 14:40:32
  */
 class AlipayCommerceTransportFlightsAuthBindRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.commission.rule.create request
  *
  * @author auto create
- * @since 1.0, 2025-12-01 20:32:41
+ * @since 1.0, 2026-06-17 10:42:55
  */
 class AlipayCommerceCommissionRuleCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.open.kaifang.kaifang.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:39:14
+ * @since 1.0, 2026-05-11 10:47:59
  */
 class ZhimaOpenKaifangKaifangQueryRequest
 {

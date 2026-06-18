@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.indfinsol.credit.query request
  *
  * @author auto create
- * @since 1.0, 2026-03-26 20:17:44
+ * @since 1.0, 2026-05-18 16:32:50
  */
 class AlipayTradeIndfinsolCreditQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.resourcepackage.renew.createandpay request
  *
  * @author auto create
- * @since 1.0, 2025-08-04 11:11:33
+ * @since 1.0, 2026-05-28 15:47:51
  */
 class AlipayCloudCloudbaseResourcepackageRenewCreateandpayRequest
 {

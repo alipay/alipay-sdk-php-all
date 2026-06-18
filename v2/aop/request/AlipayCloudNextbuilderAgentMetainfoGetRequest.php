@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.nextbuilder.agent.metainfo.get request
  *
  * @author auto create
- * @since 1.0, 2024-07-05 16:42:05
+ * @since 1.0, 2026-04-15 21:29:17
  */
 class AlipayCloudNextbuilderAgentMetainfoGetRequest
 {

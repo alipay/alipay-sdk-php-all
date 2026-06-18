@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.insurance.tpawhiteuser.sync request
  *
  * @author auto create
- * @since 1.0, 2026-03-31 17:37:44
+ * @since 1.0, 2026-05-22 14:02:50
  */
 class AlipayCommerceMedicalInsuranceTpawhiteuserSyncRequest
 {

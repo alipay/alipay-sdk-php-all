@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.task.receive request
  *
  * @author auto create
- * @since 1.0, 2024-11-28 12:02:23
+ * @since 1.0, 2026-04-30 10:44:44
  */
 class AlipayCommerceAcommunicationTaskReceiveRequest
 {

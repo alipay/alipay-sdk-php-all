@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.solutionprod.merchantupgrade.query request
  *
  * @author auto create
- * @since 1.0, 2025-11-17 21:42:42
+ * @since 1.0, 2026-05-29 00:06:20
  */
 class AlipayTradeSolutionprodMerchantupgradeQueryRequest
 {

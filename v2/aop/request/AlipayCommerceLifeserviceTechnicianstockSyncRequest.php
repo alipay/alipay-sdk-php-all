@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lifeservice.technicianstock.sync request
  *
  * @author auto create
- * @since 1.0, 2026-02-05 16:47:44
+ * @since 1.0, 2026-04-16 17:37:44
  */
 class AlipayCommerceLifeserviceTechnicianstockSyncRequest
 {

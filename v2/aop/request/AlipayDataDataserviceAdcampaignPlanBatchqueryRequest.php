@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.adcampaign.plan.batchquery request
  *
  * @author auto create
- * @since 1.0, 2026-03-20 14:32:30
+ * @since 1.0, 2026-04-10 14:12:45
  */
 class AlipayDataDataserviceAdcampaignPlanBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.logistic.upload.sync request
  *
  * @author auto create
- * @since 1.0, 2025-12-29 11:25:52
+ * @since 1.0, 2026-05-19 16:02:45
  */
 class AntMerchantExpandLogisticUploadSyncRequest
 {

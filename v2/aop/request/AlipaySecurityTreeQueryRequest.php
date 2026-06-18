@@ -3,10 +3,14 @@
  * ALIPAY API: alipay.security.tree.query request
  *
  * @author auto create
- * @since 1.0, 2025-11-27 10:55:01
+ * @since 1.0, 2026-06-08 17:37:56
  */
 class AlipaySecurityTreeQueryRequest
 {
+	/** 
+	 * 老模型测试极速版
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -18,6 +22,17 @@ class AlipaySecurityTreeQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.security.tree.query";

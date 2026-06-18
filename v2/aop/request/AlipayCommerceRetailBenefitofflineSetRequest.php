@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.retail.benefitoffline.set request
  *
  * @author auto create
- * @since 1.0, 2026-03-24 22:57:43
+ * @since 1.0, 2026-04-10 17:00:01
  */
 class AlipayCommerceRetailBenefitofflineSetRequest
 {

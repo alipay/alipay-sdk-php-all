@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.expo.nfccheckin.submit request
  *
  * @author auto create
- * @since 1.0, 2026-04-07 17:07:44
+ * @since 1.0, 2026-04-29 14:37:48
  */
 class AlipayOfflineProviderExpoNfccheckinSubmitRequest
 {

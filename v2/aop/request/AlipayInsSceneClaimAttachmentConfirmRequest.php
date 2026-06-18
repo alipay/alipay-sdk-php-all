@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.claim.attachment.confirm request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 17:31:56
+ * @since 1.0, 2026-06-05 13:31:03
  */
 class AlipayInsSceneClaimAttachmentConfirmRequest
 {

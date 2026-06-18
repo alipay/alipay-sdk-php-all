@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.pdeduct.pay request
  *
  * @author auto create
- * @since 1.0, 2025-08-14 07:22:40
+ * @since 1.0, 2026-05-15 09:47:44
  */
 class AlipayEbppPdeductPayRequest
 {
@@ -36,7 +36,8 @@ class AlipayEbppPdeductPayRequest
 	 * 扩展参数。必须以key value形式定义，
 转为json为格式：{"key1":"value1","key2":"value2",
 "key3":"value3","key4":"value4"}
- 后端会直接转换为MAP对象，转换异常会报参数格式错误
+ 后端会直接转换为MAP对象，转换异常会报参数格式错误。
+instUniqueNo,机构唯一流水号
 	 **/
 	private $extendField;
 	

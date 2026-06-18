@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudrun.env.share.create request
  *
  * @author auto create
- * @since 1.0, 2024-01-23 10:31:58
+ * @since 1.0, 2026-04-13 17:31:55
  */
 class AlipayCloudCloudrunEnvShareCreateRequest
 {

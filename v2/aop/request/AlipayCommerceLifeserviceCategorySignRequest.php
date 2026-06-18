@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lifeservice.category.sign request
  *
  * @author auto create
- * @since 1.0, 2026-04-07 19:42:44
+ * @since 1.0, 2026-05-29 14:27:49
  */
 class AlipayCommerceLifeserviceCategorySignRequest
 {

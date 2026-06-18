@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.charger.pay.precreate request
  *
  * @author auto create
- * @since 1.0, 2025-12-19 14:17:41
+ * @since 1.0, 2026-05-20 14:32:49
  */
 class AlipayCommerceTransportChargerPayPrecreateRequest
 {

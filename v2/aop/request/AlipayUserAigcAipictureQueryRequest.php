@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.aigc.aipicture.query request
  *
  * @author auto create
- * @since 1.0, 2025-04-17 13:53:23
+ * @since 1.0, 2026-06-10 15:15:18
  */
 class AlipayUserAigcAipictureQueryRequest
 {

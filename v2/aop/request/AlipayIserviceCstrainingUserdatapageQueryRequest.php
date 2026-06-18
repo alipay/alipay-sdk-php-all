@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.cstraining.userdatapage.query request
  *
  * @author auto create
- * @since 1.0, 2025-10-29 19:57:40
+ * @since 1.0, 2026-05-18 14:20:55
  */
 class AlipayIserviceCstrainingUserdatapageQueryRequest
 {

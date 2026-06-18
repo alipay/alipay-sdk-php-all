@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.collaborate.merchanttask.sync request
  *
  * @author auto create
- * @since 1.0, 2026-03-26 16:32:44
+ * @since 1.0, 2026-06-05 10:37:40
  */
 class AlipayOfflineProviderCollaborateMerchanttaskSyncRequest
 {

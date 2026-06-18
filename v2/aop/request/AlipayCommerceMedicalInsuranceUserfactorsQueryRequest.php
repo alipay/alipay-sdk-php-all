@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.insurance.userfactors.query request
  *
  * @author auto create
- * @since 1.0, 2025-06-05 10:57:28
+ * @since 1.0, 2026-05-26 18:27:48
  */
 class AlipayCommerceMedicalInsuranceUserfactorsQueryRequest
 {

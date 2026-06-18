@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.npassporter.face.verify request
  *
  * @author auto create
- * @since 1.0, 2026-03-24 10:47:44
+ * @since 1.0, 2026-06-03 10:18:49
  */
 class AlipayOfflineProviderNpassporterFaceVerifyRequest
 {
@@ -26,6 +26,11 @@ class AlipayOfflineProviderNpassporterFaceVerifyRequest
 	 * 照片URL
 	 **/
 	private $photoUrl;
+	
+	/** 
+	 * true: photoUrl字段为RSA加密后Base64编码的密文，false或不传: photoUrl字段为明文URL（向后兼容）
+	 **/
+	private $photoUrlEncrypted;
 	
 	/** 
 	 * 项目ID
@@ -94,6 +99,17 @@ class AlipayOfflineProviderNpassporterFaceVerifyRequest
 	public function getPhotoUrl()
 	{
 		return $this->photoUrl;
+	}
+
+	public function setPhotoUrlEncrypted($photoUrlEncrypted)
+	{
+		$this->photoUrlEncrypted = $photoUrlEncrypted;
+		$this->apiParas["photo_url_encrypted"] = $photoUrlEncrypted;
+	}
+
+	public function getPhotoUrlEncrypted()
+	{
+		return $this->photoUrlEncrypted;
 	}
 
 	public function setProjectId($projectId)

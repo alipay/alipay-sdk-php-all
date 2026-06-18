@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.manjt.capture request
  *
  * @author auto create
- * @since 1.0, 2025-04-25 18:22:27
+ * @since 1.0, 2026-06-17 10:53:38
  */
 class AlipayOpenManjtCaptureRequest
 {

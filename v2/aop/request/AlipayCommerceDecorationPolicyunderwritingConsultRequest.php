@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.decoration.policyunderwriting.consult request
  *
  * @author auto create
- * @since 1.0, 2026-03-11 15:42:44
+ * @since 1.0, 2026-05-08 14:07:45
  */
 class AlipayCommerceDecorationPolicyunderwritingConsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.serviceai.ocrservice.upload request
  *
  * @author auto create
- * @since 1.0, 2026-01-06 17:17:42
+ * @since 1.0, 2026-05-27 14:24:30
  */
 class AlipayCommerceMedicalServiceaiOcrserviceUploadRequest
 {

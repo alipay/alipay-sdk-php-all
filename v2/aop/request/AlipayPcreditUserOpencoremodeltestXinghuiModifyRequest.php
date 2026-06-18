@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.user.opencoremodeltest.xinghui.modify request
  *
  * @author auto create
- * @since 1.0, 2023-01-11 02:36:39
+ * @since 1.0, 2026-05-29 00:06:17
  */
 class AlipayPcreditUserOpencoremodeltestXinghuiModifyRequest
 {

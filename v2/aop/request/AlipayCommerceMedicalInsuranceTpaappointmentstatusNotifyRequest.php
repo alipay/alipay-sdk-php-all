@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.insurance.tpaappointmentstatus.notify request
  *
  * @author auto create
- * @since 1.0, 2025-12-26 19:22:44
+ * @since 1.0, 2026-05-26 18:27:48
  */
 class AlipayCommerceMedicalInsuranceTpaappointmentstatusNotifyRequest
 {

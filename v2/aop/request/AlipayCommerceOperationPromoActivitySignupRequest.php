@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.promo.activity.signup request
  *
  * @author auto create
- * @since 1.0, 2026-03-03 15:32:43
+ * @since 1.0, 2026-06-01 15:37:49
  */
 class AlipayCommerceOperationPromoActivitySignupRequest
 {

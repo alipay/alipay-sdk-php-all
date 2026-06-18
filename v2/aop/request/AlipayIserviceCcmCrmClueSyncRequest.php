@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.crm.clue.sync request
  *
  * @author auto create
- * @since 1.0, 2026-01-29 14:36:33
+ * @since 1.0, 2026-05-20 15:17:49
  */
 class AlipayIserviceCcmCrmClueSyncRequest
 {

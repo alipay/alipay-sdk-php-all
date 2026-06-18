@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.cloudbase.env.envvars.set request
  *
  * @author auto create
- * @since 1.0, 2024-11-22 14:41:28
+ * @since 1.0, 2026-05-28 15:47:50
  */
 class AlipayCloudCloudbaseEnvEnvvarsSetRequest
 {

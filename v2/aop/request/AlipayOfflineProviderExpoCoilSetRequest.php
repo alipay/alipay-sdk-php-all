@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.expo.coil.set request
  *
  * @author auto create
- * @since 1.0, 2026-03-17 20:07:44
+ * @since 1.0, 2026-04-21 15:57:46
  */
 class AlipayOfflineProviderExpoCoilSetRequest
 {

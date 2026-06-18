@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fincore.compliance.apccenter.algorithmarchive.detect request
  *
  * @author auto create
- * @since 1.0, 2024-10-08 18:18:55
+ * @since 1.0, 2026-05-16 00:05:00
  */
 class AlipayFincoreComplianceApccenterAlgorithmarchiveDetectRequest
 {

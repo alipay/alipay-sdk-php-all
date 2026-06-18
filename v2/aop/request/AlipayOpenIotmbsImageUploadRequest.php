@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.image.upload request
  *
  * @author auto create
- * @since 1.0, 2023-11-23 10:51:52
+ * @since 1.0, 2026-05-01 00:11:02
  */
 class AlipayOpenIotmbsImageUploadRequest
 {

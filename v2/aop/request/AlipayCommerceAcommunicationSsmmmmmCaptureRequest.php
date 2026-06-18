@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.ssmmmmm.capture request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 16:38:03
+ * @since 1.0, 2026-06-17 10:48:18
  */
 class AlipayCommerceAcommunicationSsmmmmmCaptureRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.obglobal.signpath.modify request
  *
  * @author auto create
- * @since 1.0, 2026-01-07 18:37:43
+ * @since 1.0, 2026-04-14 15:57:45
  */
 class AnttechOceanbaseObglobalSignpathModifyRequest
 {

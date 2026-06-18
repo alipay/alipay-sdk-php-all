@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.npromo.indirect.query request
  *
  * @author auto create
- * @since 1.0, 2026-03-30 11:31:48
+ * @since 1.0, 2026-04-28 16:12:49
  */
 class AlipayMerchantNpromoIndirectQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lifeservice.room.sync request
  *
  * @author auto create
- * @since 1.0, 2026-01-26 15:57:41
+ * @since 1.0, 2026-04-15 19:27:45
  */
 class AlipayCommerceLifeserviceRoomSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.activity.offline request
  *
  * @author auto create
- * @since 1.0, 2025-12-10 15:02:31
+ * @since 1.0, 2026-06-17 10:52:56
  */
 class AlipayCommerceEcActivityOfflineRequest
 {

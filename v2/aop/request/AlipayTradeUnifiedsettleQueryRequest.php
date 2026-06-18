@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.unifiedsettle.query request
  *
  * @author auto create
- * @since 1.0, 2026-01-20 20:17:29
+ * @since 1.0, 2026-05-29 00:06:20
  */
 class AlipayTradeUnifiedsettleQueryRequest
 {

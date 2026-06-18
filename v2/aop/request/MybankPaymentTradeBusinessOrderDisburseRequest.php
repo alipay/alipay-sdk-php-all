@@ -3,7 +3,7 @@
  * ALIPAY API: mybank.payment.trade.business.order.disburse request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:33:31
+ * @since 1.0, 2026-05-27 00:07:47
  */
 class MybankPaymentTradeBusinessOrderDisburseRequest
 {

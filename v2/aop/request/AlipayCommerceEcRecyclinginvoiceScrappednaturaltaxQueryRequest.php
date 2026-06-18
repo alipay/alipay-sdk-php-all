@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.recyclinginvoice.scrappednaturaltax.query request
  *
  * @author auto create
- * @since 1.0, 2026-02-02 10:42:43
+ * @since 1.0, 2026-04-27 18:00:53
  */
 class AlipayCommerceEcRecyclinginvoiceScrappednaturaltaxQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataexchange.treetoantone.rainystest.sync request
  *
  * @author auto create
- * @since 1.0, 2025-08-20 10:32:36
+ * @since 1.0, 2026-05-08 15:52:46
  */
 class AlipayDataDataexchangeTreetoantoneRainystestSyncRequest
 {

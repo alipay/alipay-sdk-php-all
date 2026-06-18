@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.public.xwbtestabcd.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 17:41:20
+ * @since 1.0, 2026-06-17 10:57:57
  */
 class AlipayOpenPublicXwbtestabcdBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.base.anttask.tasks.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-18 22:06:43
+ * @since 1.0, 2026-04-24 10:31:52
  */
 class AlipayBossBaseAnttaskTasksQueryRequest
 {

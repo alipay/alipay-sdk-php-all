@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.prod.raas.meter.query request
  *
  * @author auto create
- * @since 1.0, 2024-01-25 09:36:57
+ * @since 1.0, 2026-05-18 10:53:59
  */
 class AlipaySecurityProdRaasMeterQueryRequest
 {

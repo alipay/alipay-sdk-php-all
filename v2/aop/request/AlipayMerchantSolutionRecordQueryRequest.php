@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.solution.record.query request
  *
  * @author auto create
- * @since 1.0, 2024-06-14 11:02:04
+ * @since 1.0, 2026-06-15 10:37:55
  */
 class AlipayMerchantSolutionRecordQueryRequest
 {

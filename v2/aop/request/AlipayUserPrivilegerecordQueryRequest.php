@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.privilegerecord.query request
  *
  * @author auto create
- * @since 1.0, 2026-02-03 19:42:43
+ * @since 1.0, 2026-05-22 10:33:20
  */
 class AlipayUserPrivilegerecordQueryRequest
 {

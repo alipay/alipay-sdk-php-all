@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.ccc.dede.cancel request
  *
  * @author auto create
- * @since 1.0, 2025-03-19 10:38:52
+ * @since 1.0, 2026-06-17 10:53:46
  */
 class AlipayOpenCccDedeCancelRequest
 {

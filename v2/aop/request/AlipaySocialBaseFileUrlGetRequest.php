@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.file.url.get request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:33:10
+ * @since 1.0, 2026-04-10 12:07:52
  */
 class AlipaySocialBaseFileUrlGetRequest
 {

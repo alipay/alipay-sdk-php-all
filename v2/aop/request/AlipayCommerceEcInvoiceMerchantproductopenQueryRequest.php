@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.invoice.merchantproductopen.query request
  *
  * @author auto create
- * @since 1.0, 2026-03-24 15:27:44
+ * @since 1.0, 2026-04-27 17:49:38
  */
 class AlipayCommerceEcInvoiceMerchantproductopenQueryRequest
 {

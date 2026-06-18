@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.aivisionstored.shop.apply request
  *
  * @author auto create
- * @since 1.0, 2026-02-10 17:27:43
+ * @since 1.0, 2026-06-01 19:12:50
  */
 class AlipayMsaasMediarecogAivisionstoredShopApplyRequest
 {

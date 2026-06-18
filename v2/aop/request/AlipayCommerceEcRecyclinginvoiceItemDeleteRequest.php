@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.recyclinginvoice.item.delete request
  *
  * @author auto create
- * @since 1.0, 2025-04-22 15:52:31
+ * @since 1.0, 2026-04-27 18:03:47
  */
 class AlipayCommerceEcRecyclinginvoiceItemDeleteRequest
 {

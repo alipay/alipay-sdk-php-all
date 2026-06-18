@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.hdf.serviceright.check request
  *
  * @author auto create
- * @since 1.0, 2025-10-28 18:57:40
+ * @since 1.0, 2026-06-17 10:06:53
  */
 class AlipayCommerceHdfServicerightCheckRequest
 {

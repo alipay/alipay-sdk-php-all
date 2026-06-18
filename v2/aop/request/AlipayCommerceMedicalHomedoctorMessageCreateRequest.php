@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.homedoctor.message.create request
  *
  * @author auto create
- * @since 1.0, 2026-04-09 09:37:43
+ * @since 1.0, 2026-06-01 16:42:01
  */
 class AlipayCommerceMedicalHomedoctorMessageCreateRequest
 {

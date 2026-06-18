@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.device.data.send request
  *
  * @author auto create
- * @since 1.0, 2026-03-30 21:12:44
+ * @since 1.0, 2026-05-06 10:14:39
  */
 class AlipayCommerceMedicalDeviceDataSendRequest
 {

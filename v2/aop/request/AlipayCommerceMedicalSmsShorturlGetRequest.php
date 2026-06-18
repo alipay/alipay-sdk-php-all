@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.sms.shorturl.get request
  *
  * @author auto create
- * @since 1.0, 2025-07-10 14:47:30
+ * @since 1.0, 2026-05-26 17:52:48
  */
 class AlipayCommerceMedicalSmsShorturlGetRequest
 {

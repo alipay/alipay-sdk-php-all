@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.solutionprod.unifiedopen.apply request
  *
  * @author auto create
- * @since 1.0, 2026-01-15 11:17:42
+ * @since 1.0, 2026-05-29 00:06:20
  */
 class AlipayTradeSolutionprodUnifiedopenApplyRequest
 {

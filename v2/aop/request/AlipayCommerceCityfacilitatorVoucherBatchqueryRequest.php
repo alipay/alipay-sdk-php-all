@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-11-19 11:27:42
+ * @since 1.0, 2026-04-28 16:54:39
  */
 class AlipayCommerceCityfacilitatorVoucherBatchqueryRequest
 {

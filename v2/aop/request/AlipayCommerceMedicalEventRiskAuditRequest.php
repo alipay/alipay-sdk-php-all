@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.event.risk.audit request
  *
  * @author auto create
- * @since 1.0, 2026-03-27 17:17:44
+ * @since 1.0, 2026-04-24 11:27:45
  */
 class AlipayCommerceMedicalEventRiskAuditRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.indirect.zft.delete request
  *
  * @author auto create
- * @since 1.0, 2025-07-10 15:17:32
+ * @since 1.0, 2026-05-13 16:53:02
  */
 class AntMerchantExpandIndirectZftDeleteRequest
 {

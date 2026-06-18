@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.promo.event.notify request
  *
  * @author auto create
- * @since 1.0, 2025-10-17 19:37:40
+ * @since 1.0, 2026-04-24 15:52:44
  */
 class AlipayCommerceMedicalPromoEventNotifyRequest
 {

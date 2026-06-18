@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.aivisionstored.airetailevent.sync request
  *
  * @author auto create
- * @since 1.0, 2026-03-31 15:02:45
+ * @since 1.0, 2026-06-09 17:27:56
  */
 class AlipayMsaasMediarecogAivisionstoredAiretaileventSyncRequest
 {

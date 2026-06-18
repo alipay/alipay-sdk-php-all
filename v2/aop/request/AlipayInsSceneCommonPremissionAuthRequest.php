@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.common.premission.auth request
  *
  * @author auto create
- * @since 1.0, 2024-10-30 14:41:35
+ * @since 1.0, 2026-06-05 13:31:05
  */
 class AlipayInsSceneCommonPremissionAuthRequest
 {

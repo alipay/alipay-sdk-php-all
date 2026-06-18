@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.finance.order.query request
  *
  * @author auto create
- * @since 1.0, 2025-12-17 17:02:41
+ * @since 1.0, 2026-05-29 00:06:20
  */
 class AlipayTradeFinanceOrderQueryRequest
 {

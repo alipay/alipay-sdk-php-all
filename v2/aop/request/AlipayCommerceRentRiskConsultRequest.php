@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.risk.consult request
  *
  * @author auto create
- * @since 1.0, 2026-03-31 17:37:44
+ * @since 1.0, 2026-06-12 16:22:54
  */
 class AlipayCommerceRentRiskConsultRequest
 {

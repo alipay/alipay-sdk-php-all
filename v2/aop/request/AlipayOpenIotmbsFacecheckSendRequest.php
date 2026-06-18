@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotmbs.facecheck.send request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:41
+ * @since 1.0, 2026-05-01 00:11:02
  */
 class AlipayOpenIotmbsFacecheckSendRequest
 {

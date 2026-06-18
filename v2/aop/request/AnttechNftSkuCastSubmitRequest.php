@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.nft.sku.cast.submit request
  *
  * @author auto create
- * @since 1.0, 2026-03-11 15:46:28
+ * @since 1.0, 2026-04-14 17:22:45
  */
 class AnttechNftSkuCastSubmitRequest
 {

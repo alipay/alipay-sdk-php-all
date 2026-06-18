@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.cyclepay.prenotify.create request
  *
  * @author auto create
- * @since 1.0, 2026-03-30 17:32:44
+ * @since 1.0, 2026-04-20 20:52:45
  */
 class AlipayUserCyclepayPrenotifyCreateRequest
 {
