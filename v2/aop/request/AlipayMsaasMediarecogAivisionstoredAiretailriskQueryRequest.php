@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.msaas.mediarecog.aivisionstored.airetailrisk.query request
  *
  * @author auto create
- * @since 1.0, 2026-03-31 15:07:45
+ * @since 1.0, 2026-07-03 21:27:55
  */
 class AlipayMsaasMediarecogAivisionstoredAiretailriskQueryRequest
 {

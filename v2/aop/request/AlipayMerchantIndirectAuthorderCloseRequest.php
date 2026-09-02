@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.authorder.close request
  *
  * @author auto create
- * @since 1.0, 2025-01-02 15:37:21
+ * @since 1.0, 2026-08-12 15:05:18
  */
 class AlipayMerchantIndirectAuthorderCloseRequest
 {

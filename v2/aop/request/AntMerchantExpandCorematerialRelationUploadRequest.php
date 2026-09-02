@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.corematerial.relation.upload request
  *
  * @author auto create
- * @since 1.0, 2026-04-21 15:37:45
+ * @since 1.0, 2026-08-11 14:31:12
  */
 class AntMerchantExpandCorematerialRelationUploadRequest
 {

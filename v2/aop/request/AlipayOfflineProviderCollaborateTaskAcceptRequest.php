@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.collaborate.task.accept request
  *
  * @author auto create
- * @since 1.0, 2026-02-12 16:27:43
+ * @since 1.0, 2026-08-18 14:14:10
  */
 class AlipayOfflineProviderCollaborateTaskAcceptRequest
 {

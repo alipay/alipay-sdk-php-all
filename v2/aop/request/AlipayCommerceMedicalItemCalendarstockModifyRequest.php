@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.item.calendarstock.modify request
  *
  * @author auto create
- * @since 1.0, 2026-04-13 19:47:45
+ * @since 1.0, 2026-08-10 18:02:49
  */
 class AlipayCommerceMedicalItemCalendarstockModifyRequest
 {

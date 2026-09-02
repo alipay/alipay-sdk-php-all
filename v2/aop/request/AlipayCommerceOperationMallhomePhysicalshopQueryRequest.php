@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.mallhome.physicalshop.query request
  *
  * @author auto create
- * @since 1.0, 2025-08-06 17:52:35
+ * @since 1.0, 2026-07-27 14:00:37
  */
 class AlipayCommerceOperationMallhomePhysicalshopQueryRequest
 {

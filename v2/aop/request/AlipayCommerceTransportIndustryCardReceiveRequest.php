@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.industry.card.receive request
  *
  * @author auto create
- * @since 1.0, 2026-05-27 16:42:27
+ * @since 1.0, 2026-08-19 15:02:52
  */
 class AlipayCommerceTransportIndustryCardReceiveRequest
 {

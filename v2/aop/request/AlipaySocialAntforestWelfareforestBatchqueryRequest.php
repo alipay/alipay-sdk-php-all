@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.antforest.welfareforest.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-04-21 15:33:51
+ * @since 1.0, 2026-08-25 13:07:49
  */
 class AlipaySocialAntforestWelfareforestBatchqueryRequest
 {

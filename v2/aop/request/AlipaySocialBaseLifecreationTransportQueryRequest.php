@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.lifecreation.transport.query request
  *
  * @author auto create
- * @since 1.0, 2025-05-23 13:34:19
+ * @since 1.0, 2026-07-03 00:05:54
  */
 class AlipaySocialBaseLifecreationTransportQueryRequest
 {

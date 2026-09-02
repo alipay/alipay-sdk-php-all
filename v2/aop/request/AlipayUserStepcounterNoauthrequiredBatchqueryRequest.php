@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.stepcounter.noauthrequired.batchquery request
  *
  * @author auto create
- * @since 1.0, 2026-06-16 14:17:55
+ * @since 1.0, 2026-06-25 15:57:56
  */
 class AlipayUserStepcounterNoauthrequiredBatchqueryRequest
 {

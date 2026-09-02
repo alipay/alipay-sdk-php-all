@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.terminal.edgecloud.simcard.netflowmonitor.sync request
  *
  * @author auto create
- * @since 1.0, 2026-04-28 19:37:48
+ * @since 1.0, 2026-06-24 11:02:55
  */
 class AlipayTerminalEdgecloudSimcardNetflowmonitorSyncRequest
 {

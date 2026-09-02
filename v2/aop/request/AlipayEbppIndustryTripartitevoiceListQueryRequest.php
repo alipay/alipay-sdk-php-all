@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.tripartitevoice.list.query request
  *
  * @author auto create
- * @since 1.0, 2026-05-29 10:47:50
+ * @since 1.0, 2026-08-18 19:12:51
  */
 class AlipayEbppIndustryTripartitevoiceListQueryRequest
 {

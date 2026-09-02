@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.resale.order.query request
  *
  * @author auto create
- * @since 1.0, 2026-05-26 16:42:49
+ * @since 1.0, 2026-07-29 16:27:55
  */
 class AlipayCommerceResaleOrderQueryRequest
 {

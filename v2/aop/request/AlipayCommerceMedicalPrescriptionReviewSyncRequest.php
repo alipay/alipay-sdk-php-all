@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.prescription.review.sync request
  *
  * @author auto create
- * @since 1.0, 2026-05-09 18:47:45
+ * @since 1.0, 2026-07-10 11:57:53
  */
 class AlipayCommerceMedicalPrescriptionReviewSyncRequest
 {

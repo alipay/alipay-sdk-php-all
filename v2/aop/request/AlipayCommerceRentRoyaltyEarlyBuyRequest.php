@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.royalty.early.buy request
  *
  * @author auto create
- * @since 1.0, 2026-04-14 10:57:45
+ * @since 1.0, 2026-08-07 15:42:56
  */
 class AlipayCommerceRentRoyaltyEarlyBuyRequest
 {

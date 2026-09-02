@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.acommunication.distribution.floworder.create request
  *
  * @author auto create
- * @since 1.0, 2026-06-02 10:12:48
+ * @since 1.0, 2026-07-30 10:32:55
  */
 class AlipayCommerceAcommunicationDistributionFloworderCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.retail.businesslist.save request
  *
  * @author auto create
- * @since 1.0, 2026-05-25 10:42:49
+ * @since 1.0, 2026-08-04 19:29:03
  */
 class AlipayCommerceRetailBusinesslistSaveRequest
 {

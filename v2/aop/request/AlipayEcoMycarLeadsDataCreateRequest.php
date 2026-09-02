@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.eco.mycar.leads.data.create request
  *
  * @author auto create
- * @since 1.0, 2024-07-26 18:12:04
+ * @since 1.0, 2026-07-24 17:02:52
  */
 class AlipayEcoMycarLeadsDataCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.educertify.result.get request
  *
  * @author auto create
- * @since 1.0, 2026-05-18 10:47:49
+ * @since 1.0, 2026-08-06 09:42:49
  */
 class AlipayEbppIndustryEducertifyResultGetRequest
 {

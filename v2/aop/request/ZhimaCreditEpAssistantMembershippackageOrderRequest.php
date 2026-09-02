@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.ep.assistant.membershippackage.order request
  *
  * @author auto create
- * @since 1.0, 2026-04-02 11:48:34
+ * @since 1.0, 2026-07-27 14:12:53
  */
 class ZhimaCreditEpAssistantMembershippackageOrderRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.search.result.query request
  *
  * @author auto create
- * @since 1.0, 2026-06-04 14:21:55
+ * @since 1.0, 2026-08-27 20:32:51
  */
 class AlipayCommerceMedicalSearchResultQueryRequest
 {

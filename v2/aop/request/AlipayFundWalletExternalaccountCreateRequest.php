@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.wallet.externalaccount.create request
  *
  * @author auto create
- * @since 1.0, 2026-01-22 15:12:42
+ * @since 1.0, 2026-06-25 11:37:57
  */
 class AlipayFundWalletExternalaccountCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.waybill.intelinotice.consult request
  *
  * @author auto create
- * @since 1.0, 2026-04-29 15:02:49
+ * @since 1.0, 2026-07-01 20:17:55
  */
 class AlipayCommerceLogisticsWaybillIntelinoticeConsultRequest
 {

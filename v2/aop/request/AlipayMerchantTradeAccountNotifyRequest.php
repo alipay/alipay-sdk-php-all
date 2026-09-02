@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.trade.account.notify request
  *
  * @author auto create
- * @since 1.0, 2024-12-19 13:37:21
+ * @since 1.0, 2026-08-21 14:06:55
  */
 class AlipayMerchantTradeAccountNotifyRequest
 {

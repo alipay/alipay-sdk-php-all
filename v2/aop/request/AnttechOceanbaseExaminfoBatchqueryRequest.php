@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.examinfo.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-12-26 15:57:22
+ * @since 1.0, 2026-06-30 14:37:57
  */
 class AnttechOceanbaseExaminfoBatchqueryRequest
 {

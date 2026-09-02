@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.engineering.infrastructure.stock.kline.query request
  *
  * @author auto create
- * @since 1.0, 2026-03-24 16:27:46
+ * @since 1.0, 2026-08-20 00:05:39
  */
 class AlipayEngineeringInfrastructureStockKlineQueryRequest
 {

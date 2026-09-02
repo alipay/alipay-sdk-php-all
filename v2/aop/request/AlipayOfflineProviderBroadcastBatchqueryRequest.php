@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.broadcast.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-11-07 17:17:41
+ * @since 1.0, 2026-08-27 15:20:41
  */
 class AlipayOfflineProviderBroadcastBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.bill.cert.query request
  *
  * @author auto create
- * @since 1.0, 2026-05-26 09:27:44
+ * @since 1.0, 2026-08-13 16:42:49
  */
 class AlipayOpenMiniBillCertQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.sports.usergame.data.sync request
  *
  * @author auto create
- * @since 1.0, 2024-07-08 17:07:05
+ * @since 1.0, 2026-08-04 15:57:51
  */
 class AlipayCommerceSportsUsergameDataSyncRequest
 {

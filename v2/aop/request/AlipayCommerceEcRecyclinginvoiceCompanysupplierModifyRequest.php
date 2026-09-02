@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.recyclinginvoice.companysupplier.modify request
  *
  * @author auto create
- * @since 1.0, 2026-04-27 18:03:56
+ * @since 1.0, 2026-08-04 10:07:48
  */
 class AlipayCommerceEcRecyclinginvoiceCompanysupplierModifyRequest
 {

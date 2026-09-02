@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.promo.record.query request
  *
  * @author auto create
- * @since 1.0, 2026-05-08 21:57:45
+ * @since 1.0, 2026-06-29 18:07:55
  */
 class AlipayCommerceOperationPromoRecordQueryRequest
 {

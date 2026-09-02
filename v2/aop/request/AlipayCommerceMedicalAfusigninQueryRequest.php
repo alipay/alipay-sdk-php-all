@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.afusignin.query request
  *
  * @author auto create
- * @since 1.0, 2026-04-03 13:57:44
+ * @since 1.0, 2026-09-01 14:48:31
  */
 class AlipayCommerceMedicalAfusigninQueryRequest
 {

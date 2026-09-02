@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.fund.bind.query request
  *
  * @author auto create
- * @since 1.0, 2026-05-08 17:14:12
+ * @since 1.0, 2026-07-29 20:52:51
  */
 class AlipayCommerceFundBindQueryRequest
 {

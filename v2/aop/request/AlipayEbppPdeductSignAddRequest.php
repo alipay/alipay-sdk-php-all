@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.pdeduct.sign.add request
  *
  * @author auto create
- * @since 1.0, 2025-08-14 07:27:40
+ * @since 1.0, 2026-08-17 16:07:51
  */
 class AlipayEbppPdeductSignAddRequest
 {
@@ -105,6 +105,11 @@ min_age: 允许的最小买家年龄,min_age为整数，必须大于等于0.
 	 * 签约到期时间。空表示无限期，一期固定传空。
 	 **/
 	private $signExpireDate;
+	
+	/** 
+	 * 用户设置的优先扣款渠道
+	 **/
+	private $specifiedSortChannels;
 	
 	/** 
 	 * 业务子类型。业务子类型是业务类型的下一级概念。枚举支持：
@@ -327,6 +332,17 @@ min_age: 允许的最小买家年龄,min_age为整数，必须大于等于0.
 	public function getSignExpireDate()
 	{
 		return $this->signExpireDate;
+	}
+
+	public function setSpecifiedSortChannels($specifiedSortChannels)
+	{
+		$this->specifiedSortChannels = $specifiedSortChannels;
+		$this->apiParas["specified_sort_channels"] = $specifiedSortChannels;
+	}
+
+	public function getSpecifiedSortChannels()
+	{
+		return $this->specifiedSortChannels;
 	}
 
 	public function setSubBizType($subBizType)

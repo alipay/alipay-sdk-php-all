@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotbpaas.operationdata.upload request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:03:54
+ * @since 1.0, 2026-07-01 00:17:55
  */
 class AlipayOpenIotbpaasOperationdataUploadRequest
 {

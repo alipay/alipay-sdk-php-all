@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.activity.gray.create request
  *
  * @author auto create
- * @since 1.0, 2026-06-11 17:04:13
+ * @since 1.0, 2026-06-22 10:47:55
  */
 class AlipayCommerceEcActivityGrayCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.activity.discount.create request
  *
  * @author auto create
- * @since 1.0, 2026-06-17 10:52:56
+ * @since 1.0, 2026-06-22 15:02:58
  */
 class AlipayCommerceEcActivityDiscountCreateRequest
 {

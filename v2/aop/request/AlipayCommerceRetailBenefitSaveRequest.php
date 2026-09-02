@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.retail.benefit.save request
  *
  * @author auto create
- * @since 1.0, 2026-03-24 22:57:43
+ * @since 1.0, 2026-08-04 19:29:17
  */
 class AlipayCommerceRetailBenefitSaveRequest
 {

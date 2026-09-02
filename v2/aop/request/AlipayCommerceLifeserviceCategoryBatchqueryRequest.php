@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lifeservice.category.batchquery request
  *
  * @author auto create
- * @since 1.0, 2026-06-11 16:49:08
+ * @since 1.0, 2026-07-13 10:32:53
  */
 class AlipayCommerceLifeserviceCategoryBatchqueryRequest
 {

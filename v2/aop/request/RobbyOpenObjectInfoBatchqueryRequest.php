@@ -3,7 +3,7 @@
  * ALIPAY API: robby.open.object.info.batchquery request
  *
  * @author auto create
- * @since 1.0, 2026-02-26 16:47:43
+ * @since 1.0, 2026-08-04 14:01:24
  */
 class RobbyOpenObjectInfoBatchqueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.commercial.interactivecore.roundstart.send request
  *
  * @author auto create
- * @since 1.0, 2024-08-12 10:27:06
+ * @since 1.0, 2026-06-23 14:49:22
  */
 class AlipayContentCommercialInteractivecoreRoundstartSendRequest
 {

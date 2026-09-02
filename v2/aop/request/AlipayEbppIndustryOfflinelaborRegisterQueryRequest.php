@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.offlinelabor.register.query request
  *
  * @author auto create
- * @since 1.0, 2025-12-09 11:22:41
+ * @since 1.0, 2026-07-17 14:32:50
  */
 class AlipayEbppIndustryOfflinelaborRegisterQueryRequest
 {

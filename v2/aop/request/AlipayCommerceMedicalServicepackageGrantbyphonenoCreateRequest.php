@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.servicepackage.grantbyphoneno.create request
  *
  * @author auto create
- * @since 1.0, 2026-06-16 16:37:56
+ * @since 1.0, 2026-08-27 10:42:52
  */
 class AlipayCommerceMedicalServicepackageGrantbyphonenoCreateRequest
 {

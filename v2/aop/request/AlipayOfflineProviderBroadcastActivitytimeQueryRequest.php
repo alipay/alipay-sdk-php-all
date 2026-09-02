@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.broadcast.activitytime.query request
  *
  * @author auto create
- * @since 1.0, 2025-12-19 15:07:42
+ * @since 1.0, 2026-08-31 19:20:24
  */
 class AlipayOfflineProviderBroadcastActivitytimeQueryRequest
 {

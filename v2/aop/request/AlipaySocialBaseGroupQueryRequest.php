@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.base.group.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-05 11:02:32
+ * @since 1.0, 2026-06-30 10:37:07
  */
 class AlipaySocialBaseGroupQueryRequest
 {

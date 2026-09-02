@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.unioncc.auth request
  *
  * @author auto create
- * @since 1.0, 2026-05-12 10:51:10
+ * @since 1.0, 2026-08-12 15:03:53
  */
 class AlipayMerchantIndirectUnionccAuthRequest
 {

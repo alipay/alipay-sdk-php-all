@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.report.sms.send request
  *
  * @author auto create
- * @since 1.0, 2026-04-20 17:52:45
+ * @since 1.0, 2026-08-26 19:23:14
  */
 class AlipayCommerceMedicalReportSmsSendRequest
 {

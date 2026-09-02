@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.aipay.agent.payment.verify request
  *
  * @author auto create
- * @since 1.0, 2026-04-29 11:52:45
+ * @since 1.0, 2026-07-07 12:22:55
  */
 class AlipayAipayAgentPaymentVerifyRequest
 {

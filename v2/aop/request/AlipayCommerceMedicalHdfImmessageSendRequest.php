@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.hdf.immessage.send request
  *
  * @author auto create
- * @since 1.0, 2026-04-17 14:57:46
+ * @since 1.0, 2026-08-20 23:07:51
  */
 class AlipayCommerceMedicalHdfImmessageSendRequest
 {

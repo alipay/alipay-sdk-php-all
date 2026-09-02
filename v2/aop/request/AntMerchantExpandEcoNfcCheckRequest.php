@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.eco.nfc.check request
  *
  * @author auto create
- * @since 1.0, 2025-03-06 18:02:25
+ * @since 1.0, 2026-07-27 21:32:51
  */
 class AntMerchantExpandEcoNfcCheckRequest
 {

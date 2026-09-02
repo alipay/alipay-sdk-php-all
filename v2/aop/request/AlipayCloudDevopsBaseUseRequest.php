@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.devops.base.use request
  *
  * @author auto create
- * @since 1.0, 2023-10-16 17:31:45
+ * @since 1.0, 2026-07-29 19:52:19
  */
 class AlipayCloudDevopsBaseUseRequest
 {

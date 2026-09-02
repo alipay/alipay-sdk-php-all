@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.retail.activity.send request
  *
  * @author auto create
- * @since 1.0, 2026-05-28 14:31:39
+ * @since 1.0, 2026-08-31 19:25:14
  */
 class AlipayCommerceRetailActivitySendRequest
 {

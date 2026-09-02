@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.expensecontrol.quota.delete request
  *
  * @author auto create
- * @since 1.0, 2025-01-13 14:09:38
+ * @since 1.0, 2026-08-13 14:22:52
  */
 class AlipayEbppInvoiceExpensecontrolQuotaDeleteRequest
 {

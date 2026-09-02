@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.tag.claim.add request
  *
  * @author auto create
- * @since 1.0, 2026-05-06 15:17:49
+ * @since 1.0, 2026-08-12 15:04:04
  */
 class AlipayCommerceOperationTagClaimAddRequest
 {

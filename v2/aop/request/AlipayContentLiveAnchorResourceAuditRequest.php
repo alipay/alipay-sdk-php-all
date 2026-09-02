@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.content.live.anchor.resource.audit request
  *
  * @author auto create
- * @since 1.0, 2025-11-13 14:32:41
+ * @since 1.0, 2026-06-23 14:49:23
  */
 class AlipayContentLiveAnchorResourceAuditRequest
 {

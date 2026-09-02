@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.educate.multideduct.token.apply request
  *
  * @author auto create
- * @since 1.0, 2026-01-22 10:32:43
+ * @since 1.0, 2026-08-12 17:27:26
  */
 class AlipayCommerceEducateMultideductTokenApplyRequest
 {

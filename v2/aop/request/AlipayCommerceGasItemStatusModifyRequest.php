@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.gas.item.status.modify request
  *
  * @author auto create
- * @since 1.0, 2026-04-02 16:17:44
+ * @since 1.0, 2026-08-25 15:37:01
  */
 class AlipayCommerceGasItemStatusModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.invoice.merchantlist.enter.apply request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 15:51:34
+ * @since 1.0, 2026-07-28 11:02:49
  */
 class AlipayEbppInvoiceMerchantlistEnterApplyRequest
 {

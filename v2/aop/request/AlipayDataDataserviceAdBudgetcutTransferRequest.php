@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.data.dataservice.ad.budgetcut.transfer request
  *
  * @author auto create
- * @since 1.0, 2026-04-01 13:32:45
+ * @since 1.0, 2026-07-31 11:05:07
  */
 class AlipayDataDataserviceAdBudgetcutTransferRequest
 {

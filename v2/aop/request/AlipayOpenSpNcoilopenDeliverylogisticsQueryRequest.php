@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.ncoilopen.deliverylogistics.query request
  *
  * @author auto create
- * @since 1.0, 2026-03-13 19:42:42
+ * @since 1.0, 2026-08-18 10:17:47
  */
 class AlipayOpenSpNcoilopenDeliverylogisticsQueryRequest
 {

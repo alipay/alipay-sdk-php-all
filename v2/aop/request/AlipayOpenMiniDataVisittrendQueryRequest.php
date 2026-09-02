@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.data.visittrend.query request
  *
  * @author auto create
- * @since 1.0, 2023-09-04 02:08:20
+ * @since 1.0, 2026-08-18 15:33:54
  */
 class AlipayOpenMiniDataVisittrendQueryRequest
 {

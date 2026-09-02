@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.cloud.devops.device.condition.query request
  *
  * @author auto create
- * @since 1.0, 2024-01-09 13:56:57
+ * @since 1.0, 2026-07-29 19:52:20
  */
 class AlipayCloudDevopsDeviceConditionQueryRequest
 {

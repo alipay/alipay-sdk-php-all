@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.security.data.amlasset.batchquery request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:33:09
+ * @since 1.0, 2026-08-29 00:06:19
  */
 class AlipaySecurityDataAmlassetBatchqueryRequest
 {

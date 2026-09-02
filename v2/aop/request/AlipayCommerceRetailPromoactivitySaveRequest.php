@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.retail.promoactivity.save request
  *
  * @author auto create
- * @since 1.0, 2026-05-28 14:56:10
+ * @since 1.0, 2026-08-31 19:25:31
  */
 class AlipayCommerceRetailPromoactivitySaveRequest
 {

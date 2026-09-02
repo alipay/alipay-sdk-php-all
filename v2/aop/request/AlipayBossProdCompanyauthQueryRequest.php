@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.prod.companyauth.query request
  *
  * @author auto create
- * @since 1.0, 2024-06-07 15:32:05
+ * @since 1.0, 2026-07-21 14:07:49
  */
 class AlipayBossProdCompanyauthQueryRequest
 {

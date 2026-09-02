@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.version.audit.apply request
  *
  * @author auto create
- * @since 1.0, 2025-10-30 10:47:40
+ * @since 1.0, 2026-08-03 10:27:48
  */
 class AlipayOpenMiniVersionAuditApplyRequest
 {
@@ -61,6 +61,12 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	private $bundleId;
 	
 	/** 
+	 * 第八张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
+	 **/
+	private $eighthSpecialLicensePic;
+	
+	/** 
 	 * 第五张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg格式。
 参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
 	 **/
@@ -71,6 +77,12 @@ com.alipay.iot.xpaas：支付宝IoT端。
 截图大小不能超过 4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
 	 **/
 	private $fifthScreenShot;
+	
+	/** 
+	 * 第五张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
+	 **/
+	private $fifthSpecialLicensePic;
 	
 	/** 
 	 * 第一张营业执照照片，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg格式。
@@ -103,6 +115,12 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	private $fourthScreenShot;
 	
 	/** 
+	 * 第四张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
+	 **/
+	private $fourthSpecialLicensePic;
+	
+	/** 
 	 * 营业执照名称，参照<a href="https://opendocs.alipay.com/mini/operation/material">https://opendocs.alipay.com/mini/operation/material</a>,要求填写营业执照信息。
 	 **/
 	private $licenseName;
@@ -127,6 +145,12 @@ com.alipay.iot.xpaas：支付宝IoT端。
 接口查询mini_category_list。
 	 **/
 	private $miniCategoryIds;
+	
+	/** 
+	 * 第九张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
+	 **/
+	private $ninthSpecialLicensePic;
 	
 	/** 
 	 * 门头照，不能超过 4MB，最大宽度 2160 px，最大高度 3840 px。图片格式仅支持 png,jpg格式。
@@ -173,11 +197,29 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	private $serviceRegionInfo;
 	
 	/** 
+	 * 第七张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
+	 **/
+	private $seventhSpecialLicensePic;
+	
+	/** 
+	 * 第六张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
+	 **/
+	private $sixthSpecialLicensePic;
+	
+	/** 
 	 * 如果有审核加急权益，是否使用审核加急权益加速审核：
 加速（默认）：true
 不加速：false
 	 **/
 	private $speedUp;
+	
+	/** 
+	 * 第十张特殊资质图片文件，不能超过4MB，最大宽度 2160px，最大高度3840px。图片格式仅支持 png,jpg格式。
+参照<a href="https://opendocs.alipay.com/mini/operation/material ">https://opendocs.alipay.com/mini/operation/material</a>要求填写营业执照信息。
+	 **/
+	private $tenthSpecialLicensePic;
 	
 	/** 
 	 * 测试账号，是否需要填写请参见<a href="https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4">https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4</a>
@@ -337,6 +379,17 @@ com.alipay.iot.xpaas：支付宝IoT端。
 		return $this->bundleId;
 	}
 
+	public function setEighthSpecialLicensePic($eighthSpecialLicensePic)
+	{
+		$this->eighthSpecialLicensePic = $eighthSpecialLicensePic;
+		$this->apiParas["eighth_special_license_pic"] = $eighthSpecialLicensePic;
+	}
+
+	public function getEighthSpecialLicensePic()
+	{
+		return $this->eighthSpecialLicensePic;
+	}
+
 	public function setFifthLicensePic($fifthLicensePic)
 	{
 		$this->fifthLicensePic = $fifthLicensePic;
@@ -357,6 +410,17 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	public function getFifthScreenShot()
 	{
 		return $this->fifthScreenShot;
+	}
+
+	public function setFifthSpecialLicensePic($fifthSpecialLicensePic)
+	{
+		$this->fifthSpecialLicensePic = $fifthSpecialLicensePic;
+		$this->apiParas["fifth_special_license_pic"] = $fifthSpecialLicensePic;
+	}
+
+	public function getFifthSpecialLicensePic()
+	{
+		return $this->fifthSpecialLicensePic;
 	}
 
 	public function setFirstLicensePic($firstLicensePic)
@@ -414,6 +478,17 @@ com.alipay.iot.xpaas：支付宝IoT端。
 		return $this->fourthScreenShot;
 	}
 
+	public function setFourthSpecialLicensePic($fourthSpecialLicensePic)
+	{
+		$this->fourthSpecialLicensePic = $fourthSpecialLicensePic;
+		$this->apiParas["fourth_special_license_pic"] = $fourthSpecialLicensePic;
+	}
+
+	public function getFourthSpecialLicensePic()
+	{
+		return $this->fourthSpecialLicensePic;
+	}
+
 	public function setLicenseName($licenseName)
 	{
 		$this->licenseName = $licenseName;
@@ -467,6 +542,17 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	public function getMiniCategoryIds()
 	{
 		return $this->miniCategoryIds;
+	}
+
+	public function setNinthSpecialLicensePic($ninthSpecialLicensePic)
+	{
+		$this->ninthSpecialLicensePic = $ninthSpecialLicensePic;
+		$this->apiParas["ninth_special_license_pic"] = $ninthSpecialLicensePic;
+	}
+
+	public function getNinthSpecialLicensePic()
+	{
+		return $this->ninthSpecialLicensePic;
 	}
 
 	public function setOutDoorPic($outDoorPic)
@@ -557,6 +643,28 @@ com.alipay.iot.xpaas：支付宝IoT端。
 		return $this->serviceRegionInfo;
 	}
 
+	public function setSeventhSpecialLicensePic($seventhSpecialLicensePic)
+	{
+		$this->seventhSpecialLicensePic = $seventhSpecialLicensePic;
+		$this->apiParas["seventh_special_license_pic"] = $seventhSpecialLicensePic;
+	}
+
+	public function getSeventhSpecialLicensePic()
+	{
+		return $this->seventhSpecialLicensePic;
+	}
+
+	public function setSixthSpecialLicensePic($sixthSpecialLicensePic)
+	{
+		$this->sixthSpecialLicensePic = $sixthSpecialLicensePic;
+		$this->apiParas["sixth_special_license_pic"] = $sixthSpecialLicensePic;
+	}
+
+	public function getSixthSpecialLicensePic()
+	{
+		return $this->sixthSpecialLicensePic;
+	}
+
 	public function setSpeedUp($speedUp)
 	{
 		$this->speedUp = $speedUp;
@@ -566,6 +674,17 @@ com.alipay.iot.xpaas：支付宝IoT端。
 	public function getSpeedUp()
 	{
 		return $this->speedUp;
+	}
+
+	public function setTenthSpecialLicensePic($tenthSpecialLicensePic)
+	{
+		$this->tenthSpecialLicensePic = $tenthSpecialLicensePic;
+		$this->apiParas["tenth_special_license_pic"] = $tenthSpecialLicensePic;
+	}
+
+	public function getTenthSpecialLicensePic()
+	{
+		return $this->tenthSpecialLicensePic;
 	}
 
 	public function setTestAccout($testAccout)

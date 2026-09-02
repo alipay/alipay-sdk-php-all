@@ -3,10 +3,15 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.face.source.certify request
  *
  * @author auto create
- * @since 1.0, 2024-05-07 14:37:03
+ * @since 1.0, 2026-08-17 17:37:51
  */
 class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 {
+	/** 
+	 * 业务产品码
+	 **/
+	private $bizCode;
+	
 	/** 
 	 * 用户姓名，与身份证上的姓名相匹配
 	 **/
@@ -70,6 +75,17 @@ CHECK：正常活体检测。
     private $needEncrypt=true;
 
 	
+	public function setBizCode($bizCode)
+	{
+		$this->bizCode = $bizCode;
+		$this->apiParas["biz_code"] = $bizCode;
+	}
+
+	public function getBizCode()
+	{
+		return $this->bizCode;
+	}
+
 	public function setCertName($certName)
 	{
 		$this->certName = $certName;

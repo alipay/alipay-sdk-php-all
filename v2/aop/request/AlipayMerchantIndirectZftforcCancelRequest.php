@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.indirect.zftforc.cancel request
  *
  * @author auto create
- * @since 1.0, 2026-01-23 11:42:43
+ * @since 1.0, 2026-06-23 10:38:55
  */
 class AlipayMerchantIndirectZftforcCancelRequest
 {

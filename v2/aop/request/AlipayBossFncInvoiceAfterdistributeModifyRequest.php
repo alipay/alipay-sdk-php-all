@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.invoice.afterdistribute.modify request
  *
  * @author auto create
- * @since 1.0, 2023-08-30 16:36:42
+ * @since 1.0, 2026-08-19 11:34:00
  */
 class AlipayBossFncInvoiceAfterdistributeModifyRequest
 {

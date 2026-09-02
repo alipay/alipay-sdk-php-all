@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.iotbpaas.devicecode.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-21 02:31:35
+ * @since 1.0, 2026-07-01 00:17:55
  */
 class AlipayOpenIotbpaasDevicecodeCreateRequest
 {

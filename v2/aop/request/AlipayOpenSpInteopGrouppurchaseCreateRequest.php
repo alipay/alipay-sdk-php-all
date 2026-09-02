@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.inteop.grouppurchase.create request
  *
  * @author auto create
- * @since 1.0, 2026-06-12 11:02:23
+ * @since 1.0, 2026-07-07 16:52:55
  */
 class AlipayOpenSpInteopGrouppurchaseCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.fulfillment.nurse.sync request
  *
  * @author auto create
- * @since 1.0, 2026-05-18 15:37:44
+ * @since 1.0, 2026-07-17 16:42:49
  */
 class AlipayCommerceMedicalFulfillmentNurseSyncRequest
 {

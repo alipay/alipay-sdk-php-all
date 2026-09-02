@@ -3,7 +3,7 @@
  * ALIPAY API: grandsecurity.bizrisks.fact.check request
  *
  * @author auto create
- * @since 1.0, 2026-06-10 11:27:55
+ * @since 1.0, 2026-07-11 10:49:59
  */
 class GrandsecurityBizrisksFactCheckRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: robby.open.task.cancel request
  *
  * @author auto create
- * @since 1.0, 2026-03-10 14:47:44
+ * @since 1.0, 2026-08-04 14:01:23
  */
 class RobbyOpenTaskCancelRequest
 {

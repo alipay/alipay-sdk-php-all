@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.mini.privacy.audit.create request
  *
  * @author auto create
- * @since 1.0, 2026-01-06 21:45:20
+ * @since 1.0, 2026-08-04 17:47:54
  */
 class AlipayOpenMiniPrivacyAuditCreateRequest
 {

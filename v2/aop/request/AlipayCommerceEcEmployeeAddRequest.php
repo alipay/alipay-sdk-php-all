@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.employee.add request
  *
  * @author auto create
- * @since 1.0, 2025-12-17 20:07:42
+ * @since 1.0, 2026-08-26 19:22:51
  */
 class AlipayCommerceEcEmployeeAddRequest
 {

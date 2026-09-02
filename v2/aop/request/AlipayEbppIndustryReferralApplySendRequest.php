@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.industry.referral.apply.send request
  *
  * @author auto create
- * @since 1.0, 2026-06-12 10:02:56
+ * @since 1.0, 2026-08-28 10:27:51
  */
 class AlipayEbppIndustryReferralApplySendRequest
 {

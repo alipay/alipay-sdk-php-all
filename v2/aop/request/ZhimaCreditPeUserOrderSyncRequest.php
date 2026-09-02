@@ -3,7 +3,7 @@
  * ALIPAY API: zhima.credit.pe.user.order.sync request
  *
  * @author auto create
- * @since 1.0, 2024-03-01 16:27:59
+ * @since 1.0, 2026-08-28 10:27:51
  */
 class ZhimaCreditPeUserOrderSyncRequest
 {

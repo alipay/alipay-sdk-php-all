@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.agreement.delegation.query request
  *
  * @author auto create
- * @since 1.0, 2026-05-25 21:17:45
+ * @since 1.0, 2026-07-27 21:32:51
  */
 class AlipayUserAgreementDelegationQueryRequest
 {

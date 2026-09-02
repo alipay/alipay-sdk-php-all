@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.bq.login.certify request
  *
  * @author auto create
- * @since 1.0, 2025-11-17 16:02:47
+ * @since 1.0, 2026-06-17 13:35:58
  */
 class AlipayCommerceMedicalBqLoginCertifyRequest
 {

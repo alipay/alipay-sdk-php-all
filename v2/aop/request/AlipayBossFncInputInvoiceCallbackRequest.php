@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.input.invoice.callback request
  *
  * @author auto create
- * @since 1.0, 2023-10-13 13:46:46
+ * @since 1.0, 2026-08-19 11:33:30
  */
 class AlipayBossFncInputInvoiceCallbackRequest
 {

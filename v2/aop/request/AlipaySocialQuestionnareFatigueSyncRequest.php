@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.social.questionnare.fatigue.sync request
  *
  * @author auto create
- * @since 1.0, 2024-07-05 11:03:21
+ * @since 1.0, 2026-06-30 10:37:06
  */
 class AlipaySocialQuestionnareFatigueSyncRequest
 {

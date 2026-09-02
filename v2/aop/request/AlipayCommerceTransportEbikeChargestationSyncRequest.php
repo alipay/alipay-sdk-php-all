@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.ebike.chargestation.sync request
  *
  * @author auto create
- * @since 1.0, 2024-06-26 23:22:04
+ * @since 1.0, 2026-07-23 10:27:53
  */
 class AlipayCommerceTransportEbikeChargestationSyncRequest
 {

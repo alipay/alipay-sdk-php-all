@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.trade.file.upload request
  *
  * @author auto create
- * @since 1.0, 2024-12-19 16:42:21
+ * @since 1.0, 2026-08-21 14:07:43
  */
 class AlipayMerchantTradeFileUploadRequest
 {

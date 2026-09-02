@@ -3,7 +3,7 @@
  * ALIPAY API: ant.merchant.expand.shop.fengniao.sync request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 19:33:18
+ * @since 1.0, 2026-08-03 15:58:25
  */
 class AntMerchantExpandShopFengniaoSyncRequest
 {

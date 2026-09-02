@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.balance.threshold.set request
  *
  * @author auto create
- * @since 1.0, 2026-04-08 14:27:44
+ * @since 1.0, 2026-07-17 13:57:53
  */
 class AlipayCommerceEcBalanceThresholdSetRequest
 {

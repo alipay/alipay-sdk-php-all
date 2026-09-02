@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.utc.activity.sync request
  *
  * @author auto create
- * @since 1.0, 2026-06-08 16:32:56
+ * @since 1.0, 2026-07-02 16:07:55
  */
 class AlipayCommerceUtcActivitySyncRequest
 {

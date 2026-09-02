@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.contract.general.create request
  *
  * @author auto create
- * @since 1.0, 2023-08-20 16:49:46
+ * @since 1.0, 2026-08-20 16:27:53
  */
 class AlipayBossContractGeneralCreateRequest
 {

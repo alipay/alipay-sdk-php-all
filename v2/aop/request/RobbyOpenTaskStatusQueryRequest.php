@@ -3,7 +3,7 @@
  * ALIPAY API: robby.open.task.status.query request
  *
  * @author auto create
- * @since 1.0, 2026-02-10 14:22:44
+ * @since 1.0, 2026-08-04 14:01:24
  */
 class RobbyOpenTaskStatusQueryRequest
 {

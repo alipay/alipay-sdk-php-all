@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.insurance.claimreport.modify request
  *
  * @author auto create
- * @since 1.0, 2026-05-22 09:37:44
+ * @since 1.0, 2026-07-29 15:02:51
  */
 class AlipayCommerceMedicalInsuranceClaimreportModifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.collaborate.task.trigger request
  *
  * @author auto create
- * @since 1.0, 2026-02-05 11:32:19
+ * @since 1.0, 2026-07-27 13:58:47
  */
 class AlipayOfflineProviderCollaborateTaskTriggerRequest
 {

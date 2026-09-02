@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.boss.fnc.inputinvoice.invoice.notify request
  *
  * @author auto create
- * @since 1.0, 2022-06-13 21:46:50
+ * @since 1.0, 2026-08-19 11:32:58
  */
 class AlipayBossFncInputinvoiceInvoiceNotifyRequest
 {
