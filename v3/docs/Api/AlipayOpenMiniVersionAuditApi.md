@@ -11,7 +11,7 @@ Method | HTTP request | Description
 ## `apply()`
 
 ```php
-apply($appLogo, $data, $fifthLicensePic, $fifthScreenShot, $firstLicensePic, $firstScreenShot, $firstSpecialLicensePic, $fourthLicensePic, $fourthScreenShot, $outDoorPic, $secondLicensePic, $secondScreenShot, $secondSpecialLicensePic, $testFileName, $thirdLicensePic, $thirdScreenShot, $thirdSpecialLicensePic): \Alipay\OpenAPISDK\Model\AlipayOpenMiniVersionAuditApplyResponseModel
+apply($appLogo, $data, $eighthSpecialLicensePic, $fifthLicensePic, $fifthScreenShot, $fifthSpecialLicensePic, $firstLicensePic, $firstScreenShot, $firstSpecialLicensePic, $fourthLicensePic, $fourthScreenShot, $fourthSpecialLicensePic, $ninthSpecialLicensePic, $outDoorPic, $secondLicensePic, $secondScreenShot, $secondSpecialLicensePic, $seventhSpecialLicensePic, $sixthSpecialLicensePic, $tenthSpecialLicensePic, $testFileName, $thirdLicensePic, $thirdScreenShot, $thirdSpecialLicensePic): \Alipay\OpenAPISDK\Model\AlipayOpenMiniVersionAuditApplyResponseModel
 ```
 
 小程序提交审核
@@ -48,24 +48,31 @@ $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $appLogo = "/path/to/file.txt"; // \SplFileObject
 $data = new \Alipay\OpenAPISDK\Model\AlipayOpenMiniVersionAuditApplyModel(); // \Alipay\OpenAPISDK\Model\AlipayOpenMiniVersionAuditApplyModel
+$eighthSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
 $fifthLicensePic = "/path/to/file.txt"; // \SplFileObject
 $fifthScreenShot = "/path/to/file.txt"; // \SplFileObject
+$fifthSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
 $firstLicensePic = "/path/to/file.txt"; // \SplFileObject
 $firstScreenShot = "/path/to/file.txt"; // \SplFileObject
 $firstSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
 $fourthLicensePic = "/path/to/file.txt"; // \SplFileObject
 $fourthScreenShot = "/path/to/file.txt"; // \SplFileObject
+$fourthSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
+$ninthSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
 $outDoorPic = "/path/to/file.txt"; // \SplFileObject
 $secondLicensePic = "/path/to/file.txt"; // \SplFileObject
 $secondScreenShot = "/path/to/file.txt"; // \SplFileObject
 $secondSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
+$seventhSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
+$sixthSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
+$tenthSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
 $testFileName = "/path/to/file.txt"; // \SplFileObject
 $thirdLicensePic = "/path/to/file.txt"; // \SplFileObject
 $thirdScreenShot = "/path/to/file.txt"; // \SplFileObject
 $thirdSpecialLicensePic = "/path/to/file.txt"; // \SplFileObject
 
 try {
-    $result = $apiInstance->apply($appLogo, $data, $fifthLicensePic, $fifthScreenShot, $firstLicensePic, $firstScreenShot, $firstSpecialLicensePic, $fourthLicensePic, $fourthScreenShot, $outDoorPic, $secondLicensePic, $secondScreenShot, $secondSpecialLicensePic, $testFileName, $thirdLicensePic, $thirdScreenShot, $thirdSpecialLicensePic);
+    $result = $apiInstance->apply($appLogo, $data, $eighthSpecialLicensePic, $fifthLicensePic, $fifthScreenShot, $fifthSpecialLicensePic, $firstLicensePic, $firstScreenShot, $firstSpecialLicensePic, $fourthLicensePic, $fourthScreenShot, $fourthSpecialLicensePic, $ninthSpecialLicensePic, $outDoorPic, $secondLicensePic, $secondScreenShot, $secondSpecialLicensePic, $seventhSpecialLicensePic, $sixthSpecialLicensePic, $tenthSpecialLicensePic, $testFileName, $thirdLicensePic, $thirdScreenShot, $thirdSpecialLicensePic);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AlipayOpenMiniVersionAuditApi->apply: ', $e->getMessage(), PHP_EOL;
@@ -78,17 +85,24 @@ Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **appLogo** | **\SplFileObject****\SplFileObject**|  | [optional]
  **data** | **\Alipay\OpenAPISDK\Model\AlipayOpenMiniVersionAuditApplyModel**|  | [optional]
+ **eighthSpecialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **fifthLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **fifthScreenShot** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **fifthSpecialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **firstLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **firstScreenShot** | **\SplFileObject****\SplFileObject**|  | [optional]
  **firstSpecialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **fourthLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **fourthScreenShot** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **fourthSpecialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **ninthSpecialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **outDoorPic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **secondLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **secondScreenShot** | **\SplFileObject****\SplFileObject**|  | [optional]
  **secondSpecialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **seventhSpecialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **sixthSpecialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
+ **tenthSpecialLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **testFileName** | **\SplFileObject****\SplFileObject**|  | [optional]
  **thirdLicensePic** | **\SplFileObject****\SplFileObject**|  | [optional]
  **thirdScreenShot** | **\SplFileObject****\SplFileObject**|  | [optional]

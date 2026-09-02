@@ -401,7 +401,6 @@ docs/Api/AlipaySocialBaseContentlibStandardcontentApi.md
 docs/Api/AlipaySystemOauthApi.md
 docs/Api/AlipayTradeAdvanceApi.md
 docs/Api/AlipayTradeApi.md
-docs/Api/AlipayTradeApplepayAuthenticationApi.md
 docs/Api/AlipayTradeBatchApi.md
 docs/Api/AlipayTradeBatchSettleApi.md
 docs/Api/AlipayTradeBatchTransferApi.md
@@ -446,6 +445,7 @@ docs/Api/DatadigitalFincloudGeneralsaasFaceSourceApi.md
 docs/Api/DatadigitalFincloudGeneralsaasFaceVerificationApi.md
 docs/Api/DatadigitalFincloudGeneralsaasOcrMobileApi.md
 docs/Api/DatadigitalFincloudGeneralsaasOcrServerApi.md
+docs/Api/GrandsecurityBizrisksFactApi.md
 docs/Api/MonitorHeartbeatApi.md
 docs/Api/ZhimaCreditPayafteruseCreditagreementApi.md
 docs/Api/ZhimaCreditPayafteruseCreditbizorderApi.md
@@ -866,7 +866,6 @@ src/Api/AlipaySocialBaseContentlibStandardcontentApi.php
 src/Api/AlipaySystemOauthApi.php
 src/Api/AlipayTradeAdvanceApi.php
 src/Api/AlipayTradeApi.php
-src/Api/AlipayTradeApplepayAuthenticationApi.php
 src/Api/AlipayTradeBatchApi.php
 src/Api/AlipayTradeBatchSettleApi.php
 src/Api/AlipayTradeBatchTransferApi.php
@@ -911,6 +910,7 @@ src/Api/DatadigitalFincloudGeneralsaasFaceSourceApi.php
 src/Api/DatadigitalFincloudGeneralsaasFaceVerificationApi.php
 src/Api/DatadigitalFincloudGeneralsaasOcrMobileApi.php
 src/Api/DatadigitalFincloudGeneralsaasOcrServerApi.php
+src/Api/GrandsecurityBizrisksFactApi.php
 src/Api/MonitorHeartbeatApi.php
 src/Api/ZhimaCreditPayafteruseCreditagreementApi.php
 src/Api/ZhimaCreditPayafteruseCreditbizorderApi.php
@@ -941,6 +941,7 @@ src/Model/AccountLogItemResult.php
 src/Model/AccountQuotaDetail.php
 src/Model/ActivityAppInfo.php
 src/Model/ActivityBaseInfo.php
+src/Model/ActivityDeliveryExtInfo.php
 src/Model/ActivityDiscountVoucher.php
 src/Model/ActivityExchangeVoucher.php
 src/Model/ActivityFixVoucher.php
@@ -3010,9 +3011,6 @@ src/Model/AlipayOpenSearchSubservicekeywordQuerystatusResponseModel.php
 src/Model/AlipayOpenServicemarketCommodityShopOfflineDefaultResponse.php
 src/Model/AlipayOpenServicemarketCommodityShopOfflineErrorResponseModel.php
 src/Model/AlipayOpenServicemarketCommodityShopOfflineModel.php
-src/Model/AlipayOpenServicemarketCommodityShopOnlineDefaultResponse.php
-src/Model/AlipayOpenServicemarketCommodityShopOnlineErrorResponseModel.php
-src/Model/AlipayOpenServicemarketCommodityShopOnlineModel.php
 src/Model/AlipayOpenServicemarketOrderAcceptDefaultResponse.php
 src/Model/AlipayOpenServicemarketOrderAcceptErrorResponseModel.php
 src/Model/AlipayOpenServicemarketOrderAcceptModel.php
@@ -3140,10 +3138,6 @@ src/Model/AlipaySystemOauthTokenResponseModel.php
 src/Model/AlipayTradeAdvanceConsultDefaultResponse.php
 src/Model/AlipayTradeAdvanceConsultErrorResponseModel.php
 src/Model/AlipayTradeAdvanceConsultResponseModel.php
-src/Model/AlipayTradeApplepayAuthenticationSubmitDefaultResponse.php
-src/Model/AlipayTradeApplepayAuthenticationSubmitErrorResponseModel.php
-src/Model/AlipayTradeApplepayAuthenticationSubmitModel.php
-src/Model/AlipayTradeApplepayAuthenticationSubmitResponseModel.php
 src/Model/AlipayTradeBatchSettleDefaultResponse.php
 src/Model/AlipayTradeBatchSettleErrorResponseModel.php
 src/Model/AlipayTradeBatchSettleModel.php
@@ -3409,6 +3403,7 @@ src/Model/ArticleAttachmentInfo.php
 src/Model/ArticleCategoryInfo.php
 src/Model/ArticleInfo.php
 src/Model/ArticleSummaryAnalysisData.php
+src/Model/AssetChannelInfo.php
 src/Model/AssetShareSourceInfo.php
 src/Model/Attachment.php
 src/Model/AttachmentDetail.php
@@ -3425,7 +3420,6 @@ src/Model/AuthFieldSceneDTO.php
 src/Model/AuthIdentityInfo.php
 src/Model/AuthInfo.php
 src/Model/AuthInfoDTO.php
-src/Model/AuthenticationResult.php
 src/Model/AuthorizeDetailDTO.php
 src/Model/AuthorizeInfo.php
 src/Model/AuthorizedRuleDTO.php
@@ -3626,6 +3620,7 @@ src/Model/ExtTemplateConf.php
 src/Model/ExtUserInfo.php
 src/Model/ExtendParams.php
 src/Model/ExtensionArea.php
+src/Model/ExternalPayerInfo.php
 src/Model/ExtraParams.php
 src/Model/FaceExtInfo.php
 src/Model/FaceExtParams.php
@@ -3650,6 +3645,10 @@ src/Model/GoodsDetailIstd.php
 src/Model/GoodsInfoDTO.php
 src/Model/GoodsInfoIstd.php
 src/Model/GoodsOrder.php
+src/Model/GrandsecurityBizrisksFactCheckDefaultResponse.php
+src/Model/GrandsecurityBizrisksFactCheckErrorResponseModel.php
+src/Model/GrandsecurityBizrisksFactCheckModel.php
+src/Model/GrandsecurityBizrisksFactCheckResponseModel.php
 src/Model/HSchoolInfo.php
 src/Model/HbFqPayInfo.php
 src/Model/HolidayRuleInfo.php
@@ -3796,7 +3795,6 @@ src/Model/OcrPlaneScanInfo.php
 src/Model/OcrTaxiScanInfo.php
 src/Model/OcrTrainScanInfo.php
 src/Model/OpenApiRefundFundDetailPojo.php
-src/Model/OpenApiResponseHeader.php
 src/Model/OpenApiRoyaltyDetailInfoPojo.php
 src/Model/OpenApiSpecifiedChannelParamsPojo.php
 src/Model/OpenAppOperatorVo.php
@@ -3992,6 +3990,8 @@ src/Model/SourceMediaInfo.php
 src/Model/SourceOffer.php
 src/Model/SpecialVoucher.php
 src/Model/SpecialVoucherInfo.php
+src/Model/SpecifiedDeductRuleParams.php
+src/Model/SpecifiedSortChannelParam.php
 src/Model/SpecifyAttachmentInfo.php
 src/Model/SpiResult.php
 src/Model/SpuAttribute.php
@@ -4055,7 +4055,6 @@ src/Model/TransferDetailResult.php
 src/Model/TransferSceneReportInfo.php
 src/Model/TreeInfo.php
 src/Model/UnfreezeExtendParams.php
-src/Model/UpdatedAuthenticationDetails.php
 src/Model/UserAnalysisData.php
 src/Model/UserAssetInfoVO.php
 src/Model/UserDetails.php
@@ -4093,6 +4092,7 @@ src/Model/VoucherCustomerGuideInfo.php
 src/Model/VoucherDeductInfo.php
 src/Model/VoucherDeductThresholdInfo.php
 src/Model/VoucherDetail.php
+src/Model/VoucherDetailModel.php
 src/Model/VoucherDisplayInfo.php
 src/Model/VoucherDisplayInfoModify.php
 src/Model/VoucherDisplayPatternInfo.php

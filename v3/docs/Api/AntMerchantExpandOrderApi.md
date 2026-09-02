@@ -10,7 +10,7 @@ Method | HTTP request | Description
 ## `query()`
 
 ```php
-query($orderId): \Alipay\OpenAPISDK\Model\AntMerchantExpandOrderQueryResponseModel
+query($orderId, $bizSource): \Alipay\OpenAPISDK\Model\AntMerchantExpandOrderQueryResponseModel
 ```
 
 商户申请单查询
@@ -45,10 +45,11 @@ $alipayConfig->setEncryptKey('encrypt_key');
 $alipayConfigUtil = new \Alipay\OpenAPISDK\Util\AlipayConfigUtil($alipayConfig);
 $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
-$orderId = 2017112200502000000004754299; // string | 申请单 id。 1.蚂蚁门店管理场景：通过 <a href=\"https://opendocs.alipay.com/open/05afbc4a_ant.merchant.expand.shop.create?scene=common&pathHash=bf443b73\"> ant.merchant.expand.shop.create</a>(蚂蚁店铺创建)接口进件时返回的order_id。 2.直付通二级商户进件场景：通过<a href=\"https://opendocs.alipay.com/open/028xr0?pathHash=c9ca6d68\">ant.merchant.expand.indirect.zft.create</a>(直付通二级商户创建)接口进件时返回的order_id。
+$orderId = 2017112200502000000004754299; // string | 申请单 id。 1.蚂蚁门店管理场景：通过 <a href=\"https://opendocs.alipay.com/open/05afbc4a_ant.merchant.expand.shop.create?scene=common&pathHash=bf443b73\"> ant.merchant.expand.shop.create</a>(蚂蚁门店创建)接口进件时返回的order_id。 2.直付通二级商户进件场景：通过<a href=\"https://opendocs.alipay.com/open/028xr0?pathHash=c9ca6d68\">ant.merchant.expand.indirect.zft.create</a>(直付通二级商户创建)接口进件时返回的order_id。
+$bizSource = APLUS_SHOP; // string | 业务来源 团购门店：APLUS_SHOP
 
 try {
-    $result = $apiInstance->query($orderId);
+    $result = $apiInstance->query($orderId, $bizSource);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling AntMerchantExpandOrderApi->query: ', $e->getMessage(), PHP_EOL;
@@ -59,7 +60,8 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **orderId** | **string**| 申请单 id。 1.蚂蚁门店管理场景：通过 &lt;a href&#x3D;\&quot;https://opendocs.alipay.com/open/05afbc4a_ant.merchant.expand.shop.create?scene&#x3D;common&amp;pathHash&#x3D;bf443b73\&quot;&gt; ant.merchant.expand.shop.create&lt;/a&gt;(蚂蚁店铺创建)接口进件时返回的order_id。 2.直付通二级商户进件场景：通过&lt;a href&#x3D;\&quot;https://opendocs.alipay.com/open/028xr0?pathHash&#x3D;c9ca6d68\&quot;&gt;ant.merchant.expand.indirect.zft.create&lt;/a&gt;(直付通二级商户创建)接口进件时返回的order_id。 |
+ **orderId** | **string**| 申请单 id。 1.蚂蚁门店管理场景：通过 &lt;a href&#x3D;\&quot;https://opendocs.alipay.com/open/05afbc4a_ant.merchant.expand.shop.create?scene&#x3D;common&amp;pathHash&#x3D;bf443b73\&quot;&gt; ant.merchant.expand.shop.create&lt;/a&gt;(蚂蚁门店创建)接口进件时返回的order_id。 2.直付通二级商户进件场景：通过&lt;a href&#x3D;\&quot;https://opendocs.alipay.com/open/028xr0?pathHash&#x3D;c9ca6d68\&quot;&gt;ant.merchant.expand.indirect.zft.create&lt;/a&gt;(直付通二级商户创建)接口进件时返回的order_id。 |
+ **bizSource** | **string**| 业务来源 团购门店：APLUS_SHOP | [optional]
 
 ### Return type
 

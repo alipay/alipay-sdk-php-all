@@ -11,7 +11,7 @@ Method | HTTP request | Description
 ## `query()`
 
 ```php
-query($outAgreementNo, $creditAgreementId): \Alipay\OpenAPISDK\Model\ZhimaCreditPayafteruseCreditagreementQueryResponseModel
+query($outAgreementNo, $creditAgreementId, $productCode, $serviceId, $extraParam): \Alipay\OpenAPISDK\Model\ZhimaCreditPayafteruseCreditagreementQueryResponseModel
 ```
 
 查询服务开通/授权信息
@@ -48,9 +48,12 @@ $apiInstance->setAlipayConfigUtil($alipayConfigUtil);
 
 $outAgreementNo = 2014070700166653; // string | 商户外部协议号
 $creditAgreementId = ZMOP2020050722001440; // string | 芝麻开通/授权协议号，out_agreement_no与credit_agreement_id必填一个，推荐使用credit_agreement_id。
+$productCode = CREDIT_AGREEMENT; // string | 当产品是芝麻守约时必填，需传入CREDIT_AGREEMENT
+$serviceId = 2026041600000000000116203200; // string | 芝麻信用服务id，上线前提前分配给商户
+$extraParam = {"key","value"}; // string | 扩展参数
 
 try {
-    $result = $apiInstance->query($outAgreementNo, $creditAgreementId);
+    $result = $apiInstance->query($outAgreementNo, $creditAgreementId, $productCode, $serviceId, $extraParam);
     print_r($result);
 } catch (Exception $e) {
     echo 'Exception when calling ZhimaCreditPayafteruseCreditagreementApi->query: ', $e->getMessage(), PHP_EOL;
@@ -63,6 +66,9 @@ Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **outAgreementNo** | **string**| 商户外部协议号 | [optional]
  **creditAgreementId** | **string**| 芝麻开通/授权协议号，out_agreement_no与credit_agreement_id必填一个，推荐使用credit_agreement_id。 | [optional]
+ **productCode** | **string**| 当产品是芝麻守约时必填，需传入CREDIT_AGREEMENT | [optional]
+ **serviceId** | **string**| 芝麻信用服务id，上线前提前分配给商户 | [optional]
+ **extraParam** | **string**| 扩展参数 | [optional]
 
 ### Return type
 

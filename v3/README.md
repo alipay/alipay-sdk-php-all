@@ -119,7 +119,7 @@ Class | Method | HTTP request | Description
 *AlipayCommerceEcEmployeeTitleApi* | [**create**](docs/Api/AlipayCommerceEcEmployeeTitleApi.md#create) | **POST** /v3/alipay/commerce/ec/employee/title | 员工抬头：新增员工抬头关系
 *AlipayCommerceEcEmployeeTitleApi* | [**delete**](docs/Api/AlipayCommerceEcEmployeeTitleApi.md#delete) | **POST** /v3/alipay/commerce/ec/employee/title/delete | 员工抬头：失效员工抬头关系
 *AlipayCommerceEcEmployeeTitleApi* | [**modify**](docs/Api/AlipayCommerceEcEmployeeTitleApi.md#modify) | **PUT** /v3/alipay/commerce/ec/employee/title | 修改员工抬头信息
-*AlipayCommerceEcEnterpriseApi* | [**create**](docs/Api/AlipayCommerceEcEnterpriseApi.md#create) | **POST** /v3/alipay/commerce/ec/enterprise/create | 企业签约注册
+*AlipayCommerceEcEnterpriseApi* | [**create**](docs/Api/AlipayCommerceEcEnterpriseApi.md#create) | **POST** /v3/alipay/commerce/ec/enterprise/create | 企业签约注册-接口已过时
 *AlipayCommerceEcEnterpriseApi* | [**delete**](docs/Api/AlipayCommerceEcEnterpriseApi.md#delete) | **POST** /v3/alipay/commerce/ec/enterprise/delete | 企业注销
 *AlipayCommerceEcEnterpriseApi* | [**unsign**](docs/Api/AlipayCommerceEcEnterpriseApi.md#unsign) | **GET** /v3/alipay/commerce/ec/enterprise/unsignurl | 企业解约
 *AlipayCommerceEcEnterpriseAddressApi* | [**add**](docs/Api/AlipayCommerceEcEnterpriseAddressApi.md#add) | **POST** /v3/alipay/commerce/ec/enterprise/address | 企业地址添加
@@ -687,7 +687,6 @@ Class | Method | HTTP request | Description
 *AlipayOpenSearchSubservicekeywordApi* | [**delete**](docs/Api/AlipayOpenSearchSubservicekeywordApi.md#delete) | **POST** /v3/alipay/open/search/subservicekeyword/delete | 删除服务关键词
 *AlipayOpenSearchSubservicekeywordApi* | [**querystatus**](docs/Api/AlipayOpenSearchSubservicekeywordApi.md#querystatus) | **GET** /v3/alipay/open/search/subservicekeyword/querystatus | 查询小程序服务关键词的审核工单的状态
 *AlipayOpenServicemarketCommodityShopApi* | [**offline**](docs/Api/AlipayOpenServicemarketCommodityShopApi.md#offline) | **POST** /v3/alipay/open/servicemarket/commodity/shop/offline | 门店插件下架操作
-*AlipayOpenServicemarketCommodityShopApi* | [**online**](docs/Api/AlipayOpenServicemarketCommodityShopApi.md#online) | **POST** /v3/alipay/open/servicemarket/commodity/shop/online | 门店插件上架操作
 *AlipayOpenServicemarketOrderApi* | [**accept**](docs/Api/AlipayOpenServicemarketOrderApi.md#accept) | **POST** /v3/alipay/open/servicemarket/order/accept | 服务商接单操作
 *AlipayOpenServicemarketOrderApi* | [**create**](docs/Api/AlipayOpenServicemarketOrderApi.md#create) | **POST** /v3/alipay/open/servicemarket/order/create | 服务市场代订购小程序
 *AlipayOpenServicemarketOrderApi* | [**notify**](docs/Api/AlipayOpenServicemarketOrderApi.md#notify) | **POST** /v3/alipay/open/servicemarket/order/notify | 服务市场商户确认订购通知
@@ -732,7 +731,6 @@ Class | Method | HTTP request | Description
 *AlipayTradeApi* | [**query**](docs/Api/AlipayTradeApi.md#query) | **POST** /v3/alipay/trade/query | 统一收单交易查询
 *AlipayTradeApi* | [**refund**](docs/Api/AlipayTradeApi.md#refund) | **POST** /v3/alipay/trade/refund | 统一收单交易退款接口
 *AlipayTradeAdvanceApi* | [**consult**](docs/Api/AlipayTradeAdvanceApi.md#consult) | **GET** /v3/alipay/trade/advance/consult | 订单咨询服务
-*AlipayTradeApplepayAuthenticationApi* | [**submit**](docs/Api/AlipayTradeApplepayAuthenticationApi.md#submit) | **POST** /v3/alipay/trade/applepay/authentication/submit | ApplePay支付鉴权提交
 *AlipayTradeBatchApi* | [**settle**](docs/Api/AlipayTradeBatchApi.md#settle) | **POST** /v3/alipay/trade/batch/settle | 批量结算
 *AlipayTradeBatchApi* | [**transfer**](docs/Api/AlipayTradeBatchApi.md#transfer) | **POST** /v3/alipay/trade/batch/transfer | 请款分账
 *AlipayTradeBatchSettleApi* | [**query**](docs/Api/AlipayTradeBatchSettleApi.md#query) | **POST** /v3/alipay/trade/batch/settle/query | 批量结算查询
@@ -788,11 +786,11 @@ Class | Method | HTTP request | Description
 *AntMerchantExpandItemStatusApi* | [**modify**](docs/Api/AntMerchantExpandItemStatusApi.md#modify) | **POST** /v3/ant/merchant/expand/item/status/modify | 商品状态修改接口
 *AntMerchantExpandMccApi* | [**query**](docs/Api/AntMerchantExpandMccApi.md#query) | **GET** /v3/ant/merchant/mcc/query | 商户mcc信息查询
 *AntMerchantExpandOrderApi* | [**query**](docs/Api/AntMerchantExpandOrderApi.md#query) | **GET** /v3/ant/merchant/order/{order_id} | 商户申请单查询
-*AntMerchantExpandShopApi* | [**close**](docs/Api/AntMerchantExpandShopApi.md#close) | **PATCH** /v3/ant/merchant/shop/close | 蚂蚁店铺关闭
+*AntMerchantExpandShopApi* | [**close**](docs/Api/AntMerchantExpandShopApi.md#close) | **PATCH** /v3/ant/merchant/shop/close | 蚂蚁门店关闭
 *AntMerchantExpandShopApi* | [**consult**](docs/Api/AntMerchantExpandShopApi.md#consult) | **POST** /v3/ant/merchant/expand/shop/consult | 蚂蚁店铺创建咨询
-*AntMerchantExpandShopApi* | [**create**](docs/Api/AntMerchantExpandShopApi.md#create) | **POST** /v3/ant/merchant/shop | 蚂蚁店铺创建
-*AntMerchantExpandShopApi* | [**modify**](docs/Api/AntMerchantExpandShopApi.md#modify) | **PATCH** /v3/ant/merchant/shop | 修改蚂蚁店铺
-*AntMerchantExpandShopApi* | [**query**](docs/Api/AntMerchantExpandShopApi.md#query) | **GET** /v3/ant/merchant/shop | 店铺查询接口
+*AntMerchantExpandShopApi* | [**create**](docs/Api/AntMerchantExpandShopApi.md#create) | **POST** /v3/ant/merchant/shop | 蚂蚁门店创建
+*AntMerchantExpandShopApi* | [**modify**](docs/Api/AntMerchantExpandShopApi.md#modify) | **PATCH** /v3/ant/merchant/shop | 修改蚂蚁门店
+*AntMerchantExpandShopApi* | [**query**](docs/Api/AntMerchantExpandShopApi.md#query) | **GET** /v3/ant/merchant/shop | 门店查询接口
 *AntMerchantExpandShopPageApi* | [**query**](docs/Api/AntMerchantExpandShopPageApi.md#query) | **GET** /v3/ant/merchant/shop/pagequery | 店铺分页查询接口
 *AntMerchantExpandShopReceiptaccountApi* | [**save**](docs/Api/AntMerchantExpandShopReceiptaccountApi.md#save) | **POST** /v3/ant/merchant/expand/shop/receiptaccount/save | 店铺增加收单账号
 *DatadigitalFincloudGeneralsaasFaceCertifyApi* | [**initialize**](docs/Api/DatadigitalFincloudGeneralsaasFaceCertifyApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/face/certify/initialize | 跳转支付宝人脸核身初始化
@@ -805,6 +803,7 @@ Class | Method | HTTP request | Description
 *DatadigitalFincloudGeneralsaasFaceVerificationApi* | [**query**](docs/Api/DatadigitalFincloudGeneralsaasFaceVerificationApi.md#query) | **GET** /v3/datadigital/fincloud/generalsaas/face/verification/query | 人脸核身结果查询
 *DatadigitalFincloudGeneralsaasOcrMobileApi* | [**initialize**](docs/Api/DatadigitalFincloudGeneralsaasOcrMobileApi.md#initialize) | **POST** /v3/datadigital/fincloud/generalsaas/ocr/mobile/initialize | App端OCR初始化
 *DatadigitalFincloudGeneralsaasOcrServerApi* | [**detect**](docs/Api/DatadigitalFincloudGeneralsaasOcrServerApi.md#detect) | **POST** /v3/datadigital/fincloud/generalsaas/ocr/server/detect | 服务端OCR
+*GrandsecurityBizrisksFactApi* | [**check**](docs/Api/GrandsecurityBizrisksFactApi.md#check) | **POST** /v3/stream/grandsecurity/bizrisks/fact/check | 事实核查服务
 *MonitorHeartbeatApi* | [**syn**](docs/Api/MonitorHeartbeatApi.md#syn) | **POST** /v3/monitor/heartbeat/syn | 验签接口
 *ZhimaCreditPayafteruseCreditagreementApi* | [**query**](docs/Api/ZhimaCreditPayafteruseCreditagreementApi.md#query) | **GET** /v3/zhima/credit/payafteruse/creditagreement/query | 查询服务开通/授权信息
 *ZhimaCreditPayafteruseCreditagreementApi* | [**transfer**](docs/Api/ZhimaCreditPayafteruseCreditagreementApi.md#transfer) | **POST** /v3/zhima/credit/payafteruse/creditagreement/transfer | 芝麻信用服务授权
@@ -856,6 +855,6 @@ vendor/bin/phpunit
 
 This PHP package is automatically generated by the [OpenAPI Generator](https://openapi-generator.tech) project:
 
-- API version: `2025-12-15`
-    - Package version: `3.0.70`
+- API version: `2026-08-26`
+    - Package version: `3.0.95`
 - Build package: `org.openapitools.codegen.languages.PhpClientCodegen`
