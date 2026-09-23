@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.subscription.modify request
  *
  * @author auto create
- * @since 1.0, 2026-08-27 11:40:33
+ * @since 1.0, 2026-09-21 12:20:51
  */
 class AlipayTradeSubscriptionModifyRequest
 {

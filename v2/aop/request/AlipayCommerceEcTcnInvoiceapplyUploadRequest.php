@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.tcn.invoiceapply.upload request
  *
  * @author auto create
- * @since 1.0, 2026-08-25 16:51:06
+ * @since 1.0, 2026-09-18 19:17:52
  */
 class AlipayCommerceEcTcnInvoiceapplyUploadRequest
 {
@@ -146,6 +146,11 @@ class AlipayCommerceEcTcnInvoiceapplyUploadRequest
 	 * 销方电话
 	 **/
 	private $sellerTel;
+	
+	/** 
+	 * 旅客运输行程列表
+	 **/
+	private $travelInfoList;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -463,6 +468,17 @@ class AlipayCommerceEcTcnInvoiceapplyUploadRequest
 	public function getSellerTel()
 	{
 		return $this->sellerTel;
+	}
+
+	public function setTravelInfoList($travelInfoList)
+	{
+		$this->travelInfoList = $travelInfoList;
+		$this->apiParas["travel_info_list"] = $travelInfoList;
+	}
+
+	public function getTravelInfoList()
+	{
+		return $this->travelInfoList;
 	}
 
 	public function getApiMethodName()

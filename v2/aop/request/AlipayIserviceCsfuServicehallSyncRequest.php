@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.csfu.servicehall.sync request
  *
  * @author auto create
- * @since 1.0, 2025-10-16 18:02:40
+ * @since 1.0, 2026-09-11 10:51:25
  */
 class AlipayIserviceCsfuServicehallSyncRequest
 {

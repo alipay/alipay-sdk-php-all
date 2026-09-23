@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.distorder.close request
  *
  * @author auto create
- * @since 1.0, 2026-08-28 14:57:52
+ * @since 1.0, 2026-09-21 14:57:51
  */
 class AlipayCommerceRentDistorderCloseRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.gas.order.sync request
  *
  * @author auto create
- * @since 1.0, 2026-04-02 19:52:44
+ * @since 1.0, 2026-09-18 12:13:39
  */
 class AlipayCommerceGasOrderSyncRequest
 {

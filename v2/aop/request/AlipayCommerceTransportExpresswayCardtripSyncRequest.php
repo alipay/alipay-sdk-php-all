@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.expressway.cardtrip.sync request
  *
  * @author auto create
- * @since 1.0, 2026-08-24 14:27:51
+ * @since 1.0, 2026-09-21 21:57:52
  */
 class AlipayCommerceTransportExpresswayCardtripSyncRequest
 {

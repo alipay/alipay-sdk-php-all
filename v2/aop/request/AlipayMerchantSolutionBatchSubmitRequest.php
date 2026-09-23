@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.merchant.solution.batch.submit request
  *
  * @author auto create
- * @since 1.0, 2026-06-15 11:22:55
+ * @since 1.0, 2026-09-07 11:33:05
  */
 class AlipayMerchantSolutionBatchSubmitRequest
 {

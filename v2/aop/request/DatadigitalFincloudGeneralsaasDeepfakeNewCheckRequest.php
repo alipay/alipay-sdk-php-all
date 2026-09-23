@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.fincloud.generalsaas.deepfake.new.check request
  *
  * @author auto create
- * @since 1.0, 2026-08-24 15:02:51
+ * @since 1.0, 2026-09-02 16:47:53
  */
 class DatadigitalFincloudGeneralsaasDeepfakeNewCheckRequest
 {

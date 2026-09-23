@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.service.digitalpoi.create request
  *
  * @author auto create
- * @since 1.0, 2026-06-04 14:37:56
+ * @since 1.0, 2026-09-03 16:26:19
  */
 class AlipayCommerceOperationServiceDigitalpoiCreateRequest
 {

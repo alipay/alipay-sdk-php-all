@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.indflow.supply.consult request
  *
  * @author auto create
- * @since 1.0, 2026-08-28 10:33:31
+ * @since 1.0, 2026-09-02 14:52:48
  */
 class AlipayOfflineProviderIndflowSupplyConsultRequest
 {

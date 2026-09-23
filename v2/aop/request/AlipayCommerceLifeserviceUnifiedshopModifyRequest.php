@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lifeservice.unifiedshop.modify request
  *
  * @author auto create
- * @since 1.0, 2026-08-18 17:07:56
+ * @since 1.0, 2026-09-11 15:32:57
  */
 class AlipayCommerceLifeserviceUnifiedshopModifyRequest
 {

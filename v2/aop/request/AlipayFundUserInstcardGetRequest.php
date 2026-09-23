@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.fund.user.instcard.get request
  *
  * @author auto create
- * @since 1.0, 2026-04-15 20:57:45
+ * @since 1.0, 2026-09-18 00:05:22
  */
 class AlipayFundUserInstcardGetRequest
 {

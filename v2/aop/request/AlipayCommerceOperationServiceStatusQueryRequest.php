@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.service.status.query request
  *
  * @author auto create
- * @since 1.0, 2026-05-20 11:17:45
+ * @since 1.0, 2026-09-03 16:26:41
  */
 class AlipayCommerceOperationServiceStatusQueryRequest
 {

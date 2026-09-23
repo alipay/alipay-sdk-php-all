@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.certify.open.query request
  *
  * @author auto create
- * @since 1.0, 2024-07-19 15:42:04
+ * @since 1.0, 2026-09-21 13:48:42
  */
 class AlipayUserCertifyOpenQueryRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.taxi.leads.upload request
  *
  * @author auto create
- * @since 1.0, 2026-09-01 10:42:30
+ * @since 1.0, 2026-09-02 15:22:52
  */
 class AlipayCommerceTransportTaxiLeadsUploadRequest
 {

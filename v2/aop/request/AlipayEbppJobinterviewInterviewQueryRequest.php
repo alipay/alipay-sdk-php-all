@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ebpp.jobinterview.interview.query request
  *
  * @author auto create
- * @since 1.0, 2026-08-28 21:22:53
+ * @since 1.0, 2026-09-08 19:12:52
  */
 class AlipayEbppJobinterviewInterviewQueryRequest
 {

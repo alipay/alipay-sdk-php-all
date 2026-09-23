@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.store.virtualstore.create request
  *
  * @author auto create
- * @since 1.0, 2026-04-24 18:02:46
+ * @since 1.0, 2026-09-10 19:10:05
  */
 class AlipayCommerceMedicalStoreVirtualstoreCreateRequest
 {

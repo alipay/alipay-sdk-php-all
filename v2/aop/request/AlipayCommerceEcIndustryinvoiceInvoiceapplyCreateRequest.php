@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.ec.industryinvoice.invoiceapply.create request
  *
  * @author auto create
- * @since 1.0, 2026-08-27 13:52:51
+ * @since 1.0, 2026-09-16 10:27:51
  */
 class AlipayCommerceEcIndustryinvoiceInvoiceapplyCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.voyager.industry.order.sync request
  *
  * @author auto create
- * @since 1.0, 2026-07-17 17:57:51
+ * @since 1.0, 2026-09-22 13:47:52
  */
 class AlipayVoyagerIndustryOrderSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.member.benefitlink.query request
  *
  * @author auto create
- * @since 1.0, 2026-08-13 16:37:50
+ * @since 1.0, 2026-09-11 15:52:53
  */
 class AlipayCommerceMedicalMemberBenefitlinkQueryRequest
 {

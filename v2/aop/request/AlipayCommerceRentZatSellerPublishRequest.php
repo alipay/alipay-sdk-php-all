@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.zat.seller.publish request
  *
  * @author auto create
- * @since 1.0, 2026-07-31 10:57:54
+ * @since 1.0, 2026-09-04 17:07:50
  */
 class AlipayCommerceRentZatSellerPublishRequest
 {

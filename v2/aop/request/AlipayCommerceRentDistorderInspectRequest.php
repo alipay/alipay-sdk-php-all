@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.distorder.inspect request
  *
  * @author auto create
- * @since 1.0, 2026-08-26 12:42:50
+ * @since 1.0, 2026-09-21 14:57:51
  */
 class AlipayCommerceRentDistorderInspectRequest
 {

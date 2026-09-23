@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.subscription.submode.create request
  *
  * @author auto create
- * @since 1.0, 2026-08-27 11:41:30
+ * @since 1.0, 2026-09-11 13:47:55
  */
 class AlipayTradeSubscriptionSubmodeCreateRequest
 {

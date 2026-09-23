@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.skill.create request
  *
  * @author auto create
- * @since 1.0, 2026-08-05 16:32:54
+ * @since 1.0, 2026-09-20 10:03:58
  */
 class AlipayOpenSpSkillCreateRequest
 {

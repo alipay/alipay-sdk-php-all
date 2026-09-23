@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.saas.order.create request
  *
  * @author auto create
- * @since 1.0, 2026-08-31 20:33:46
+ * @since 1.0, 2026-09-22 18:07:56
  */
 class AlipayTradeSaasOrderCreateRequest
 {

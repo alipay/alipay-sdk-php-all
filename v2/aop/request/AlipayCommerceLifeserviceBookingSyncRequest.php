@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lifeservice.booking.sync request
  *
  * @author auto create
- * @since 1.0, 2026-06-22 10:32:55
+ * @since 1.0, 2026-09-08 10:42:53
  */
 class AlipayCommerceLifeserviceBookingSyncRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.provider.indflow.voucher.receive request
  *
  * @author auto create
- * @since 1.0, 2026-08-28 10:33:32
+ * @since 1.0, 2026-09-10 10:12:57
  */
 class AlipayOfflineProviderIndflowVoucherReceiveRequest
 {

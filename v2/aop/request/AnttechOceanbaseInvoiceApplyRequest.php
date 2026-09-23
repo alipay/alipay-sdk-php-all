@@ -3,7 +3,7 @@
  * ALIPAY API: anttech.oceanbase.invoice.apply request
  *
  * @author auto create
- * @since 1.0, 2026-06-18 10:34:06
+ * @since 1.0, 2026-09-07 16:57:54
  */
 class AnttechOceanbaseInvoiceApplyRequest
 {

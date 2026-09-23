@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.transaction.message.sync request
  *
  * @author auto create
- * @since 1.0, 2026-06-12 10:45:05
+ * @since 1.0, 2026-09-06 13:59:02
  */
 class AlipayCommerceMedicalTransactionMessageSyncRequest
 {

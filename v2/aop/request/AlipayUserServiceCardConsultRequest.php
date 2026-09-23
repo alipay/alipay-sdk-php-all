@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.service.card.consult request
  *
  * @author auto create
- * @since 1.0, 2025-12-29 15:32:42
+ * @since 1.0, 2026-09-22 12:12:15
  */
 class AlipayUserServiceCardConsultRequest
 {

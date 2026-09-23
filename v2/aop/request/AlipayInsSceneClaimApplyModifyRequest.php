@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.claim.apply.modify request
  *
  * @author auto create
- * @since 1.0, 2026-06-05 13:31:03
+ * @since 1.0, 2026-09-17 17:59:58
  */
 class AlipayInsSceneClaimApplyModifyRequest
 {

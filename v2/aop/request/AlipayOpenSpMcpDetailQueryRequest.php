@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.mcp.detail.query request
  *
  * @author auto create
- * @since 1.0, 2026-08-31 09:42:54
+ * @since 1.0, 2026-09-18 22:32:56
  */
 class AlipayOpenSpMcpDetailQueryRequest
 {

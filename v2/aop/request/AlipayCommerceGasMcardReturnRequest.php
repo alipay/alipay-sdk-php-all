@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.gas.mcard.return request
  *
  * @author auto create
- * @since 1.0, 2025-12-30 16:12:43
+ * @since 1.0, 2026-09-18 13:31:37
  */
 class AlipayCommerceGasMcardReturnRequest
 {

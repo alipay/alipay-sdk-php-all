@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.account.finrisk.company.verify.create request
  *
  * @author auto create
- * @since 1.0, 2024-07-04 15:51:33
+ * @since 1.0, 2026-09-10 14:22:52
  */
 class AlipayAccountFinriskCompanyVerifyCreateRequest
 {

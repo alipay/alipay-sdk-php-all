@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.scene.position.policy.notify request
  *
  * @author auto create
- * @since 1.0, 2025-11-17 11:12:40
+ * @since 1.0, 2026-09-16 10:34:00
  */
 class AlipayInsScenePositionPolicyNotifyRequest
 {

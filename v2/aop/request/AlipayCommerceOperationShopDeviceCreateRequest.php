@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.operation.shop.device.create request
  *
  * @author auto create
- * @since 1.0, 2026-08-21 13:57:52
+ * @since 1.0, 2026-09-07 11:32:14
  */
 class AlipayCommerceOperationShopDeviceCreateRequest
 {

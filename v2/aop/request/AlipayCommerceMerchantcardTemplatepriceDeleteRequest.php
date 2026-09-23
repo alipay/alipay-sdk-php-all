@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.merchantcard.templateprice.delete request
  *
  * @author auto create
- * @since 1.0, 2026-08-25 14:37:38
+ * @since 1.0, 2026-09-11 10:47:15
  */
 class AlipayCommerceMerchantcardTemplatepriceDeleteRequest
 {
