@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.ins.cooperation.resource.url.batchquery request
  *
  * @author auto create
- * @since 1.0, 2025-12-16 17:18:15
+ * @since 1.0, 2026-09-25 00:10:03
  */
 class AlipayInsCooperationResourceUrlBatchqueryRequest
 {

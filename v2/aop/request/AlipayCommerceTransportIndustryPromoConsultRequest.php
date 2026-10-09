@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.transport.industry.promo.consult request
  *
  * @author auto create
- * @since 1.0, 2026-09-11 10:21:05
+ * @since 1.0, 2026-09-28 11:32:56
  */
 class AlipayCommerceTransportIndustryPromoConsultRequest
 {

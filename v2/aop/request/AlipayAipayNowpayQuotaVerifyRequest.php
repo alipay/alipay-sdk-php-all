@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.aipay.nowpay.quota.verify request
  *
  * @author auto create
- * @since 1.0, 2026-09-02 00:47:51
+ * @since 1.0, 2026-09-28 15:52:55
  */
 class AlipayAipayNowpayQuotaVerifyRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.robot.session.create request
  *
  * @author auto create
- * @since 1.0, 2024-01-19 10:26:56
+ * @since 1.0, 2026-09-30 15:10:47
  */
 class AlipayIserviceCcmRobotSessionCreateRequest
 {

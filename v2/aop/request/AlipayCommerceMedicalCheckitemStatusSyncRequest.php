@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.medical.checkitem.status.sync request
  *
  * @author auto create
- * @since 1.0, 2026-09-20 15:12:51
+ * @since 1.0, 2026-10-08 11:22:53
  */
 class AlipayCommerceMedicalCheckitemStatusSyncRequest
 {

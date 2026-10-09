@@ -3,7 +3,7 @@
  * ALIPAY API: datadigital.anttech.weather.longrange.query request
  *
  * @author auto create
- * @since 1.0, 2026-06-30 20:27:55
+ * @since 1.0, 2026-10-09 16:39:00
  */
 class DatadigitalAnttechWeatherLongrangeQueryRequest
 {

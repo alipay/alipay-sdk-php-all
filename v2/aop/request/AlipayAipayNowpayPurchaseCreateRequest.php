@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.aipay.nowpay.purchase.create request
  *
  * @author auto create
- * @since 1.0, 2026-09-02 00:47:51
+ * @since 1.0, 2026-09-28 15:32:54
  */
 class AlipayAipayNowpayPurchaseCreateRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.agent.chat request
  *
  * @author auto create
- * @since 1.0, 2026-05-26 21:27:47
+ * @since 1.0, 2026-10-08 11:15:29
  */
 class AlipayCommerceRentAgentChatRequest
 {

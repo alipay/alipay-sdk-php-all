@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.agent.ticket.confirm request
  *
  * @author auto create
- * @since 1.0, 2026-06-22 10:17:56
+ * @since 1.0, 2026-10-08 11:14:50
  */
 class AlipayCommerceRentAgentTicketConfirmRequest
 {

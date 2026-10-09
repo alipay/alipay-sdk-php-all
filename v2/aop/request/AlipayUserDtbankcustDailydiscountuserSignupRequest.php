@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.user.dtbankcust.dailydiscountuser.signup request
  *
  * @author auto create
- * @since 1.0, 2026-08-07 13:57:48
+ * @since 1.0, 2026-09-29 14:29:56
  */
 class AlipayUserDtbankcustDailydiscountuserSignupRequest
 {

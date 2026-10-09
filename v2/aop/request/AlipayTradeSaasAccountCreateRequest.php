@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.trade.saas.account.create request
  *
  * @author auto create
- * @since 1.0, 2026-08-25 21:17:52
+ * @since 1.0, 2026-10-09 14:48:41
  */
 class AlipayTradeSaasAccountCreateRequest
 {

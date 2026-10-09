@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.logistics.expressman.certify.query request
  *
  * @author auto create
- * @since 1.0, 2025-07-14 16:37:33
+ * @since 1.0, 2026-10-08 14:22:54
  */
 class AlipayCommerceLogisticsExpressmanCertifyQueryRequest
 {

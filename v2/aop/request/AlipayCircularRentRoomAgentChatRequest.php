@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.circular.rent.room.agent.chat request
  *
  * @author auto create
- * @since 1.0, 2026-05-22 14:17:48
+ * @since 1.0, 2026-10-08 11:19:41
  */
 class AlipayCircularRentRoomAgentChatRequest
 {

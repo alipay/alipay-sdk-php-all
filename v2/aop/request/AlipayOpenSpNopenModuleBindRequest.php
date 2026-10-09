@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.open.sp.nopen.module.bind request
  *
  * @author auto create
- * @since 1.0, 2026-04-29 19:32:48
+ * @since 1.0, 2026-09-23 14:34:10
  */
 class AlipayOpenSpNopenModuleBindRequest
 {

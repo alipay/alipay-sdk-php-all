@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.isrisk.qualitycontrol.submit request
  *
  * @author auto create
- * @since 1.0, 2025-08-12 11:27:36
+ * @since 1.0, 2026-10-09 11:12:55
  */
 class AlipayIserviceIsriskQualitycontrolSubmitRequest
 {

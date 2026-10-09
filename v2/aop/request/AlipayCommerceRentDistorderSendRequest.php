@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.rent.distorder.send request
  *
  * @author auto create
- * @since 1.0, 2026-09-04 17:07:51
+ * @since 1.0, 2026-10-09 10:17:57
  */
 class AlipayCommerceRentDistorderSendRequest
 {

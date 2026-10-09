@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.iservice.ccm.robot.vote.submit request
  *
  * @author auto create
- * @since 1.0, 2023-12-21 19:31:56
+ * @since 1.0, 2026-09-30 15:10:46
  */
 class AlipayIserviceCcmRobotVoteSubmitRequest
 {

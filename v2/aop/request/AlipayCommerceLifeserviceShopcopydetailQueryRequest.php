@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lifeservice.shopcopydetail.query request
  *
  * @author auto create
- * @since 1.0, 2026-09-15 19:16:52
+ * @since 1.0, 2026-09-28 15:47:53
  */
 class AlipayCommerceLifeserviceShopcopydetailQueryRequest
 {
