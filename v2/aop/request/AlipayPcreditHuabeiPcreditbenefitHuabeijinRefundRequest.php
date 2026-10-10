@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.commerce.merchantcard.template.batchquery request
+ * ALIPAY API: alipay.pcredit.huabei.pcreditbenefit.huabeijin.refund request
  *
  * @author auto create
- * @since 1.0, 2026-10-10 11:47:59
+ * @since 1.0, 2026-10-09 17:06:26
  */
-class AlipayCommerceMerchantcardTemplateBatchqueryRequest
+class AlipayPcreditHuabeiPcreditbenefitHuabeijinRefundRequest
 {
 	/** 
-	 * 卡模版分页查询
+	 * 商户退款驱动回收花呗金
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayCommerceMerchantcardTemplateBatchqueryRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.commerce.merchantcard.template.batchquery";
+		return "alipay.pcredit.huabei.pcreditbenefit.huabeijin.refund";
 	}
 
 	public function setNotifyUrl($notifyUrl)

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.pcredit.huabei.pcreditbenefit.huabeijin.preconsult request
  *
  * @author auto create
- * @since 1.0, 2026-10-09 17:06:12
+ * @since 1.0, 2026-10-09 17:12:58
  */
 class AlipayPcreditHuabeiPcreditbenefitHuabeijinPreconsultRequest
 {

@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.commerce.lifeservice.categorytemplate.query request
  *
  * @author auto create
- * @since 1.0, 2026-09-29 17:41:33
+ * @since 1.0, 2026-10-10 11:37:58
  */
 class AlipayCommerceLifeserviceCategorytemplateQueryRequest
 {

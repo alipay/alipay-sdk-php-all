@@ -1,14 +1,14 @@
 <?php
 /**
- * ALIPAY API: alipay.commerce.merchantcard.template.batchquery request
+ * ALIPAY API: robby.open.object.info.query request
  *
  * @author auto create
- * @since 1.0, 2026-10-10 11:47:59
+ * @since 1.0, 2026-10-09 17:17:53
  */
-class AlipayCommerceMerchantcardTemplateBatchqueryRequest
+class RobbyOpenObjectInfoQueryRequest
 {
 	/** 
-	 * 卡模版分页查询
+	 * 业务对象信息分页查询
 	 **/
 	private $bizContent;
 
@@ -35,7 +35,7 @@ class AlipayCommerceMerchantcardTemplateBatchqueryRequest
 
 	public function getApiMethodName()
 	{
-		return "alipay.commerce.merchantcard.template.batchquery";
+		return "robby.open.object.info.query";
 	}
 
 	public function setNotifyUrl($notifyUrl)
