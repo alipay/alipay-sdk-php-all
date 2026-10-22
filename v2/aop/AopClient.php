@@ -893,7 +893,7 @@ class AopClient
         return $strnull;
     }
 
-    function splitCN($cont, $n = 0, $subnum, $charset)
+    function splitCN($cont, $n, $subnum, $charset)
     {
         //$len = strlen($cont) / 3;
         $arrr = array();
@@ -907,7 +907,7 @@ class AopClient
         return $arrr;
     }
 
-    function subCNchar($str, $start = 0, $length, $charset = "gbk")
+    function subCNchar($str, $start, $length, $charset = "gbk")
     {
         if (strlen($str) <= $length) {
             return $str;
